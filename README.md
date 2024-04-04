@@ -1455,6 +1455,8 @@
 
 *   [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■\_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 
+*   [evilsocket/arc](https://github.com/evilsocket/arc) - A manager for your secrets.
+
 *   [auth0/node-jwks-rsa](https://github.com/auth0/node-jwks-rsa) - A library to retrieve RSA public keys from a JWKS (JSON Web Key Set) endpoint.
 
 *   [ananay/apple-auth](https://github.com/ananay/apple-auth) - Sign in with Apple for Node.js
@@ -2914,8 +2916,6 @@
 *   [tj/node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node\_modules (.md, .ts, ...)
 
 *   [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
-
-*   [evilsocket/arc](https://github.com/evilsocket/arc) - A manager for your secrets.
 
 *   [docker/docker-ce](https://github.com/docker/docker-ce) - :warning: This repository is deprecated and will be archived (Docker CE itself is NOT deprecated) see the https://github.com/docker/docker-ce/blob/master/README.md :warning:
 
