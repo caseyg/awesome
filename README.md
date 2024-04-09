@@ -5,6 +5,7 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [PHP](#php)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [Rust](#rust)
@@ -16,7 +17,6 @@
 *   [Ruby](#ruby)
 *   [Python](#python)
 *   [HTML](#html)
-*   [PHP](#php)
 *   [Zig](#zig)
 *   [Dockerfile](#dockerfile)
 *   [CSS](#css)
@@ -58,6 +58,8 @@
 *   [Astro](#astro)
 
 ## TypeScript
+
+*   [jakubczarnowski/FeastQR](https://github.com/jakubczarnowski/FeastQR) - FeastQR: Open Source SaaS Online Menu System 🌐
 
 *   [fastify/fastify-passport](https://github.com/fastify/fastify-passport) - Use passport strategies for authentication within a fastify application
 
@@ -828,6 +830,90 @@
 *   [leongersen/noUiSlider](https://github.com/leongersen/noUiSlider) - noUiSlider is a lightweight, ARIA-accessible JavaScript range slider with multi-touch and keyboard support. It is fully GPU animated: no reflows, so it is fast; even on older devices. It also fits wonderfully in responsive designs and has no dependencies.
 
 *   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
+
+## PHP
+
+*   [tastyigniter/TastyIgniter](https://github.com/tastyigniter/TastyIgniter) - :fire: Powerful, yet easy to use, open-source online ordering, table reservation and management system for restaurants
+
+*   [Trusted97/whitecat](https://github.com/Trusted97/whitecat) - Developer toolbox for avoid boring setup during PHP development
+
+*   [Crivaledaz/Mattermost-LDAP](https://github.com/Crivaledaz/Mattermost-LDAP) - This module provides an external LDAP authentication in Mattermost for the Team Edition (free).
+
+*   [immobiliare/braze-php-sdk](https://github.com/immobiliare/braze-php-sdk) - A PHP client to interact with Braze API
+
+*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+
+*   [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
+
+*   [litstack/litstack](https://github.com/litstack/litstack) - Build content-administration-panels in Laravel
+
+*   [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
+
+*   [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
+
+*   [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
+
+*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
+
+*   [maknz/slack](https://github.com/maknz/slack) - A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.
+
+*   [humanmade/S3-Uploads](https://github.com/humanmade/S3-Uploads) - The WordPress Plugin to Store Uploads on Amazon S3
+
+*   [sendgrid/sendgrid-php](https://github.com/sendgrid/sendgrid-php) - The Official Twilio SendGrid PHP API Library
+
+*   [voku/simple-mysqli](https://github.com/voku/simple-mysqli) - :gem: Simple MySQLi Abstraction Layer + Doctrine/DBAL support
+
+*   [peppeocchi/php-cron-scheduler](https://github.com/peppeocchi/php-cron-scheduler) - PHP cron job scheduler
+
+*   [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
+
+*   [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag\&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
+
+*   [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension.
+
+*   [illuminate/database](https://github.com/illuminate/database) - \[READ ONLY] Subtree split of the Illuminate Database component (see laravel/framework)
+
+*   [clickcoder/slim-blade](https://github.com/clickcoder/slim-blade) - Blade is a simple, yet powerful templating engine provided for the Slim Framework
+
+*   [ampproject/amp-wp](https://github.com/ampproject/amp-wp) - Enable AMP on your WordPress site, the WordPress way.
+
+*   [olefredrik/FoundationPress](https://github.com/olefredrik/FoundationPress) - FoundationPress is a WordPress starter theme based on Foundation 6 by Zurb
+
+*   [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
+
+*   [scotch-io/scotch-box](https://github.com/scotch-io/scotch-box) - Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.
+
+*   [themosis/themosis](https://github.com/themosis/themosis) - A framework for WordPress developers.
+
+*   [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application
+
+*   [WP-API/WP-API](https://github.com/WP-API/WP-API) - The WP REST API has been merged into WordPress core. Please do not create issues or send pull requests. Submit support requests to the forums or patches to Trac (see README below for links).
+
+*   [FrozenNode/Laravel-Administrator](https://github.com/FrozenNode/Laravel-Administrator) - An administrative interface package for Laravel
+
+*   [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer, easier configuration, and an improved folder structure
+
+*   [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
+
+*   [tareq1988/wp-eloquent](https://github.com/tareq1988/wp-eloquent) - Eloquent ORM for WordPress
+
+*   [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
+
+*   [flowjs/flow-php-server](https://github.com/flowjs/flow-php-server) - flow.js php server library, validates uploaded chunks and safely merges all chunks to a single file
+
+*   [tombenner/wp-mvc](https://github.com/tombenner/wp-mvc) - An MVC framework for WordPress
+
+*   [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
+
+*   [niutech/node.php](https://github.com/niutech/node.php) - Run node.js apps from PHP even on a shared hosting!
+
+*   [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10/11
+
+*   [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
+
+*   [illuminate/html](https://github.com/illuminate/html) - \[READ ONLY] Subtree split of the Illuminate HTML component (see laravel/framework)
+
+*   [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 
 ## JavaScript
 
@@ -2521,10 +2607,6 @@
 
 *   [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 
-*   [relax/relax](https://github.com/relax/relax) - New generation CMS on top of React, Redux and GraphQL
-
-*   [negativo/geocodeAnyone.js](https://github.com/negativo/geocodeAnyone.js) - Geocode ... ? ... Anyone? geocodeAnyone!  WHAT???  A deadly simple JavaScript library to deal with the geocode API.
-
 ## Vue
 
 *   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -2699,7 +2781,7 @@
 
 *   [willbryant/kitchen\_sync](https://github.com/willbryant/kitchen_sync) - Fast unidirectional synchronization - make or efficiently update a copy of a database, without slow dumping & reloading
 
-*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
+*   [Redis-Insight/RedisDesktopManager](https://github.com/Redis-Insight/RedisDesktopManager) -
 
 *   [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 
@@ -3414,88 +3496,6 @@
 *   [lakkatv/lakka-website](https://github.com/lakkatv/lakka-website) - Lakka website
 
 *   [jwvdiermen/grunt-include-source](https://github.com/jwvdiermen/grunt-include-source) - Include lists of files into your source files automatically.
-
-## PHP
-
-*   [Trusted97/whitecat](https://github.com/Trusted97/whitecat) - Developer toolbox for avoid boring setup during PHP development
-
-*   [Crivaledaz/Mattermost-LDAP](https://github.com/Crivaledaz/Mattermost-LDAP) - This module provides an external LDAP authentication in Mattermost for the Team Edition (free).
-
-*   [immobiliare/braze-php-sdk](https://github.com/immobiliare/braze-php-sdk) - A PHP client to interact with Braze API
-
-*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-
-*   [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
-
-*   [litstack/litstack](https://github.com/litstack/litstack) - Build content-administration-panels in Laravel
-
-*   [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
-
-*   [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
-
-*   [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
-
-*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-
-*   [maknz/slack](https://github.com/maknz/slack) - A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.
-
-*   [humanmade/S3-Uploads](https://github.com/humanmade/S3-Uploads) - The WordPress Plugin to Store Uploads on Amazon S3
-
-*   [sendgrid/sendgrid-php](https://github.com/sendgrid/sendgrid-php) - The Official Twilio SendGrid PHP API Library
-
-*   [voku/simple-mysqli](https://github.com/voku/simple-mysqli) - :gem: Simple MySQLi Abstraction Layer + Doctrine/DBAL support
-
-*   [peppeocchi/php-cron-scheduler](https://github.com/peppeocchi/php-cron-scheduler) - PHP cron job scheduler
-
-*   [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
-
-*   [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag\&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
-
-*   [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension.
-
-*   [illuminate/database](https://github.com/illuminate/database) - \[READ ONLY] Subtree split of the Illuminate Database component (see laravel/framework)
-
-*   [clickcoder/slim-blade](https://github.com/clickcoder/slim-blade) - Blade is a simple, yet powerful templating engine provided for the Slim Framework
-
-*   [ampproject/amp-wp](https://github.com/ampproject/amp-wp) - Enable AMP on your WordPress site, the WordPress way.
-
-*   [olefredrik/FoundationPress](https://github.com/olefredrik/FoundationPress) - FoundationPress is a WordPress starter theme based on Foundation 6 by Zurb
-
-*   [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
-
-*   [scotch-io/scotch-box](https://github.com/scotch-io/scotch-box) - Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.
-
-*   [themosis/themosis](https://github.com/themosis/themosis) - A framework for WordPress developers.
-
-*   [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application
-
-*   [WP-API/WP-API](https://github.com/WP-API/WP-API) - The WP REST API has been merged into WordPress core. Please do not create issues or send pull requests. Submit support requests to the forums or patches to Trac (see README below for links).
-
-*   [FrozenNode/Laravel-Administrator](https://github.com/FrozenNode/Laravel-Administrator) - An administrative interface package for Laravel
-
-*   [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer, easier configuration, and an improved folder structure
-
-*   [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
-
-*   [tareq1988/wp-eloquent](https://github.com/tareq1988/wp-eloquent) - Eloquent ORM for WordPress
-
-*   [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
-
-*   [flowjs/flow-php-server](https://github.com/flowjs/flow-php-server) - flow.js php server library, validates uploaded chunks and safely merges all chunks to a single file
-
-*   [tombenner/wp-mvc](https://github.com/tombenner/wp-mvc) - An MVC framework for WordPress
-
-*   [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
-
-*   [niutech/node.php](https://github.com/niutech/node.php) - Run node.js apps from PHP even on a shared hosting!
-
-*   [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10/11
-
-*   [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
-
-*   [illuminate/html](https://github.com/illuminate/html) - \[READ ONLY] Subtree split of the Illuminate HTML component (see laravel/framework)
-
-*   [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 
 ## Zig
 
