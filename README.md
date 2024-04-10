@@ -2781,7 +2781,7 @@
 
 *   [willbryant/kitchen\_sync](https://github.com/willbryant/kitchen_sync) - Fast unidirectional synchronization - make or efficiently update a copy of a database, without slow dumping & reloading
 
-*   [Redis-Insight/RedisDesktopManager](https://github.com/Redis-Insight/RedisDesktopManager) -
+*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
 
 *   [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 
