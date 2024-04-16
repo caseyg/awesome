@@ -2496,7 +2496,7 @@
 
 *   [nk-o/jarallax](https://github.com/nk-o/jarallax) - Parallax scrolling for modern browsers
 
-*   [imgix/drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
+*   [strawdynamics/drift](https://github.com/strawdynamics/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
 
 *   [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
 
