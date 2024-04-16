@@ -60,6 +60,8 @@
 
 ## TypeScript
 
+*   [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
+
 *   [kibertoad/toad-scheduler](https://github.com/kibertoad/toad-scheduler) - In-memory Node.js and browser job scheduler
 
 *   [swarthy/redis-semaphore](https://github.com/swarthy/redis-semaphore) - Distributed mutex and semaphore based on Redis
@@ -2607,8 +2609,6 @@
 *   [hpneo/gmaps](https://github.com/hpneo/gmaps) - the easiest way to use Google Maps
 
 *   [desandro/draggabilly](https://github.com/desandro/draggabilly) - :point\_down: Make that shiz draggable
-
-*   [andyvr/picEdit](https://github.com/andyvr/picEdit) - An attempt to create a simple front-end image editor jQuery plugin that would replace a file-upload input box in a HTML form.
 
 ## Vue
 
