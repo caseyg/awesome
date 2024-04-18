@@ -619,7 +619,7 @@
 
 *   [ueno-llc/ueno-gatsby-starter](https://github.com/ueno-llc/ueno-gatsby-starter) - Opinionated Gatsby starter by Ueno.
 
-*   [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
+*   [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The official MongoDB Node.js driver
 
 *   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
