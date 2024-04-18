@@ -143,7 +143,7 @@
 
 *   [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
 
-*   [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
+*   [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 
 *   [kibertoad/toad-scheduler](https://github.com/kibertoad/toad-scheduler) - In-memory Node.js and browser job scheduler
 
