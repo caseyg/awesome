@@ -3065,7 +3065,7 @@
 
 *   [struCoder/pmgo](https://github.com/struCoder/pmgo) - pmgo is a process manager for Golang applications.
 
-*   [micro/micro](https://github.com/micro/micro) - API first development platform
+*   [micro/micro](https://github.com/micro/micro) - A Go API development platform
 
 *   [shixzie/nlp](https://github.com/shixzie/nlp) - \[UNMANTEINED] Extract values from strings and fill your structs with nlp.
 
