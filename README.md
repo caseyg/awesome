@@ -423,7 +423,7 @@
 
 *   [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 
-*   [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
+*   [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 
 *   [plutotcool/release](https://github.com/plutotcool/release) - 🔖 - GitHub Action to automatically release packages using lerna or semantic-release
 
