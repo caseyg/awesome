@@ -485,7 +485,7 @@
 
 *   [drashland/drash](https://github.com/drashland/drash) - A microframework for building JavaScript HTTP applications. Runtime-agnostic. Strongly typed.
 
-*   [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+*   [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 
 *   [nandorojo/solito](https://github.com/nandorojo/solito) - 🧍‍♂️ React Native + Next.js, unified.
 
