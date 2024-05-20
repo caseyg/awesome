@@ -59,6 +59,8 @@
 
 ## Go
 
+*   [vgsantoniazzi/js-hcl-parser](https://github.com/vgsantoniazzi/js-hcl-parser) - js-hcl-parser — A Go port version of HCL <> JSON parser for Javascript.
+
 *   [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 
 *   [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
@@ -2766,8 +2768,6 @@
 *   [DBRAINDESIGN/dbrain.js](https://github.com/DBRAINDESIGN/dbrain.js) -
 
 *   [tasuki/masonry-ordered](https://github.com/tasuki/masonry-ordered) - Alternative layout strategy for jQuery Masonry. Tries to preserve ordering of the Masonry bricks.
-
-*   [markdalgleish/stellar.js](https://github.com/markdalgleish/stellar.js) - Stellar.js - Parallax scrolling made easy
 
 ## HTML
 
