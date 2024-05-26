@@ -365,7 +365,7 @@
 
 *   [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 
-*   [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
+*   [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript & TypeScript.
 
 *   [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 
