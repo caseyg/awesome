@@ -2179,7 +2179,7 @@
 
 *   [maticzav/nookies](https://github.com/maticzav/nookies) - 🍪 A set of cookie helpers for Next.js
 
-*   [shuse2/lisk-sdk](https://github.com/shuse2/lisk-sdk) - 🔩 Lisk software development kit
+*   [LiskArchive/lisk-sdk](https://github.com/LiskArchive/lisk-sdk) - 🔩 Lisk software development kit
 
 *   [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 
