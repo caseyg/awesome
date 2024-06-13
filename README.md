@@ -1535,8 +1535,6 @@
 
 *   [SeyZ/jsonapi-serializer](https://github.com/SeyZ/jsonapi-serializer) - A Node.js framework agnostic library for (de)serializing your data to JSON API
 
-*   [italia/developers.italia.it](https://github.com/italia/developers.italia.it) - The developer community designing and developing public digital services in Italy
-
 *   [eugef/node-mocks-http](https://github.com/eugef/node-mocks-http) - Mock 'http' objects for testing Express routing functions
 
 *   [ctrlplusb/react-universally](https://github.com/ctrlplusb/react-universally) - A starter kit for universal react applications.
@@ -2920,6 +2918,8 @@
 *   [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) -
 
 *   [tma02/baritone](https://github.com/tma02/baritone) - Spotify controls that live in your menubar.
+
+*   [italia/developers.italia.it](https://github.com/italia/developers.italia.it) - The developer community designing and developing public digital services in Italy
 
 *   [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 
