@@ -35,7 +35,7 @@
 *   [Nim](#nim)
 *   [Makefile](#makefile)
 *   [MDX](#mdx)
-*   [Markdown](#markdown)
+*   [JSON](#json)
 *   [Haskell](#haskell)
 *   [Vim Script](#vim-script)
 *   [Common Lisp](#common-lisp)
@@ -46,6 +46,7 @@
 *   [Lua](#lua)
 *   [Reason](#reason)
 *   [Roff](#roff)
+*   [Markdown](#markdown)
 *   [OpenEdge ABL](#openedge-abl)
 *   [Scheme](#scheme)
 *   [Vim script](#vim-script-1)
@@ -3841,11 +3842,9 @@
 
 *   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 
-## Markdown
+## JSON
 
 *   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
-*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Haskell
 
@@ -3916,6 +3915,10 @@
 ## Roff
 
 *   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+
+## Markdown
+
+*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## OpenEdge ABL
 
