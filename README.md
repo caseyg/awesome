@@ -1846,7 +1846,7 @@
 
 *   [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
 
-*   [unjs/rou3](https://github.com/unjs/rou3) - 🌳 Lightweight and fast router for JavaScript based on Radix Tree
+*   [unjs/rou3](https://github.com/unjs/rou3) - 🌳 Lightweight and fast router for JavaScript
 
 *   [redis/redis-om-node](https://github.com/redis/redis-om-node) - Object mapping, and more, for Redis and Node.js. Written in TypeScript.
 
