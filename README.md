@@ -1844,7 +1844,7 @@
 
 *   [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
 
-*   [unjs/rou3](https://github.com/unjs/rou3) - 🌳 Lightweight and fast router for JavaScript
+*   [unjs/rou3](https://github.com/unjs/rou3) - 🌳 Lightweight and fast rou(ter) for JavaScript
 
 *   [redis/redis-om-node](https://github.com/redis/redis-om-node) - Object mapping, and more, for Redis and Node.js. Written in TypeScript.
 
@@ -2690,8 +2690,6 @@
 
 *   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
-*   [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
-
 *   [spotify/docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
 
 *   [mafredri/zsh-async](https://github.com/mafredri/zsh-async) - Because your terminal should be able to perform tasks asynchronously without external tools!
@@ -2752,7 +2750,7 @@
 
 *   [automation-co/husky](https://github.com/automation-co/husky) - git hooks made easy
 
-*   [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
+*   [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang.
 
 *   [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
@@ -3601,6 +3599,8 @@
 *   [renovatebot/docker-renovate-full](https://github.com/renovatebot/docker-renovate-full) - Repo for building the renovate/renovate:full image
 
 *   [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
+
+*   [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
 
 *   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2024)
 
