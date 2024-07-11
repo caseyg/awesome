@@ -690,8 +690,6 @@
 
 *   [oracle/node-oracledb](https://github.com/oracle/node-oracledb) - Oracle Database driver for Node.js maintained by Oracle Corp.
 
-*   [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■\_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
-
 *   [evilsocket/arc](https://github.com/evilsocket/arc) - A manager for your secrets.
 
 *   [auth0/node-jwks-rsa](https://github.com/auth0/node-jwks-rsa) - A library to retrieve RSA public keys from a JWKS (JSON Web Key Set) endpoint.
@@ -978,7 +976,7 @@
 
 *   [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
-*   [rufuspollock-okfn/csv.js](https://github.com/rufuspollock-okfn/csv.js) - Simple, ultra-light (10kb) JS library for CSV parsing. Works in browser and node with zero dependencies.
+*   [rufuspollock/csv.js](https://github.com/rufuspollock/csv.js) - Simple, ultra-light (10kb) JS library for CSV parsing. Works in browser and node with zero dependencies.
 
 *   [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 
@@ -3531,6 +3529,8 @@
 *   [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
 
 *   [jet-admin/jet-bridge](https://github.com/jet-admin/jet-bridge) - Jet Admin – No-code Business App builder
+
+*   [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■\_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 
 *   [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 
