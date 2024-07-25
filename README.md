@@ -894,6 +894,8 @@
 
 *   [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 
+*   [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
+
 *   [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 
 *   [markbirbeck/docker-engine](https://github.com/markbirbeck/docker-engine) - A Docker Engine API client for Node, driven at run-time by Docker's Swagger definition.
@@ -2637,8 +2639,6 @@
 *   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 
 *   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-
-*   [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 
 *   [harababurel/gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
 
