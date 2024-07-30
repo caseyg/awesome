@@ -3524,7 +3524,7 @@
 
 *   [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 
-*   [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+*   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 *   [the4thdoctor/pg\_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system
 
