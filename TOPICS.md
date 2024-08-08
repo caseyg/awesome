@@ -2669,7 +2669,7 @@
 
 *   [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabilities of a large language model with practical file system operations and web search functionality.
 
-*   [dennishansen/holograph](https://github.com/dennishansen/holograph) - A visual programming tool
+*   [dennishansen/holograph](https://github.com/dennishansen/holograph) - A new kind of visual programming
 
 *   [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 
