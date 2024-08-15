@@ -4753,8 +4753,6 @@
 
 *   [eyurtsev/kor](https://github.com/eyurtsev/kor) - LLM(😽)
 
-*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-
 ## tvm
 
 *   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
