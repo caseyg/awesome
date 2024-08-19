@@ -429,7 +429,6 @@
 *   [conversational-bots](#conversational-bots)
 *   [form-builder](#form-builder)
 *   [css](#css)
-*   [hacktoberfest-accepted](#hacktoberfest-accepted)
 *   [html](#html)
 *   [notification-center](#notification-center)
 *   [notifications](#notifications)
@@ -8394,10 +8393,6 @@
 *   [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 
 *   [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
-
-## hacktoberfest-accepted
-
-*   [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 
 ## html
 
