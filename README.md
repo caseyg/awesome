@@ -435,6 +435,8 @@
 
 *   [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+
 *   [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
 
 *   [mgechev/ngresizable](https://github.com/mgechev/ngresizable) - Simple, tree-shakable, AoT, Universal and Web Worker friendly resizable component for Angular (2 and beyond).
@@ -851,7 +853,7 @@
 
 ## Svelte
 
-*   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but with shadcn-svelte, svelte-animations, and svelte-superforms, stripe payments, content-filtering, and more.
+*   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, content-filtering, and more.
 
 *   [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 
@@ -1216,8 +1218,6 @@
 *   [micjamking/synth-secrets](https://github.com/micjamking/synth-secrets) - Screen-scraped articles on subtractive synthesis (using Node.js)
 
 *   [brocessing/kirby-webpack](https://github.com/brocessing/kirby-webpack) - :muscle: A Kirby CMS starter-kit with modern frontend tools
-
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 *   [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 
