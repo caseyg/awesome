@@ -2445,6 +2445,10 @@
 *   [select2](#select2)
 *   [museum](#museum)
 *   [smithsonian](#smithsonian)
+*   [gojs](#gojs)
+*   [jointjs](#jointjs)
+*   [reactflow](#reactflow)
+*   [svelteflow](#svelteflow)
 *   [jquery-ui](#jquery-ui)
 *   [screenshot](#screenshot)
 *   [feed-templates](#feed-templates)
@@ -18621,6 +18625,22 @@
 ## smithsonian
 
 *   [cooperhewitt/collection](https://github.com/cooperhewitt/collection) - Collection Data for Cooper Hewitt, Smithsonian Design Museum
+
+## gojs
+
+*   [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
+
+## jointjs
+
+*   [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
+
+## reactflow
+
+*   [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
+
+## svelteflow
+
+*   [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 
 ## jquery-ui
 
