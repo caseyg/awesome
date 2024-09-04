@@ -921,8 +921,6 @@
 
 *   [pfrazee/infocivics](https://github.com/pfrazee/infocivics) - Information Civics paper
 
-*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-
 *   [new-computers/writing](https://github.com/new-computers/writing) -
 
 *   [hackergrrl/git-ssb-intro](https://github.com/hackergrrl/git-ssb-intro) - :wrench: Learn git-ssb: a decentralized GitHub alternative.
@@ -3154,6 +3152,8 @@
 ## Markdown
 
 *   [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
+
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Clojure
 
