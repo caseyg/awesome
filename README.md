@@ -13,10 +13,10 @@
 *   [PHP](#php)
 *   [Ruby](#ruby)
 *   [Shell](#shell)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Astro](#astro)
 *   [HTML](#html)
 *   [CSS](#css)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Rust](#rust)
 *   [Elixir](#elixir)
 *   [Makefile](#makefile)
@@ -68,8 +68,6 @@
 *   [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 
 *   [rschroll/rmrl](https://github.com/rschroll/rmrl) - Render reMarkable documents to PDF
-
-*   [graphlit/graphlit-samples](https://github.com/graphlit/graphlit-samples) - Sample applications built on the Graphlit Platform
 
 *   [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 
@@ -2603,6 +2601,32 @@
 
 *   [CC-Archived/mou-theme-solarized](https://github.com/CC-Archived/mou-theme-solarized) - Mou (http://mouapp.com/) theme for Markdown syntax highlighting using Ethan Schoonover's Solarized color scheme.
 
+## Jupyter Notebook
+
+*   [graphlit/graphlit-samples](https://github.com/graphlit/graphlit-samples) - Sample applications built on the Graphlit Platform
+
+*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API.
+
+*   [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+
+*   [re3data/using\_the\_re3data\_API](https://github.com/re3data/using_the_re3data_API) -
+
+*   [spackows/MURAL-API-Samples](https://github.com/spackows/MURAL-API-Samples) - Sample code snippets demonstrating using the MURAL API
+
+*   [collective-action/tech](https://github.com/collective-action/tech) - Documentation of all collective action from tech workers.
+
+*   [ChubaOraka/Crime-and-School](https://github.com/ChubaOraka/Crime-and-School) - This is a data science team project that aims to investigate whether public education affects crime levels.
+
+*   [saurabhmathur96/clickbait-detector](https://github.com/saurabhmathur96/clickbait-detector) - Detects clickbait headlines using deep learning.
+
+*   [frnsys/ml101](https://github.com/frnsys/ml101) - intro to machine learning - reverse engineering phenomena
+
+*   [mitmedialab/CLIFF-up](https://github.com/mitmedialab/CLIFF-up) - Set up MIT's CLIFF geolocation service with Vagrant
+
+*   [lifewinning/situated.systems](https://github.com/lifewinning/situated.systems) -
+
+*   [sunlightlabs/fcc-net-neutrality-comments](https://github.com/sunlightlabs/fcc-net-neutrality-comments) - scraping, parsing and making sense of the flood of comments submitted to the FCC on net neutrality
+
 ## Astro
 
 *   [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!
@@ -2968,30 +2992,6 @@
 *   [heygrady/scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in SASS.
 
 *   [jonikorpi/Frameless](https://github.com/jonikorpi/Frameless) - The spiritual successor to Less Framework
-
-## Jupyter Notebook
-
-*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API.
-
-*   [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-
-*   [re3data/using\_the\_re3data\_API](https://github.com/re3data/using_the_re3data_API) -
-
-*   [spackows/MURAL-API-Samples](https://github.com/spackows/MURAL-API-Samples) - Sample code snippets demonstrating using the MURAL API
-
-*   [collective-action/tech](https://github.com/collective-action/tech) - Documentation of all collective action from tech workers.
-
-*   [ChubaOraka/Crime-and-School](https://github.com/ChubaOraka/Crime-and-School) - This is a data science team project that aims to investigate whether public education affects crime levels.
-
-*   [saurabhmathur96/clickbait-detector](https://github.com/saurabhmathur96/clickbait-detector) - Detects clickbait headlines using deep learning.
-
-*   [frnsys/ml101](https://github.com/frnsys/ml101) - intro to machine learning - reverse engineering phenomena
-
-*   [mitmedialab/CLIFF-up](https://github.com/mitmedialab/CLIFF-up) - Set up MIT's CLIFF geolocation service with Vagrant
-
-*   [lifewinning/situated.systems](https://github.com/lifewinning/situated.systems) -
-
-*   [sunlightlabs/fcc-net-neutrality-comments](https://github.com/sunlightlabs/fcc-net-neutrality-comments) - scraping, parsing and making sense of the flood of comments submitted to the FCC on net neutrality
 
 ## Rust
 

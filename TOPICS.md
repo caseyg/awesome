@@ -464,6 +464,7 @@
 *   [crm-system](#crm-system)
 *   [customer](#customer)
 *   [good-first-issue](#good-first-issue)
+*   [hacktoberfest2024](#hacktoberfest2024)
 *   [javacript](#javacript)
 *   [marketing](#marketing)
 *   [monorepo](#monorepo)
@@ -5414,6 +5415,8 @@
 
 *   [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 
+*   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+
 *   [carbon-design-system/devtools](https://github.com/carbon-design-system/devtools) - A simple set of tools for teams building live Carbon pages.
 
 *   [octokit/webhooks](https://github.com/octokit/webhooks) - machine-readable, always up-to-date GitHub Webhooks specifications
@@ -8639,6 +8642,10 @@
 *   [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 
 ## good-first-issue
+
+*   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+
+## hacktoberfest2024
 
 *   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 
