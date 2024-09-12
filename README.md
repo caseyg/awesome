@@ -2605,7 +2605,7 @@
 
 *   [graphlit/graphlit-samples](https://github.com/graphlit/graphlit-samples) - Sample applications built on the Graphlit Platform
 
-*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API.
+*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 
 *   [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 

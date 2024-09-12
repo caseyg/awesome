@@ -1042,13 +1042,13 @@
 *   [email-campaigns](#email-campaigns)
 *   [email-marketing](#email-marketing)
 *   [email-subscription](#email-subscription)
-*   [fcm-messaging](#fcm-messaging)
 *   [listmonk](#listmonk)
 *   [mailing-list](#mailing-list)
 *   [newsletter](#newsletter)
 *   [newsletter-management](#newsletter-management)
 *   [sms-gateway](#sms-gateway)
 *   [smtp](#smtp)
+*   [transactional-emails](#transactional-emails)
 *   [codimd](#codimd)
 *   [hedgedoc](#hedgedoc)
 *   [notes](#notes)
@@ -5995,13 +5995,13 @@
 
 ## gemini
 
-*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API.
+*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 
 *   [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
 
 ## gemini-api
 
-*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API.
+*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 
 ## documentation
 
@@ -12129,10 +12129,6 @@
 
 *   [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 
-## fcm-messaging
-
-*   [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-
 ## listmonk
 
 *   [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -12154,6 +12150,10 @@
 *   [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 
 ## smtp
+
+*   [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+
+## transactional-emails
 
 *   [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 
