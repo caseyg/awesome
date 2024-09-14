@@ -771,6 +771,7 @@
 *   [open-science](#open-science)
 *   [science](#science)
 *   [scientific-publications](#scientific-publications)
+*   [chokidar](#chokidar)
 *   [filesystem](#filesystem)
 *   [fsevents](#fsevents)
 *   [watch-files](#watch-files)
@@ -6357,6 +6358,8 @@
 
 *   [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 
+*   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
+
 *   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 
 *   [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -10658,6 +10661,10 @@
 ## scientific-publications
 
 *   [danielBingham/peerreview](https://github.com/danielBingham/peerreview) - A diamond open access (free to access, free to publish), open source scientific and academic publishing platform.
+
+## chokidar
+
+*   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 
 ## filesystem
 
