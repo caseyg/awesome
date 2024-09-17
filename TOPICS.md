@@ -139,6 +139,8 @@
 *   [gpt-4](#gpt-4)
 *   [llmops](#llmops)
 *   [python](#python)
+*   [architecture](#architecture)
+*   [digitization](#digitization)
 *   [named-entity-recognition](#named-entity-recognition)
 *   [nlp](#nlp)
 *   [part-of-speech](#part-of-speech)
@@ -1992,7 +1994,6 @@
 *   [lastfm](#lastfm)
 *   [lastfm-api](#lastfm-api)
 *   [musicbrainz](#musicbrainz)
-*   [architecture](#architecture)
 *   [engineering](#engineering)
 *   [software-engineering](#software-engineering)
 *   [conferences](#conferences)
@@ -3199,10 +3200,6 @@
 *   [graphlit/graphlit-samples](https://github.com/graphlit/graphlit-samples) - Sample applications built on the Graphlit Platform
 
 *   [Quorafind/Outliner.MD](https://github.com/Quorafind/Outliner.MD) -
-
-*   [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md) -
-
-*   [zenodotus280/apl](https://github.com/zenodotus280/apl) -
 
 *   [yoheinakajima/prettygraph](https://github.com/yoheinakajima/prettygraph) - An experimental UI for text-to-knowledge-graph generation
 
@@ -5292,6 +5289,10 @@
 
 *   [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 
+*   [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md) -
+
+*   [zenodotus280/apl](https://github.com/zenodotus280/apl) -
+
 *   [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis.
 
 *   [caltechlibrary/baler](https://github.com/caltechlibrary/baler) - Bad link reporter for GitHub repositories
@@ -5351,6 +5352,10 @@
 ## obsidian
 
 *   [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
+
+*   [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md) -
+
+*   [zenodotus280/apl](https://github.com/zenodotus280/apl) -
 
 *   [inhumantsar/slurp](https://github.com/inhumantsar/slurp) - Slurps webpages and saves them as clean, uncluttered Markdown. Think Pocket, but better.
 
@@ -5836,6 +5841,8 @@
 
 *   [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!
 
+*   [zenodotus280/apl](https://github.com/zenodotus280/apl) -
+
 *   [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis.
 
 *   [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
@@ -6011,6 +6018,18 @@
 *   [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover) - A Python utility for moving bookmarks/reading lists between services
 
 *   [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
+
+## architecture
+
+*   [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md) -
+
+*   [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+
+## digitization
+
+*   [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md) -
+
+*   [zenodotus280/apl](https://github.com/zenodotus280/apl) -
 
 ## named-entity-recognition
 
@@ -16753,10 +16772,6 @@
 *   [feross/last-fm](https://github.com/feross/last-fm) - Simple, robust LastFM API client (for public data)
 
 *   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-
-## architecture
-
-*   [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 
 ## engineering
 
