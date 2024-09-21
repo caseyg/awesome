@@ -1047,7 +1047,6 @@
 *   [peer-to-peer](#peer-to-peer)
 *   [screensharing](#screensharing)
 *   [sharing](#sharing)
-*   [streaming](#streaming)
 *   [video-call](#video-call)
 *   [video-chat](#video-chat)
 *   [video-conferencing](#video-conferencing)
@@ -2236,6 +2235,7 @@
 *   [tips-and-tricks](#tips-and-tricks)
 *   [useful](#useful)
 *   [mp3player](#mp3player)
+*   [streaming](#streaming)
 *   [inclusive-design](#inclusive-design)
 *   [smartcrop](#smartcrop)
 *   [arrow-functions](#arrow-functions)
@@ -5824,6 +5824,8 @@
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 
 *   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+
+*   [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
 
 *   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 
@@ -12205,12 +12207,6 @@
 
 *   [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
 
-## streaming
-
-*   [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
-
-*   [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
-
 ## video-call
 
 *   [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
@@ -17814,6 +17810,10 @@
 *   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 
 ## mp3player
+
+*   [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+
+## streaming
 
 *   [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 
