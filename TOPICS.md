@@ -1733,7 +1733,6 @@
 *   [frontend-roadmap](#frontend-roadmap)
 *   [go-roadmap](#go-roadmap)
 *   [hactoberfest](#hactoberfest)
-*   [hactoberfest2024](#hactoberfest2024)
 *   [java-roadmap](#java-roadmap)
 *   [javascript-roadmap](#javascript-roadmap)
 *   [nodejs-roadmap](#nodejs-roadmap)
@@ -2503,6 +2502,8 @@
 
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 
+*   [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
+
 *   [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 
 *   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -2590,6 +2591,8 @@
 *   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 *   [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+
+*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 *   [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 
@@ -5657,7 +5660,7 @@
 
 *   [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) -
 
-*   [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
+*   [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 
 *   [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
 
@@ -5708,8 +5711,6 @@
 *   [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 
 *   [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
-
-*   [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
 
 *   [postlight/account](https://github.com/postlight/account) - 📚️ ➕ 🔢  Tell little stories with numbers
 
@@ -6547,11 +6548,11 @@
 
 ## dialog
 
-*   [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
+*   [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 
 ## drawer
 
-*   [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
+*   [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 
 ## remix-stack
 
@@ -7159,7 +7160,7 @@
 
 *   [streamich/json-joy](https://github.com/streamich/json-joy) - JSON CRDT, JSON CRDT Patch, JSON Patch+, JSON Predicate, JSON Pointer, JSON Expression, JSON Type
 
-*   [stencila/stencila](https://github.com/stencila/stencila) - Programmable, reproducible, interactive documents
+*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with scientific intelligence
 
 ## realtime
 
@@ -12801,7 +12802,7 @@
 
 *   [tmarois/Filebase](https://github.com/tmarois/Filebase) - A Simple but Powerful Flat File Database Storage.
 
-*   [stencila/stencila](https://github.com/stencila/stencila) - Programmable, reproducible, interactive documents
+*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with scientific intelligence
 
 *   [layervault/psd.rb](https://github.com/layervault/psd.rb) - Parse Photoshop files in Ruby with ease
 
@@ -15647,10 +15648,6 @@
 
 *   [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
 
-## hactoberfest2024
-
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
 ## java-roadmap
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -16779,19 +16776,19 @@
 
 ## executable
 
-*   [stencila/stencila](https://github.com/stencila/stencila) - Programmable, reproducible, interactive documents
+*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with scientific intelligence
 
 ## interactive
 
-*   [stencila/stencila](https://github.com/stencila/stencila) - Programmable, reproducible, interactive documents
+*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with scientific intelligence
 
 ## programmable
 
-*   [stencila/stencila](https://github.com/stencila/stencila) - Programmable, reproducible, interactive documents
+*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with scientific intelligence
 
 ## reproducible-research
 
-*   [stencila/stencila](https://github.com/stencila/stencila) - Programmable, reproducible, interactive documents
+*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with scientific intelligence
 
 ## last-fm
 

@@ -91,7 +91,7 @@
 
 *   [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) -
 
-*   [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
+*   [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 
 *   [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
 
@@ -3013,7 +3013,7 @@
 
 *   [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀
 
-*   [stencila/stencila](https://github.com/stencila/stencila) - Programmable, reproducible, interactive documents
+*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with scientific intelligence
 
 *   [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 
