@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
+*   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [Svelte](#svelte)
 *   [Python](#python)
@@ -17,7 +19,6 @@
 *   [Astro](#astro)
 *   [HTML](#html)
 *   [CSS](#css)
-*   [Rust](#rust)
 *   [Elixir](#elixir)
 *   [Makefile](#makefile)
 *   [Handlebars](#handlebars)
@@ -31,7 +32,6 @@
 *   [XSLT](#xslt)
 *   [Perl](#perl)
 *   [Vala](#vala)
-*   [Vue](#vue)
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
 *   [JSON](#json)
@@ -56,6 +56,46 @@
 *   [HaXe](#haxe)
 *   [Vim script](#vim-script)
 *   [Objective-C++](#objective-c-1)
+
+## Rust
+
+*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
+
+*   [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly.
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+*   [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+
+*   [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine:  Create a searchable library from your personal documents, interests, and more!
+
+*   [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
+
+*   [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
+
+*   [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀
+
+*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with scientific intelligence
+
+*   [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
+
+## Vue
+
+*   [KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux) - Quant-UX - Prototype, Test and Learn
+
+*   [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
+
+*   [mathieubellon/hugy](https://github.com/mathieubellon/hugy) - Hugy is an Electron desktop app acting as a GUI for the Hugo static site generator.
+
+*   [samiz-dat/samiz-dat](https://github.com/samiz-dat/samiz-dat) - The beginings of a distributed library of libraries.
+
+*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+
+*   [TimOetting/kirby-builder](https://github.com/TimOetting/kirby-builder) - A site builder extension for Kirby CMS
 
 ## TypeScript
 
@@ -2173,8 +2213,6 @@
 
 *   [cemerick/jsdifflib](https://github.com/cemerick/jsdifflib) - A javascript library for diffing text and generating corresponding HTML views
 
-*   [josephg/ShareJS](https://github.com/josephg/ShareJS) - Collaborative editing in any app
-
 ## Go
 
 *   [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -2993,30 +3031,6 @@
 
 *   [jonikorpi/Frameless](https://github.com/jonikorpi/Frameless) - The spiritual successor to Less Framework
 
-## Rust
-
-*   [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly.
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-
-*   [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
-*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-
-*   [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine:  Create a searchable library from your personal documents, interests, and more!
-
-*   [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
-
-*   [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
-
-*   [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀
-
-*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with scientific intelligence
-
-*   [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
-
 ## Elixir
 
 *   [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
@@ -3136,18 +3150,6 @@
 ## Vala
 
 *   [phase1geo/Minder](https://github.com/phase1geo/Minder) - Mind-mapping application for Elementary OS
-
-## Vue
-
-*   [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
-
-*   [mathieubellon/hugy](https://github.com/mathieubellon/hugy) - Hugy is an Electron desktop app acting as a GUI for the Hugo static site generator.
-
-*   [samiz-dat/samiz-dat](https://github.com/samiz-dat/samiz-dat) - The beginings of a distributed library of libraries.
-
-*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-
-*   [TimOetting/kirby-builder](https://github.com/TimOetting/kirby-builder) - A site builder extension for Kirby CMS
 
 ## Markdown
 
@@ -3322,8 +3324,6 @@
 *   [craigspaeth/jquery.fillwidth](https://github.com/craigspaeth/jquery.fillwidth) - Line up images to the edge of their container (like google images) without cropping
 
 *   [bergie/hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
-
-*   [docpad/docpad](https://github.com/docpad/docpad) - Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft powerful static sites quicker than ever before.
 
 ## GLSL
 
