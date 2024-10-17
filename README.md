@@ -2313,7 +2313,7 @@
 
 *   [jrsconfitto/katiejamie](https://github.com/jrsconfitto/katiejamie) - Katie and Jamie
 
-*   [artemave/StarLogs](https://github.com/artemave/StarLogs) -
+*   [artemave/starlogs.dev](https://github.com/artemave/starlogs.dev) -
 
 *   [fotcorn/StarRSS](https://github.com/fotcorn/StarRSS) - http://fotcorn.github.io/StarRSS/
 

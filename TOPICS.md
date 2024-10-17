@@ -1733,7 +1733,6 @@
 *   [devops-roadmap](#devops-roadmap)
 *   [frontend-roadmap](#frontend-roadmap)
 *   [go-roadmap](#go-roadmap)
-*   [hactoberfest](#hactoberfest)
 *   [java-roadmap](#java-roadmap)
 *   [javascript-roadmap](#javascript-roadmap)
 *   [nodejs-roadmap](#nodejs-roadmap)
@@ -2186,6 +2185,7 @@
 *   [public-apis](#public-apis)
 *   [liquid-variables](#liquid-variables)
 *   [responsive-images](#responsive-images)
+*   [hactoberfest](#hactoberfest)
 *   [timber](#timber)
 *   [twig](#twig)
 *   [upstatement](#upstatement)
@@ -3860,7 +3860,7 @@
 
 *   [mezzoblue/csszengarden.com](https://github.com/mezzoblue/csszengarden.com) - The source of csszengarden.com
 
-*   [artemave/StarLogs](https://github.com/artemave/StarLogs) -
+*   [artemave/starlogs.dev](https://github.com/artemave/starlogs.dev) -
 
 *   [fotcorn/StarRSS](https://github.com/fotcorn/StarRSS) - http://fotcorn.github.io/StarRSS/
 
@@ -15690,12 +15690,6 @@
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
-## hactoberfest
-
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
-*   [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
-
 ## java-roadmap
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -17663,6 +17657,10 @@
 ## responsive-images
 
 *   [wildlyinaccurate/jekyll-responsive-image](https://github.com/wildlyinaccurate/jekyll-responsive-image) - An unopinionated Jekyll plugin for generating and using responsive images
+
+## hactoberfest
+
+*   [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
 
 ## timber
 
