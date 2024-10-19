@@ -1573,7 +1573,7 @@
 
 *   [dennishansen/holograph](https://github.com/dennishansen/holograph) - A new kind of visual programming
 
-*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) -
+*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - Obsidian Template for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
 
 *   [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 
