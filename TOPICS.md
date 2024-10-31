@@ -375,6 +375,7 @@
 *   [assets-management](#assets-management)
 *   [equipment-management](#equipment-management)
 *   [equipment-rental](#equipment-rental)
+*   [equipment-scheduling](#equipment-scheduling)
 *   [iot](#iot)
 *   [iot-application](#iot-application)
 *   [itam](#itam)
@@ -8253,6 +8254,10 @@
 *   [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - shelf is open source Asset Management Infrastructure for absolutely everyone.
 
 ## equipment-rental
+
+*   [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - shelf is open source Asset Management Infrastructure for absolutely everyone.
+
+## equipment-scheduling
 
 *   [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - shelf is open source Asset Management Infrastructure for absolutely everyone.
 
