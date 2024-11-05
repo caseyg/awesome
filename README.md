@@ -59,7 +59,11 @@
 
 ## Python
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your docs ready for gen AI
+*   [IBM/prompt-declaration-language](https://github.com/IBM/prompt-declaration-language) - Prompt Declaration Language (PDL) is a declarative prompt programming language.
+
+*   [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
+
+*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 
 *   [circlemind-ai/fast-graphrag](https://github.com/circlemind-ai/fast-graphrag) - RAG that intelligently adapts to your use case, data, and queries
 
@@ -989,7 +993,7 @@
 
 *   [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - realtime whiteboard / infinite canvas SDK
 
 *   [Collaborne/remirror-yjs-webrtc-demo](https://github.com/Collaborne/remirror-yjs-webrtc-demo) -
 
@@ -1210,8 +1214,6 @@
 *   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 
 *   [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
-
-*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
 ## Swift
 
@@ -1509,7 +1511,7 @@
 
 ## Rust
 
-*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source 24/7 screen & voice recording for the age of superintelligence
+*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = AI powered by your 24/7 screen & voice local recording.
 
 *   [sowcow/blank\_slate\_pdf](https://github.com/sowcow/blank_slate_pdf) - Abstract and simplistic PDFs for RM from Rust code. There are random experimental PDFs in older releases and Ruby code in older commits.
 
@@ -3272,8 +3274,6 @@
 *   [tomtaylor/satellite-eyes](https://github.com/tomtaylor/satellite-eyes) - Mac OS X app to automatically set your desktop wallpaper to the satellite view overhead.
 
 *   [MassiveHealth/Opaque](https://github.com/MassiveHealth/Opaque) - A prototype UI showing how one would implement an app with Clear-like animations & gestures.
-
-*   [steipete/PSStackedView](https://github.com/steipete/PSStackedView) - open source implementation of Twitter/iPad stacked ui - done right.
 
 ## ActionScript
 
