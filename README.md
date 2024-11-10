@@ -5,8 +5,8 @@
 ## Table of Contents
 
 *   [miscellaneous](#miscellaneous)
-*   [C++](#c)
 *   [TypeScript](#typescript)
+*   [C++](#c)
 *   [HTML](#html)
 *   [Python](#python)
 *   [Shell](#shell)
@@ -58,6 +58,8 @@
 *   [Objective-C++](#objective-c-1)
 
 ## miscellaneous
+
+*   [IBM/wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
 
 *   [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) - Free variable writing fonts from iA
 
@@ -433,37 +435,9 @@
 
 *   [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 
-## C++
-
-*   [DS4SD/deepsearch-glm](https://github.com/DS4SD/deepsearch-glm) - Create fast graph language models from converted PDF documents for knowledge extraction and Q\&A.
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-
-*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-
-*   [Laidout/laidout](https://github.com/Laidout/laidout) - Laidout, desktop publishing software
-
-*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-
-*   [manuelruder/artistic-videos](https://github.com/manuelruder/artistic-videos) - Torch implementation for the paper "Artistic style transfer for videos"
-
-*   [ofZach/inkSpace](https://github.com/ofZach/inkSpace) - android drawing tool
-
-*   [patriciogonzalezvivo/sims2014](https://github.com/patriciogonzalezvivo/sims2014) - Simulation Studio, creative coding course taught at parsons school of design, MFADT
-
-*   [owncloud/client](https://github.com/owncloud/client) - 🖥️ Desktop Syncing Client for ownCloud
-
-*   [openframeworks/ofBook](https://github.com/openframeworks/ofBook) - openFrameworks community book
-
-*   [VowpalWabbit/vowpal\_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
-
-*   [ivansafrin/Polycode](https://github.com/ivansafrin/Polycode) - Polycode is a cross-platform framework for creative code.
-
-*   [kylemcdonald/AppropriatingNewTechnologies](https://github.com/kylemcdonald/AppropriatingNewTechnologies) - A half-semester class at ITP.
-
 ## TypeScript
+
+*   [SveltePress/sveltepress](https://github.com/SveltePress/sveltepress) - A content centered site build tool, build on top of Sveltekit.
 
 *   [falatekmen/ChatGPT-Assistant](https://github.com/falatekmen/ChatGPT-Assistant) -
 
@@ -473,7 +447,7 @@
 
 *   [gardencmp/jazz](https://github.com/gardencmp/jazz) - Build your next app with sync.
 
-*   [LangbaseInc/BaseAI](https://github.com/LangbaseInc/BaseAI) - BaseAI — The Web AI Framework
+*   [LangbaseInc/BaseAI](https://github.com/LangbaseInc/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
 
 *   [Charca/cloudflare-pages-auth](https://github.com/Charca/cloudflare-pages-auth) - Basic Authentication for Cloudflare Pages
 
@@ -894,6 +868,36 @@
 *   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 
 *   [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
+
+## C++
+
+*   [DS4SD/deepsearch-glm](https://github.com/DS4SD/deepsearch-glm) - Create fast graph language models from converted PDF documents for knowledge extraction and Q\&A.
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+
+*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+
+*   [Laidout/laidout](https://github.com/Laidout/laidout) - Laidout, desktop publishing software
+
+*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+
+*   [manuelruder/artistic-videos](https://github.com/manuelruder/artistic-videos) - Torch implementation for the paper "Artistic style transfer for videos"
+
+*   [ofZach/inkSpace](https://github.com/ofZach/inkSpace) - android drawing tool
+
+*   [patriciogonzalezvivo/sims2014](https://github.com/patriciogonzalezvivo/sims2014) - Simulation Studio, creative coding course taught at parsons school of design, MFADT
+
+*   [owncloud/client](https://github.com/owncloud/client) - 🖥️ Desktop Syncing Client for ownCloud
+
+*   [openframeworks/ofBook](https://github.com/openframeworks/ofBook) - openFrameworks community book
+
+*   [VowpalWabbit/vowpal\_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
+
+*   [ivansafrin/Polycode](https://github.com/ivansafrin/Polycode) - Polycode is a cross-platform framework for creative code.
+
+*   [kylemcdonald/AppropriatingNewTechnologies](https://github.com/kylemcdonald/AppropriatingNewTechnologies) - A half-semester class at ITP.
 
 ## HTML
 
@@ -1491,8 +1495,6 @@
 
 *   [betaworks/findings-api](https://github.com/betaworks/findings-api) - API Documentation and related code
 
-*   [jbrooksuk/Sublime-Evaluate](https://github.com/jbrooksuk/Sublime-Evaluate) - Selection evaluation in Sublime Text
-
 ## Shell
 
 *   [i-am-bee/bee-stack](https://github.com/i-am-bee/bee-stack) - Run the entire bee application stack using docker-compose
@@ -1611,7 +1613,7 @@
 
 *   [sowcow/blank\_slate\_pdf](https://github.com/sowcow/blank_slate_pdf) - Abstract and simplistic PDFs for RM from Rust code. There are random experimental PDFs in older releases and Ruby code in older commits.
 
-*   [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly.
+*   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
@@ -2602,8 +2604,6 @@
 *   [gattis/milkshake](https://github.com/gattis/milkshake) - WebGL Milkdrop Preset Renderer
 
 *   [okfocus/okhover](https://github.com/okfocus/okhover) - Other hover effects are boring.
-
-*   [tmcw/big](https://github.com/tmcw/big) - presentations for busy messy hackers
 
 ## PHP
 
