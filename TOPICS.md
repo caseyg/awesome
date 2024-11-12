@@ -81,6 +81,8 @@
 *   [sqlite](#sqlite)
 *   [visualization](#visualization)
 *   [xyflow](#xyflow)
+*   [bee-agent-framework](#bee-agent-framework)
+*   [docker-compose](#docker-compose)
 *   [openai-function-calli](#openai-function-calli)
 *   [openai-functions](#openai-functions)
 *   [pydantic-v2](#pydantic-v2)
@@ -1132,6 +1134,7 @@
 *   [smtp](#smtp)
 *   [transactional-emails](#transactional-emails)
 *   [codimd](#codimd)
+*   [hackmd](#hackmd)
 *   [hedgedoc](#hedgedoc)
 *   [notes](#notes)
 *   [community](#community)
@@ -2628,8 +2631,6 @@
 
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 
-*   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
-
 *   [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box.
 
 *   [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
@@ -2736,7 +2737,7 @@
 
 *   [VaibhaveS/MeetingOWL](https://github.com/VaibhaveS/MeetingOWL) - MeetingOWL is a ML based system which can generate smart reports for online meetings based on the audio file.
 
-*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context
+*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
 
 *   [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 
@@ -2853,8 +2854,6 @@
 *   [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of
 
 *   [XargsUK/awesome-adhd](https://github.com/XargsUK/awesome-adhd) - A curated list of ADHD apps, books, ideas and resources across the web!
-
-*   [i-am-bee/bee-stack](https://github.com/i-am-bee/bee-stack) - Run the entire bee application stack using docker-compose
 
 *   [IBM/prompt-declaration-language](https://github.com/IBM/prompt-declaration-language) - Prompt Declaration Language (PDL) is a declarative prompt programming language.
 
@@ -5000,7 +4999,7 @@
 
 *   [LangbaseInc/BaseAI](https://github.com/LangbaseInc/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
 
-*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context
+*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
 
 *   [livekit/agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
 
@@ -5114,7 +5113,7 @@
 
 *   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds third-party integrations through reverse engineering platforms' internal APIs.
 
-*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context
+*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
 
 *   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 
@@ -5980,6 +5979,8 @@
 
 *   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 
+*   [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
+
 *   [juliankrispel/use-text-selection](https://github.com/juliankrispel/use-text-selection) - React hook for tracking text selection
 
 *   [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
@@ -6125,6 +6126,14 @@
 ## xyflow
 
 *   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query.
+
+## bee-agent-framework
+
+*   [i-am-bee/bee-stack](https://github.com/i-am-bee/bee-stack) - Run the entire bee application stack using docker-compose
+
+## docker-compose
+
+*   [i-am-bee/bee-stack](https://github.com/i-am-bee/bee-stack) - Run the entire bee application stack using docker-compose
 
 ## openai-function-calli
 
@@ -6760,25 +6769,25 @@
 
 ## computer-vision
 
-*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context
+*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
 
 *   [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 
 ## ml
 
-*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context
+*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
 
 *   [jukedeck/nottingham-dataset](https://github.com/jukedeck/nottingham-dataset) - Cleaned version of the Nottingham dataset
 
 ## multimodal
 
-*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context
+*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
 
 *   [livekit/agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
 
 ## vision
 
-*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context
+*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
 
 ## query-params
 
@@ -7153,6 +7162,8 @@
 ## diagrams
 
 *   [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
+
+*   [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 
 *   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
@@ -13151,6 +13162,10 @@
 *   [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 
 ## codimd
+
+*   [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
+
+## hackmd
 
 *   [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 
