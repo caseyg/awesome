@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Rust](#rust)
@@ -16,7 +17,6 @@
 *   [Go](#go)
 *   [Vue](#vue)
 *   [Svelte](#svelte)
-*   [JavaScript](#javascript)
 *   [PHP](#php)
 *   [Astro](#astro)
 *   [CSS](#css)
@@ -59,6 +59,1022 @@
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Scala](#scala)
 
+## JavaScript
+
+*   [randyau/datawebring](https://github.com/randyau/datawebring) - A webring for data people who write
+
+*   [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
+
+*   [dennishansen/holograph](https://github.com/dennishansen/holograph) - A new kind of visual programming
+
+*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - Obsidian Template for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
+
+*   [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
+
+*   [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
+
+*   [andywalters47/clearmail](https://github.com/andywalters47/clearmail) - Filter gmail with AI
+
+*   [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
+
+*   [vanadium23/obsidian-dataview-inlinedb](https://github.com/vanadium23/obsidian-dataview-inlinedb) -
+
+*   [Prototypr/prototypr-frontend](https://github.com/Prototypr/prototypr-frontend) - Open source publishing platform, built with Next.js and Strapi CMS backend. Uses Tiptap / Prose-mirror editor. 💙
+
+*   [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+
+*   [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+
+*   [pockethost/pockethost](https://github.com/pockethost/pockethost) - Open source multitenant PocketBase server
+
+*   [matschik/component-party.dev](https://github.com/matschik/component-party.dev) - 🎉 Web component JS frameworks overview by their syntax and features
+
+*   [razshare/sveltekit-sse](https://github.com/razshare/sveltekit-sse) - Server Sent Events with SvelteKit
+
+*   [baisong/sveltekit-airtable-quickstart](https://github.com/baisong/sveltekit-airtable-quickstart) - Implements the official Airtable NPM package, making fetched records accessible in the +page.svelte data object
+
+*   [Flet/github-slugger](https://github.com/Flet/github-slugger) - :octocat: Generate a slug just like GitHub does for markdown headings.
+
+*   [carbon-design-system/devtools](https://github.com/carbon-design-system/devtools) - A simple set of tools for teams building live Carbon pages.
+
+*   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
+
+*   [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
+
+*   [ptkdev/sveltekit-electron-adapter](https://github.com/ptkdev/sveltekit-electron-adapter) - Adapter for building desktop apps with Svelte Kit and Electron
+
+*   [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
+
+*   [DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 \[ES6] cheatsheet containing tips, tricks, best practices and code snippets
+
+*   [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
+
+*   [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
+
+*   [thomasreinecke/git-playbook](https://github.com/thomasreinecke/git-playbook) - GIT Playbook is a documentation framework that allows you to create Documentation for your project using Markdown and GH-Pages rapidly
+
+*   [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
+
+*   [fnando/sparkline](https://github.com/fnando/sparkline) - Generate SVG sparklines with JavaScript without any external dependency.
+
+*   [mariusGundersen/sparkline](https://github.com/mariusGundersen/sparkline) -
+
+*   [danielBingham/peerreview](https://github.com/danielBingham/peerreview) - A diamond open access (free to access, free to publish), open source scientific and academic publishing platform.
+
+*   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
+
+*   [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
+
+*   [kingsloi/slack-backup-viewer](https://github.com/kingsloi/slack-backup-viewer) -
+
+*   [Sorunome/slack-markdown](https://github.com/Sorunome/slack-markdown) - A slack markdown parser
+
+*   [aws-samples/amazon-cloudfront-secure-static-site](https://github.com/aws-samples/amazon-cloudfront-secure-static-site) - Create a secure static website with CloudFront for your registered domain.
+
+*   [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
+
+*   [11ty/webc](https://github.com/11ty/webc) - Single File Web Components
+
+*   [roxiness/poindexter](https://github.com/roxiness/poindexter) - Search engine for your static site
+
+*   [5t3ph/11ty-serverless-search](https://github.com/5t3ph/11ty-serverless-search) - An example of using 11ty Serverless to. create site search using local and external data sources.
+
+*   [aha-app/netlify-flexsearch](https://github.com/aha-app/netlify-flexsearch) - Implement search for static sites on Netlify, powered by FlexSearch and Netlify functions
+
+*   [11ty/demo-eleventy-serverless-oauth](https://github.com/11ty/demo-eleventy-serverless-oauth) - A demo project using OAuth to secure some of your Eleventy Serverless routes.
+
+*   [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
+
+*   [usdigitalresponse/neighbor-express](https://github.com/usdigitalresponse/neighbor-express) - Neighbor Express project to provide support for homebound seniors and residents
+
+*   [mingiryu/insights](https://github.com/mingiryu/insights) - Airtable Insights Block
+
+*   [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
+
+*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+
+*   [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
+
+*   [interop-alliance/life-server](https://github.com/interop-alliance/life-server) - A decentralized personal data framework inspired by MIT's Solid Project
+
+*   [AramZS/context-center](https://github.com/AramZS/context-center) - A central website for introducing context to multiple topics.
+
+*   [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
+
+*   [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Gatsby and Airtable.
+
+*   [palewire/news-homepages](https://github.com/palewire/news-homepages) - An open-source archive that gathers, saves, shares and analyzes news homepages
+
+*   [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
+
+*   [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
+
+*   [samirillion/air\_gantt](https://github.com/samirillion/air_gantt) - Airtable data to force-directed graph
+
+*   [gavinr/github-csv-tools](https://github.com/gavinr/github-csv-tools) - Import and export GitHub issues via CSV
+
+*   [s-blu/obsidian\_dataview\_example\_vault](https://github.com/s-blu/obsidian_dataview_example_vault) - A example vault to collect and showcase various dataview queries. Created on behalf of AB1908
+
+*   [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
+
+*   [andybywire/ux-methods](https://github.com/andybywire/ux-methods) - A lightweight Jamstack knowledge graph application
+
+*   [Airtable-Labs/upsert-examples](https://github.com/Airtable-Labs/upsert-examples) - Example code demonstrating how to "upsert" (update or insert) records to an Airtable table in various languages
+
+*   [Airtable-Labs/example-slack-bug-tracker](https://github.com/Airtable-Labs/example-slack-bug-tracker) - A Slack app with a form (aka "modal") that saves responses to an Airtable base
+
+*   [postlight/account](https://github.com/postlight/account) - 📚️ ➕ 🔢  Tell little stories with numbers
+
+*   [vsoch/search](https://github.com/vsoch/search) - a search interface for any user account or organization
+
+*   [Hypertopic/Cassandre](https://github.com/Hypertopic/Cassandre) - Diary for qualitative analysis
+
+*   [sampoder/nextjs-isr-swr-example](https://github.com/sampoder/nextjs-isr-swr-example) - 👾 Basic example of using Next.js, ISR & SWR
+
+*   [TheF1rstPancake/AirtableOpenAPICustomBlock](https://github.com/TheF1rstPancake/AirtableOpenAPICustomBlock) - Create an OpenAPI specification for a given Airtable base using Airtable's Custom Blocks platform
+
+*   [aavf/react-airtable-crud](https://github.com/aavf/react-airtable-crud) - simple CRUD app with reactjs + Airtable (database + API) + netlify functions for serverless backend
+
+*   [geocarlos/inair\_prime\_custom\_app\_starter](https://github.com/geocarlos/inair_prime_custom_app_starter) - An Airtable Custom App template by InAir Studio using PrimeReact
+
+*   [juliankrispel/slate-highlight-lesson](https://github.com/juliankrispel/slate-highlight-lesson) -
+
+*   [mulfok/periodic-note-templates](https://github.com/mulfok/periodic-note-templates) - A set of periodic note templates for Obsidian.md.
+
+*   [graphology/graphology](https://github.com/graphology/graphology) - A robust & multipurpose Graph object for JavaScript & TypeScript.
+
+*   [kevboh/example-vault](https://github.com/kevboh/example-vault) - A sample Obsidian vault with a subset of my plugins and templates, for demo purposes.
+
+*   [avanavana/esovdb-api](https://github.com/avanavana/esovdb-api) - Public API cache proxy built on the Earth Science Online Video Database, an Airtable base, which also syncs to Zotero and broadcasts new submissions to Discord, Twitter, etc.
+
+*   [chhoumann/DemoVault](https://github.com/chhoumann/DemoVault) - Demo vault for Obsidian stuff by Christian.
+
+*   [leafamrit/transcription-editor](https://github.com/leafamrit/transcription-editor) - JavaScript based transcription editing interface.
+
+*   [pietrop/fact2\_transcription\_editor](https://github.com/pietrop/fact2_transcription_editor) - a client side transcriptions text editor to proofread and correct the text before re-alignement back on the server.
+
+*   [alexnorton/overtyper](https://github.com/alexnorton/overtyper) - Experiment in automatic insertion of timed transcript corrections
+
+*   [alexnorton/transcript-model](https://github.com/alexnorton/transcript-model) - JSON schema and JavaScript model classes for dealing with time-aligned transcripts of speech.
+
+*   [smlum/scription](https://github.com/smlum/scription) - An editor for speech-to-text transcripts such as AWS Transcribe and Mozilla DeepSpeech
+
+*   [abhinavk96/Transcriptor](https://github.com/abhinavk96/Transcriptor) - A transcription text editor with respeak module
+
+*   [pietrop/slate-transcript-editor](https://github.com/pietrop/slate-transcript-editor) - A React component to make correcting automated transcriptions of audio and video easier and faster. Using the SlateJs editor.
+
+*   [alexnorton/transcript-editor](https://github.com/alexnorton/transcript-editor) - Timed-transcript editor component built using Draft.js.
+
+*   [bbc/react-transcript-editor](https://github.com/bbc/react-transcript-editor) - A React component to make correcting automated transcriptions of audio and video easier and faster. By BBC News Labs. - Work in progress
+
+*   [tanepiper/obsidian-garden](https://github.com/tanepiper/obsidian-garden) - A knowledge management garden for https://obsidian.md, in which to grow your ideas
+
+*   [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow with dozens of features for controlling your Obsidian vault.
+
+*   [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
+
+*   [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
+
+*   [MarkMindCkm/obsidian-enhancing-mindmap](https://github.com/MarkMindCkm/obsidian-enhancing-mindmap) - obsidian plugin editable mindmap,you can edit mindmap on markdown file
+
+*   [shawngraham/obsidian-student-starter-vault](https://github.com/shawngraham/obsidian-student-starter-vault) - a vault with useful plugins, simple workflow, for my students
+
+*   [BradNeuberg/stretchtext.js](https://github.com/BradNeuberg/stretchtext.js) - An implementation of StretchText for JavaScript, which makes it possible to show and hide nested information on web pages
+
+*   [policykit/policykit](https://github.com/policykit/policykit) - Toolkit for building governance in your online community
+
+*   [molleindustria/likelike-online](https://github.com/molleindustria/likelike-online) - The tiniest MMORPG
+
+*   [No-Plans/local-list](https://github.com/No-Plans/local-list) - text-file-to-p2p-web
+
+*   [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
+
+*   [felixhayashi/TW5-TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap) - Map drawing and topic visualization for your wiki
+
+*   [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
+
+*   [aengusmcmillin/gatsby-theme-brain](https://github.com/aengusmcmillin/gatsby-theme-brain) -
+
+*   [houshuang/kindle-clippings-to-bullet](https://github.com/houshuang/kindle-clippings-to-bullet) -
+
+*   [RD17/ambar](https://github.com/RD17/ambar) - :mag: Ambar: Document Search Engine
+
+*   [algolia/talksearch-scraper](https://github.com/algolia/talksearch-scraper) - Extract captions and metadata from YouTube playlists and push them to Algolia
+
+*   [algolia/talksearch.js](https://github.com/algolia/talksearch.js) - The easiest way to add search to your conference videos.
+
+*   [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
+
+*   [dhotson/springy](https://github.com/dhotson/springy) - A force directed graph layout algorithm in JavaScript
+
+*   [vasturiano/force-graph](https://github.com/vasturiano/force-graph) - Force-directed graph rendered on HTML5 canvas
+
+*   [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
+
+*   [triplecanopy/b-ber](https://github.com/triplecanopy/b-ber) - b-ber is both a method and an application for producing publications in a variety of formats—EPUB 3, Mobi/KF8, static website, PDF, and XML file, which can be imported into InDesign for print layouts—from a single source that consists of plain-text files and other assets. b-ber also functions as a browser-based EPUB reader, which explains the name.
+
+*   [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
+
+*   [jondashkyle/setinterval](https://github.com/jondashkyle/setinterval) - Browser-based durational works
+
+*   [daylog/daylog](https://github.com/daylog/daylog) - ☀️📝 write notes daily
+
+*   [pfrazee/node-http-dat-forum](https://github.com/pfrazee/node-http-dat-forum) - A Web forum built on Nodejs, Dat and HTTP
+
+*   [arfct/itty-bitty](https://github.com/arfct/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
+
+*   [bevacqua/shots](https://github.com/bevacqua/shots) - :gun: pull down the entire Internet into a single animated gif.
+
+*   [frnsys/hyperdocs](https://github.com/frnsys/hyperdocs) - p2p collaborative document editing
+
+*   [cblgh/decent-dat-intro](https://github.com/cblgh/decent-dat-intro) - a buffet of tiny demos for easing in everyone with developing decentralized apps
+
+*   [juanpabloaj/p2p-microblog](https://github.com/juanpabloaj/p2p-microblog) - Peer-to-peer microblog with BeakerBrowser and dat\_project, subscribe and follow other users
+
+*   [cabal-club/cabal-cli](https://github.com/cabal-club/cabal-cli) - Terminal client for Cabal, the p2p chat platform.
+
+*   [josephernest/bigpicture.js](https://github.com/josephernest/bigpicture.js) - bigpicture.js is a Javascript library that allows infinite panning and infinite zooming in HTML pages.
+
+*   [paul90/wiki-client-dat-variant](https://github.com/paul90/wiki-client-dat-variant) - A dat based variant of the Federated Wiki client
+
+*   [cameroncowden/cms.js](https://github.com/cameroncowden/cms.js) - The Javascript Site Generator! now for p2p / beaker browser
+
+*   [s3ththompson/readrc](https://github.com/s3ththompson/readrc) - 🗂 online content digests, for picky readers
+
+*   [hypermodules/hyperamp](https://github.com/hypermodules/hyperamp) - 🎛 Humble music player
+
+*   [jimpick/dat-tiddlywiki](https://github.com/jimpick/dat-tiddlywiki) - Multiwriter Dat + TiddlyWiki
+
+*   [kodedninja/orkl](https://github.com/kodedninja/orkl) - Simple peer-to-peer blogging site
+
+*   [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+
+*   [zachmandeville/wheat-paste](https://github.com/zachmandeville/wheat-paste) - A light event maker for dat sites, to hold parties in the Chorus.
+
+*   [mmckegg/loop-drop-app](https://github.com/mmckegg/loop-drop-app) - \[unmaintained] MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs
+
+*   [sinabahram/sharab](https://github.com/sinabahram/sharab) - A NodeJS webapp with a RESTful API to manage a wine collection
+
+*   [tomeshnet/p2p-internet-workshop](https://github.com/tomeshnet/p2p-internet-workshop) - Building the Peer-to-Peer Internet workshop series
+
+*   [terra0project/source](https://github.com/terra0project/source) - A collection of experimental smart contracts for environmental management
+
+*   [ssbc/ssb-server](https://github.com/ssbc/ssb-server) - The gossip and replication server for Secure Scuttlebutt - a distributed social network
+
+*   [alvesjtiago/clip2p](https://github.com/alvesjtiago/clip2p) - Decentralized file sharing right from the menu bar (based on the Dat Protocol).
+
+*   [jimpick/dat-shopping-list](https://github.com/jimpick/dat-shopping-list) - A progress web app built to demonstrate Dat multi-writer support (hyperdrive+hyperdb) as a web backend
+
+*   [text-mask/text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
+
+*   [new-computers/guides](https://github.com/new-computers/guides) - Guides on setting up (all) forms of new computers
+
+*   [beakerbrowser/hashbase](https://github.com/beakerbrowser/hashbase) - A Dat-hosting service for multiple users
+
+*   [jo-fu/TimeLineCurator](https://github.com/jo-fu/TimeLineCurator) - A visual timeline authoring tool that extracts temporal information from freeform text
+
+*   [kodedninja/solo](https://github.com/kodedninja/solo) - The simplest publication tool
+
+*   [enokidotsite/enoki](https://github.com/enokidotsite/enoki) - ultralight tools for creating p2p sites
+
+*   [puckey/learning-by-example](https://github.com/puckey/learning-by-example) - An automated are.na channel
+
+*   [new-computers/arena-toolkit](https://github.com/new-computers/arena-toolkit) - Access to tools
+
+*   [marijnh/Eloquent-JavaScript](https://github.com/marijnh/Eloquent-JavaScript) - The sources for the Eloquent JavaScript book
+
+*   [bradley/Blotter](https://github.com/bradley/Blotter) - A JavaScript API for drawing unconventional text effects on the web.
+
+*   [sindresorhus/refined-twitter](https://github.com/sindresorhus/refined-twitter) - Browser extension that simplifies the Twitter interface and adds useful features
+
+*   [benjamminf/warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
+
+*   [dawnlabs/alchemy](https://github.com/dawnlabs/alchemy) - :crystal\_ball: File conversion, all from the menu bar
+
+*   [schne324/dragon-drop](https://github.com/schne324/dragon-drop) - Accessible drag and drop list reorder module
+
+*   [thmsbfft/oryoki](https://github.com/thmsbfft/oryoki) - Ōryōki \[応量器] is an experimental web browser with a thin interface.
+
+*   [broskoski/mac.are.na](https://github.com/broskoski/mac.are.na) - Are.na channel -> playlist
+
+*   [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
+
+*   [JasonEtco/todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
+
+*   [chrisdmacrae/front-matter-manipulator](https://github.com/chrisdmacrae/front-matter-manipulator) - A utility for parsing and manipulating documents with Front Matter
+
+*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+
+*   [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
+
+*   [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
+
+*   [wshanks/Zutilo](https://github.com/wshanks/Zutilo) - Zotero plugin providing some additional editing features
+
+*   [mronkko/ZoteroQuickLook](https://github.com/mronkko/ZoteroQuickLook) - Implements QuickLook in Zotero
+
+*   [dokieli/dokieli](https://github.com/dokieli/dokieli) - :bulb: dokieli is a clientside editor for decentralised article publishing, annotations and social interactions
+
+*   [luke-chang/js-spatial-navigation](https://github.com/luke-chang/js-spatial-navigation) - A javascript-based implementation of Spatial Navigation.
+
+*   [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
+
+*   [ghosh/Micromodal](https://github.com/ghosh/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
+
+*   [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
+
+*   [techcoop/json-google-docs](https://github.com/techcoop/json-google-docs) - Uses Google Apps Scripts with Google Docs to provide a document tree in JSON exposed on a GET URL for integration into anything.
+
+*   [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
+
+*   [Heydon/inclusive-design-checklist](https://github.com/Heydon/inclusive-design-checklist) - Aims to be the biggest checklist of inclusive design considerations ever
+
+*   [teropa/Piano](https://github.com/teropa/Piano) - Multisampled Piano implementation using Salamander Grand Piano Sounds
+
+*   [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
+
+*   [google/bottery](https://github.com/google/bottery) -
+
+*   [jondashkyle/dropout](https://github.com/jondashkyle/dropout) - save a page for offline access and archival
+
+*   [tensorfire/cyborg-writer](https://github.com/tensorfire/cyborg-writer) - An experimental text editor with an embedded neural text synthesizer
+
+*   [micjamking/synth-secrets](https://github.com/micjamking/synth-secrets) - Screen-scraped articles on subtractive synthesis (using Node.js)
+
+*   [brocessing/kirby-webpack](https://github.com/brocessing/kirby-webpack) - :muscle: A Kirby CMS starter-kit with modern frontend tools
+
+*   [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
+
+*   [hundredrabbits/Marabu](https://github.com/hundredrabbits/Marabu) - Music Synthetiser
+
+*   [GeneralTrademark/print-arena](https://github.com/GeneralTrademark/print-arena) - Make it easier to print out arena channels for inspo walls and stuff...
+
+*   [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
+
+*   [pnegahdar/electro](https://github.com/pnegahdar/electro) - ⚡️ Personal Github pages lite. Share prototypes with teammates. Host static sites. Share documents.
+
+*   [puckey/dance-tonite](https://github.com/puckey/dance-tonite) - An ever-changing VR collaboration by LCD Soundsystem and their fans.
+
+*   [sdockray/academia](https://github.com/sdockray/academia) - Academia.edu publications
+
+*   [olach/kirby-relationship](https://github.com/olach/kirby-relationship) - Sortable multiselect field for Kirby 2 CMS
+
+*   [s3ththompson/new-work](https://github.com/s3ththompson/new-work) - ✨ Discover when artists post new work
+
+*   [netlify/staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
+
+*   [krikienoid/flagwaver](https://github.com/krikienoid/flagwaver) - A web app for simulating a waving flag.
+
+*   [aredotna/warburg](https://github.com/aredotna/warburg) -
+
+*   [marcbachmann/node-html-pdf](https://github.com/marcbachmann/node-html-pdf) - This repo isn't maintained anymore as phantomjs got dreprecated a long time ago. Please migrate to headless chrome/puppeteer.
+
+*   [nklnkl/Article-Spinner](https://github.com/nklnkl/Article-Spinner) - Allows users to enter text and replaces words with synonyms to generate new text.
+
+*   [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
+
+*   [dimsemenov/Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
+
+*   [floriankarsten/kirby-tablex](https://github.com/floriankarsten/kirby-tablex) - KIRBY 2 ONLY. No plans for K3 version yet. Table field for Kirby CMS.
+
+*   [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
+
+*   [tbranyen/hyperlist](https://github.com/tbranyen/hyperlist) - A performant virtual scrolling list utility capable of rendering millions of rows
+
+*   [stacks-archive/blockstack.org](https://github.com/stacks-archive/blockstack.org) - The Blockstack website
+
+*   [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+
+*   [yoeran/kirby-kit](https://github.com/yoeran/kirby-kit) - Kirby CMS starter kit with Gulp
+
+*   [ManifoldScholar/manifold](https://github.com/ManifoldScholar/manifold) - Transforming scholarly publications into living digital works.
+
+*   [javierbyte/control-user-cursor](https://github.com/javierbyte/control-user-cursor) - Small experiment to 'control' the user cursor with JavaScript and CSS.
+
+*   [frnsys/the\_founder](https://github.com/frnsys/the_founder) - start a company, ruin the world
+
+*   [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
+
+*   [almonk/shrink2](https://github.com/almonk/shrink2) - A professional for your Github issues
+
+*   [julkue/mark.js](https://github.com/julkue/mark.js) - JavaScript keyword highlighting. Mark text with options that fit every application. Also available as jQuery plugin.
+
+*   [opencollective/opencollective-website](https://github.com/opencollective/opencollective-website) - OpenCollective frontend
+
+*   [ezekielaquino/Marquee3000](https://github.com/ezekielaquino/Marquee3000) - Marquees for the new millenium
+
+*   [overview/overview-apps](https://github.com/overview/overview-apps) - Apps that make overview-server even awesomer
+
+*   [dropbox/dropbox-sdk-js](https://github.com/dropbox/dropbox-sdk-js) - The Official Dropbox API V2 SDK for Javascript
+
+*   [hackergrrl/hyperpad](https://github.com/hackergrrl/hyperpad) -  :bamboo: A peer-to-peer collaborative text editor for people and their communities.
+
+*   [mafintosh/hyperlog](https://github.com/mafintosh/hyperlog) - Merkle DAG that replicates based on scuttlebutt logs and causal linking
+
+*   [feross/last-fm](https://github.com/feross/last-fm) - Simple, robust LastFM API client (for public data)
+
+*   [chriszarate/sheetrock](https://github.com/chriszarate/sheetrock) - Quickly connect to, query, and lazy-load data from Google Spreadsheets.
+
+*   [entozoon/movies-for-hackers](https://github.com/entozoon/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
+
+*   [accraze/split-md](https://github.com/accraze/split-md) - :wavy\_dash: Split a Markdown file into smaller files
+
+*   [futurepress/epub.js](https://github.com/futurepress/epub.js) - Enhanced eBooks in the browser.
+
+*   [owencm/secretbook](https://github.com/owencm/secretbook) - A Chrome app for Steganography on Facebook
+
+*   [callmecavs/gotem](https://github.com/callmecavs/gotem) - Copy to clipboard for modern browsers in less than 1kb.
+
+*   [onedayitwillmake/CirclePackingJS](https://github.com/onedayitwillmake/CirclePackingJS) - Circle packing algorithm in javascript
+
+*   [frnsys/random\_3d\_scenes](https://github.com/frnsys/random_3d_scenes) - random 3d scenes with threejs
+
+*   [frnsys/svg\_blobs](https://github.com/frnsys/svg_blobs) - floating svg masking blobs
+
+*   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
+
+*   [richardharrington/indesign-scripts](https://github.com/richardharrington/indesign-scripts) -
+
+*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+
+*   [kingdido999/zooming](https://github.com/kingdido999/zooming) - 🔍 Image zoom that makes sense.
+
+*   [opendot/ml4a-invisible-cities](https://github.com/opendot/ml4a-invisible-cities) -
+
+*   [tumblr/laphs](https://github.com/tumblr/laphs) - Apple Live Photo support on the web, courtesy of Tumblr
+
+*   [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
+
+*   [feross/whiteboard](https://github.com/feross/whiteboard) - P2P Whiteboard powered by WebRTC and WebTorrent
+
+*   [fedwiki/wiki-plugin-factory](https://github.com/fedwiki/wiki-plugin-factory) -
+
+*   [fedwiki/wiki-client](https://github.com/fedwiki/wiki-client) - Federated wiki client-side javascript as a npm module.
+
+*   [paul90/small-client-wiki](https://github.com/paul90/small-client-wiki) - We explore a read-only client written in react.
+
+*   [soulwire/WTFEngine](https://github.com/soulwire/WTFEngine) - An HTML / CSS / JavaScript template for creating WhatTheFuckIsMyMashup.com style web sites
+
+*   [stml/welcomejs](https://github.com/stml/welcomejs) - A friendly script.
+
+*   [dollarshaveclub/shave](https://github.com/dollarshaveclub/shave) - 💈 Shave is a 0 dep JS plugin that truncates text to fit within an element based on a set max-height  ✁
+
+*   [feross/electron-workshop](https://github.com/feross/electron-workshop) - Workshop: Build cross-platform desktop apps with Electron
+
+*   [NeXTs/Jets.js](https://github.com/NeXTs/Jets.js) - Native CSS search engine
+
+*   [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+
+*   [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
+
+*   [segmentio/daydream](https://github.com/segmentio/daydream) - A chrome extension to record your actions into a nightmare or puppeteer script
+
+*   [judell/h\_export](https://github.com/judell/h_export) -
+
+*   [benhowdle89/grade](https://github.com/benhowdle89/grade) - This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images.
+
+*   [dli/waves](https://github.com/dli/waves) - Ocean Wave Simulation - http://david.li/waves
+
+*   [desandro/arpeggiator](https://github.com/desandro/arpeggiator) - Web audio arpeggiator
+
+*   [Octo-Labs/HandlebaRss](https://github.com/Octo-Labs/HandlebaRss) - A simple JavaScript RSS viewer using handlebars templates.
+
+*   [slackapi/onboarding-example](https://github.com/slackapi/onboarding-example) - A demonstration of how to build an onboarding app using Slack's Events API
+
+*   [danielzarick/Colorplane](https://github.com/danielzarick/Colorplane) - A color picker for humans. Built with canvas & javascript.
+
+*   [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
+
+*   [davidmerfield/randomColor](https://github.com/davidmerfield/randomColor) - A tiny script for generating attractive colors
+
+*   [joelcarranza/particular-pinboard](https://github.com/joelcarranza/particular-pinboard) - An enhanced pinboard bookmarklet for the persnickety
+
+*   [tchoi8/poetic-computation-16](https://github.com/tchoi8/poetic-computation-16) - Class at SFPC Summer 2016
+
+*   [patriciogonzalezvivo/eyeo16](https://github.com/patriciogonzalezvivo/eyeo16) -
+
+*   [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+
+*   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+
+*   [frctl/fractal](https://github.com/frctl/fractal) - A tool to help you build and document website component libraries and design systems.
+
+*   [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
+
+*   [blaiprat/jquery.animateSprite](https://github.com/blaiprat/jquery.animateSprite) - Animating sprites using jQuery made easy
+
+*   [luruke/adapttext.js](https://github.com/luruke/adapttext.js) - :raised\_hands: - AdaptText.js is a dependency free and simple javascript solution capable to fit your text inside the parent element
+
+*   [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
+
+*   [princejwesley/minimap](https://github.com/princejwesley/minimap) - A preview of full webpage or its DOM element with flexible positioning and navigation support
+
+*   [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
+
+*   [dirkweber/csswarp.js](https://github.com/dirkweber/csswarp.js) - "warp" HTML text around an arbitrary path.
+
+*   [twitter/labella.js](https://github.com/twitter/labella.js) - Placing labels on a timeline without overlap.
+
+*   [bizweekgraphics/swoopyarrows](https://github.com/bizweekgraphics/swoopyarrows) - swoopyarrows makes swoopy arrows between things
+
+*   [humaan/Modaal](https://github.com/humaan/Modaal) - An accessible dialog window library for all humans.
+
+*   [dhowe/RiTaV1](https://github.com/dhowe/RiTaV1) - RiTa: the generative language toolkit
+
+*   [Programming-from-A-to-Z/SFPC-Twitter-Bot-Workshop](https://github.com/Programming-from-A-to-Z/SFPC-Twitter-Bot-Workshop) - Repository for examples and info for SFPC's Twitter Bot Workshop
+
+*   [ddluc/grunt-backstop](https://github.com/ddluc/grunt-backstop) - backstopjs shim for grunt
+
+*   [thingsinjars/Hardy](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
+
+*   [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
+
+*   [w3c/wcag-em-report-tool](https://github.com/w3c/wcag-em-report-tool) - Interactive Guide to Assist Managing Web Accessibility Evaluations
+
+*   [jdan/tota11y](https://github.com/jdan/tota11y) - an accessibility (a11y) visualization toolkit
+
+*   [googlearchive/accessibility-developer-tools-extension](https://github.com/googlearchive/accessibility-developer-tools-extension) -
+
+*   [yargalot/AccessSniff](https://github.com/yargalot/AccessSniff) - Automated accessibility testing using HTML\_Codesniffer (WCAG and Section508)
+
+*   [yargalot/grunt-accessibility](https://github.com/yargalot/grunt-accessibility) - Use HTML codesniffer to grade accessibility
+
+*   [addyosmani/a11y](https://github.com/addyosmani/a11y) - Accessibility audit tooling for the web (beta)
+
+*   [GoogleChrome/accessibility-developer-tools](https://github.com/GoogleChrome/accessibility-developer-tools) - This is a library of accessibility-related testing and utility code.
+
+*   [prettydiff/colorContrast](https://github.com/prettydiff/colorContrast) - accessibility color contrast tool
+
+*   [siege-media/contrast-ratio](https://github.com/siege-media/contrast-ratio) - A tool to calculate the contrast ratio between any two valid CSS colors.
+
+*   [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
+
+*   [dylanb/a11yfy](https://github.com/dylanb/a11yfy) - Accessibility Library for jQuery
+
+*   [howlowck/Akbar](https://github.com/howlowck/Akbar) - A bookmarklet that simulates various types of users with disabilities.  It is an education tool that will hopefully educate people about web accessibility.
+
+*   [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
+
+*   [galaxykate/tracery](https://github.com/galaxykate/tracery) - Tracery: a story-grammar generation library for javascript
+
+*   [svg/svgo-gui](https://github.com/svg/svgo-gui) - Node-WebKit based GUI for SVGO
+
+*   [andrewfiorillo/sketch-palettes](https://github.com/andrewfiorillo/sketch-palettes) - A Sketch plugin for exporting and importing fill presets. It supports colors, gradients, and pattern fills.
+
+*   [Editorially/styleguide](https://github.com/Editorially/styleguide) - Static style guide of the application
+
+*   [filamentgroup/loadCSS](https://github.com/filamentgroup/loadCSS) - Load CSS asynchronously
+
+*   [filamentgroup/criticalCSS](https://github.com/filamentgroup/criticalCSS) - Finds the Above the Fold CSS for your page, and outputs it into a file
+
+*   [VPenkov/okayNav](https://github.com/VPenkov/okayNav) - The world's okayest responsive navigation. This is (sort of) a legacy implementation. Please stay tuned to the 3.0 branch (https://github.com/VPenkov/okayNav/tree/v3.0)
+
+*   [cee-chen/object-fit-polyfill](https://github.com/cee-chen/object-fit-polyfill) - A Javascript polyfill for browsers that don't support the object-fit CSS property.
+
+*   [dariusk/corpora](https://github.com/dariusk/corpora) - A collection of small corpuses of interesting data for the creation of bots and similar stuff.
+
+*   [logicx24/MarkovsInequality](https://github.com/logicx24/MarkovsInequality) - A Bot for Facebook Messenger.
+
+*   [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
+
+*   [nhunzaker/speakeasy](https://github.com/nhunzaker/speakeasy) - A simple natural language tool written for NodeJS
+
+*   [blorkfish/livescribe-offline-player](https://github.com/blorkfish/livescribe-offline-player) - An offline player for livescribe 3 smart pens.
+
+*   [defmethodinc/just-not-sorry](https://github.com/defmethodinc/just-not-sorry) - Chrome extension that warns you when you write emails using words which undermine your message
+
+*   [moose-team/friends](https://github.com/moose-team/friends) - :tv: P2P chat powered by the web.
+
+*   [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
+
+*   [fluid-project/infusion](https://github.com/fluid-project/infusion) - Infusion is a web framework that supports inclusive design.
+
+*   [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
+
+*   [mauricerenck/sublime-kirby2](https://github.com/mauricerenck/sublime-kirby2) - Kirby CMS v2 snippets for sublime text
+
+*   [gruntjs/grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify) - Minify files with UglifyJS.
+
+*   [JonasDoebertin/kirby-visual-markdown](https://github.com/JonasDoebertin/kirby-visual-markdown) - Visual Markdown Editor for Kirby CMS 2
+
+*   [tessalt/echo-chamber-js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments
+
+*   [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
+
+*   [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
+
+*   [shyamseshadri/angularjs-up-and-running](https://github.com/shyamseshadri/angularjs-up-and-running) - All the source code for the AngularJS Up & Running Book for O'Reilly
+
+*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+
+*   [archivist/archivist](https://github.com/archivist/archivist) - A full-stack publishing solution involving different technologies to power digital archives
+
+*   [muan/mojibar](https://github.com/muan/mojibar) - :tangerine: Emoji searcher but as a menubar app.
+
+*   [dataliterate/data-populator](https://github.com/dataliterate/data-populator) - A plugin for Sketch and Adobe XD to populate your design mockups with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
+
+*   [voxmedia/autotune](https://github.com/voxmedia/autotune) - Platform for reusable news tools
+
+*   [purifycss/purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
+
+*   [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+
+*   [brooklynjs/brooklynjs.github.io](https://github.com/brooklynjs/brooklynjs.github.io) - The world's most popular programming language, in New York's most popular borough
+
+*   [airhadoken/snowclone-a-minute](https://github.com/airhadoken/snowclone-a-minute) - Snowclone a Minute! You too can write an annoying twitter bot of your choosing.
+
+*   [uBlock-LLC/uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
+
+*   [rauchg/slackin](https://github.com/rauchg/slackin) - Public Slack organizations made easy
+
+*   [mimo84/bootstrap-maxlength](https://github.com/mimo84/bootstrap-maxlength) - This plugin integrates by default with Twitter bootstrap using badges to display the maximum lenght of the field where the user is inserting text. Uses the HTML5 attribute "maxlength" to work.
+
+*   [tangentialism/fast-diff](https://github.com/tangentialism/fast-diff) - A fast Javascript string diff
+
+*   [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
+
+*   [meatspaces/meatspace-chat](https://github.com/meatspaces/meatspace-chat) - Chat with WebRTC, LevelDB and Sockets
+
+*   [scdoshi/jquery-ajaxchimp](https://github.com/scdoshi/jquery-ajaxchimp) - Use ajax for your mailchimp form
+
+*   [typekit/webfontloader](https://github.com/typekit/webfontloader) - Web Font Loader gives you added control when using linked fonts via @font-face.
+
+*   [BenWard/cloud-to-moon](https://github.com/BenWard/cloud-to-moon) - Extension for Chrome and Safari that replaces all occurrences of 'the cloud' with 'the moon.' Because of @blech.
+
+*   [Programming-from-A-to-Z/Programming-from-A-to-Z-F14](https://github.com/Programming-from-A-to-Z/Programming-from-A-to-Z-F14) - Repository for ITP Fall 2014 Course
+
+*   [bbc/newslabs-datastringer](https://github.com/bbc/newslabs-datastringer) - Monitor datasets, gets alerts when something happens
+
+*   [bendc/anchor-scroll](https://github.com/bendc/anchor-scroll) - Smooth and lightweight anchor scrolling library
+
+*   [dphiffer/ccny-web2](https://github.com/dphiffer/ccny-web2) - Design for the Web 2 (Fall 2014)
+
+*   [csscomb/csscomb.js](https://github.com/csscomb/csscomb.js) - CSS coding style formatter
+
+*   [bramstein/typeset](https://github.com/bramstein/typeset) - TeX line breaking algorithm in JavaScript
+
+*   [jsha/blocktogether](https://github.com/jsha/blocktogether) - Share your blocks and subscribe to others'
+
+*   [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+
+*   [andrew/first-pr](https://github.com/andrew/first-pr) - :octocat: What was the first pull request you sent on GitHub?
+
+*   [OpenNews/srccon-schedule](https://github.com/OpenNews/srccon-schedule) - Schedule app for SRCCON
+
+*   [edsu/wikichanges](https://github.com/edsu/wikichanges) - a NodeJS library for monitoring changes on Wikipedia sites
+
+*   [zeroclipboard/zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
+
+*   [joepie91/pdfy](https://github.com/joepie91/pdfy) - The platform behind PDFy, a free instant PDF host.
+
+*   [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
+
+*   [Quartz/Chartbuilder](https://github.com/Quartz/Chartbuilder) - A front-end charting application that facilitates easy creation of simple beautiful charts
+
+*   [dataarts/dat.gui](https://github.com/dataarts/dat.gui) - Lightweight controller library for JavaScript.
+
+*   [allisonburtch/internet\_Illuminator](https://github.com/allisonburtch/internet_Illuminator) -  firefox addon that appends corporate sponsors and owners to brands and politicians.
+
+*   [Leaflet/Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker Clustering plugin for Leaflet
+
+*   [veltman/fourscore](https://github.com/veltman/fourscore) - An open-source version of the WNYC sentiment tracker.
+
+*   [timuric/Content-generator-sketch-plugin](https://github.com/timuric/Content-generator-sketch-plugin) - Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc
+
+*   [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
+
+*   [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+
+*   [fiduswriter/fiduswriter](https://github.com/fiduswriter/fiduswriter) - Fidus Writer is an online collaborative editor for academics.
+
+*   [fiduswriter/pagination.js](https://github.com/fiduswriter/pagination.js) - pagination.js is a Javascript library that can be included in HTML files to render the contents of the HTML to pages that can be printed to PDF using CSS Regions. It requires a browser with support for CSS Regions.
+
+*   [elifesciences/lens](https://github.com/elifesciences/lens) - A novel way of viewing eLife articles.
+
+*   [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
+
+*   [cmenscher/kindleHighlightLiberator](https://github.com/cmenscher/kindleHighlightLiberator) - This Javascript bookmarklet allows you to gather all of your Kindle ebook highlights from https://kindle.amazon.com/your\_highlights and save them as a JSON file.
+
+*   [toddpress/Unicorn-js](https://github.com/toddpress/Unicorn-js) - make cyclic rainbow text on hover! sweet.
+
+*   [schteppe/cannon.js](https://github.com/schteppe/cannon.js) - A lightweight 3D physics engine written in JavaScript.
+
+*   [jlord/sheetdown](https://github.com/jlord/sheetdown) - :page\_with\_curl: :arrow\_down: Convert a Google Spreadsheet into a Table in Markdown
+
+*   [dieulot/instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.
+
+*   [EloquentStudio/filter.js](https://github.com/EloquentStudio/filter.js) - Complete solution for client side filtering and rendering using JSON data
+
+*   [novus/nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
+
+*   [tealtan/AuditionText](https://github.com/tealtan/AuditionText) - Show and switch between different phrases in your writing.
+
+*   [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
+
+*   [soulwire/fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
+
+*   [markdalgleish/stellar.js](https://github.com/markdalgleish/stellar.js) - Stellar.js - Parallax scrolling made easy
+
+*   [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
+
+*   [jonaslund/Eeeeemail](https://github.com/jonaslund/Eeeeemail) - Made for Rhizome's 7on7 event at Barbican in London
+
+*   [jedahan/collections-api](https://github.com/jedahan/collections-api) - API scraping from the metmuseum website
+
+*   [nasser/sfpc-talk](https://github.com/nasser/sfpc-talk) - Source code to the various slideshows used during my September 16, 2013 talk at the SFPC opening
+
+*   [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
+
+*   [unconed/fuse10](https://github.com/unconed/fuse10) - Front-end for Acko.net 2013
+
+*   [CartoDB/cartodb](https://github.com/CartoDB/cartodb) - Location Intelligence & Data Visualization tool
+
+*   [moment/moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
+
+*   [oyvindeh/ucss](https://github.com/oyvindeh/ucss) - Find unused and duplicate CSS
+
+*   [topcoat/icons](https://github.com/topcoat/icons) - Open Source Icons designed for Topcoat
+
+*   [motherjones/newsquiz](https://github.com/motherjones/newsquiz) - Make a quiz from data in a Google Spreadsheet. Requires jQuery and Tabletop.
+
+*   [motherjones/cyoa](https://github.com/motherjones/cyoa) - A "Choose Your Own Adventure" plugin for storytelling
+
+*   [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
+
+*   [charlieroberts/interface.js](https://github.com/charlieroberts/interface.js) - gui library for music / arts applications that works with touch, mouse and motion events
+
+*   [poderopedia/plug-and-play-1.0-RC](https://github.com/poderopedia/plug-and-play-1.0-RC) - Poderopedia Plug & Play Platform Release Candidate
+
+*   [nasser/---](https://github.com/nasser/---) - قلب: لغة برمجة
+
+*   [jrsconfitto/katiejamie](https://github.com/jrsconfitto/katiejamie) - Katie and Jamie
+
+*   [artemave/starlogs.dev](https://github.com/artemave/starlogs.dev) -
+
+*   [fotcorn/StarRSS](https://github.com/fotcorn/StarRSS) - http://fotcorn.github.io/StarRSS/
+
+*   [openoakland/openbudgetoakland](https://github.com/openoakland/openbudgetoakland) - Visualizations of Oakland's budget data, and explanations about the budget process.
+
+*   [gwatts/jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - A plugin for the jQuery javascript library to generate small sparkline charts directly in the browser
+
+*   [desandro/doc-ready](https://github.com/desandro/doc-ready) - lets get this party started... on document ready
+
+*   [metafizzy/packery](https://github.com/metafizzy/packery) - :bento: Gapless, draggable grid layouts
+
+*   [geuis/helium-css](https://github.com/geuis/helium-css) - Helium - javascript tool to scan your site and show unused CSS
+
+*   [mozilla/popcorn-js](https://github.com/mozilla/popcorn-js) - The HTML5 Media Framework. (Unmaintained. See https://github.com/menismu/popcorn-js for activity)
+
+*   [FirebaseExtended/firepad](https://github.com/FirebaseExtended/firepad) - Collaborative Text Editor Powered by Firebase
+
+*   [twitter-archive/twisitor](https://github.com/twitter-archive/twisitor) - A simple and spectacular photo-tweeting birdhouse
+
+*   [basiljs/basil.js](https://github.com/basiljs/basil.js) - An attempt to port the spirit of the Processing visualization language to Adobe Indesign.
+
+*   [joypixels/emojify.js](https://github.com/joypixels/emojify.js) - A Javascript module to convert Emoji keywords to images
+
+*   [HenrikJoreteg/emoji-images](https://github.com/HenrikJoreteg/emoji-images) - replace stuff like :heart: with \<img> tags of corresponding images per: http://www.emoji-cheat-sheet.com/
+
+*   [anvc/scalar](https://github.com/anvc/scalar) - Born-digital, open source, media-rich scholarly publishing that’s as easy as blogging.
+
+*   [ReactiveRaven/jqBootstrapValidation](https://github.com/ReactiveRaven/jqBootstrapValidation) - A JQuery validation framework for bootstrap forms.
+
+*   [darkskyapp/skycons](https://github.com/darkskyapp/skycons) -
+
+*   [edankwan/PerspectiveTransform.js](https://github.com/edankwan/PerspectiveTransform.js) - A Javascript Class to do the CSS 3D transformation by 4 destination points
+
+*   [Shopify/dashing](https://github.com/Shopify/dashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
+
+*   [occupyhere/occupy.here](https://github.com/occupyhere/occupy.here) - A tiny self-contained darknet
+
+*   [headjs/headjs](https://github.com/headjs/headjs) - The only script in your HEAD.
+
+*   [nature-of-code/The-Nature-of-Code-archive](https://github.com/nature-of-code/The-Nature-of-Code-archive) - The very first build system for The Nature of Code
+
+*   [kamens/jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
+
+*   [hirmes/The-Aleph](https://github.com/hirmes/The-Aleph) - Infinite Wonder / Infinite Pity
+
+*   [nytimes/svg-crowbar](https://github.com/nytimes/svg-crowbar) - Extracts an SVG node and accompanying styles from an HTML document and allows you to download it all as an SVG file.
+
+*   [schacon/showoff](https://github.com/schacon/showoff) - moved to puppetlabs/showoff!
+
+*   [joshbuddy/spoiler-alert](https://github.com/joshbuddy/spoiler-alert) - SPOILER ALERT! A happy little bit of javascript to hide spoilers on your site.
+
+*   [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
+
+*   [reyesr/fullproof](https://github.com/reyesr/fullproof) - javascript fulltext search engine library
+
+*   [potomak/jquery-instagram](https://github.com/potomak/jquery-instagram) - Instagram jQuery plugin
+
+*   [twitter/typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library
+
+*   [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
+
+*   [okfocus/okvideo](https://github.com/okfocus/okvideo) - Fullscreen background videos for your webpages.
+
+*   [alistapart/comment-embed](https://github.com/alistapart/comment-embed) - Embeddable user comments.
+
+*   [net-uk-sweet/puzzle](https://github.com/net-uk-sweet/puzzle) - Video tile puzzle using HTML5 canvas
+
+*   [jeromeetienne/jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode) - qrcode generation standalone (doesn't depend on external services)
+
+*   [Sjeiti/TinySort](https://github.com/Sjeiti/TinySort) - TinySort is a small script that sorts HTML elements. It sorts by text- or attribute value, or by that of one of it's children.
+
+*   [auduno/headtrackr](https://github.com/auduno/headtrackr) - Javascript library for headtracking via webcam and WebRTC/getUserMedia
+
+*   [michael/ken-browser](https://github.com/michael/ken-browser) - Visual Knowledge Browser
+
+*   [kandanapp/kandan](https://github.com/kandanapp/kandan) - Kandan is an Open Source Alternative to HipChat
+
+*   [ndreckshage/roughdraft.js](https://github.com/ndreckshage/roughdraft.js) - Quickly create an interactive HTML mock-up by auto sourcing lorem ipsum/images generators, with minimal html markup, and no server side code
+
+*   [toolness/ethercoaster](https://github.com/toolness/ethercoaster) - One simple Meteor-based solution to the problem of constantly crashing etherpads.
+
+*   [nornagon/scrubby](https://github.com/nornagon/scrubby) - Tweak values in JavaScript without having to reload.
+
+*   [suprb/Nested](https://github.com/suprb/Nested) - Gap free multi column grid
+
+*   [amsul/pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
+
+*   [tholman/texter](https://github.com/tholman/texter) - Texter is a little app that lets you explore your creativity by drawing with text.
+
+*   [slifty/opened-captions](https://github.com/slifty/opened-captions) - A SocketIO API for live TV closed captions
+
+*   [sklise/i-like-what-i-see](https://github.com/sklise/i-like-what-i-see) -
+
+*   [thisandagain/troll](https://github.com/thisandagain/troll) - Language sentiment analysis and neural networks... for trolls.
+
+*   [caseyg/CooperUnion.info](https://github.com/caseyg/CooperUnion.info) - A concise starting point for learning about the financial and philosophical challenges facing The Cooper Union.
+
+*   [ftrain/savepublishing](https://github.com/ftrain/savepublishing) - CoffeeScript code to quickly extract and display all the tweetable statements from a live web page.
+
+*   [mrdoob/htmleditor](https://github.com/mrdoob/htmleditor) - Simple editor for messing around.
+
+*   [ITPNYU/ICM-2013](https://github.com/ITPNYU/ICM-2013) - ICM 2013 Class Main Repo
+
+*   [peterbe/tiler](https://github.com/peterbe/tiler) - App for allowing you to host some huge ass photos on the web.
+
+*   [jlord/sheetsee.js](https://github.com/jlord/sheetsee.js) - :eyes: :chart\_with\_upwards\_trend: Visualize Data from a Google Spreadsheet
+
+*   [lipka/piecon](https://github.com/lipka/piecon) - A tiny javascript library for generating progress pie charts in your favicon.
+
+*   [substance/interior](https://github.com/substance/interior) - Substance interior website
+
+*   [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
+
+*   [substance/surface](https://github.com/substance/surface) - A building block for web-based text editors
+
+*   [arc90/sass-color-picker](https://github.com/arc90/sass-color-picker) - SASS Color Picker, an Arc90 Lab Experiment.
+
+*   [rigoneri/syte](https://github.com/rigoneri/syte) - \[Archived] A really simple but powerful packaged personal site that has social integrations like twitter, github, dribbble, instagram, foursquare, tumblr, wordpress, linkedin, spotify/last.fm, and much more...
+
+*   [diy/jquery-placeholder](https://github.com/diy/jquery-placeholder) - A jQuery plugin that polyfills the HTML5 "placeholder" attribute.
+
+*   [wnyc/Timeline](https://github.com/wnyc/Timeline) - A beautiful vertical timeline made with Tabletop.js, Isotope.js & Handerlbarz.js. A collaboration between Balance Media and WNYC/John Keefe.
+
+*   [snookca/CoffeeConsole](https://github.com/snookca/CoffeeConsole) - A Chrome Extension for running CoffeeScript from the Web Inspector
+
+*   [mailcheck/mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
+
+*   [gre/playpainter](https://github.com/gre/playpainter) - A simple Play 2 framework, Canvas and WebSocket experiment where many users can paint their draws simultaneously on a Canvas.
+
+*   [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
+
+*   [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+
+*   [srobbin/jquery-intelligist](https://github.com/srobbin/jquery-intelligist) - a jQuery plugin that makes it easy to share and demo code in-page, using GitHub gists.
+
+*   [ericdrowell/KineticJS](https://github.com/ericdrowell/KineticJS) - KineticJS is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
+
+*   [square/crossfilter](https://github.com/square/crossfilter) - Fast n-dimensional filtering and grouping of records.
+
+*   [fontello/fontello](https://github.com/fontello/fontello) - Iconic fonts scissors
+
+*   [jsoma/tabletop](https://github.com/jsoma/tabletop) - Tabletop.js gives spreadsheets legs
+
+*   [d3/d3-queue](https://github.com/d3/d3-queue) - Evaluate asynchronous tasks with configurable concurrency.
+
+*   [OscarGodson/EpicEditor](https://github.com/OscarGodson/EpicEditor) - EpicEditor is an embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more. For developers, it offers a robust API, can be easily themed, and allows you to swap out the bundled Markdown parser with anything you throw at it.
+
+*   [danmillar/jquery-anystretch](https://github.com/danmillar/jquery-anystretch) - Anystretch is a jQuery plugin that allows you to add a dynamically-resized background image to any page or block level element. The image will stretch to fit the page/element, and will automatically resize as the window size changes.
+
+*   [mbostock/stack](https://github.com/mbostock/stack) - A presentation library with intuitive, scroll-based navigation.
+
+*   [morr/jquery.appear](https://github.com/morr/jquery.appear) - jQuery plugin for tracking element's appearance in browser viewport
+
+*   [arielsalminen/TinyNav.js](https://github.com/arielsalminen/TinyNav.js) - Responsive navigation plugin that weighs just 443 bytes
+
+*   [nytimes/ice](https://github.com/nytimes/ice) - track changes with javascript
+
+*   [thedjpetersen/subway](https://github.com/thedjpetersen/subway) - ABANDONED - A web based IRC client
+
+*   [arielsalminen/ResponsiveSlides.js](https://github.com/arielsalminen/ResponsiveSlides.js) - Simple & lightweight responsive slider plugin (in 1kb)
+
+*   [desandro/vanilla-masonry](https://github.com/desandro/vanilla-masonry) - \[deprecated] Masonry layouts without any frameworks
+
+*   [kastner/droppy](https://github.com/kastner/droppy) - A web front end to a single dropbox folder. With optional basic authentication
+
+*   [bergie/create](https://github.com/bergie/create) - Midgard Create, a generic web editing interface for any CMS
+
+*   [jarred/src-img](https://github.com/jarred/src-img) -
+
+*   [okfocus/okshadow](https://github.com/okfocus/okshadow) - Cursor as light source.
+
+*   [gattis/milkshake](https://github.com/gattis/milkshake) - WebGL Milkdrop Preset Renderer
+
+*   [okfocus/okhover](https://github.com/okfocus/okhover) - Other hover effects are boring.
+
+*   [tmcw/big](https://github.com/tmcw/big) - presentations for busy messy hackers
+
+*   [desandro/imagesloaded](https://github.com/desandro/imagesloaded) - :camera: JavaScript is all like "You images done yet or what?"
+
+*   [podio/jquery-mentions-input](https://github.com/podio/jquery-mentions-input) -
+
+*   [mattkersley/Responsive-Menu](https://github.com/mattkersley/Responsive-Menu) - Turns any \<ol> or \<ul> into a \<select> for mobiles and low browser sizes
+
+*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+
+*   [jsplumb/jsBezier](https://github.com/jsplumb/jsBezier) - Bezier curve helper functions for JavaScript.  Used by jsPlumb; perhaps useful for others.
+
+*   [bryanwoods/autolink-js](https://github.com/bryanwoods/autolink-js) - Tiny little tool to find URLs in a string of text and hyperlink them
+
+*   [mozilla/lightbeam](https://github.com/mozilla/lightbeam) - Orignal unmaintained version of the Lightbeam extension. See lightbeam-we for the new one which works in modern versions of Firefox.
+
+*   [WardCunningham/Smallest-Federated-Wiki](https://github.com/WardCunningham/Smallest-Federated-Wiki) - This wiki innovates by: 1. federated sharing, 2. drag refactoring and 3. data visualization.
+
+*   [tiff/wysihtml5](https://github.com/tiff/wysihtml5) - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
+
+*   [triplecanopy/horizonize](https://github.com/triplecanopy/horizonize) - Horizonize is a jQuery plugin to lay out any HTML content in horizontally-scrolling columns.
+
+*   [philgyford/daily-paper](https://github.com/philgyford/daily-paper) - For viewing a daily issue of the Guardian and Observer newspapers. `main` branch should be stable, current work is in `dev` branch.
+
+*   [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
+
+*   [cemerick/jsdifflib](https://github.com/cemerick/jsdifflib) - A javascript library for diffing text and generating corresponding HTML views
+
+*   [josephg/ShareJS](https://github.com/josephg/ShareJS) - Collaborative editing in any app
+
+*   [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
+
+*   [desandro/typekit-table](https://github.com/desandro/typekit-table) - Sort and filter high-quality fonts from Typekit
+
+*   [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
+
+*   [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
+
+*   [browserstate/history.js](https://github.com/browserstate/history.js) - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.  For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.
+
+*   [samizdatco/arbor](https://github.com/samizdatco/arbor) - a graph visualization library using web workers and jQuery
+
+*   [openannotation/annotator](https://github.com/openannotation/annotator) - Annotation tools for the web. Select text, images, or (nearly) anything else, and add your notes.
+
+*   [strathausen/dracula](https://github.com/strathausen/dracula) - JavaScript layout and representation of connected graphs.
+
+*   [filamentgroup/Responsive-Images](https://github.com/filamentgroup/Responsive-Images) - NOTE: use Picturefill instead. An Experiment with Mobile-First Images that Scale Responsively & Responsibly
+
+*   [nasser/zajal](https://github.com/nasser/zajal) - Experimental creative coding framework
+
+*   [substance/substance-legacy](https://github.com/substance/substance-legacy) - Towards open digital publishing
+
+*   [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
+
+*   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+
+*   [glenmurphy/dropmocks](https://github.com/glenmurphy/dropmocks) - Online image sharing
+
+*   [kylefox/jquery-modal](https://github.com/kylefox/jquery-modal) - The simplest possible modal for jQuery
+
+*   [antimatter15/jsgif](https://github.com/antimatter15/jsgif) - Save a HTML5 Canvas to GIF and Animations. A port of as3gif GIFPlayer to JS
+
+*   [stamen/modestmaps-js](https://github.com/stamen/modestmaps-js) - Modest Maps javascript port
+
+*   [jaukia/zoomooz](https://github.com/jaukia/zoomooz) - An easy-to-use jQuery plugin for making zooming web pages.
+
+*   [jackrusher/jssvggraph](https://github.com/jackrusher/jssvggraph) - Javascript/SVG Graph Layout
+
+*   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+
+*   [jquery-backstretch/jquery-backstretch](https://github.com/jquery-backstretch/jquery-backstretch) - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes.
+
+*   [cowboy/javascript-linkify](https://github.com/cowboy/javascript-linkify) - JavaScript Linkify: Process links in text
+
+*   [migurski/canvas-warp](https://github.com/migurski/canvas-warp) - Map warping with HTML canvas
+
+*   [rsms/hunch-upload](https://github.com/rsms/hunch-upload) - Multiple concurrent files uploads with progress in pure HTML
+
+*   [mattb/flotsam](https://github.com/mattb/flotsam) - Slushpile for handy fragments of script that don't fit anywhere else
+
+*   [asual/jquery-address](https://github.com/asual/jquery-address) - jQuery Address - Deep linking for the masses
+
+*   [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
+
+*   [nakajima/slidedown](https://github.com/nakajima/slidedown) - Generate syntax-highlighted slides from Markdown
+
+*   [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
+
+*   [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
+
 ## TypeScript
 
 *   [ascorbic/astro-loaders](https://github.com/ascorbic/astro-loaders) - Astro loaders
@@ -69,7 +1085,7 @@
 
 *   [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
-*   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query.
+*   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 
 *   [gardencmp/jazz](https://github.com/gardencmp/jazz) - Build your next app with sync.
 
@@ -123,7 +1139,7 @@
 
 *   [josdejong/immutable-json-patch](https://github.com/josdejong/immutable-json-patch) - Immutable JSON patch with support for reverting operations
 
-*   [streamich/json-joy](https://github.com/streamich/json-joy) - JSON CRDT, JSON CRDT Patch, JSON Patch+, JSON Predicate, JSON Pointer, JSON Expression, JSON Type
+*   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
 
 *   [spencerc99/playhtml](https://github.com/spencerc99/playhtml) - interactive, collaborative html elements with a single data attribute
 
@@ -1761,1020 +2777,6 @@
 
 *   [ekafyi/johnnydecimal-index-generator](https://github.com/ekafyi/johnnydecimal-index-generator) - Code for the Johnny Decimal Index Generator web app
 
-## JavaScript
-
-*   [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
-
-*   [dennishansen/holograph](https://github.com/dennishansen/holograph) - A new kind of visual programming
-
-*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - Obsidian Template for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
-
-*   [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
-
-*   [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
-
-*   [andywalters47/clearmail](https://github.com/andywalters47/clearmail) - Filter gmail with AI
-
-*   [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
-
-*   [vanadium23/obsidian-dataview-inlinedb](https://github.com/vanadium23/obsidian-dataview-inlinedb) -
-
-*   [Prototypr/prototypr-frontend](https://github.com/Prototypr/prototypr-frontend) - Open source publishing platform, built with Next.js and Strapi CMS backend. Uses Tiptap / Prose-mirror editor. 💙
-
-*   [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-
-*   [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-
-*   [pockethost/pockethost](https://github.com/pockethost/pockethost) - Open source multitenant PocketBase server
-
-*   [matschik/component-party.dev](https://github.com/matschik/component-party.dev) - 🎉 Web component JS frameworks overview by their syntax and features
-
-*   [razshare/sveltekit-sse](https://github.com/razshare/sveltekit-sse) - Server Sent Events with SvelteKit
-
-*   [baisong/sveltekit-airtable-quickstart](https://github.com/baisong/sveltekit-airtable-quickstart) - Implements the official Airtable NPM package, making fetched records accessible in the +page.svelte data object
-
-*   [Flet/github-slugger](https://github.com/Flet/github-slugger) - :octocat: Generate a slug just like GitHub does for markdown headings.
-
-*   [carbon-design-system/devtools](https://github.com/carbon-design-system/devtools) - A simple set of tools for teams building live Carbon pages.
-
-*   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
-
-*   [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
-
-*   [ptkdev/sveltekit-electron-adapter](https://github.com/ptkdev/sveltekit-electron-adapter) - Adapter for building desktop apps with Svelte Kit and Electron
-
-*   [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
-
-*   [DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 \[ES6] cheatsheet containing tips, tricks, best practices and code snippets
-
-*   [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
-
-*   [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
-
-*   [thomasreinecke/git-playbook](https://github.com/thomasreinecke/git-playbook) - GIT Playbook is a documentation framework that allows you to create Documentation for your project using Markdown and GH-Pages rapidly
-
-*   [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
-
-*   [fnando/sparkline](https://github.com/fnando/sparkline) - Generate SVG sparklines with JavaScript without any external dependency.
-
-*   [mariusGundersen/sparkline](https://github.com/mariusGundersen/sparkline) -
-
-*   [danielBingham/peerreview](https://github.com/danielBingham/peerreview) - A diamond open access (free to access, free to publish), open source scientific and academic publishing platform.
-
-*   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
-
-*   [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
-
-*   [kingsloi/slack-backup-viewer](https://github.com/kingsloi/slack-backup-viewer) -
-
-*   [Sorunome/slack-markdown](https://github.com/Sorunome/slack-markdown) - A slack markdown parser
-
-*   [aws-samples/amazon-cloudfront-secure-static-site](https://github.com/aws-samples/amazon-cloudfront-secure-static-site) - Create a secure static website with CloudFront for your registered domain.
-
-*   [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
-
-*   [11ty/webc](https://github.com/11ty/webc) - Single File Web Components
-
-*   [roxiness/poindexter](https://github.com/roxiness/poindexter) - Search engine for your static site
-
-*   [5t3ph/11ty-serverless-search](https://github.com/5t3ph/11ty-serverless-search) - An example of using 11ty Serverless to. create site search using local and external data sources.
-
-*   [aha-app/netlify-flexsearch](https://github.com/aha-app/netlify-flexsearch) - Implement search for static sites on Netlify, powered by FlexSearch and Netlify functions
-
-*   [11ty/demo-eleventy-serverless-oauth](https://github.com/11ty/demo-eleventy-serverless-oauth) - A demo project using OAuth to secure some of your Eleventy Serverless routes.
-
-*   [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
-
-*   [usdigitalresponse/neighbor-express](https://github.com/usdigitalresponse/neighbor-express) - Neighbor Express project to provide support for homebound seniors and residents
-
-*   [mingiryu/insights](https://github.com/mingiryu/insights) - Airtable Insights Block
-
-*   [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
-
-*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-
-*   [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
-
-*   [interop-alliance/life-server](https://github.com/interop-alliance/life-server) - A decentralized personal data framework inspired by MIT's Solid Project
-
-*   [AramZS/context-center](https://github.com/AramZS/context-center) - A central website for introducing context to multiple topics.
-
-*   [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
-
-*   [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Gatsby and Airtable.
-
-*   [palewire/news-homepages](https://github.com/palewire/news-homepages) - An open-source archive that gathers, saves, shares and analyzes news homepages
-
-*   [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
-
-*   [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-
-*   [samirillion/air\_gantt](https://github.com/samirillion/air_gantt) - Airtable data to force-directed graph
-
-*   [gavinr/github-csv-tools](https://github.com/gavinr/github-csv-tools) - Import and export GitHub issues via CSV
-
-*   [s-blu/obsidian\_dataview\_example\_vault](https://github.com/s-blu/obsidian_dataview_example_vault) - A example vault to collect and showcase various dataview queries. Created on behalf of AB1908
-
-*   [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
-
-*   [andybywire/ux-methods](https://github.com/andybywire/ux-methods) - A lightweight Jamstack knowledge graph application
-
-*   [Airtable-Labs/upsert-examples](https://github.com/Airtable-Labs/upsert-examples) - Example code demonstrating how to "upsert" (update or insert) records to an Airtable table in various languages
-
-*   [Airtable-Labs/example-slack-bug-tracker](https://github.com/Airtable-Labs/example-slack-bug-tracker) - A Slack app with a form (aka "modal") that saves responses to an Airtable base
-
-*   [postlight/account](https://github.com/postlight/account) - 📚️ ➕ 🔢  Tell little stories with numbers
-
-*   [vsoch/search](https://github.com/vsoch/search) - a search interface for any user account or organization
-
-*   [Hypertopic/Cassandre](https://github.com/Hypertopic/Cassandre) - Diary for qualitative analysis
-
-*   [sampoder/nextjs-isr-swr-example](https://github.com/sampoder/nextjs-isr-swr-example) - 👾 Basic example of using Next.js, ISR & SWR
-
-*   [TheF1rstPancake/AirtableOpenAPICustomBlock](https://github.com/TheF1rstPancake/AirtableOpenAPICustomBlock) - Create an OpenAPI specification for a given Airtable base using Airtable's Custom Blocks platform
-
-*   [aavf/react-airtable-crud](https://github.com/aavf/react-airtable-crud) - simple CRUD app with reactjs + Airtable (database + API) + netlify functions for serverless backend
-
-*   [geocarlos/inair\_prime\_custom\_app\_starter](https://github.com/geocarlos/inair_prime_custom_app_starter) - An Airtable Custom App template by InAir Studio using PrimeReact
-
-*   [juliankrispel/slate-highlight-lesson](https://github.com/juliankrispel/slate-highlight-lesson) -
-
-*   [mulfok/periodic-note-templates](https://github.com/mulfok/periodic-note-templates) - A set of periodic note templates for Obsidian.md.
-
-*   [graphology/graphology](https://github.com/graphology/graphology) - A robust & multipurpose Graph object for JavaScript & TypeScript.
-
-*   [kevboh/example-vault](https://github.com/kevboh/example-vault) - A sample Obsidian vault with a subset of my plugins and templates, for demo purposes.
-
-*   [avanavana/esovdb-api](https://github.com/avanavana/esovdb-api) - Public API cache proxy built on the Earth Science Online Video Database, an Airtable base, which also syncs to Zotero and broadcasts new submissions to Discord, Twitter, etc.
-
-*   [chhoumann/DemoVault](https://github.com/chhoumann/DemoVault) - Demo vault for Obsidian stuff by Christian.
-
-*   [leafamrit/transcription-editor](https://github.com/leafamrit/transcription-editor) - JavaScript based transcription editing interface.
-
-*   [pietrop/fact2\_transcription\_editor](https://github.com/pietrop/fact2_transcription_editor) - a client side transcriptions text editor to proofread and correct the text before re-alignement back on the server.
-
-*   [alexnorton/overtyper](https://github.com/alexnorton/overtyper) - Experiment in automatic insertion of timed transcript corrections
-
-*   [alexnorton/transcript-model](https://github.com/alexnorton/transcript-model) - JSON schema and JavaScript model classes for dealing with time-aligned transcripts of speech.
-
-*   [smlum/scription](https://github.com/smlum/scription) - An editor for speech-to-text transcripts such as AWS Transcribe and Mozilla DeepSpeech
-
-*   [abhinavk96/Transcriptor](https://github.com/abhinavk96/Transcriptor) - A transcription text editor with respeak module
-
-*   [pietrop/slate-transcript-editor](https://github.com/pietrop/slate-transcript-editor) - A React component to make correcting automated transcriptions of audio and video easier and faster. Using the SlateJs editor.
-
-*   [alexnorton/transcript-editor](https://github.com/alexnorton/transcript-editor) - Timed-transcript editor component built using Draft.js.
-
-*   [bbc/react-transcript-editor](https://github.com/bbc/react-transcript-editor) - A React component to make correcting automated transcriptions of audio and video easier and faster. By BBC News Labs. - Work in progress
-
-*   [tanepiper/obsidian-garden](https://github.com/tanepiper/obsidian-garden) - A knowledge management garden for https://obsidian.md, in which to grow your ideas
-
-*   [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow with dozens of features for controlling your Obsidian vault.
-
-*   [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
-
-*   [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
-
-*   [MarkMindCkm/obsidian-enhancing-mindmap](https://github.com/MarkMindCkm/obsidian-enhancing-mindmap) - obsidian plugin editable mindmap,you can edit mindmap on markdown file
-
-*   [shawngraham/obsidian-student-starter-vault](https://github.com/shawngraham/obsidian-student-starter-vault) - a vault with useful plugins, simple workflow, for my students
-
-*   [BradNeuberg/stretchtext.js](https://github.com/BradNeuberg/stretchtext.js) - An implementation of StretchText for JavaScript, which makes it possible to show and hide nested information on web pages
-
-*   [policykit/policykit](https://github.com/policykit/policykit) - Toolkit for building governance in your online community
-
-*   [molleindustria/likelike-online](https://github.com/molleindustria/likelike-online) - The tiniest MMORPG
-
-*   [No-Plans/local-list](https://github.com/No-Plans/local-list) - text-file-to-p2p-web
-
-*   [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
-
-*   [felixhayashi/TW5-TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap) - Map drawing and topic visualization for your wiki
-
-*   [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
-
-*   [aengusmcmillin/gatsby-theme-brain](https://github.com/aengusmcmillin/gatsby-theme-brain) -
-
-*   [houshuang/kindle-clippings-to-bullet](https://github.com/houshuang/kindle-clippings-to-bullet) -
-
-*   [RD17/ambar](https://github.com/RD17/ambar) - :mag: Ambar: Document Search Engine
-
-*   [algolia/talksearch-scraper](https://github.com/algolia/talksearch-scraper) - Extract captions and metadata from YouTube playlists and push them to Algolia
-
-*   [algolia/talksearch.js](https://github.com/algolia/talksearch.js) - The easiest way to add search to your conference videos.
-
-*   [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
-
-*   [dhotson/springy](https://github.com/dhotson/springy) - A force directed graph layout algorithm in JavaScript
-
-*   [vasturiano/force-graph](https://github.com/vasturiano/force-graph) - Force-directed graph rendered on HTML5 canvas
-
-*   [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
-
-*   [triplecanopy/b-ber](https://github.com/triplecanopy/b-ber) - b-ber is both a method and an application for producing publications in a variety of formats—EPUB 3, Mobi/KF8, static website, PDF, and XML file, which can be imported into InDesign for print layouts—from a single source that consists of plain-text files and other assets. b-ber also functions as a browser-based EPUB reader, which explains the name.
-
-*   [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
-
-*   [jondashkyle/setinterval](https://github.com/jondashkyle/setinterval) - Browser-based durational works
-
-*   [daylog/daylog](https://github.com/daylog/daylog) - ☀️📝 write notes daily
-
-*   [pfrazee/node-http-dat-forum](https://github.com/pfrazee/node-http-dat-forum) - A Web forum built on Nodejs, Dat and HTTP
-
-*   [arfct/itty-bitty](https://github.com/arfct/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
-
-*   [bevacqua/shots](https://github.com/bevacqua/shots) - :gun: pull down the entire Internet into a single animated gif.
-
-*   [frnsys/hyperdocs](https://github.com/frnsys/hyperdocs) - p2p collaborative document editing
-
-*   [cblgh/decent-dat-intro](https://github.com/cblgh/decent-dat-intro) - a buffet of tiny demos for easing in everyone with developing decentralized apps
-
-*   [juanpabloaj/p2p-microblog](https://github.com/juanpabloaj/p2p-microblog) - Peer-to-peer microblog with BeakerBrowser and dat\_project, subscribe and follow other users
-
-*   [cabal-club/cabal-cli](https://github.com/cabal-club/cabal-cli) - Terminal client for Cabal, the p2p chat platform.
-
-*   [josephernest/bigpicture.js](https://github.com/josephernest/bigpicture.js) - bigpicture.js is a Javascript library that allows infinite panning and infinite zooming in HTML pages.
-
-*   [paul90/wiki-client-dat-variant](https://github.com/paul90/wiki-client-dat-variant) - A dat based variant of the Federated Wiki client
-
-*   [cameroncowden/cms.js](https://github.com/cameroncowden/cms.js) - The Javascript Site Generator! now for p2p / beaker browser
-
-*   [s3ththompson/readrc](https://github.com/s3ththompson/readrc) - 🗂 online content digests, for picky readers
-
-*   [hypermodules/hyperamp](https://github.com/hypermodules/hyperamp) - 🎛 Humble music player
-
-*   [jimpick/dat-tiddlywiki](https://github.com/jimpick/dat-tiddlywiki) - Multiwriter Dat + TiddlyWiki
-
-*   [kodedninja/orkl](https://github.com/kodedninja/orkl) - Simple peer-to-peer blogging site
-
-*   [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-
-*   [zachmandeville/wheat-paste](https://github.com/zachmandeville/wheat-paste) - A light event maker for dat sites, to hold parties in the Chorus.
-
-*   [mmckegg/loop-drop-app](https://github.com/mmckegg/loop-drop-app) - \[unmaintained] MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs
-
-*   [sinabahram/sharab](https://github.com/sinabahram/sharab) - A NodeJS webapp with a RESTful API to manage a wine collection
-
-*   [tomeshnet/p2p-internet-workshop](https://github.com/tomeshnet/p2p-internet-workshop) - Building the Peer-to-Peer Internet workshop series
-
-*   [terra0project/source](https://github.com/terra0project/source) - A collection of experimental smart contracts for environmental management
-
-*   [ssbc/ssb-server](https://github.com/ssbc/ssb-server) - The gossip and replication server for Secure Scuttlebutt - a distributed social network
-
-*   [alvesjtiago/clip2p](https://github.com/alvesjtiago/clip2p) - Decentralized file sharing right from the menu bar (based on the Dat Protocol).
-
-*   [jimpick/dat-shopping-list](https://github.com/jimpick/dat-shopping-list) - A progress web app built to demonstrate Dat multi-writer support (hyperdrive+hyperdb) as a web backend
-
-*   [text-mask/text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
-
-*   [new-computers/guides](https://github.com/new-computers/guides) - Guides on setting up (all) forms of new computers
-
-*   [beakerbrowser/hashbase](https://github.com/beakerbrowser/hashbase) - A Dat-hosting service for multiple users
-
-*   [jo-fu/TimeLineCurator](https://github.com/jo-fu/TimeLineCurator) - A visual timeline authoring tool that extracts temporal information from freeform text
-
-*   [kodedninja/solo](https://github.com/kodedninja/solo) - The simplest publication tool
-
-*   [enokidotsite/enoki](https://github.com/enokidotsite/enoki) - ultralight tools for creating p2p sites
-
-*   [puckey/learning-by-example](https://github.com/puckey/learning-by-example) - An automated are.na channel
-
-*   [new-computers/arena-toolkit](https://github.com/new-computers/arena-toolkit) - Access to tools
-
-*   [marijnh/Eloquent-JavaScript](https://github.com/marijnh/Eloquent-JavaScript) - The sources for the Eloquent JavaScript book
-
-*   [bradley/Blotter](https://github.com/bradley/Blotter) - A JavaScript API for drawing unconventional text effects on the web.
-
-*   [sindresorhus/refined-twitter](https://github.com/sindresorhus/refined-twitter) - Browser extension that simplifies the Twitter interface and adds useful features
-
-*   [benjamminf/warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
-
-*   [dawnlabs/alchemy](https://github.com/dawnlabs/alchemy) - :crystal\_ball: File conversion, all from the menu bar
-
-*   [schne324/dragon-drop](https://github.com/schne324/dragon-drop) - Accessible drag and drop list reorder module
-
-*   [thmsbfft/oryoki](https://github.com/thmsbfft/oryoki) - Ōryōki \[応量器] is an experimental web browser with a thin interface.
-
-*   [broskoski/mac.are.na](https://github.com/broskoski/mac.are.na) - Are.na channel -> playlist
-
-*   [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
-
-*   [JasonEtco/todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
-
-*   [chrisdmacrae/front-matter-manipulator](https://github.com/chrisdmacrae/front-matter-manipulator) - A utility for parsing and manipulating documents with Front Matter
-
-*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-
-*   [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
-
-*   [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
-
-*   [wshanks/Zutilo](https://github.com/wshanks/Zutilo) - Zotero plugin providing some additional editing features
-
-*   [mronkko/ZoteroQuickLook](https://github.com/mronkko/ZoteroQuickLook) - Implements QuickLook in Zotero
-
-*   [dokieli/dokieli](https://github.com/dokieli/dokieli) - :bulb: dokieli is a clientside editor for decentralised article publishing, annotations and social interactions
-
-*   [luke-chang/js-spatial-navigation](https://github.com/luke-chang/js-spatial-navigation) - A javascript-based implementation of Spatial Navigation.
-
-*   [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
-
-*   [ghosh/Micromodal](https://github.com/ghosh/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
-
-*   [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
-
-*   [techcoop/json-google-docs](https://github.com/techcoop/json-google-docs) - Uses Google Apps Scripts with Google Docs to provide a document tree in JSON exposed on a GET URL for integration into anything.
-
-*   [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
-
-*   [Heydon/inclusive-design-checklist](https://github.com/Heydon/inclusive-design-checklist) - Aims to be the biggest checklist of inclusive design considerations ever
-
-*   [teropa/Piano](https://github.com/teropa/Piano) - Multisampled Piano implementation using Salamander Grand Piano Sounds
-
-*   [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
-
-*   [google/bottery](https://github.com/google/bottery) -
-
-*   [jondashkyle/dropout](https://github.com/jondashkyle/dropout) - save a page for offline access and archival
-
-*   [tensorfire/cyborg-writer](https://github.com/tensorfire/cyborg-writer) - An experimental text editor with an embedded neural text synthesizer
-
-*   [micjamking/synth-secrets](https://github.com/micjamking/synth-secrets) - Screen-scraped articles on subtractive synthesis (using Node.js)
-
-*   [brocessing/kirby-webpack](https://github.com/brocessing/kirby-webpack) - :muscle: A Kirby CMS starter-kit with modern frontend tools
-
-*   [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
-
-*   [hundredrabbits/Marabu](https://github.com/hundredrabbits/Marabu) - Music Synthetiser
-
-*   [GeneralTrademark/print-arena](https://github.com/GeneralTrademark/print-arena) - Make it easier to print out arena channels for inspo walls and stuff...
-
-*   [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
-
-*   [pnegahdar/electro](https://github.com/pnegahdar/electro) - ⚡️ Personal Github pages lite. Share prototypes with teammates. Host static sites. Share documents.
-
-*   [puckey/dance-tonite](https://github.com/puckey/dance-tonite) - An ever-changing VR collaboration by LCD Soundsystem and their fans.
-
-*   [sdockray/academia](https://github.com/sdockray/academia) - Academia.edu publications
-
-*   [olach/kirby-relationship](https://github.com/olach/kirby-relationship) - Sortable multiselect field for Kirby 2 CMS
-
-*   [s3ththompson/new-work](https://github.com/s3ththompson/new-work) - ✨ Discover when artists post new work
-
-*   [netlify/staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
-
-*   [krikienoid/flagwaver](https://github.com/krikienoid/flagwaver) - A web app for simulating a waving flag.
-
-*   [aredotna/warburg](https://github.com/aredotna/warburg) -
-
-*   [marcbachmann/node-html-pdf](https://github.com/marcbachmann/node-html-pdf) - This repo isn't maintained anymore as phantomjs got dreprecated a long time ago. Please migrate to headless chrome/puppeteer.
-
-*   [nklnkl/Article-Spinner](https://github.com/nklnkl/Article-Spinner) - Allows users to enter text and replaces words with synonyms to generate new text.
-
-*   [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
-
-*   [dimsemenov/Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
-
-*   [floriankarsten/kirby-tablex](https://github.com/floriankarsten/kirby-tablex) - KIRBY 2 ONLY. No plans for K3 version yet. Table field for Kirby CMS.
-
-*   [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
-
-*   [tbranyen/hyperlist](https://github.com/tbranyen/hyperlist) - A performant virtual scrolling list utility capable of rendering millions of rows
-
-*   [stacks-archive/blockstack.org](https://github.com/stacks-archive/blockstack.org) - The Blockstack website
-
-*   [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
-
-*   [yoeran/kirby-kit](https://github.com/yoeran/kirby-kit) - Kirby CMS starter kit with Gulp
-
-*   [ManifoldScholar/manifold](https://github.com/ManifoldScholar/manifold) - Transforming scholarly publications into living digital works.
-
-*   [javierbyte/control-user-cursor](https://github.com/javierbyte/control-user-cursor) - Small experiment to 'control' the user cursor with JavaScript and CSS.
-
-*   [frnsys/the\_founder](https://github.com/frnsys/the_founder) - start a company, ruin the world
-
-*   [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
-
-*   [almonk/shrink2](https://github.com/almonk/shrink2) - A professional for your Github issues
-
-*   [julkue/mark.js](https://github.com/julkue/mark.js) - JavaScript keyword highlighting. Mark text with options that fit every application. Also available as jQuery plugin.
-
-*   [opencollective/opencollective-website](https://github.com/opencollective/opencollective-website) - OpenCollective frontend
-
-*   [ezekielaquino/Marquee3000](https://github.com/ezekielaquino/Marquee3000) - Marquees for the new millenium
-
-*   [overview/overview-apps](https://github.com/overview/overview-apps) - Apps that make overview-server even awesomer
-
-*   [dropbox/dropbox-sdk-js](https://github.com/dropbox/dropbox-sdk-js) - The Official Dropbox API V2 SDK for Javascript
-
-*   [hackergrrl/hyperpad](https://github.com/hackergrrl/hyperpad) -  :bamboo: A peer-to-peer collaborative text editor for people and their communities.
-
-*   [mafintosh/hyperlog](https://github.com/mafintosh/hyperlog) - Merkle DAG that replicates based on scuttlebutt logs and causal linking
-
-*   [feross/last-fm](https://github.com/feross/last-fm) - Simple, robust LastFM API client (for public data)
-
-*   [chriszarate/sheetrock](https://github.com/chriszarate/sheetrock) - Quickly connect to, query, and lazy-load data from Google Spreadsheets.
-
-*   [entozoon/movies-for-hackers](https://github.com/entozoon/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
-
-*   [accraze/split-md](https://github.com/accraze/split-md) - :wavy\_dash: Split a Markdown file into smaller files
-
-*   [futurepress/epub.js](https://github.com/futurepress/epub.js) - Enhanced eBooks in the browser.
-
-*   [owencm/secretbook](https://github.com/owencm/secretbook) - A Chrome app for Steganography on Facebook
-
-*   [callmecavs/gotem](https://github.com/callmecavs/gotem) - Copy to clipboard for modern browsers in less than 1kb.
-
-*   [onedayitwillmake/CirclePackingJS](https://github.com/onedayitwillmake/CirclePackingJS) - Circle packing algorithm in javascript
-
-*   [frnsys/random\_3d\_scenes](https://github.com/frnsys/random_3d_scenes) - random 3d scenes with threejs
-
-*   [frnsys/svg\_blobs](https://github.com/frnsys/svg_blobs) - floating svg masking blobs
-
-*   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
-
-*   [richardharrington/indesign-scripts](https://github.com/richardharrington/indesign-scripts) -
-
-*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-
-*   [kingdido999/zooming](https://github.com/kingdido999/zooming) - 🔍 Image zoom that makes sense.
-
-*   [opendot/ml4a-invisible-cities](https://github.com/opendot/ml4a-invisible-cities) -
-
-*   [tumblr/laphs](https://github.com/tumblr/laphs) - Apple Live Photo support on the web, courtesy of Tumblr
-
-*   [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
-
-*   [feross/whiteboard](https://github.com/feross/whiteboard) - P2P Whiteboard powered by WebRTC and WebTorrent
-
-*   [fedwiki/wiki-plugin-factory](https://github.com/fedwiki/wiki-plugin-factory) -
-
-*   [fedwiki/wiki-client](https://github.com/fedwiki/wiki-client) - Federated wiki client-side javascript as a npm module.
-
-*   [paul90/small-client-wiki](https://github.com/paul90/small-client-wiki) - We explore a read-only client written in react.
-
-*   [soulwire/WTFEngine](https://github.com/soulwire/WTFEngine) - An HTML / CSS / JavaScript template for creating WhatTheFuckIsMyMashup.com style web sites
-
-*   [stml/welcomejs](https://github.com/stml/welcomejs) - A friendly script.
-
-*   [dollarshaveclub/shave](https://github.com/dollarshaveclub/shave) - 💈 Shave is a 0 dep JS plugin that truncates text to fit within an element based on a set max-height  ✁
-
-*   [feross/electron-workshop](https://github.com/feross/electron-workshop) - Workshop: Build cross-platform desktop apps with Electron
-
-*   [NeXTs/Jets.js](https://github.com/NeXTs/Jets.js) - Native CSS search engine
-
-*   [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-
-*   [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
-
-*   [segmentio/daydream](https://github.com/segmentio/daydream) - A chrome extension to record your actions into a nightmare or puppeteer script
-
-*   [judell/h\_export](https://github.com/judell/h_export) -
-
-*   [benhowdle89/grade](https://github.com/benhowdle89/grade) - This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images.
-
-*   [dli/waves](https://github.com/dli/waves) - Ocean Wave Simulation - http://david.li/waves
-
-*   [desandro/arpeggiator](https://github.com/desandro/arpeggiator) - Web audio arpeggiator
-
-*   [Octo-Labs/HandlebaRss](https://github.com/Octo-Labs/HandlebaRss) - A simple JavaScript RSS viewer using handlebars templates.
-
-*   [slackapi/onboarding-example](https://github.com/slackapi/onboarding-example) - A demonstration of how to build an onboarding app using Slack's Events API
-
-*   [danielzarick/Colorplane](https://github.com/danielzarick/Colorplane) - A color picker for humans. Built with canvas & javascript.
-
-*   [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
-
-*   [davidmerfield/randomColor](https://github.com/davidmerfield/randomColor) - A tiny script for generating attractive colors
-
-*   [joelcarranza/particular-pinboard](https://github.com/joelcarranza/particular-pinboard) - An enhanced pinboard bookmarklet for the persnickety
-
-*   [tchoi8/poetic-computation-16](https://github.com/tchoi8/poetic-computation-16) - Class at SFPC Summer 2016
-
-*   [patriciogonzalezvivo/eyeo16](https://github.com/patriciogonzalezvivo/eyeo16) -
-
-*   [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
-
-*   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-
-*   [frctl/fractal](https://github.com/frctl/fractal) - A tool to help you build and document website component libraries and design systems.
-
-*   [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
-
-*   [blaiprat/jquery.animateSprite](https://github.com/blaiprat/jquery.animateSprite) - Animating sprites using jQuery made easy
-
-*   [luruke/adapttext.js](https://github.com/luruke/adapttext.js) - :raised\_hands: - AdaptText.js is a dependency free and simple javascript solution capable to fit your text inside the parent element
-
-*   [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
-
-*   [princejwesley/minimap](https://github.com/princejwesley/minimap) - A preview of full webpage or its DOM element with flexible positioning and navigation support
-
-*   [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
-
-*   [dirkweber/csswarp.js](https://github.com/dirkweber/csswarp.js) - "warp" HTML text around an arbitrary path.
-
-*   [twitter/labella.js](https://github.com/twitter/labella.js) - Placing labels on a timeline without overlap.
-
-*   [bizweekgraphics/swoopyarrows](https://github.com/bizweekgraphics/swoopyarrows) - swoopyarrows makes swoopy arrows between things
-
-*   [humaan/Modaal](https://github.com/humaan/Modaal) - An accessible dialog window library for all humans.
-
-*   [dhowe/RiTaV1](https://github.com/dhowe/RiTaV1) - RiTa: the generative language toolkit
-
-*   [Programming-from-A-to-Z/SFPC-Twitter-Bot-Workshop](https://github.com/Programming-from-A-to-Z/SFPC-Twitter-Bot-Workshop) - Repository for examples and info for SFPC's Twitter Bot Workshop
-
-*   [ddluc/grunt-backstop](https://github.com/ddluc/grunt-backstop) - backstopjs shim for grunt
-
-*   [thingsinjars/Hardy](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
-
-*   [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
-
-*   [w3c/wcag-em-report-tool](https://github.com/w3c/wcag-em-report-tool) - Interactive Guide to Assist Managing Web Accessibility Evaluations
-
-*   [jdan/tota11y](https://github.com/jdan/tota11y) - an accessibility (a11y) visualization toolkit
-
-*   [googlearchive/accessibility-developer-tools-extension](https://github.com/googlearchive/accessibility-developer-tools-extension) -
-
-*   [yargalot/AccessSniff](https://github.com/yargalot/AccessSniff) - Automated accessibility testing using HTML\_Codesniffer (WCAG and Section508)
-
-*   [yargalot/grunt-accessibility](https://github.com/yargalot/grunt-accessibility) - Use HTML codesniffer to grade accessibility
-
-*   [addyosmani/a11y](https://github.com/addyosmani/a11y) - Accessibility audit tooling for the web (beta)
-
-*   [GoogleChrome/accessibility-developer-tools](https://github.com/GoogleChrome/accessibility-developer-tools) - This is a library of accessibility-related testing and utility code.
-
-*   [prettydiff/colorContrast](https://github.com/prettydiff/colorContrast) - accessibility color contrast tool
-
-*   [siege-media/contrast-ratio](https://github.com/siege-media/contrast-ratio) - A tool to calculate the contrast ratio between any two valid CSS colors.
-
-*   [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
-
-*   [dylanb/a11yfy](https://github.com/dylanb/a11yfy) - Accessibility Library for jQuery
-
-*   [howlowck/Akbar](https://github.com/howlowck/Akbar) - A bookmarklet that simulates various types of users with disabilities.  It is an education tool that will hopefully educate people about web accessibility.
-
-*   [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
-
-*   [galaxykate/tracery](https://github.com/galaxykate/tracery) - Tracery: a story-grammar generation library for javascript
-
-*   [svg/svgo-gui](https://github.com/svg/svgo-gui) - Node-WebKit based GUI for SVGO
-
-*   [andrewfiorillo/sketch-palettes](https://github.com/andrewfiorillo/sketch-palettes) - A Sketch plugin for exporting and importing fill presets. It supports colors, gradients, and pattern fills.
-
-*   [Editorially/styleguide](https://github.com/Editorially/styleguide) - Static style guide of the application
-
-*   [filamentgroup/loadCSS](https://github.com/filamentgroup/loadCSS) - Load CSS asynchronously
-
-*   [filamentgroup/criticalCSS](https://github.com/filamentgroup/criticalCSS) - Finds the Above the Fold CSS for your page, and outputs it into a file
-
-*   [VPenkov/okayNav](https://github.com/VPenkov/okayNav) - The world's okayest responsive navigation. This is (sort of) a legacy implementation. Please stay tuned to the 3.0 branch (https://github.com/VPenkov/okayNav/tree/v3.0)
-
-*   [cee-chen/object-fit-polyfill](https://github.com/cee-chen/object-fit-polyfill) - A Javascript polyfill for browsers that don't support the object-fit CSS property.
-
-*   [dariusk/corpora](https://github.com/dariusk/corpora) - A collection of small corpuses of interesting data for the creation of bots and similar stuff.
-
-*   [logicx24/MarkovsInequality](https://github.com/logicx24/MarkovsInequality) - A Bot for Facebook Messenger.
-
-*   [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
-
-*   [nhunzaker/speakeasy](https://github.com/nhunzaker/speakeasy) - A simple natural language tool written for NodeJS
-
-*   [blorkfish/livescribe-offline-player](https://github.com/blorkfish/livescribe-offline-player) - An offline player for livescribe 3 smart pens.
-
-*   [defmethodinc/just-not-sorry](https://github.com/defmethodinc/just-not-sorry) - Chrome extension that warns you when you write emails using words which undermine your message
-
-*   [moose-team/friends](https://github.com/moose-team/friends) - :tv: P2P chat powered by the web.
-
-*   [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
-
-*   [fluid-project/infusion](https://github.com/fluid-project/infusion) - Infusion is a web framework that supports inclusive design.
-
-*   [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
-
-*   [mauricerenck/sublime-kirby2](https://github.com/mauricerenck/sublime-kirby2) - Kirby CMS v2 snippets for sublime text
-
-*   [gruntjs/grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify) - Minify files with UglifyJS.
-
-*   [JonasDoebertin/kirby-visual-markdown](https://github.com/JonasDoebertin/kirby-visual-markdown) - Visual Markdown Editor for Kirby CMS 2
-
-*   [tessalt/echo-chamber-js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments
-
-*   [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
-
-*   [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
-
-*   [shyamseshadri/angularjs-up-and-running](https://github.com/shyamseshadri/angularjs-up-and-running) - All the source code for the AngularJS Up & Running Book for O'Reilly
-
-*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-
-*   [archivist/archivist](https://github.com/archivist/archivist) - A full-stack publishing solution involving different technologies to power digital archives
-
-*   [muan/mojibar](https://github.com/muan/mojibar) - :tangerine: Emoji searcher but as a menubar app.
-
-*   [dataliterate/data-populator](https://github.com/dataliterate/data-populator) - A plugin for Sketch and Adobe XD to populate your design mockups with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
-
-*   [voxmedia/autotune](https://github.com/voxmedia/autotune) - Platform for reusable news tools
-
-*   [purifycss/purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
-
-*   [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
-
-*   [brooklynjs/brooklynjs.github.io](https://github.com/brooklynjs/brooklynjs.github.io) - The world's most popular programming language, in New York's most popular borough
-
-*   [airhadoken/snowclone-a-minute](https://github.com/airhadoken/snowclone-a-minute) - Snowclone a Minute! You too can write an annoying twitter bot of your choosing.
-
-*   [uBlock-LLC/uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
-
-*   [rauchg/slackin](https://github.com/rauchg/slackin) - Public Slack organizations made easy
-
-*   [mimo84/bootstrap-maxlength](https://github.com/mimo84/bootstrap-maxlength) - This plugin integrates by default with Twitter bootstrap using badges to display the maximum lenght of the field where the user is inserting text. Uses the HTML5 attribute "maxlength" to work.
-
-*   [tangentialism/fast-diff](https://github.com/tangentialism/fast-diff) - A fast Javascript string diff
-
-*   [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
-
-*   [meatspaces/meatspace-chat](https://github.com/meatspaces/meatspace-chat) - Chat with WebRTC, LevelDB and Sockets
-
-*   [scdoshi/jquery-ajaxchimp](https://github.com/scdoshi/jquery-ajaxchimp) - Use ajax for your mailchimp form
-
-*   [typekit/webfontloader](https://github.com/typekit/webfontloader) - Web Font Loader gives you added control when using linked fonts via @font-face.
-
-*   [BenWard/cloud-to-moon](https://github.com/BenWard/cloud-to-moon) - Extension for Chrome and Safari that replaces all occurrences of 'the cloud' with 'the moon.' Because of @blech.
-
-*   [Programming-from-A-to-Z/Programming-from-A-to-Z-F14](https://github.com/Programming-from-A-to-Z/Programming-from-A-to-Z-F14) - Repository for ITP Fall 2014 Course
-
-*   [bbc/newslabs-datastringer](https://github.com/bbc/newslabs-datastringer) - Monitor datasets, gets alerts when something happens
-
-*   [bendc/anchor-scroll](https://github.com/bendc/anchor-scroll) - Smooth and lightweight anchor scrolling library
-
-*   [dphiffer/ccny-web2](https://github.com/dphiffer/ccny-web2) - Design for the Web 2 (Fall 2014)
-
-*   [csscomb/csscomb.js](https://github.com/csscomb/csscomb.js) - CSS coding style formatter
-
-*   [bramstein/typeset](https://github.com/bramstein/typeset) - TeX line breaking algorithm in JavaScript
-
-*   [jsha/blocktogether](https://github.com/jsha/blocktogether) - Share your blocks and subscribe to others'
-
-*   [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-
-*   [andrew/first-pr](https://github.com/andrew/first-pr) - :octocat: What was the first pull request you sent on GitHub?
-
-*   [OpenNews/srccon-schedule](https://github.com/OpenNews/srccon-schedule) - Schedule app for SRCCON
-
-*   [edsu/wikichanges](https://github.com/edsu/wikichanges) - a NodeJS library for monitoring changes on Wikipedia sites
-
-*   [zeroclipboard/zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
-
-*   [joepie91/pdfy](https://github.com/joepie91/pdfy) - The platform behind PDFy, a free instant PDF host.
-
-*   [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
-
-*   [Quartz/Chartbuilder](https://github.com/Quartz/Chartbuilder) - A front-end charting application that facilitates easy creation of simple beautiful charts
-
-*   [dataarts/dat.gui](https://github.com/dataarts/dat.gui) - Lightweight controller library for JavaScript.
-
-*   [allisonburtch/internet\_Illuminator](https://github.com/allisonburtch/internet_Illuminator) -  firefox addon that appends corporate sponsors and owners to brands and politicians.
-
-*   [Leaflet/Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker Clustering plugin for Leaflet
-
-*   [veltman/fourscore](https://github.com/veltman/fourscore) - An open-source version of the WNYC sentiment tracker.
-
-*   [timuric/Content-generator-sketch-plugin](https://github.com/timuric/Content-generator-sketch-plugin) - Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc
-
-*   [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
-
-*   [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
-
-*   [fiduswriter/fiduswriter](https://github.com/fiduswriter/fiduswriter) - Fidus Writer is an online collaborative editor for academics.
-
-*   [fiduswriter/pagination.js](https://github.com/fiduswriter/pagination.js) - pagination.js is a Javascript library that can be included in HTML files to render the contents of the HTML to pages that can be printed to PDF using CSS Regions. It requires a browser with support for CSS Regions.
-
-*   [elifesciences/lens](https://github.com/elifesciences/lens) - A novel way of viewing eLife articles.
-
-*   [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
-
-*   [cmenscher/kindleHighlightLiberator](https://github.com/cmenscher/kindleHighlightLiberator) - This Javascript bookmarklet allows you to gather all of your Kindle ebook highlights from https://kindle.amazon.com/your\_highlights and save them as a JSON file.
-
-*   [toddpress/Unicorn-js](https://github.com/toddpress/Unicorn-js) - make cyclic rainbow text on hover! sweet.
-
-*   [schteppe/cannon.js](https://github.com/schteppe/cannon.js) - A lightweight 3D physics engine written in JavaScript.
-
-*   [jlord/sheetdown](https://github.com/jlord/sheetdown) - :page\_with\_curl: :arrow\_down: Convert a Google Spreadsheet into a Table in Markdown
-
-*   [dieulot/instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.
-
-*   [EloquentStudio/filter.js](https://github.com/EloquentStudio/filter.js) - Complete solution for client side filtering and rendering using JSON data
-
-*   [novus/nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
-
-*   [tealtan/AuditionText](https://github.com/tealtan/AuditionText) - Show and switch between different phrases in your writing.
-
-*   [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
-
-*   [soulwire/fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
-
-*   [markdalgleish/stellar.js](https://github.com/markdalgleish/stellar.js) - Stellar.js - Parallax scrolling made easy
-
-*   [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-
-*   [jonaslund/Eeeeemail](https://github.com/jonaslund/Eeeeemail) - Made for Rhizome's 7on7 event at Barbican in London
-
-*   [jedahan/collections-api](https://github.com/jedahan/collections-api) - API scraping from the metmuseum website
-
-*   [nasser/sfpc-talk](https://github.com/nasser/sfpc-talk) - Source code to the various slideshows used during my September 16, 2013 talk at the SFPC opening
-
-*   [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
-
-*   [unconed/fuse10](https://github.com/unconed/fuse10) - Front-end for Acko.net 2013
-
-*   [CartoDB/cartodb](https://github.com/CartoDB/cartodb) - Location Intelligence & Data Visualization tool
-
-*   [moment/moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
-
-*   [oyvindeh/ucss](https://github.com/oyvindeh/ucss) - Find unused and duplicate CSS
-
-*   [topcoat/icons](https://github.com/topcoat/icons) - Open Source Icons designed for Topcoat
-
-*   [motherjones/newsquiz](https://github.com/motherjones/newsquiz) - Make a quiz from data in a Google Spreadsheet. Requires jQuery and Tabletop.
-
-*   [motherjones/cyoa](https://github.com/motherjones/cyoa) - A "Choose Your Own Adventure" plugin for storytelling
-
-*   [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
-
-*   [charlieroberts/interface.js](https://github.com/charlieroberts/interface.js) - gui library for music / arts applications that works with touch, mouse and motion events
-
-*   [poderopedia/plug-and-play-1.0-RC](https://github.com/poderopedia/plug-and-play-1.0-RC) - Poderopedia Plug & Play Platform Release Candidate
-
-*   [nasser/---](https://github.com/nasser/---) - قلب: لغة برمجة
-
-*   [jrsconfitto/katiejamie](https://github.com/jrsconfitto/katiejamie) - Katie and Jamie
-
-*   [artemave/starlogs.dev](https://github.com/artemave/starlogs.dev) -
-
-*   [fotcorn/StarRSS](https://github.com/fotcorn/StarRSS) - http://fotcorn.github.io/StarRSS/
-
-*   [openoakland/openbudgetoakland](https://github.com/openoakland/openbudgetoakland) - Visualizations of Oakland's budget data, and explanations about the budget process.
-
-*   [gwatts/jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - A plugin for the jQuery javascript library to generate small sparkline charts directly in the browser
-
-*   [desandro/doc-ready](https://github.com/desandro/doc-ready) - lets get this party started... on document ready
-
-*   [metafizzy/packery](https://github.com/metafizzy/packery) - :bento: Gapless, draggable grid layouts
-
-*   [geuis/helium-css](https://github.com/geuis/helium-css) - Helium - javascript tool to scan your site and show unused CSS
-
-*   [mozilla/popcorn-js](https://github.com/mozilla/popcorn-js) - The HTML5 Media Framework. (Unmaintained. See https://github.com/menismu/popcorn-js for activity)
-
-*   [FirebaseExtended/firepad](https://github.com/FirebaseExtended/firepad) - Collaborative Text Editor Powered by Firebase
-
-*   [twitter-archive/twisitor](https://github.com/twitter-archive/twisitor) - A simple and spectacular photo-tweeting birdhouse
-
-*   [basiljs/basil.js](https://github.com/basiljs/basil.js) - An attempt to port the spirit of the Processing visualization language to Adobe Indesign.
-
-*   [joypixels/emojify.js](https://github.com/joypixels/emojify.js) - A Javascript module to convert Emoji keywords to images
-
-*   [HenrikJoreteg/emoji-images](https://github.com/HenrikJoreteg/emoji-images) - replace stuff like :heart: with \<img> tags of corresponding images per: http://www.emoji-cheat-sheet.com/
-
-*   [anvc/scalar](https://github.com/anvc/scalar) - Born-digital, open source, media-rich scholarly publishing that’s as easy as blogging.
-
-*   [ReactiveRaven/jqBootstrapValidation](https://github.com/ReactiveRaven/jqBootstrapValidation) - A JQuery validation framework for bootstrap forms.
-
-*   [darkskyapp/skycons](https://github.com/darkskyapp/skycons) -
-
-*   [edankwan/PerspectiveTransform.js](https://github.com/edankwan/PerspectiveTransform.js) - A Javascript Class to do the CSS 3D transformation by 4 destination points
-
-*   [Shopify/dashing](https://github.com/Shopify/dashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
-
-*   [occupyhere/occupy.here](https://github.com/occupyhere/occupy.here) - A tiny self-contained darknet
-
-*   [headjs/headjs](https://github.com/headjs/headjs) - The only script in your HEAD.
-
-*   [nature-of-code/The-Nature-of-Code-archive](https://github.com/nature-of-code/The-Nature-of-Code-archive) - The very first build system for The Nature of Code
-
-*   [kamens/jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
-
-*   [hirmes/The-Aleph](https://github.com/hirmes/The-Aleph) - Infinite Wonder / Infinite Pity
-
-*   [nytimes/svg-crowbar](https://github.com/nytimes/svg-crowbar) - Extracts an SVG node and accompanying styles from an HTML document and allows you to download it all as an SVG file.
-
-*   [schacon/showoff](https://github.com/schacon/showoff) - moved to puppetlabs/showoff!
-
-*   [joshbuddy/spoiler-alert](https://github.com/joshbuddy/spoiler-alert) - SPOILER ALERT! A happy little bit of javascript to hide spoilers on your site.
-
-*   [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
-
-*   [reyesr/fullproof](https://github.com/reyesr/fullproof) - javascript fulltext search engine library
-
-*   [potomak/jquery-instagram](https://github.com/potomak/jquery-instagram) - Instagram jQuery plugin
-
-*   [twitter/typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library
-
-*   [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
-
-*   [okfocus/okvideo](https://github.com/okfocus/okvideo) - Fullscreen background videos for your webpages.
-
-*   [alistapart/comment-embed](https://github.com/alistapart/comment-embed) - Embeddable user comments.
-
-*   [net-uk-sweet/puzzle](https://github.com/net-uk-sweet/puzzle) - Video tile puzzle using HTML5 canvas
-
-*   [jeromeetienne/jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode) - qrcode generation standalone (doesn't depend on external services)
-
-*   [Sjeiti/TinySort](https://github.com/Sjeiti/TinySort) - TinySort is a small script that sorts HTML elements. It sorts by text- or attribute value, or by that of one of it's children.
-
-*   [auduno/headtrackr](https://github.com/auduno/headtrackr) - Javascript library for headtracking via webcam and WebRTC/getUserMedia
-
-*   [michael/ken-browser](https://github.com/michael/ken-browser) - Visual Knowledge Browser
-
-*   [kandanapp/kandan](https://github.com/kandanapp/kandan) - Kandan is an Open Source Alternative to HipChat
-
-*   [ndreckshage/roughdraft.js](https://github.com/ndreckshage/roughdraft.js) - Quickly create an interactive HTML mock-up by auto sourcing lorem ipsum/images generators, with minimal html markup, and no server side code
-
-*   [toolness/ethercoaster](https://github.com/toolness/ethercoaster) - One simple Meteor-based solution to the problem of constantly crashing etherpads.
-
-*   [nornagon/scrubby](https://github.com/nornagon/scrubby) - Tweak values in JavaScript without having to reload.
-
-*   [suprb/Nested](https://github.com/suprb/Nested) - Gap free multi column grid
-
-*   [amsul/pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
-
-*   [tholman/texter](https://github.com/tholman/texter) - Texter is a little app that lets you explore your creativity by drawing with text.
-
-*   [slifty/opened-captions](https://github.com/slifty/opened-captions) - A SocketIO API for live TV closed captions
-
-*   [sklise/i-like-what-i-see](https://github.com/sklise/i-like-what-i-see) -
-
-*   [thisandagain/troll](https://github.com/thisandagain/troll) - Language sentiment analysis and neural networks... for trolls.
-
-*   [caseyg/CooperUnion.info](https://github.com/caseyg/CooperUnion.info) - A concise starting point for learning about the financial and philosophical challenges facing The Cooper Union.
-
-*   [ftrain/savepublishing](https://github.com/ftrain/savepublishing) - CoffeeScript code to quickly extract and display all the tweetable statements from a live web page.
-
-*   [mrdoob/htmleditor](https://github.com/mrdoob/htmleditor) - Simple editor for messing around.
-
-*   [ITPNYU/ICM-2013](https://github.com/ITPNYU/ICM-2013) - ICM 2013 Class Main Repo
-
-*   [peterbe/tiler](https://github.com/peterbe/tiler) - App for allowing you to host some huge ass photos on the web.
-
-*   [jlord/sheetsee.js](https://github.com/jlord/sheetsee.js) - :eyes: :chart\_with\_upwards\_trend: Visualize Data from a Google Spreadsheet
-
-*   [lipka/piecon](https://github.com/lipka/piecon) - A tiny javascript library for generating progress pie charts in your favicon.
-
-*   [substance/interior](https://github.com/substance/interior) - Substance interior website
-
-*   [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
-
-*   [substance/surface](https://github.com/substance/surface) - A building block for web-based text editors
-
-*   [arc90/sass-color-picker](https://github.com/arc90/sass-color-picker) - SASS Color Picker, an Arc90 Lab Experiment.
-
-*   [rigoneri/syte](https://github.com/rigoneri/syte) - \[Archived] A really simple but powerful packaged personal site that has social integrations like twitter, github, dribbble, instagram, foursquare, tumblr, wordpress, linkedin, spotify/last.fm, and much more...
-
-*   [diy/jquery-placeholder](https://github.com/diy/jquery-placeholder) - A jQuery plugin that polyfills the HTML5 "placeholder" attribute.
-
-*   [wnyc/Timeline](https://github.com/wnyc/Timeline) - A beautiful vertical timeline made with Tabletop.js, Isotope.js & Handerlbarz.js. A collaboration between Balance Media and WNYC/John Keefe.
-
-*   [snookca/CoffeeConsole](https://github.com/snookca/CoffeeConsole) - A Chrome Extension for running CoffeeScript from the Web Inspector
-
-*   [mailcheck/mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
-
-*   [gre/playpainter](https://github.com/gre/playpainter) - A simple Play 2 framework, Canvas and WebSocket experiment where many users can paint their draws simultaneously on a Canvas.
-
-*   [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
-
-*   [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-
-*   [srobbin/jquery-intelligist](https://github.com/srobbin/jquery-intelligist) - a jQuery plugin that makes it easy to share and demo code in-page, using GitHub gists.
-
-*   [ericdrowell/KineticJS](https://github.com/ericdrowell/KineticJS) - KineticJS is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
-
-*   [square/crossfilter](https://github.com/square/crossfilter) - Fast n-dimensional filtering and grouping of records.
-
-*   [fontello/fontello](https://github.com/fontello/fontello) - Iconic fonts scissors
-
-*   [jsoma/tabletop](https://github.com/jsoma/tabletop) - Tabletop.js gives spreadsheets legs
-
-*   [d3/d3-queue](https://github.com/d3/d3-queue) - Evaluate asynchronous tasks with configurable concurrency.
-
-*   [OscarGodson/EpicEditor](https://github.com/OscarGodson/EpicEditor) - EpicEditor is an embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more. For developers, it offers a robust API, can be easily themed, and allows you to swap out the bundled Markdown parser with anything you throw at it.
-
-*   [danmillar/jquery-anystretch](https://github.com/danmillar/jquery-anystretch) - Anystretch is a jQuery plugin that allows you to add a dynamically-resized background image to any page or block level element. The image will stretch to fit the page/element, and will automatically resize as the window size changes.
-
-*   [mbostock/stack](https://github.com/mbostock/stack) - A presentation library with intuitive, scroll-based navigation.
-
-*   [morr/jquery.appear](https://github.com/morr/jquery.appear) - jQuery plugin for tracking element's appearance in browser viewport
-
-*   [arielsalminen/TinyNav.js](https://github.com/arielsalminen/TinyNav.js) - Responsive navigation plugin that weighs just 443 bytes
-
-*   [nytimes/ice](https://github.com/nytimes/ice) - track changes with javascript
-
-*   [thedjpetersen/subway](https://github.com/thedjpetersen/subway) - ABANDONED - A web based IRC client
-
-*   [arielsalminen/ResponsiveSlides.js](https://github.com/arielsalminen/ResponsiveSlides.js) - Simple & lightweight responsive slider plugin (in 1kb)
-
-*   [desandro/vanilla-masonry](https://github.com/desandro/vanilla-masonry) - \[deprecated] Masonry layouts without any frameworks
-
-*   [kastner/droppy](https://github.com/kastner/droppy) - A web front end to a single dropbox folder. With optional basic authentication
-
-*   [bergie/create](https://github.com/bergie/create) - Midgard Create, a generic web editing interface for any CMS
-
-*   [jarred/src-img](https://github.com/jarred/src-img) -
-
-*   [okfocus/okshadow](https://github.com/okfocus/okshadow) - Cursor as light source.
-
-*   [gattis/milkshake](https://github.com/gattis/milkshake) - WebGL Milkdrop Preset Renderer
-
-*   [okfocus/okhover](https://github.com/okfocus/okhover) - Other hover effects are boring.
-
-*   [tmcw/big](https://github.com/tmcw/big) - presentations for busy messy hackers
-
-*   [desandro/imagesloaded](https://github.com/desandro/imagesloaded) - :camera: JavaScript is all like "You images done yet or what?"
-
-*   [podio/jquery-mentions-input](https://github.com/podio/jquery-mentions-input) -
-
-*   [mattkersley/Responsive-Menu](https://github.com/mattkersley/Responsive-Menu) - Turns any \<ol> or \<ul> into a \<select> for mobiles and low browser sizes
-
-*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
-
-*   [jsplumb/jsBezier](https://github.com/jsplumb/jsBezier) - Bezier curve helper functions for JavaScript.  Used by jsPlumb; perhaps useful for others.
-
-*   [bryanwoods/autolink-js](https://github.com/bryanwoods/autolink-js) - Tiny little tool to find URLs in a string of text and hyperlink them
-
-*   [mozilla/lightbeam](https://github.com/mozilla/lightbeam) - Orignal unmaintained version of the Lightbeam extension. See lightbeam-we for the new one which works in modern versions of Firefox.
-
-*   [WardCunningham/Smallest-Federated-Wiki](https://github.com/WardCunningham/Smallest-Federated-Wiki) - This wiki innovates by: 1. federated sharing, 2. drag refactoring and 3. data visualization.
-
-*   [tiff/wysihtml5](https://github.com/tiff/wysihtml5) - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
-
-*   [triplecanopy/horizonize](https://github.com/triplecanopy/horizonize) - Horizonize is a jQuery plugin to lay out any HTML content in horizontally-scrolling columns.
-
-*   [philgyford/daily-paper](https://github.com/philgyford/daily-paper) - For viewing a daily issue of the Guardian and Observer newspapers. `main` branch should be stable, current work is in `dev` branch.
-
-*   [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
-
-*   [cemerick/jsdifflib](https://github.com/cemerick/jsdifflib) - A javascript library for diffing text and generating corresponding HTML views
-
-*   [josephg/ShareJS](https://github.com/josephg/ShareJS) - Collaborative editing in any app
-
-*   [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
-
-*   [desandro/typekit-table](https://github.com/desandro/typekit-table) - Sort and filter high-quality fonts from Typekit
-
-*   [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
-
-*   [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
-
-*   [browserstate/history.js](https://github.com/browserstate/history.js) - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.  For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.
-
-*   [samizdatco/arbor](https://github.com/samizdatco/arbor) - a graph visualization library using web workers and jQuery
-
-*   [openannotation/annotator](https://github.com/openannotation/annotator) - Annotation tools for the web. Select text, images, or (nearly) anything else, and add your notes.
-
-*   [strathausen/dracula](https://github.com/strathausen/dracula) - JavaScript layout and representation of connected graphs.
-
-*   [filamentgroup/Responsive-Images](https://github.com/filamentgroup/Responsive-Images) - NOTE: use Picturefill instead. An Experiment with Mobile-First Images that Scale Responsively & Responsibly
-
-*   [nasser/zajal](https://github.com/nasser/zajal) - Experimental creative coding framework
-
-*   [substance/substance-legacy](https://github.com/substance/substance-legacy) - Towards open digital publishing
-
-*   [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
-
-*   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-
-*   [glenmurphy/dropmocks](https://github.com/glenmurphy/dropmocks) - Online image sharing
-
-*   [kylefox/jquery-modal](https://github.com/kylefox/jquery-modal) - The simplest possible modal for jQuery
-
-*   [antimatter15/jsgif](https://github.com/antimatter15/jsgif) - Save a HTML5 Canvas to GIF and Animations. A port of as3gif GIFPlayer to JS
-
-*   [stamen/modestmaps-js](https://github.com/stamen/modestmaps-js) - Modest Maps javascript port
-
-*   [jaukia/zoomooz](https://github.com/jaukia/zoomooz) - An easy-to-use jQuery plugin for making zooming web pages.
-
-*   [jackrusher/jssvggraph](https://github.com/jackrusher/jssvggraph) - Javascript/SVG Graph Layout
-
-*   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-
-*   [jquery-backstretch/jquery-backstretch](https://github.com/jquery-backstretch/jquery-backstretch) - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes.
-
-*   [cowboy/javascript-linkify](https://github.com/cowboy/javascript-linkify) - JavaScript Linkify: Process links in text
-
-*   [migurski/canvas-warp](https://github.com/migurski/canvas-warp) - Map warping with HTML canvas
-
-*   [rsms/hunch-upload](https://github.com/rsms/hunch-upload) - Multiple concurrent files uploads with progress in pure HTML
-
-*   [mattb/flotsam](https://github.com/mattb/flotsam) - Slushpile for handy fragments of script that don't fit anywhere else
-
-*   [asual/jquery-address](https://github.com/asual/jquery-address) - jQuery Address - Deep linking for the masses
-
-*   [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
-
-*   [nakajima/slidedown](https://github.com/nakajima/slidedown) - Generate syntax-highlighted slides from Markdown
-
-*   [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
-
-*   [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
-
 ## PHP
 
 *   [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API
@@ -3266,8 +3268,6 @@
 *   [heartcombo/devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden.
 
 *   [aanand/deadweight](https://github.com/aanand/deadweight) - NOT MAINTAINED
-
-*   [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe\_with\_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## Handlebars
 
