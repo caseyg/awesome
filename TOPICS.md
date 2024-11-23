@@ -216,6 +216,7 @@
 *   [pdf-to-text](#pdf-to-text)
 *   [pptx](#pptx)
 *   [tables](#tables)
+*   [xlsx](#xlsx)
 *   [gpt-4](#gpt-4)
 *   [gpt4](#gpt4)
 *   [graphrag](#graphrag)
@@ -7446,6 +7447,10 @@
 *   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 
 *   [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
+
+## xlsx
+
+*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 
 ## gpt-4
 
