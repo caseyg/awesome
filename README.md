@@ -26,6 +26,7 @@
 *   [Handlebars](#handlebars)
 *   [Nunjucks](#nunjucks)
 *   [Zig](#zig)
+*   [MDX](#mdx)
 *   [R](#r)
 *   [Dart](#dart)
 *   [C](#c-1)
@@ -43,7 +44,6 @@
 *   [Haskell](#haskell)
 *   [Emacs Lisp](#emacs-lisp)
 *   [Smarty](#smarty)
-*   [MDX](#mdx)
 *   [Dockerfile](#dockerfile)
 *   [Objective-C](#objective-c)
 *   [ActionScript](#actionscript)
@@ -60,6 +60,8 @@
 *   [Scala](#scala)
 
 ## TypeScript
+
+*   [htunnicliff/jmap-jam](https://github.com/htunnicliff/jmap-jam) - Jam is a tiny (~2kb gzipped), strongly-typed JMAP client with zero runtime dependencies. It has friendly, fluent APIs that make working with JMAP a breeze.
 
 *   [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - AI-powered organization and chat assistant for Obsidian
 
@@ -272,8 +274,6 @@
 *   [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
 
 *   [vasilecampeanu/obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver is an Obsidian plugin that integrates a ChatGPT-like interface into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you improve your writing and brainstorming process.
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 
 *   [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
 
@@ -526,6 +526,10 @@
 *   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
 ## Python
+
+*   [thephm/message\_md](https://github.com/thephm/message_md) - Classes to hold messages and converting to Markdown and supporting methods.
+
+*   [thephm/email\_md](https://github.com/thephm/email_md) - IMAP email to Markdown
 
 *   [HelloThisIsFlo/Things3-To-OmniFocus](https://github.com/HelloThisIsFlo/Things3-To-OmniFocus) - Migrate from Things3 to OmniFocus (via TaskPaper)
 
@@ -1899,10 +1903,6 @@
 
 *   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 
-*   [glenmurphy/dropmocks](https://github.com/glenmurphy/dropmocks) - Online image sharing
-
-*   [kylefox/jquery-modal](https://github.com/kylefox/jquery-modal) - The simplest possible modal for jQuery
-
 ## HTML
 
 *   [selfire1/todoist-focus-mode](https://github.com/selfire1/todoist-focus-mode) - Flowist is a Focus Mode companion for Todoist
@@ -2629,7 +2629,7 @@
 
 *   [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 
-*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
+*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 
 *   [sowcow/blank\_slate\_pdf](https://github.com/sowcow/blank_slate_pdf) - Abstract and simplistic PDFs for RM from Rust code. There are random experimental PDFs in older releases and Ruby code in older commits.
 
@@ -3273,8 +3273,6 @@
 
 *   [github/email\_reply\_parser](https://github.com/github/email_reply_parser) - Small library to parse plain text email content
 
-*   [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
-
 ## Handlebars
 
 *   [carbon-design-system/carbon-for-ibm-dotcom-web-components-test](https://github.com/carbon-design-system/carbon-for-ibm-dotcom-web-components-test) - Environment for testing Carbon for IBM.com web components as a mock application
@@ -3290,6 +3288,12 @@
 ## Zig
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+## MDX
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+
+*   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 
 ## R
 
@@ -3432,10 +3436,6 @@
 ## Smarty
 
 *   [hintjens/socialarchitecture](https://github.com/hintjens/socialarchitecture) - A primer on on-line community building
-
-## MDX
-
-*   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 
 ## Dockerfile
 
