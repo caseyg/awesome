@@ -607,7 +607,7 @@
 
 *   [dtinit/portability-articles](https://github.com/dtinit/portability-articles) - A collection of articles to help find solutions for data portability
 
-*   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
+*   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 
 *   [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 
