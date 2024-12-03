@@ -5,15 +5,16 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [C++](#c)
+*   [Go](#go)
+*   [Nunjucks](#nunjucks)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Go](#go)
 *   [Rust](#rust)
 *   [Svelte](#svelte)
-*   [C++](#c)
 *   [Shell](#shell)
 *   [Swift](#swift)
 *   [Vue](#vue)
@@ -24,7 +25,6 @@
 *   [Makefile](#makefile)
 *   [Ruby](#ruby)
 *   [Handlebars](#handlebars)
-*   [Nunjucks](#nunjucks)
 *   [Zig](#zig)
 *   [MDX](#mdx)
 *   [R](#r)
@@ -60,6 +60,10 @@
 *   [Scala](#scala)
 
 ## TypeScript
+
+*   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
+
+*   [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you build automate the web without worrying about infrastructure.
 
 *   [htunnicliff/jmap-jam](https://github.com/htunnicliff/jmap-jam) - Jam is a tiny (~2kb gzipped), strongly-typed JMAP client with zero runtime dependencies. It has friendly, fluent APIs that make working with JMAP a breeze.
 
@@ -524,6 +528,94 @@
 *   [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 
 *   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+
+## C++
+
+*   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+
+*   [DS4SD/deepsearch-glm](https://github.com/DS4SD/deepsearch-glm) - Create fast graph language models from converted PDF documents for knowledge extraction and Q\&A.
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+
+*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+
+*   [Laidout/laidout](https://github.com/Laidout/laidout) - Laidout, desktop publishing software
+
+*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+
+*   [manuelruder/artistic-videos](https://github.com/manuelruder/artistic-videos) - Torch implementation for the paper "Artistic style transfer for videos"
+
+*   [ofZach/inkSpace](https://github.com/ofZach/inkSpace) - android drawing tool
+
+*   [patriciogonzalezvivo/sims2014](https://github.com/patriciogonzalezvivo/sims2014) - Simulation Studio, creative coding course taught at parsons school of design, MFADT
+
+*   [owncloud/client](https://github.com/owncloud/client) - 🖥️ Desktop Syncing Client for ownCloud
+
+*   [openframeworks/ofBook](https://github.com/openframeworks/ofBook) - openFrameworks community book
+
+*   [VowpalWabbit/vowpal\_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
+
+*   [ivansafrin/Polycode](https://github.com/ivansafrin/Polycode) - Polycode is a cross-platform framework for creative code.
+
+*   [kylemcdonald/AppropriatingNewTechnologies](https://github.com/kylemcdonald/AppropriatingNewTechnologies) - A half-semester class at ITP.
+
+## Go
+
+*   [tailscale/hujson](https://github.com/tailscale/hujson) - HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas)
+
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+
+*   [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
+
+*   [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+
+*   [kudrykv/latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - Digital planner for Supernote and ReMarkable // Support Ukraine 🇺🇦 https://savelife.in.ua/en
+
+*   [juruen/rmapi](https://github.com/juruen/rmapi) - Go app that allows you to access your reMarkable tablet files through the Cloud API
+
+*   [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+
+*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+
+*   [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
+
+*   [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
+
+*   [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box.
+
+*   [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
+
+*   [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+
+*   [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+
+*   [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
+
+*   [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+
+*   [schollz/recursive-recipes](https://github.com/schollz/recursive-recipes) - Visualize the recursive nature of recipes :cake: :cookie:
+
+*   [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
+
+*   [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
+*   [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
+
+*   [itsabot/itsabot](https://github.com/itsabot/itsabot) - ItsAbot makes it easy and fun to build your own digital assistant, and we include everything you need to get started.
+
+## Nunjucks
+
+*   [matuzo/HTMHell](https://github.com/matuzo/HTMHell) - A collection of bad practices in HTML found on real websites.
+
+*   [getkirby/eleventykit](https://github.com/getkirby/eleventykit) - The Eleventykit is a very simple (unstyled) example for a site, built with Kirby and 11ty.
+
+*   [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - The A11Y Project is a community-driven effort to make digital accessibility easier.
+
+*   [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
 ## Python
 
@@ -1895,14 +1987,6 @@
 
 *   [filamentgroup/Responsive-Images](https://github.com/filamentgroup/Responsive-Images) - NOTE: use Picturefill instead. An Experiment with Mobile-First Images that Scale Responsively & Responsibly
 
-*   [nasser/zajal](https://github.com/nasser/zajal) - Experimental creative coding framework
-
-*   [substance/substance-legacy](https://github.com/substance/substance-legacy) - Towards open digital publishing
-
-*   [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
-
-*   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-
 ## HTML
 
 *   [selfire1/todoist-focus-mode](https://github.com/selfire1/todoist-focus-mode) - Flowist is a Focus Mode companion for Todoist
@@ -2581,50 +2665,6 @@
 
 *   [sunlightlabs/fcc-net-neutrality-comments](https://github.com/sunlightlabs/fcc-net-neutrality-comments) - scraping, parsing and making sense of the flood of comments submitted to the FCC on net neutrality
 
-## Go
-
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-
-*   [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
-
-*   [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-
-*   [kudrykv/latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - Digital planner for Supernote and ReMarkable // Support Ukraine 🇺🇦 https://savelife.in.ua/en
-
-*   [juruen/rmapi](https://github.com/juruen/rmapi) - Go app that allows you to access your reMarkable tablet files through the Cloud API
-
-*   [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-
-*   [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
-
-*   [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
-
-*   [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box.
-
-*   [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
-
-*   [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-
-*   [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-
-*   [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
-
-*   [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-
-*   [schollz/recursive-recipes](https://github.com/schollz/recursive-recipes) - Visualize the recursive nature of recipes :cake: :cookie:
-
-*   [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
-
-*   [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-
-*   [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
-
-*   [itsabot/itsabot](https://github.com/itsabot/itsabot) - ItsAbot makes it easy and fun to build your own digital assistant, and we include everything you need to get started.
-
 ## Rust
 
 *   [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
@@ -2688,36 +2728,6 @@
 *   [researchops/toolbox](https://github.com/researchops/toolbox) -
 
 *   [ekafyi/johnnydecimal-index-generator](https://github.com/ekafyi/johnnydecimal-index-generator) - Code for the Johnny Decimal Index Generator web app
-
-## C++
-
-*   [DS4SD/deepsearch-glm](https://github.com/DS4SD/deepsearch-glm) - Create fast graph language models from converted PDF documents for knowledge extraction and Q\&A.
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-
-*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-
-*   [Laidout/laidout](https://github.com/Laidout/laidout) - Laidout, desktop publishing software
-
-*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-
-*   [manuelruder/artistic-videos](https://github.com/manuelruder/artistic-videos) - Torch implementation for the paper "Artistic style transfer for videos"
-
-*   [ofZach/inkSpace](https://github.com/ofZach/inkSpace) - android drawing tool
-
-*   [patriciogonzalezvivo/sims2014](https://github.com/patriciogonzalezvivo/sims2014) - Simulation Studio, creative coding course taught at parsons school of design, MFADT
-
-*   [owncloud/client](https://github.com/owncloud/client) - 🖥️ Desktop Syncing Client for ownCloud
-
-*   [openframeworks/ofBook](https://github.com/openframeworks/ofBook) - openFrameworks community book
-
-*   [VowpalWabbit/vowpal\_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
-
-*   [ivansafrin/Polycode](https://github.com/ivansafrin/Polycode) - Polycode is a cross-platform framework for creative code.
-
-*   [kylemcdonald/AppropriatingNewTechnologies](https://github.com/kylemcdonald/AppropriatingNewTechnologies) - A half-semester class at ITP.
 
 ## Shell
 
@@ -2966,8 +2976,6 @@
 *   [lisezmoi/scri.ch](https://github.com/lisezmoi/scri.ch) - scri.ch is a minimal web app that lets you draw, share, and fork existing drawings.
 
 *   [statedecoded/statedecoded](https://github.com/statedecoded/statedecoded) - Legal codes, for humans.
-
-*   [iamcal/oembed](https://github.com/iamcal/oembed) - The oEmbed Spec
 
 ## Astro
 
@@ -3276,14 +3284,6 @@
 ## Handlebars
 
 *   [carbon-design-system/carbon-for-ibm-dotcom-web-components-test](https://github.com/carbon-design-system/carbon-for-ibm-dotcom-web-components-test) - Environment for testing Carbon for IBM.com web components as a mock application
-
-## Nunjucks
-
-*   [getkirby/eleventykit](https://github.com/getkirby/eleventykit) - The Eleventykit is a very simple (unstyled) example for a site, built with Kirby and 11ty.
-
-*   [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - The A11Y Project is a community-driven effort to make digital accessibility easier.
-
-*   [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
 ## Zig
 
