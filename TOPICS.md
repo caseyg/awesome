@@ -4,6 +4,20 @@
 
 ## Table of Contents
 
+*   [capabilities](#capabilities)
+*   [constraints](#constraints)
+*   [dependencies](#dependencies)
+*   [devops](#devops)
+*   [engineering](#engineering)
+*   [flow](#flow)
+*   [flow-engineering](#flow-engineering)
+*   [leadership](#leadership)
+*   [product](#product)
+*   [roadmap](#roadmap)
+*   [value](#value)
+*   [value-stream-management](#value-stream-management)
+*   [value-stream-map](#value-stream-map)
+*   [value-stream-mapping](#value-stream-mapping)
 *   [ai](#ai)
 *   [document-extraction](#document-extraction)
 *   [document-processing](#document-processing)
@@ -1893,14 +1907,12 @@
 *   [python-roadmap](#python-roadmap)
 *   [qa-roadmap](#qa-roadmap)
 *   [react-roadmap](#react-roadmap)
-*   [roadmap](#roadmap)
 *   [software-architect-roadmap](#software-architect-roadmap)
 *   [vue-roadmap](#vue-roadmap)
 *   [functional-css](#functional-css)
 *   [responsive](#responsive)
 *   [synchronization](#synchronization)
 *   [ast](#ast)
-*   [flow](#flow)
 *   [formatter](#formatter)
 *   [less](#less)
 *   [prettier](#prettier)
@@ -2142,7 +2154,6 @@
 *   [lastfm](#lastfm)
 *   [lastfm-api](#lastfm-api)
 *   [musicbrainz](#musicbrainz)
-*   [engineering](#engineering)
 *   [software-engineering](#software-engineering)
 *   [conferences](#conferences)
 *   [hacking](#hacking)
@@ -2647,6 +2658,68 @@
 *   [html5-history-api](#html5-history-api)
 *   [dracula](#dracula)
 *   [graph-dracula](#graph-dracula)
+
+## capabilities
+
+*   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
+
+## constraints
+
+*   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
+
+## dependencies
+
+*   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
+
+## devops
+
+*   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
+
+## engineering
+
+*   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
+
+*   [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+
+## flow
+
+*   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
+
+*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+
+## flow-engineering
+
+*   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
+
+## leadership
+
+*   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
+
+## product
+
+*   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
+
+## roadmap
+
+*   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
+
+*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+## value
+
+*   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
+
+## value-stream-management
+
+*   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
+
+## value-stream-map
+
+*   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
+
+## value-stream-mapping
+
+*   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
 
 ## ai
 
@@ -4773,8 +4846,6 @@
 *   [metafizzy/isotope](https://github.com/metafizzy/isotope) - :revolving\_hearts: Filter & sort magical layouts
 
 *   [GravityLabs/goose](https://github.com/GravityLabs/goose) - Html Content / Article Extractor in Scala - open sourced from Gravity Labs
-
-*   [filamentgroup/Responsive-Images](https://github.com/filamentgroup/Responsive-Images) - NOTE: use Picturefill instead. An Experiment with Mobile-First Images that Scale Responsively & Responsibly
 
 ## jmap
 
@@ -17144,10 +17215,6 @@
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
-## roadmap
-
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
 ## software-architect-roadmap
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -17171,10 +17238,6 @@
 *   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
 ## ast
-
-*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-
-## flow
 
 *   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
@@ -18235,10 +18298,6 @@
 *   [feross/last-fm](https://github.com/feross/last-fm) - Simple, robust LastFM API client (for public data)
 
 *   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-
-## engineering
-
-*   [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 
 ## software-engineering
 
