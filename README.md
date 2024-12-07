@@ -26,7 +26,6 @@
 *   [Ruby](#ruby)
 *   [Handlebars](#handlebars)
 *   [Zig](#zig)
-*   [MDX](#mdx)
 *   [R](#r)
 *   [Dart](#dart)
 *   [C](#c-1)
@@ -44,6 +43,7 @@
 *   [Haskell](#haskell)
 *   [Emacs Lisp](#emacs-lisp)
 *   [Smarty](#smarty)
+*   [MDX](#mdx)
 *   [Dockerfile](#dockerfile)
 *   [Objective-C](#objective-c)
 *   [ActionScript](#actionscript)
@@ -82,6 +82,8 @@
 *   [mylofi/localfirstweb.dev](https://github.com/mylofi/localfirstweb.dev) - A list of various resources for local-first web development
 
 *   [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 
 *   [metafizzy/infinite-scroll](https://github.com/metafizzy/infinite-scroll) - 📜 Automatically add next page
 
@@ -368,6 +370,8 @@
 *   [Charca/cloudflare-pages-auth](https://github.com/Charca/cloudflare-pages-auth) - Basic Authentication for Cloudflare Pages
 
 *   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
+
+*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 
 *   [paoloricciuti/sveltekit-search-params](https://github.com/paoloricciuti/sveltekit-search-params) - The easiest way to read and WRITE from query parameters in sveltekit.
 
@@ -2669,8 +2673,6 @@
 
 *   [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 
-*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
-
 *   [sowcow/blank\_slate\_pdf](https://github.com/sowcow/blank_slate_pdf) - Abstract and simplistic PDFs for RM from Rust code. There are random experimental PDFs in older releases and Ruby code in older commits.
 
 *   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
@@ -3289,12 +3291,6 @@
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
-## MDX
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
-
-*   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
-
 ## R
 
 *   [omgitsjessie/slack-exports](https://github.com/omgitsjessie/slack-exports) - Manipulating slack text data from JSON export
@@ -3436,6 +3432,10 @@
 ## Smarty
 
 *   [hintjens/socialarchitecture](https://github.com/hintjens/socialarchitecture) - A primer on on-line community building
+
+## MDX
+
+*   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 
 ## Dockerfile
 
