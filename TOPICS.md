@@ -2640,6 +2640,7 @@
 *   [guardian](#guardian)
 *   [newspaper](#newspaper)
 *   [angular-datagrid](#angular-datagrid)
+*   [angular-table](#angular-table)
 *   [crud-operations](#crud-operations)
 *   [data-editing](#data-editing)
 *   [data-grid](#data-grid)
@@ -2665,6 +2666,8 @@
 *   [dmca](#dmca)
 
 ## miscellaneous
+
+*   [ujjwal-ibm/boxtodocx](https://github.com/ujjwal-ibm/boxtodocx) - A tool to convert boxnotes to docx(for now)
 
 *   [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.
 
@@ -4559,8 +4562,6 @@
 *   [msporny/dna](https://github.com/msporny/dna) - Manu Sporny's genetic information (roughly 1 million SNP markers)
 
 *   [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
-
-*   [aaronsw/html2text](https://github.com/aaronsw/html2text) - Convert HTML to Markdown-formatted text.
 
 ## datasette
 
@@ -20365,6 +20366,10 @@
 *   [philgyford/daily-paper](https://github.com/philgyford/daily-paper) - For viewing a daily issue of the Guardian and Observer newspapers. `main` branch should be stable, current work is in `dev` branch.
 
 ## angular-datagrid
+
+*   [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
+
+## angular-table
 
 *   [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 
