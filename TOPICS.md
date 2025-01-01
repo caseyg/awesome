@@ -3586,7 +3586,7 @@
 
 *   [blaiprat/jquery.animateSprite](https://github.com/blaiprat/jquery.animateSprite) - Animating sprites using jQuery made easy
 
-*   [Gaurav0/Universal-LPC-Spritesheet-Character-Generator](https://github.com/Gaurav0/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
+*   [LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
 
 *   [luruke/adapttext.js](https://github.com/luruke/adapttext.js) - :raised\_hands: - AdaptText.js is a dependency free and simple javascript solution capable to fit your text inside the parent element
 

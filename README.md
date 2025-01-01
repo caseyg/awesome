@@ -2435,7 +2435,7 @@
 
 *   [voxmedia/accessibility](https://github.com/voxmedia/accessibility) - Vox Product's Accessibility Guidelines
 
-*   [Gaurav0/Universal-LPC-Spritesheet-Character-Generator](https://github.com/Gaurav0/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
+*   [LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
 
 *   [voxmedia/Transcriber](https://github.com/voxmedia/Transcriber) - NWJS os x desktop based application that given a video/audio file returns a transcription using IBM Watson Speech to text API
 
