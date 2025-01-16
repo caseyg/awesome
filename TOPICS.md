@@ -1080,6 +1080,7 @@
 *   [form-submission](#form-submission)
 *   [form-submit](#form-submit)
 *   [rest](#rest)
+*   [confluence-alternative](#confluence-alternative)
 *   [content-services](#content-services)
 *   [task-management](#task-management)
 *   [team-collaboration](#team-collaboration)
@@ -9073,6 +9074,8 @@
 
 *   [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 
+*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+
 ## offline
 
 *   [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
@@ -13136,6 +13139,10 @@
 *   [spences10/sveltekit-and-airtable-contact-form-example](https://github.com/spences10/sveltekit-and-airtable-contact-form-example) - SvelteKit form submission example with Airtable
 
 *   [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
+
+## confluence-alternative
+
+*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## content-services
 

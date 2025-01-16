@@ -1925,6 +1925,8 @@
 
 *   [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of
 
+*   [XargsUK/awesome-adhd](https://github.com/XargsUK/awesome-adhd) - A curated list of ADHD apps, books, ideas and resources across the web!
+
 *   [IBM/watsonx-ai-python-sdk](https://github.com/IBM/watsonx-ai-python-sdk) - IBM watsonx.ai Python Client Documentation
 
 *   [hrishioa/tough-llm-tests](https://github.com/hrishioa/tough-llm-tests) - Some tough questions to test new models.
@@ -2308,8 +2310,6 @@
 *   [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 
 *   [simonw/tools](https://github.com/simonw/tools) - Assorted tools
-
-*   [XargsUK/awesome-adhd](https://github.com/XargsUK/awesome-adhd) - A curated list of ADHD apps, books, ideas and resources across the web!
 
 *   [dddddddddzzzz/OpenHeart](https://github.com/dddddddddzzzz/OpenHeart) - The Open Heart protocol.
 
