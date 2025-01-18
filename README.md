@@ -1037,7 +1037,7 @@
 
 *   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
-*   [ujjwal-ibm/boxtodocx](https://github.com/ujjwal-ibm/boxtodocx) - A tool to convert boxnotes to docx(for now)
+*   [uibm/boxtodocx](https://github.com/uibm/boxtodocx) - A tool to convert boxnotes to docx(for now)
 
 *   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 
