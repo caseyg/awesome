@@ -1009,7 +1009,7 @@
 
 *   [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 
-*   [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
+*   [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 
 *   [andywalters47/clearmail](https://github.com/andywalters47/clearmail) - Filter gmail with AI
 
