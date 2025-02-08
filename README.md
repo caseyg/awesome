@@ -701,7 +701,7 @@
 
 *   [exoascension/vault-chat](https://github.com/exoascension/vault-chat) - A ChatGPT bot trained on your vault notes. Ask your AI questions about your own thoughts and ideas!
 
-*   [otelo2/Obsidian-AI](https://github.com/otelo2/Obsidian-AI) - ChatGPT powered assistant for Obsidian "inspired by" Notion AI
+*   [antoniosolismz/Obsidian-AI](https://github.com/antoniosolismz/Obsidian-AI) - ChatGPT powered assistant for Obsidian "inspired by" Notion AI
 
 *   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 
