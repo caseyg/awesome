@@ -81,7 +81,7 @@
 
 *   [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 
-*   [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀
+*   [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀
 
 *   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
 
@@ -96,8 +96,6 @@
 *   [datasette/datasette-enrichments](https://github.com/datasette/datasette-enrichments) - Tools for running enrichments against data stored in Datasette
 
 *   [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
-
-*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
 *   [uibm/boxtodocx](https://github.com/uibm/boxtodocx) - A tool to convert boxnotes to docx(for now)
 
@@ -2362,6 +2360,8 @@
 *   [georgemandis/jekyll-rss-feeds](https://github.com/georgemandis/jekyll-rss-feeds) - Templates for rendering RSS feeds for your Jekyll blog
 
 ## HTML
+
+*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
 *   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
 
