@@ -5087,7 +5087,7 @@
 
 *   [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 
-*   [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - AI assistant for Obsidian that goes beyond just a chat.
+*   [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
 
 *   [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 
@@ -5289,7 +5289,7 @@
 
 *   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
 
-*   [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - AI assistant for Obsidian that goes beyond just a chat.
+*   [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
 
 *   [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 
@@ -6077,7 +6077,7 @@
 
 ## gpt
 
-*   [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - AI assistant for Obsidian that goes beyond just a chat.
+*   [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
 
 *   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 
