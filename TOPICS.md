@@ -325,7 +325,7 @@
 *   [sqlite](#sqlite)
 *   [visualization](#visualization)
 *   [xyflow](#xyflow)
-*   [bee-agent-framework](#bee-agent-framework)
+*   [aiagent](#aiagent)
 *   [docker-compose](#docker-compose)
 *   [openai-function-calli](#openai-function-calli)
 *   [openai-functions](#openai-functions)
@@ -8538,7 +8538,7 @@
 
 *   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 
-## bee-agent-framework
+## aiagent
 
 *   [i-am-bee/bee-stack](https://github.com/i-am-bee/bee-stack) - Run the entire bee application stack using docker-compose
 
