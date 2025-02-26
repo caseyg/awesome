@@ -2188,9 +2188,7 @@
 *   [sitemap-generator](#sitemap-generator)
 *   [sitemap-xml](#sitemap-xml)
 *   [executable](#executable)
-*   [interactive](#interactive)
 *   [programmable](#programmable)
-*   [reproducible-research](#reproducible-research)
 *   [last-fm](#last-fm)
 *   [lastfm](#lastfm)
 *   [lastfm-api](#lastfm-api)
@@ -6776,8 +6774,6 @@
 
 *   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 
-*   [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-
 *   [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -10137,8 +10133,6 @@
 ## reactive
 
 *   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
-
-*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
 
 ## realtime
 
@@ -18528,15 +18522,7 @@
 
 *   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
 
-## interactive
-
-*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
-
 ## programmable
-
-*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
-
-## reproducible-research
 
 *   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
 
