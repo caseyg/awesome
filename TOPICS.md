@@ -6,12 +6,14 @@
 
 *   [miscellaneous](#miscellaneous)
 *   [agents](#agents)
+*   [ai](#ai)
+*   [llms](#llms)
+*   [openai](#openai)
 *   [chatgpt](#chatgpt)
 *   [generative-ai](#generative-ai)
 *   [large-language-models](#large-language-models)
 *   [multiagent](#multiagent)
 *   [react-flow](#react-flow)
-*   [ai](#ai)
 *   [ai-agent](#ai-agent)
 *   [framework](#framework)
 *   [llm](#llm)
@@ -74,7 +76,6 @@
 *   [autogen-extension](#autogen-extension)
 *   [langchain](#langchain)
 *   [microsoft-office](#microsoft-office)
-*   [openai](#openai)
 *   [datasette-io](#datasette-io)
 *   [datasette-tool](#datasette-tool)
 *   [dogsheep](#dogsheep)
@@ -112,7 +113,6 @@
 *   [developer-tools](#developer-tools)
 *   [document-analysis](#document-analysis)
 *   [document-extraction](#document-extraction)
-*   [llms](#llms)
 *   [parser](#parser)
 *   [pdf-converter](#pdf-converter)
 *   [pdf-extractor](#pdf-extractor)
@@ -2660,9 +2660,12 @@
 *   [reactflow](#reactflow)
 *   [svelteflow](#svelteflow)
 *   [jquery-ui](#jquery-ui)
-*   [screenshot](#screenshot)
 
 ## miscellaneous
+
+*   [nihaocami/ai-tool-maker](https://github.com/nihaocami/ai-tool-maker) - Generate AI SDK Tools from OpenAPI specs
+
+*   [NicolasMontone/ai-sdk-agents](https://github.com/NicolasMontone/ai-sdk-agents) - Tools for Vercel AI SDK
 
 *   [ibm-granite-community/granite-snack-cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook) - Granite Snack Cookbook -- easily consumable recipes (python notebooks) that showcase the capabilities of the Granite models
 
@@ -4546,9 +4549,9 @@
 
 *   [tjackiw/acts-as-readable](https://github.com/tjackiw/acts-as-readable) - A simple plugin that allows a user to mark anything as 'read.' Common usage would include forum posts, news items, etc.
 
-*   [buymeasoda/soda-theme](https://github.com/buymeasoda/soda-theme) - Dark and light custom UI themes for Sublime Text
-
 ## agents
+
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
 
 *   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 
@@ -4568,69 +4571,9 @@
 
 *   [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 
-## chatgpt
-
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
-
-*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
-
-*   [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-
-*   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
-
-*   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
-
-*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-
-*   [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
-
-*   [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
-
-*   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-
-*   [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
-
-*   [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
-
-*   [vasilecampeanu/obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver is an Obsidian plugin that integrates a ChatGPT-like interface into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you improve your writing and brainstorming process.
-
-*   [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
-
-*   [antoniosolismz/Obsidian-AI](https://github.com/antoniosolismz/Obsidian-AI) - ChatGPT powered assistant for Obsidian "inspired by" Notion AI
-
-*   [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
-
-*   [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
-
-## generative-ai
-
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
-
-*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
-
-*   [IBM/wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
-
-## large-language-models
-
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
-
-*   [Yusuke710/nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI) - The simplest open-source implementation of perplexity.ai
-
-## multiagent
-
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
-
-*   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript
-
-## react-flow
-
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
-
-*   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-
-*   [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
-
 ## ai
+
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
 
 *   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript
 
@@ -4703,6 +4646,126 @@
 *   [huridocs/uwazi](https://github.com/huridocs/uwazi) - Uwazi is a web-based, open-source solution for building and sharing document collections
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+## llms
+
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
+
+*   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
+
+*   [IBM/wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
+
+*   [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
+
+*   [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
+
+*   [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
+
+*   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
+
+*   [r2d4/llm.ts](https://github.com/r2d4/llm.ts) - Call any LLM with a single API. Zero dependencies.
+
+## openai
+
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
+
+*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+
+*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+
+*   [IBM/wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
+
+*   [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
+
+*   [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
+
+*   [LangbaseInc/BaseAI](https://github.com/LangbaseInc/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
+
+*   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
+
+*   [andywalters47/clearmail](https://github.com/andywalters47/clearmail) - Filter gmail with AI
+
+*   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
+
+*   [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI
+
+*   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
+
+*   [r2d4/llm.ts](https://github.com/r2d4/llm.ts) - Call any LLM with a single API. Zero dependencies.
+
+*   [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+*   [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
+
+*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+
+*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+
+## chatgpt
+
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+
+*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+
+*   [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
+
+*   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
+
+*   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
+
+*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+
+*   [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
+
+*   [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
+
+*   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+
+*   [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
+
+*   [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
+
+*   [vasilecampeanu/obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver is an Obsidian plugin that integrates a ChatGPT-like interface into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you improve your writing and brainstorming process.
+
+*   [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
+
+*   [antoniosolismz/Obsidian-AI](https://github.com/antoniosolismz/Obsidian-AI) - ChatGPT powered assistant for Obsidian "inspired by" Notion AI
+
+*   [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
+
+*   [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
+
+## generative-ai
+
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+
+*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+
+*   [IBM/wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
+
+## large-language-models
+
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+
+*   [Yusuke710/nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI) - The simplest open-source implementation of perplexity.ai
+
+## multiagent
+
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+
+*   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript
+
+## react-flow
+
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+
+*   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
+
+*   [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
 
 ## ai-agent
 
@@ -5069,8 +5132,6 @@
 *   [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 
 *   [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
-
-*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 
 ## md
 
@@ -5812,44 +5873,6 @@
 
 *   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
-## openai
-
-*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-
-*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
-
-*   [IBM/wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
-
-*   [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-
-*   [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
-
-*   [LangbaseInc/BaseAI](https://github.com/LangbaseInc/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
-
-*   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
-
-*   [andywalters47/clearmail](https://github.com/andywalters47/clearmail) - Filter gmail with AI
-
-*   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
-
-*   [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI
-
-*   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
-
-*   [r2d4/llm.ts](https://github.com/r2d4/llm.ts) - Call any LLM with a single API. Zero dependencies.
-
-*   [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
-
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-*   [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
-
-*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-
-*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-
 ## datasette-io
 
 *   [dogsheep/dogsheep-beta](https://github.com/dogsheep/dogsheep-beta) - Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
@@ -6208,22 +6231,6 @@
 
 *   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
 
-## llms
-
-*   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
-
-*   [IBM/wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
-
-*   [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-
-*   [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
-
-*   [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
-
-*   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
-
-*   [r2d4/llm.ts](https://github.com/r2d4/llm.ts) - Call any LLM with a single API. Zero dependencies.
-
 ## parser
 
 *   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
@@ -6231,8 +6238,6 @@
 *   [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 
 *   [layervault/psd.rb](https://github.com/layervault/psd.rb) - Parse Photoshop files in Ruby with ease
-
-*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 
 ## pdf-converter
 
@@ -6586,8 +6591,6 @@
 
 *   [tmcw/big](https://github.com/tmcw/big) - presentations for busy messy hackers
 
-*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
-
 ## language-model
 
 *   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
@@ -6925,8 +6928,6 @@
 *   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 
 *   [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-
-*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 
 ## langgraph
 
@@ -12478,8 +12479,6 @@
 
 *   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
-*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
-
 ## cheatsheet
 
 *   [DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 \[ES6] cheatsheet containing tips, tricks, best practices and code snippets
@@ -15384,8 +15383,6 @@
 
 *   [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 
-*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
-
 ## incubating
 
 *   [apache/incubator-annotator](https://github.com/apache/incubator-annotator) - Apache Annotator provides annotation enabling code for browsers, servers, and humans.
@@ -17348,13 +17345,9 @@
 
 *   [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 
-*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
-
 ## gfm
 
 *   [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
-
-*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 
 ## jquery
 
@@ -20513,7 +20506,3 @@
 ## jquery-ui
 
 *   [bergie/create](https://github.com/bergie/create) - Midgard Create, a generic web editing interface for any CMS
-
-## screenshot
-
-*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
