@@ -42,8 +42,8 @@
 *   [Racket](#racket)
 *   [Haskell](#haskell)
 *   [Emacs Lisp](#emacs-lisp)
-*   [Smarty](#smarty)
 *   [MDX](#mdx)
+*   [Smarty](#smarty)
 *   [Dockerfile](#dockerfile)
 *   [Objective-C](#objective-c)
 *   [ActionScript](#actionscript)
@@ -97,7 +97,7 @@
 
 *   [htunnicliff/jmap-jam](https://github.com/htunnicliff/jmap-jam) - Jam is a tiny (~2kb gzipped), strongly-typed JMAP client with zero runtime dependencies. It has friendly, fluent APIs that make working with JMAP a breeze.
 
-*   [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
+*   [different-ai/note-companion](https://github.com/different-ai/note-companion) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
 
 *   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 
@@ -2527,8 +2527,6 @@
 
 *   [krismuniz/dat-utils](https://github.com/krismuniz/dat-utils) - Utility functions for Beaker Browser's DatArchive API
 
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-
 *   [soulellis/epa](https://github.com/soulellis/epa) - Steve, Harvey and Matt,
 
 *   [beakerbrowser/explore](https://github.com/beakerbrowser/explore) - A curated list of peer-to-peer websites and apps
@@ -3439,13 +3437,15 @@
 
 *   [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 
+## MDX
+
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
+*   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers
+
 ## Smarty
 
 *   [hintjens/socialarchitecture](https://github.com/hintjens/socialarchitecture) - A primer on on-line community building
-
-## MDX
-
-*   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers
 
 ## Dockerfile
 
