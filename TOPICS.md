@@ -2663,6 +2663,8 @@
 
 ## miscellaneous
 
+*   [ibm-granite/granite-io](https://github.com/ibm-granite/granite-io) - Python framework which enables you to transform how a user calls or infers an IBM Granite model and how the output from the model is returned to the user.
+
 *   [singleportrait/a-pattern-language](https://github.com/singleportrait/a-pattern-language) - A directory and network for all patterns in A Pattern Language
 
 *   [nihaocami/ai-tool-maker](https://github.com/nihaocami/ai-tool-maker) - Generate AI SDK Tools from OpenAPI specs
@@ -4546,8 +4548,6 @@
 *   [desandro/imagesloaded](https://github.com/desandro/imagesloaded) - :camera: JavaScript is all like "You images done yet or what?"
 
 *   [podio/jquery-mentions-input](https://github.com/podio/jquery-mentions-input) -
-
-*   [mattkersley/Responsive-Menu](https://github.com/mattkersley/Responsive-Menu) - Turns any \<ol> or \<ul> into a \<select> for mobiles and low browser sizes
 
 ## agents
 
