@@ -7593,7 +7593,7 @@
 
 *   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 
 *   [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
@@ -8533,7 +8533,7 @@
 
 *   [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 
 *   [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 
@@ -8779,7 +8779,7 @@
 
 *   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 
 *   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
 
@@ -8791,7 +8791,7 @@
 
 *   [garden-co/jazz](https://github.com/garden-co/jazz) - Build your next app with sync.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 
 ## end-to-end-encryption
 
@@ -8809,7 +8809,7 @@
 
 *   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 
 *   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
 
@@ -8835,7 +8835,7 @@
 
 *   [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 
@@ -9377,7 +9377,7 @@
 
 *   [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 
 *   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
 
@@ -9773,11 +9773,11 @@
 
 ## elixir
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 
 ## postgres
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 
 *   [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 
@@ -9795,7 +9795,7 @@
 
 ## replication
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 
 ## e2e-testing
 
