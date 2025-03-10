@@ -4,6 +4,24 @@
 
 ## Table of Contents
 
+*   [awesome](#awesome)
+*   [awesome-list](#awesome-list)
+*   [cursor](#cursor)
+*   [cursor-ai-editor](#cursor-ai-editor)
+*   [cursorrules](#cursorrules)
+*   [anthropic](#anthropic)
+*   [chatgpt](#chatgpt)
+*   [claude-3](#claude-3)
+*   [cli](#cli)
+*   [command-line](#command-line)
+*   [gemini](#gemini)
+*   [gpt-3](#gpt-3)
+*   [gpt-35-turbo](#gpt-35-turbo)
+*   [gpt-4](#gpt-4)
+*   [gpt-4o](#gpt-4o)
+*   [llama](#llama)
+*   [openai](#openai)
+*   [sonnet](#sonnet)
 *   [miscellaneous](#miscellaneous)
 *   [ai](#ai)
 *   [llm](#llm)
@@ -13,13 +31,11 @@
 *   [ollama](#ollama)
 *   [ollama-webui](#ollama-webui)
 *   [open-webui](#open-webui)
-*   [openai](#openai)
 *   [rag](#rag)
 *   [self-hosted](#self-hosted)
 *   [ui](#ui)
 *   [webui](#webui)
 *   [agents](#agents)
-*   [chatgpt](#chatgpt)
 *   [generative-ai](#generative-ai)
 *   [large-language-models](#large-language-models)
 *   [multiagent](#multiagent)
@@ -135,17 +151,14 @@
 *   [gpt](#gpt)
 *   [focus-mode](#focus-mode)
 *   [todoist](#todoist)
-*   [anthropic](#anthropic)
 *   [artificial-intelligence](#artificial-intelligence)
 *   [chatbot](#chatbot)
 *   [claude](#claude)
 *   [deepseek](#deepseek)
 *   [devtools](#devtools)
-*   [gemini](#gemini)
 *   [genai](#genai)
 *   [javascript](#javascript)
 *   [language-model](#language-model)
-*   [llama](#llama)
 *   [nodejs](#nodejs)
 *   [ai-scraping](#ai-scraping)
 *   [crawler](#crawler)
@@ -175,8 +188,6 @@
 *   [example](#example)
 *   [hello-world](#hello-world)
 *   [monday](#monday)
-*   [awesome](#awesome)
-*   [awesome-list](#awesome-list)
 *   [git](#git)
 *   [github](#github)
 *   [list](#list)
@@ -352,7 +363,6 @@
 *   [pptx](#pptx)
 *   [tables](#tables)
 *   [xlsx](#xlsx)
-*   [gpt-4](#gpt-4)
 *   [gpt4](#gpt4)
 *   [graphrag](#graphrag)
 *   [apis](#apis)
@@ -557,7 +567,6 @@
 *   [commit](#commit)
 *   [conventions](#conventions)
 *   [lint](#lint)
-*   [command-line](#command-line)
 *   [data-version-control](#data-version-control)
 *   [data-versioning](#data-versioning)
 *   [database-version-control](#database-version-control)
@@ -839,7 +848,6 @@
 *   [mdsvex](#mdsvex)
 *   [sass](#sass)
 *   [starter](#starter)
-*   [cli](#cli)
 *   [command-line-tool](#command-line-tool)
 *   [csv](#csv)
 *   [dropbox](#dropbox)
@@ -1019,7 +1027,6 @@
 *   [information-extraction](#information-extraction)
 *   [natural-language-understanding](#natural-language-understanding)
 *   [chatgpt-api](#chatgpt-api)
-*   [gpt-3](#gpt-3)
 *   [gpt3-turbo](#gpt3-turbo)
 *   [distributed](#distributed)
 *   [gpu](#gpu)
@@ -2149,7 +2156,6 @@
 *   [figma-plugin](#figma-plugin)
 *   [icons](#icons)
 *   [shopify-polaris](#shopify-polaris)
-*   [cursor](#cursor)
 *   [experiment](#experiment)
 *   [js](#js)
 *   [activity-stream](#activity-stream)
@@ -2666,6 +2672,282 @@
 *   [reactflow](#reactflow)
 *   [svelteflow](#svelteflow)
 *   [jquery-ui](#jquery-ui)
+
+## awesome
+
+*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
+
+*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+
+*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+
+*   [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+
+*   [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
+
+*   [mrseth01/awesome-adhd](https://github.com/mrseth01/awesome-adhd) - Awesome Resources for ADHD
+
+*   [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile) - Awesome List of resources on Agile Software Development.
+
+*   [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
+
+*   [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
+
+*   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
+
+*   [rasulkireev/awesome-basb](https://github.com/rasulkireev/awesome-basb) - A curated list of resource for Building a Second Brain.
+
+*   [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
+
+*   [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
+
+*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+
+*   [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
+
+*   [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer
+
+*   [machinomy/awesome-non-financial-blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Curated list of projects that build non-financial applications of blockchain
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+
+## awesome-list
+
+*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
+
+*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+
+*   [XargsUK/awesome-adhd](https://github.com/XargsUK/awesome-adhd) - A curated list of ADHD apps, books, ideas and resources across the web!
+
+*   [hng/tech-coops](https://github.com/hng/tech-coops) - A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
+
+*   [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
+
+*   [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile) - Awesome List of resources on Agile Software Development.
+
+*   [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
+
+*   [rseng/awesome-rseng](https://github.com/rseng/awesome-rseng) - A curated list of GitHub organizations that primarily serve open source or academic software projects.
+
+*   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
+
+*   [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
+
+*   [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
+
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
+*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+
+*   [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer
+
+*   [machinomy/awesome-non-financial-blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Curated list of projects that build non-financial applications of blockchain
+
+*   [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+
+## cursor
+
+*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
+
+*   [javierbyte/control-user-cursor](https://github.com/javierbyte/control-user-cursor) - Small experiment to 'control' the user cursor with JavaScript and CSS.
+
+## cursor-ai-editor
+
+*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
+
+## cursorrules
+
+*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
+
+## anthropic
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+
+*   [LangbaseInc/BaseAI](https://github.com/LangbaseInc/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
+
+## chatgpt
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+
+*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+
+*   [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
+
+*   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
+
+*   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
+
+*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+
+*   [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
+
+*   [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
+
+*   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+
+*   [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
+
+*   [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
+
+*   [vasilecampeanu/obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver is an Obsidian plugin that integrates a ChatGPT-like interface into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you improve your writing and brainstorming process.
+
+*   [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
+
+*   [antoniosolismz/Obsidian-AI](https://github.com/antoniosolismz/Obsidian-AI) - ChatGPT powered assistant for Obsidian "inspired by" Notion AI
+
+*   [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
+
+*   [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
+
+## claude-3
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+## cli
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+*   [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
+
+*   [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
+
+*   [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
+
+*   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
+
+*   [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
+
+*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+*   [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
+
+*   [fabiospampinato/cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
+
+*   [chrisdmacrae/front-matter-manipulator](https://github.com/chrisdmacrae/front-matter-manipulator) - A utility for parsing and manipulating documents with Front Matter
+
+*   [accraze/split-md](https://github.com/accraze/split-md) - :wavy\_dash: Split a Markdown file into smaller files
+
+*   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+
+## command-line
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+*   [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+
+*   [cabal-club/cabal-cli](https://github.com/cabal-club/cabal-cli) - Terminal client for Cabal, the p2p chat platform.
+
+## gemini
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+
+*   [LangbaseInc/BaseAI](https://github.com/LangbaseInc/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
+
+*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
+
+*   [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
+
+## gpt-3
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+*   [antoniosolismz/Obsidian-AI](https://github.com/antoniosolismz/Obsidian-AI) - ChatGPT powered assistant for Obsidian "inspired by" Notion AI
+
+*   [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
+
+*   [deepfates/silicon](https://github.com/deepfates/silicon) - Add some intelligence to your notes with Silicon AI for Obsidian
+
+## gpt-35-turbo
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+## gpt-4
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+*   [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
+
+*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+
+*   [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+## gpt-4o
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+## llama
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+
+*   [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services
+
+*   [IBM/wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
+
+## openai
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
+
+*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+
+*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+
+*   [IBM/wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
+
+*   [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
+
+*   [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
+
+*   [LangbaseInc/BaseAI](https://github.com/LangbaseInc/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
+
+*   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
+
+*   [andywalters47/clearmail](https://github.com/andywalters47/clearmail) - Filter gmail with AI
+
+*   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
+
+*   [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI
+
+*   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
+
+*   [r2d4/llm.ts](https://github.com/r2d4/llm.ts) - Call any LLM with a single API. Zero dependencies.
+
+*   [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+*   [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
+
+*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+
+*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+
+## sonnet
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 
 ## miscellaneous
 
@@ -4549,10 +4831,6 @@
 
 *   [nytimes/Fech](https://github.com/nytimes/Fech) - Deprecated. Please see https://github.com/dwillis/Fech for a maintained fork.
 
-*   [jonikorpi/Frameless](https://github.com/jonikorpi/Frameless) - The spiritual successor to Less Framework
-
-*   [MattWilcox/Adaptive-Images](https://github.com/MattWilcox/Adaptive-Images) - Automatically adapts your existing HTML images for mobile devices. No mark-up changes needed.
-
 ## ai
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -4721,48 +4999,6 @@
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-## openai
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
-
-*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-
-*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
-
-*   [IBM/wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
-
-*   [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-
-*   [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
-
-*   [LangbaseInc/BaseAI](https://github.com/LangbaseInc/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
-
-*   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
-
-*   [andywalters47/clearmail](https://github.com/andywalters47/clearmail) - Filter gmail with AI
-
-*   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
-
-*   [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI
-
-*   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
-
-*   [r2d4/llm.ts](https://github.com/r2d4/llm.ts) - Call any LLM with a single API. Zero dependencies.
-
-*   [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
-
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-*   [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
-
-*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-
-*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-
 ## rag
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -4868,40 +5104,6 @@
 *   [agno-agi/agno](https://github.com/agno-agi/agno) - Build Multimodal AI Agents with memory, knowledge and tools. Simple, fast and model-agnostic.
 
 *   [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
-
-## chatgpt
-
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
-
-*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
-
-*   [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-
-*   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
-
-*   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
-
-*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-
-*   [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
-
-*   [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
-
-*   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-
-*   [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
-
-*   [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
-
-*   [vasilecampeanu/obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver is an Obsidian plugin that integrates a ChatGPT-like interface into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you improve your writing and brainstorming process.
-
-*   [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
-
-*   [antoniosolismz/Obsidian-AI](https://github.com/antoniosolismz/Obsidian-AI) - ChatGPT powered assistant for Obsidian "inspired by" Notion AI
-
-*   [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
-
-*   [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
 
 ## generative-ai
 
@@ -5057,7 +5259,7 @@
 
 *   [javierarce/toolbox](https://github.com/javierarce/toolbox) - A collection of tools, APIs and other resources to use in creative coding web projects.
 
-*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2024, WikiTeam has preserved more than 600,000 wikis.
+*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
 
 *   [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 
@@ -5527,7 +5729,7 @@
 
 *   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
-*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2024, WikiTeam has preserved more than 600,000 wikis.
+*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
 
 ## obsidian-md
 
@@ -6397,12 +6599,6 @@
 
 *   [selfire1/todoist-focus-mode](https://github.com/selfire1/todoist-focus-mode) - Flowist is a Focus Mode companion for Todoist
 
-## anthropic
-
-*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
-
-*   [LangbaseInc/BaseAI](https://github.com/LangbaseInc/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
-
 ## artificial-intelligence
 
 *   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
@@ -6446,16 +6642,6 @@
 *   [carbon-design-system/devtools](https://github.com/carbon-design-system/devtools) - A simple set of tools for teams building live Carbon pages.
 
 *   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
-
-## gemini
-
-*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
-
-*   [LangbaseInc/BaseAI](https://github.com/LangbaseInc/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
-
-*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
-
-*   [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
 
 ## genai
 
@@ -6680,14 +6866,6 @@
 *   [yizhongw/self-instruct](https://github.com/yizhongw/self-instruct) - Aligning pretrained language models with instruction data generated by themselves.
 
 *   [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
-
-## llama
-
-*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
-
-*   [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services
-
-*   [IBM/wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
 
 ## nodejs
 
@@ -7168,80 +7346,6 @@
 ## monday
 
 *   [mondaycom/welcome-apps](https://github.com/mondaycom/welcome-apps) - A collection of "Hello World" monday.com apps
-
-## awesome
-
-*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-
-*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
-
-*   [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-
-*   [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
-
-*   [mrseth01/awesome-adhd](https://github.com/mrseth01/awesome-adhd) - Awesome Resources for ADHD
-
-*   [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile) - Awesome List of resources on Agile Software Development.
-
-*   [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
-
-*   [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
-
-*   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
-
-*   [rasulkireev/awesome-basb](https://github.com/rasulkireev/awesome-basb) - A curated list of resource for Building a Second Brain.
-
-*   [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
-
-*   [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
-
-*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-
-*   [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
-
-*   [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer
-
-*   [machinomy/awesome-non-financial-blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Curated list of projects that build non-financial applications of blockchain
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
-
-## awesome-list
-
-*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-
-*   [XargsUK/awesome-adhd](https://github.com/XargsUK/awesome-adhd) - A curated list of ADHD apps, books, ideas and resources across the web!
-
-*   [hng/tech-coops](https://github.com/hng/tech-coops) - A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
-
-*   [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
-
-*   [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile) - Awesome List of resources on Agile Software Development.
-
-*   [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
-
-*   [rseng/awesome-rseng](https://github.com/rseng/awesome-rseng) - A curated list of GitHub organizations that primarily serve open source or academic software projects.
-
-*   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
-
-*   [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
-
-*   [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
-
-*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-
-*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-
-*   [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer
-
-*   [machinomy/awesome-non-financial-blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Curated list of projects that build non-financial applications of blockchain
-
-*   [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 
 ## git
 
@@ -8761,18 +8865,6 @@
 
 *   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 
-## gpt-4
-
-*   [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
-
-*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-
-*   [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
-
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
 ## gpt4
 
 *   [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
@@ -10082,12 +10174,6 @@
 *   [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 
 *   [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
-
-## command-line
-
-*   [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-
-*   [cabal-club/cabal-cli](https://github.com/cabal-club/cabal-cli) - Terminal client for Cabal, the p2p chat platform.
 
 ## data-version-control
 
@@ -11733,30 +11819,6 @@
 
 *   [josh-collinsworth/sveltekit-blog-starter](https://github.com/josh-collinsworth/sveltekit-blog-starter) - A preconfigured SvelteKit static blog starter, with Sass, Markdown, MDSvex, Rehype, background preloading, and more. See the README for full details.
 
-## cli
-
-*   [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
-
-*   [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
-
-*   [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
-
-*   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
-
-*   [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-
-*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
-*   [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
-
-*   [fabiospampinato/cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
-
-*   [chrisdmacrae/front-matter-manipulator](https://github.com/chrisdmacrae/front-matter-manipulator) - A utility for parsing and manipulating documents with Front Matter
-
-*   [accraze/split-md](https://github.com/accraze/split-md) - :wavy\_dash: Split a Markdown file into smaller files
-
-*   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-
 ## command-line-tool
 
 *   [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
@@ -12830,14 +12892,6 @@
 ## chatgpt-api
 
 *   [antoniosolismz/Obsidian-AI](https://github.com/antoniosolismz/Obsidian-AI) - ChatGPT powered assistant for Obsidian "inspired by" Notion AI
-
-## gpt-3
-
-*   [antoniosolismz/Obsidian-AI](https://github.com/antoniosolismz/Obsidian-AI) - ChatGPT powered assistant for Obsidian "inspired by" Notion AI
-
-*   [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
-
-*   [deepfates/silicon](https://github.com/deepfates/silicon) - Add some intelligence to your notes with Silicon AI for Obsidian
 
 ## gpt3-turbo
 
@@ -16575,7 +16629,7 @@
 
 *   [MatthieuBizien/roam-to-git](https://github.com/MatthieuBizien/roam-to-git) - Automatic RoamResearch backup to Git
 
-*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2024, WikiTeam has preserved more than 600,000 wikis.
+*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
 
 *   [yeargin/mediatemple-backup](https://github.com/yeargin/mediatemple-backup) - Collection of bash scripts for database backups.
 
@@ -16587,7 +16641,7 @@
 
 *   [MatthieuBizien/roam-to-git](https://github.com/MatthieuBizien/roam-to-git) - Automatic RoamResearch backup to Git
 
-*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2024, WikiTeam has preserved more than 600,000 wikis.
+*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
 
 ## deck
 
@@ -18375,10 +18429,6 @@
 
 *   [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
 
-## cursor
-
-*   [javierbyte/control-user-cursor](https://github.com/javierbyte/control-user-cursor) - Small experiment to 'control' the user cursor with JavaScript and CSS.
-
 ## experiment
 
 *   [javierbyte/control-user-cursor](https://github.com/javierbyte/control-user-cursor) - Small experiment to 'control' the user cursor with JavaScript and CSS.
@@ -19233,7 +19283,7 @@
 
 *   [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 
-*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2024, WikiTeam has preserved more than 600,000 wikis.
+*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
 
 ## node-scraper
 
@@ -19261,27 +19311,27 @@
 
 ## archive-wikis
 
-*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2024, WikiTeam has preserved more than 600,000 wikis.
+*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
 
 ## digital-preservation
 
-*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2024, WikiTeam has preserved more than 600,000 wikis.
+*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
 
 ## dump
 
-*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2024, WikiTeam has preserved more than 600,000 wikis.
+*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
 
 ## mediawiki
 
-*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2024, WikiTeam has preserved more than 600,000 wikis.
+*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
 
 ## wikipedia
 
-*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2024, WikiTeam has preserved more than 600,000 wikis.
+*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
 
 ## wikiteam
 
-*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2024, WikiTeam has preserved more than 600,000 wikis.
+*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
 
 ## backstopjs
 
