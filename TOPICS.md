@@ -6788,7 +6788,7 @@
 
 *   [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 
-*   [ghosh/Micromodal](https://github.com/ghosh/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
+*   [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
 
 *   [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 
@@ -12928,7 +12928,7 @@
 
 *   [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
 
-*   [ghosh/Micromodal](https://github.com/ghosh/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
+*   [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
 
 ## general-purpose-model
 
@@ -15126,7 +15126,7 @@
 
 *   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
-*   [ghosh/Micromodal](https://github.com/ghosh/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
+*   [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
 
 *   [yargalot/AccessSniff](https://github.com/yargalot/AccessSniff) - Automated accessibility testing using HTML\_Codesniffer (WCAG and Section508)
 
@@ -17788,11 +17788,11 @@
 
 ## modal-dialogs
 
-*   [ghosh/Micromodal](https://github.com/ghosh/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
+*   [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
 
 ## vanilla-javascript
 
-*   [ghosh/Micromodal](https://github.com/ghosh/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
+*   [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
 
 ## data-manipulation
 

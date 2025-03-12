@@ -295,6 +295,8 @@
 
 *   [r2d4/llm.ts](https://github.com/r2d4/llm.ts) - Call any LLM with a single API. Zero dependencies.
 
+*   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
+
 *   [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 
 *   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
@@ -640,6 +642,8 @@
 *   [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 
 *   [hyperaudio/hyperaudio-lite](https://github.com/hyperaudio/hyperaudio-lite) - Hyperaudio Lite - a Super-lightweight Interactive Transcript Player
+
+*   [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 
 *   [thgh/Airtable-to-Figma](https://github.com/thgh/Airtable-to-Figma) - Figma plugin to import Airtable data into Figma components
 
@@ -1987,7 +1991,7 @@
 
 *   [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 
-*   [ghosh/Micromodal](https://github.com/ghosh/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
+*   [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
 
 *   [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
 
@@ -2641,8 +2645,6 @@
 
 *   [Khan/style-guides](https://github.com/Khan/style-guides) - Docs for the Organization
 
-*   [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-
 *   [tombubul/newtabimages](https://github.com/tombubul/newtabimages) - Low-maintenance, serverless approach to interacting with a giant screenshot archive
 
 *   [dphiffer/data-and-social-justice](https://github.com/dphiffer/data-and-social-justice) - Bennington College / Fall 2018
@@ -2824,8 +2826,6 @@
 *   [homenotalone/homenotalone](https://github.com/homenotalone/homenotalone) - Get yourself a home on the internet and have friends over!
 
 *   [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
-
-*   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 
 *   [spences10/sveltekit-and-airtable-contact-form-example](https://github.com/spences10/sveltekit-and-airtable-contact-form-example) - SvelteKit form submission example with Airtable
 
