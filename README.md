@@ -861,7 +861,7 @@
 
 *   [IBM/watsonx-developer-hub](https://github.com/IBM/watsonx-developer-hub) - Examples and guides for building Gen AI applications on the watsonx platform.
 
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 
 *   [openai/SWELancer-Benchmark](https://github.com/openai/SWELancer-Benchmark) - This repo contains the dataset and code for the paper "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?"
 
@@ -909,7 +909,7 @@
 
 *   [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 *   [circlemind-ai/fast-graphrag](https://github.com/circlemind-ai/fast-graphrag) - RAG that intelligently adapts to your use case, data, and queries
 
@@ -3145,7 +3145,7 @@
 
 ## Elixir
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 
 ## Makefile
 

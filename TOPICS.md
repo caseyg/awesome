@@ -4586,7 +4586,7 @@
 
 *   [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 *   [LangbaseInc/BaseAI](https://github.com/LangbaseInc/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
 
@@ -4830,7 +4830,7 @@
 
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 
 *   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 
@@ -5130,7 +5130,7 @@
 
 *   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
 
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 
 *   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript
 
@@ -5150,7 +5150,7 @@
 
 ## generative-ai
 
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 
 *   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 
@@ -5158,19 +5158,19 @@
 
 ## large-language-models
 
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 
 *   [Yusuke710/nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI) - The simplest open-source implementation of perplexity.ai
 
 ## multiagent
 
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 
 *   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript
 
 ## react-flow
 
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 
 *   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 
@@ -5432,7 +5432,7 @@
 
 *   [SveltePress/sveltepress](https://github.com/SveltePress/sveltepress) - A content centered site build tool, build on top of Sveltekit.
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 *   [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 
@@ -6144,7 +6144,7 @@
 
 *   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 *   [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 
@@ -6570,7 +6570,7 @@
 
 *   [DS4SD/deepsearch-toolkit](https://github.com/DS4SD/deepsearch-toolkit) -  Interact with the Deep Search platform for new knowledge explorations and discoveries
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 *   [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 
@@ -7796,7 +7796,7 @@
 
 *   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 
 *   [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
@@ -8736,7 +8736,7 @@
 
 *   [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 
 *   [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 
@@ -8802,21 +8802,21 @@
 
 ## convert
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 *   [dawnlabs/alchemy](https://github.com/dawnlabs/alchemy) - :crystal\_ball: File conversion, all from the menu bar
 
 ## document-parser
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 ## document-parsing
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 ## documents
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 *   [huridocs/uwazi](https://github.com/huridocs/uwazi) - Uwazi is a web-based, open-source solution for building and sharing document collections
 
@@ -8828,7 +8828,7 @@
 
 ## docx
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 *   [fiduswriter/fiduswriter](https://github.com/fiduswriter/fiduswriter) - Fidus Writer is an online collaborative editor for academics.
 
@@ -8836,7 +8836,7 @@
 
 ## html
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 *   [carbon-design-system/carbon-for-ibm-dotcom](https://github.com/carbon-design-system/carbon-for-ibm-dotcom) - Carbon for IBM.com is based on the Carbon Design System for IBM
 
@@ -8880,27 +8880,27 @@
 
 ## pdf-to-json
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 ## pdf-to-text
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 ## pptx
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 *   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
 
 ## tables
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 *   [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 
 ## xlsx
 
-*   [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 ## gpt4
 
@@ -8970,7 +8970,7 @@
 
 *   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 
 *   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
 
@@ -8982,7 +8982,7 @@
 
 *   [garden-co/jazz](https://github.com/garden-co/jazz) - Build your next app with sync.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 
 ## end-to-end-encryption
 
@@ -9000,7 +9000,7 @@
 
 *   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 
 *   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
 
@@ -9026,7 +9026,7 @@
 
 *   [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 
@@ -9568,7 +9568,7 @@
 
 *   [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 
 *   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
 
@@ -9964,11 +9964,11 @@
 
 ## elixir
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 
 ## postgres
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 
 *   [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 
@@ -9986,7 +9986,7 @@
 
 ## replication
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 
 ## e2e-testing
 
