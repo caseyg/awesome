@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
+*   [Python](#python)
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
-*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
-*   [Rust](#rust)
 *   [Shell](#shell)
 *   [Astro](#astro)
 *   [SCSS](#scss)
@@ -56,6 +56,466 @@
 *   [HaXe](#haxe)
 *   [Vim script](#vim-script)
 *   [Objective-C++](#objective-c-1)
+*   [DIGITAL Command Language](#digital-command-language)
+*   [Scala](#scala)
+
+## Python
+
+*   [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) -
+
+*   [langchain-ai/langgraph-reflection](https://github.com/langchain-ai/langgraph-reflection) -
+
+*   [langchain-ai/openevals](https://github.com/langchain-ai/openevals) -
+
+*   [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+*   [ibm-granite/granite-io](https://github.com/ibm-granite/granite-io) - Python framework which enables you to transform how a user calls or infers an IBM Granite model and how the output from the model is returned to the user.
+
+*   [IBM/watsonx-developer-hub](https://github.com/IBM/watsonx-developer-hub) - Examples and guides for building Gen AI applications on the watsonx platform.
+
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+
+*   [openai/SWELancer-Benchmark](https://github.com/openai/SWELancer-Benchmark) - This repo contains the dataset and code for the paper "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?"
+
+*   [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
+
+*   [meta-llama/llama-stack](https://github.com/meta-llama/llama-stack) - Composable building blocks to build Llama Apps
+
+*   [datasette/datasette-enrichments](https://github.com/datasette/datasette-enrichments) - Tools for running enrichments against data stored in Datasette
+
+*   [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
+
+*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+
+*   [uibm/boxtodocx](https://github.com/uibm/boxtodocx) - A tool to convert boxnotes to docx(for now)
+
+*   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+
+*   [dogsheep/dogsheep-beta](https://github.com/dogsheep/dogsheep-beta) - Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
+
+*   [byoda/byoda-python](https://github.com/byoda/byoda-python) - The BYODA Personal Data Server
+
+*   [timcowlishaw/xic](https://github.com/timcowlishaw/xic) - Tiny tools for thick description
+
+*   [thephm/message\_md](https://github.com/thephm/message_md) - Classes to hold messages and converting to Markdown and supporting methods.
+
+*   [thephm/email\_md](https://github.com/thephm/email_md) - IMAP email to Markdown
+
+*   [HelloThisIsFlo/Things3-To-OmniFocus](https://github.com/HelloThisIsFlo/Things3-To-OmniFocus) - Migrate from Things3 to OmniFocus (via TaskPaper)
+
+*   [codellm-devkit/python-sdk](https://github.com/codellm-devkit/python-sdk) - The official Python SDK for Codellm-Devkit
+
+*   [Yusuke710/nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI) - The simplest open-source implementation of perplexity.ai
+
+*   [QwenLM/Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.
+
+*   [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
+
+*   [DS4SD/deepsearch-examples](https://github.com/DS4SD/deepsearch-examples) - Examples using the Deep Search functionalities
+
+*   [DS4SD/deepsearch-toolkit](https://github.com/DS4SD/deepsearch-toolkit) -  Interact with the Deep Search platform for new knowledge explorations and discoveries
+
+*   [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
+
+*   [IBM/prompt-declaration-language](https://github.com/IBM/prompt-declaration-language) - Prompt Declaration Language (PDL) is a declarative prompt programming language.
+
+*   [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
+
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
+
+*   [circlemind-ai/fast-graphrag](https://github.com/circlemind-ai/fast-graphrag) - RAG that intelligently adapts to your use case, data, and queries
+
+*   [huridocs/pdf-document-layout-analysis](https://github.com/huridocs/pdf-document-layout-analysis) - A Docker-powered service for PDF document layout analysis. This service provides a powerful and flexible PDF analysis service. The service allows for the segmentation and classification of different parts of PDF pages, identifying the elements such as texts, titles, pictures, tables and so on.
+
+*   [PinkDot-AI/eschergraph](https://github.com/PinkDot-AI/eschergraph) - The EscherGraph introduces advanced search capabilities on generalized knowledge graphs that are build using LLMs.
+
+*   [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
+
+*   [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
+
+*   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
+
+*   [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+
+*   [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.
+
+*   [livekit/agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
+
+*   [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface
+
+*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+
+*   [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
+
+*   [rschroll/rmrl](https://github.com/rschroll/rmrl) - Render reMarkable documents to PDF
+
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build Multimodal AI Agents with memory, knowledge and tools. Simple, fast and model-agnostic.
+
+*   [definitive-io/duckdb-text2sql](https://github.com/definitive-io/duckdb-text2sql) -
+
+*   [definitive-io/duckdb-rag](https://github.com/definitive-io/duckdb-rag) -
+
+*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+
+*   [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
+
+*   [technologistpro/boxnote2docx](https://github.com/technologistpro/boxnote2docx) - Convert Box Notes to Microsoft Word Documents
+
+*   [jessepav/boxtools](https://github.com/jessepav/boxtools) - Some utilities useful for use with Box
+
+*   [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
+
+*   [ourresearch/openalex-elastic-api](https://github.com/ourresearch/openalex-elastic-api) - All the OpenAlex API endpoints that are backed by Elasticsearch
+
+*   [linto-ai/whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual Automatic Speech Recognition with word-level timestamps and confidence
+
+*   [ikram-shah/airtable-qna](https://github.com/ikram-shah/airtable-qna) - Ask question to your Airtable base in natural language
+
+*   [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
+
+*   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+
+*   [dtinit/portability-articles](https://github.com/dtinit/portability-articles) - A collection of articles to help find solutions for data portability
+
+*   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+
+*   [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
+
+*   [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
+
+*   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
+
+*   [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+
+*   [kometenstaub/metadata-changer](https://github.com/kometenstaub/metadata-changer) - Metadata converter for Breadcrumbs users. It is made for adapting metadata to Obsidian 1.4.0+'s link support in frontmatter.
+
+*   [natelandau/obsidian-metadata](https://github.com/natelandau/obsidian-metadata) - Batch updates to metadata in an Obsidian vault
+
+*   [JasonKessler/scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types.
+
+*   [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
+
+*   [biolab/orange3](https://github.com/biolab/orange3) - 🍊 :bar\_chart: :bulb: Orange: Interactive data analysis
+
+*   [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
+
+*   [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
+
+*   [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+
+*   [psobot/keynote-parser](https://github.com/psobot/keynote-parser) - A packer/unpacker for Apple Keynote presentation files.
+
+*   [IBM/Dromedary](https://github.com/IBM/Dromedary) - Dromedary: towards helpful, ethical and reliable LLMs.
+
+*   [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+
+*   [pettarin/forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools) - A collection of links and notes on forced alignment tools
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+*   [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact, analyze and structure massive text, image, embedding, audio and video datasets
+
+*   [eyurtsev/kor](https://github.com/eyurtsev/kor) - LLM(😽)
+
+*   [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
+
+*   [yizhongw/self-instruct](https://github.com/yizhongw/self-instruct) - Aligning pretrained language models with instruction data generated by themselves.
+
+*   [Geeks-Vegeta/medium-blog-scraping](https://github.com/Geeks-Vegeta/medium-blog-scraping) - 🕸️ Medium Blog Scrapper to Deta.sh 🌌
+
+*   [yangdanny97/slack-export-extraction](https://github.com/yangdanny97/slack-export-extraction) - Simple class to read Slack public data exports into a data structure for easy preprocessing and manipulation
+
+*   [docmarionum1/slack-archive-bot](https://github.com/docmarionum1/slack-archive-bot) - A bot that will archive your slack messages and make them searchable.  No more 10,000 message search limit.
+
+*   [pR0Ps/slack-to-discord](https://github.com/pR0Ps/slack-to-discord) - Import a Slack export into a Discord server
+
+*   [edemaine/slack-backup](https://github.com/edemaine/slack-backup) - Backup Slack users, channels, and messages for conversion to Discord
+
+*   [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
+
+*   [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+
+*   [rudderlabs/airbyte](https://github.com/rudderlabs/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
+
+*   [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+
+*   [amundsen-io/amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+
+*   [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+
+*   [great-expectations/great\_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+
+*   [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
+
+*   [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+
+*   [metagov/gateway](https://github.com/metagov/gateway) - An API gateway for online communities
+
+*   [mauforonda/mastodon\_timeline](https://github.com/mauforonda/mastodon_timeline) -
+
+*   [searchmysite/searchmysite.net](https://github.com/searchmysite/searchmysite.net) - searchmysite.net is an open source search engine and search as a service
+
+*   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
+
+*   [kpurdon/waybacklapse](https://github.com/kpurdon/waybacklapse) - A WayBack Machine Time-Lapse Generator
+
+*   [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
+
+*   [alexwennerberg/boxnotes2html](https://github.com/alexwennerberg/boxnotes2html) - Export/convert Box Notes to HTML, Markdown or Plain Text.
+
+*   [dropbox/dbx-career-framework](https://github.com/dropbox/dbx-career-framework) -
+
+*   [open-telemetry/community](https://github.com/open-telemetry/community) - OpenTelemetry community content
+
+*   [redhat-documentation/vale-at-red-hat](https://github.com/redhat-documentation/vale-at-red-hat) - Vale config files, styles, and docs to help individuals and teams roll out Vale
+
+*   [varner/nyc-311-discord-bot](https://github.com/varner/nyc-311-discord-bot) -
+
+*   [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
+
+*   [macedotavares/obsidian-utilities](https://github.com/macedotavares/obsidian-utilities) - An Alfred workflow focusing on quick entry and logging.
+
+*   [caltechlibrary/handprint](https://github.com/caltechlibrary/handprint) - Apply different text recognition services to images of handwritten documents.
+
+*   [simonw/airtable-export](https://github.com/simonw/airtable-export) - Export Airtable data to YAML, JSON or SQLite files on disk
+
+*   [DocNow/diffengine](https://github.com/DocNow/diffengine) - track changes to the news, where news is anything with an RSS feed
+
+*   [whiskyechobravo/kerko](https://github.com/whiskyechobravo/kerko) - A web application component that provides a faceted search interface for bibliographies managed with Zotero.
+
+*   [the-krafty-koder/pdf2json](https://github.com/the-krafty-koder/pdf2json) - A python package that converts pdf documents into json(displayed per page) and optionally sends them to Algolia as index records
+
+*   [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+
+*   [cleverdevil/indiepaper](https://github.com/cleverdevil/indiepaper) - A "read later" service for the IndieWeb using Micropub
+
+*   [django-wiki/django-wiki](https://github.com/django-wiki/django-wiki) - A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
+
+*   [MatthieuBizien/roam-to-git](https://github.com/MatthieuBizien/roam-to-git) - Automatic RoamResearch backup to Git
+
+*   [strob/gentle](https://github.com/strob/gentle) - gentle forced aligner
+
+*   [robwalton/alfred-ulysses-workflow](https://github.com/robwalton/alfred-ulysses-workflow) - Alfred 3 workflow for Ulysses
+
+*   [rodricios/autocomplete](https://github.com/rodricios/autocomplete) - Autocomplete - an adult and kid friendly exercise in creating a predictive program
+
+*   [latentstudio/UncannyRd](https://github.com/latentstudio/UncannyRd) - A tool for collectively synthesizing a never-ending road using Generative Adversarial Neural Networks.
+
+*   [mysociety/sayit](https://github.com/mysociety/sayit) - SayIt - a component for recording and storing public statements.
+
+*   [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+
+*   [markriedl/WikiPlots](https://github.com/markriedl/WikiPlots) - A dataset containing story plots from Wikipedia (books, movies, etc.) and the code for the extractor.
+
+*   [PageBot/PageBot](https://github.com/PageBot/PageBot) - Scripted page layout framework for Python.
+
+*   [IraKorshunova/folk-rnn](https://github.com/IraKorshunova/folk-rnn) - folk music modelling with LSTM
+
+*   [ajdavis/proporti.onl](https://github.com/ajdavis/proporti.onl) - Compare number of women, men, and nonbinary people among my friends and followers.
+
+*   [rsms/inter](https://github.com/rsms/inter) - The Inter font family
+
+*   [soimort/you-get](https://github.com/soimort/you-get) - :arrow\_double\_down: Dumb downloader that scrapes the web
+
+*   [MasterScrat/Chatistics](https://github.com/MasterScrat/Chatistics) - 💬 Python scripts to parse Messenger, Hangouts, WhatsApp and Telegram chat logs into DataFrames.
+
+*   [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
+
+*   [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
+
+*   [AmauryCarrade/MastodonToTwitter](https://github.com/AmauryCarrade/MastodonToTwitter) - Mastodon <-> Twitter cross-poster.
+
+*   [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
+
+*   [williamleif/histwords](https://github.com/williamleif/histwords) - Collection of tools for building diachronic/historical word vectors
+
+*   [Rhizome-Conifer/conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
+
+*   [frnsys/arena](https://github.com/frnsys/arena) - python interface to the are.na API
+
+*   [sdockray/syllabus-hub](https://github.com/sdockray/syllabus-hub) - A GitHub for syllabi
+
+*   [alexjc/neural-enhance](https://github.com/alexjc/neural-enhance) - Super Resolution for images using deep learning.
+
+*   [kshaffer/pypothesis](https://github.com/kshaffer/pypothesis) - Python scripts for interacting with the hypothes.is API
+
+*   [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
+
+*   [helloworlddata/datasets](https://github.com/helloworlddata/datasets) - Public datasets of interest, curated by Dan Nguyen
+
+*   [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
+
+*   [editorsnotes/editorsnotes-server](https://github.com/editorsnotes/editorsnotes-server) - A web application for organizing the research notes of humanities scholars
+
+*   [cortesi/scurve](https://github.com/cortesi/scurve) - A library for drawing space-filling curves like the Hilbert Curve.
+
+*   [dannguyen/watson-word-watcher](https://github.com/dannguyen/watson-word-watcher) - A proof of concept using IBM's Speech-to-Text API to do quick-and-dirty transcriptions
+
+*   [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
+
+*   [agermanidis/thingscoop](https://github.com/agermanidis/thingscoop) - Search and filter videos based on objects that appear in them using convolutional neural networks
+
+*   [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
+
+*   [some-programs/exitwp](https://github.com/some-programs/exitwp) - Exitwp is tool primarily aimed for making migration from one or more wordpress blogs to the jekyll blog engine as easy as possible.
+
+*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
+
+*   [NYPL-publicdomain/pd-visualization](https://github.com/NYPL-publicdomain/pd-visualization) - A visualization and interface that helps users explore ~187K digital items from NYPL in the public domain
+
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+*   [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator.
+
+*   [formspree/formspree](https://github.com/formspree/formspree) - The successor to this repository is actively maintained at https://formspree.io. Its source code is not available
+
+*   [hayaku/hayaku](https://github.com/hayaku/hayaku) - Fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster
+
+*   [evidens/json2csv](https://github.com/evidens/json2csv) - Converts JSON files to CSV (pulling data from nested structures). Useful for Mongo data
+
+*   [Donohue/offlinebot](https://github.com/Donohue/offlinebot) - "Someone thinks you should take this discussion offline."
+
+*   [aparrish/pronouncingpy](https://github.com/aparrish/pronouncingpy) - A simple interface for the CMU pronouncing dictionary
+
+*   [waldoj/frostline](https://github.com/waldoj/frostline) - A dataset, API, and parser for USDA plant hardiness zones.
+
+*   [dilshod/xlsx2csv](https://github.com/dilshod/xlsx2csv) - Convert xslx to csv, it is fast, and works for huge xlsx files
+
+*   [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
+
+*   [opendata/lmgtdfy](https://github.com/opendata/lmgtdfy) - “Let Me Get That Data For You” catalogs the machine-readable data on a given domain name. \[RETIRED]
+
+*   [javl/poser](https://github.com/javl/poser) -
+
+*   [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
+
+*   [molly/misheardly](https://github.com/molly/misheardly) - Twitter bot to mishear song lyrics
+
+*   [snarfed/bridgy](https://github.com/snarfed/bridgy) - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...
+
+*   [cdzombak/groupme-tools](https://github.com/cdzombak/groupme-tools) - \[NO LONGER MAINTAINED] Tools for fetching and analyzing a GroupMe group chat transcript in its entirety.
+
+*   [evz/tacofancy-api](https://github.com/evz/tacofancy-api) - Making an API for https://github.com/sinker/tacofancy
+
+*   [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
+
+*   [hmason/datastorytelling](https://github.com/hmason/datastorytelling) - NYU ITP data storytelling
+
+*   [mozilla/source](https://github.com/mozilla/source) - DEPRECATED - Code for source.mozillaopennews.org/
+
+*   [gratipay/gratipay.com](https://github.com/gratipay/gratipay.com) - Here lieth a pioneer in open source sustainability. RIP
+
+*   [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
+
+*   [andrewgodwin/lastgraph](https://github.com/andrewgodwin/lastgraph) - Archived code for LastGraph
+
+*   [tategallery/collection](https://github.com/tategallery/collection) - Tate Collection metadata
+
+*   [MinnPost/gs-proxy](https://github.com/MinnPost/gs-proxy) - A simple cache proxy for Google spreadsheets.
+
+*   [Citytracking/toner](https://github.com/Citytracking/toner) - "Toner" is the name of the high contrast, black-and-white map tiles, and Mapnik stylesheets, used for the Dotspotting project.
+
+*   [freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) - GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
+
+*   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+
+*   [givp/RoyGBiv](https://github.com/givp/RoyGBiv) - RoyGBiv is a python module for analyzing image colors
+
+*   [dbader/alfred-countdown-timer](https://github.com/dbader/alfred-countdown-timer) - A countdown timer extension for Alfred.app
+
+*   [longnow/longview](https://github.com/longnow/longview) - Long View is a utility written in Python for generating long-spanning timelines from CSV-formatted data.
+
+*   [ecprice/newsdiffs](https://github.com/ecprice/newsdiffs) - Automatic scraper that tracks changes in news articles over time.
+
+*   [tweepy/tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
+
+*   [aparrish/everywordbot](https://github.com/aparrish/everywordbot) - a simple script for creating @everyword-like twitter services
+
+*   [jisaacks/GitGutter](https://github.com/jisaacks/GitGutter) - A Sublime Text 2/3 plugin to see git diff in gutter
+
+*   [OpenEndedGroup/Field](https://github.com/OpenEndedGroup/Field) - A development environment for art
+
+*   [kemayo/sublime-text-git](https://github.com/kemayo/sublime-text-git) - Plugin for some git integration into sublime text
+
+*   [bgreenlee/sublime-github](https://github.com/bgreenlee/sublime-github) - Sublime Text 2/3 plugin that provides a number of useful commands for GitHub.
+
+*   [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
+
+*   [meetar/dotmap](https://github.com/meetar/dotmap) - dotmap based on http://bmander.com/dotmap/index.html
+
+*   [brianhouse/tanglr](https://github.com/brianhouse/tanglr) - Tanglr is a Chrome extension that anonymously links your browsing with that of another person
+
+*   [toolness/vignelli-mta-map](https://github.com/toolness/vignelli-mta-map) - Static, offline-capable version of Massimo Vignelli's 2011 NYC subway map.
+
+*   [sublimehq/anim\_encoder](https://github.com/sublimehq/anim_encoder) -
+
+*   [aaronsw/commentsareclosed](https://github.com/aaronsw/commentsareclosed) -
+
+*   [IMAmuseum/ima-collection](https://github.com/IMAmuseum/ima-collection) - The Indianapolis Museum of Art's collection data
+
+*   [b-g/processing-sublime](https://github.com/b-g/processing-sublime) - A Sublime Text package for the programming language Processing
+
+*   [glitchdotcom/WebPutty](https://github.com/glitchdotcom/WebPutty) - WebPutty is a simple CSS editing and hosting service that you can run on Google App Engine.
+
+*   [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
+
+*   [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover) - A Python utility for moving bookmarks/reading lists between services
+
+*   [straup/collection](https://github.com/straup/collection) - Cooper-Hewitt's Collection Database
+
+*   [samsonw/SublimeTask](https://github.com/samsonw/SublimeTask) - Sublime Text Task Plugin
+
+*   [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
+
+*   [jedahan/haiku-wifi](https://github.com/jedahan/haiku-wifi) - turn your wireless router's extra radios into a public billboard!
+
+*   [betaworks/findings-api](https://github.com/betaworks/findings-api) - API Documentation and related code
+
+*   [jbrooksuk/Sublime-Evaluate](https://github.com/jbrooksuk/Sublime-Evaluate) - Selection evaluation in Sublime Text
+
+*   [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
+
+*   [artunit/ossocr](https://github.com/artunit/ossocr) - gathering point for open source OCR scripts and diffs
+
+*   [aaronsw/html2text](https://github.com/aaronsw/html2text) - Convert HTML to Markdown-formatted text.
+
+*   [cmdln/flashbake](https://github.com/cmdln/flashbake) - Scripts to gather information for including in version history comments and to make using source control a bit simpler for non-technical projects.
+
+## Rust
+
+*   [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
+
+*   [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
+
+*   [awwaiid/ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
+
+*   [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
+
+*   [sowcow/blank\_slate\_pdf](https://github.com/sowcow/blank_slate_pdf) - Abstract and simplistic PDFs for RM from Rust code. There are random experimental PDFs in older releases and Ruby code in older commits.
+
+*   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+*   [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+
+*   [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine:  Create a searchable library from your personal documents, interests, and more!
+
+*   [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
+
+*   [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
+
+*   [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀
+
+*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
+
+*   [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 
 ## TypeScript
 
@@ -563,6 +1023,12 @@
 
 *   [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 
+*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+
+*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+
+*   [curiousdannii/parchment](https://github.com/curiousdannii/parchment) - The Interactive Fiction web app
+
 ## Jupyter Notebook
 
 *   [IBM/watsonx-ai-platform-demos](https://github.com/IBM/watsonx-ai-platform-demos) - AI Agents, LLM Fine-tuning, Developer Productivity, Governance, IBM watsonx
@@ -851,413 +1317,17 @@
 
 *   [aron/annotator.readmill.js](https://github.com/aron/annotator.readmill.js) - Use Annotator with Readmill
 
-## Python
+*   [MattWilcox/Adaptive-Images](https://github.com/MattWilcox/Adaptive-Images) - Automatically adapts your existing HTML images for mobile devices. No mark-up changes needed.
 
-*   [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
+*   [frankpf/gridless-boilerplate](https://github.com/frankpf/gridless-boilerplate) - Gridless is an awesome HTML5 and CSS3 boilerplate for making responsive, cross-browser websites with beautiful typography
 
-*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+*   [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 
-*   [ibm-granite/granite-io](https://github.com/ibm-granite/granite-io) - Python framework which enables you to transform how a user calls or infers an IBM Granite model and how the output from the model is returned to the user.
+*   [metafizzy/isotope](https://github.com/metafizzy/isotope) - :revolving\_hearts: Filter & sort magical layouts
 
-*   [IBM/watsonx-developer-hub](https://github.com/IBM/watsonx-developer-hub) - Examples and guides for building Gen AI applications on the watsonx platform.
+*   [joseph/Monocle](https://github.com/joseph/Monocle) - A silky, tactile browser-based ebook JavaScript library.
 
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
-
-*   [openai/SWELancer-Benchmark](https://github.com/openai/SWELancer-Benchmark) - This repo contains the dataset and code for the paper "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?"
-
-*   [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
-
-*   [meta-llama/llama-stack](https://github.com/meta-llama/llama-stack) - Composable building blocks to build Llama Apps
-
-*   [datasette/datasette-enrichments](https://github.com/datasette/datasette-enrichments) - Tools for running enrichments against data stored in Datasette
-
-*   [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
-
-*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-
-*   [uibm/boxtodocx](https://github.com/uibm/boxtodocx) - A tool to convert boxnotes to docx(for now)
-
-*   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
-
-*   [dogsheep/dogsheep-beta](https://github.com/dogsheep/dogsheep-beta) - Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
-
-*   [byoda/byoda-python](https://github.com/byoda/byoda-python) - The BYODA Personal Data Server
-
-*   [timcowlishaw/xic](https://github.com/timcowlishaw/xic) - Tiny tools for thick description
-
-*   [thephm/message\_md](https://github.com/thephm/message_md) - Classes to hold messages and converting to Markdown and supporting methods.
-
-*   [thephm/email\_md](https://github.com/thephm/email_md) - IMAP email to Markdown
-
-*   [HelloThisIsFlo/Things3-To-OmniFocus](https://github.com/HelloThisIsFlo/Things3-To-OmniFocus) - Migrate from Things3 to OmniFocus (via TaskPaper)
-
-*   [codellm-devkit/python-sdk](https://github.com/codellm-devkit/python-sdk) - The official Python SDK for Codellm-Devkit
-
-*   [Yusuke710/nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI) - The simplest open-source implementation of perplexity.ai
-
-*   [QwenLM/Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.
-
-*   [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
-
-*   [DS4SD/deepsearch-examples](https://github.com/DS4SD/deepsearch-examples) - Examples using the Deep Search functionalities
-
-*   [DS4SD/deepsearch-toolkit](https://github.com/DS4SD/deepsearch-toolkit) -  Interact with the Deep Search platform for new knowledge explorations and discoveries
-
-*   [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-
-*   [IBM/prompt-declaration-language](https://github.com/IBM/prompt-declaration-language) - Prompt Declaration Language (PDL) is a declarative prompt programming language.
-
-*   [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
-
-*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-
-*   [circlemind-ai/fast-graphrag](https://github.com/circlemind-ai/fast-graphrag) - RAG that intelligently adapts to your use case, data, and queries
-
-*   [huridocs/pdf-document-layout-analysis](https://github.com/huridocs/pdf-document-layout-analysis) - A Docker-powered service for PDF document layout analysis. This service provides a powerful and flexible PDF analysis service. The service allows for the segmentation and classification of different parts of PDF pages, identifying the elements such as texts, titles, pictures, tables and so on.
-
-*   [PinkDot-AI/eschergraph](https://github.com/PinkDot-AI/eschergraph) - The EscherGraph introduces advanced search capabilities on generalized knowledge graphs that are build using LLMs.
-
-*   [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
-
-*   [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
-
-*   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
-
-*   [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
-
-*   [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.
-
-*   [livekit/agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
-
-*   [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface
-
-*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-
-*   [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
-
-*   [rschroll/rmrl](https://github.com/rschroll/rmrl) - Render reMarkable documents to PDF
-
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build Multimodal AI Agents with memory, knowledge and tools. Simple, fast and model-agnostic.
-
-*   [definitive-io/duckdb-text2sql](https://github.com/definitive-io/duckdb-text2sql) -
-
-*   [definitive-io/duckdb-rag](https://github.com/definitive-io/duckdb-rag) -
-
-*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-
-*   [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
-
-*   [technologistpro/boxnote2docx](https://github.com/technologistpro/boxnote2docx) - Convert Box Notes to Microsoft Word Documents
-
-*   [jessepav/boxtools](https://github.com/jessepav/boxtools) - Some utilities useful for use with Box
-
-*   [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
-
-*   [ourresearch/openalex-elastic-api](https://github.com/ourresearch/openalex-elastic-api) - All the OpenAlex API endpoints that are backed by Elasticsearch
-
-*   [linto-ai/whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual Automatic Speech Recognition with word-level timestamps and confidence
-
-*   [ikram-shah/airtable-qna](https://github.com/ikram-shah/airtable-qna) - Ask question to your Airtable base in natural language
-
-*   [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
-
-*   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-
-*   [dtinit/portability-articles](https://github.com/dtinit/portability-articles) - A collection of articles to help find solutions for data portability
-
-*   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
-
-*   [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
-
-*   [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
-
-*   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
-
-*   [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-
-*   [kometenstaub/metadata-changer](https://github.com/kometenstaub/metadata-changer) - Metadata converter for Breadcrumbs users. It is made for adapting metadata to Obsidian 1.4.0+'s link support in frontmatter.
-
-*   [natelandau/obsidian-metadata](https://github.com/natelandau/obsidian-metadata) - Batch updates to metadata in an Obsidian vault
-
-*   [JasonKessler/scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types.
-
-*   [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
-
-*   [biolab/orange3](https://github.com/biolab/orange3) - 🍊 :bar\_chart: :bulb: Orange: Interactive data analysis
-
-*   [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
-
-*   [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
-
-*   [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-
-*   [psobot/keynote-parser](https://github.com/psobot/keynote-parser) - A packer/unpacker for Apple Keynote presentation files.
-
-*   [IBM/Dromedary](https://github.com/IBM/Dromedary) - Dromedary: towards helpful, ethical and reliable LLMs.
-
-*   [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-
-*   [pettarin/forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools) - A collection of links and notes on forced alignment tools
-
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-*   [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact, analyze and structure massive text, image, embedding, audio and video datasets
-
-*   [eyurtsev/kor](https://github.com/eyurtsev/kor) - LLM(😽)
-
-*   [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
-
-*   [yizhongw/self-instruct](https://github.com/yizhongw/self-instruct) - Aligning pretrained language models with instruction data generated by themselves.
-
-*   [Geeks-Vegeta/medium-blog-scraping](https://github.com/Geeks-Vegeta/medium-blog-scraping) - 🕸️ Medium Blog Scrapper to Deta.sh 🌌
-
-*   [yangdanny97/slack-export-extraction](https://github.com/yangdanny97/slack-export-extraction) - Simple class to read Slack public data exports into a data structure for easy preprocessing and manipulation
-
-*   [docmarionum1/slack-archive-bot](https://github.com/docmarionum1/slack-archive-bot) - A bot that will archive your slack messages and make them searchable.  No more 10,000 message search limit.
-
-*   [pR0Ps/slack-to-discord](https://github.com/pR0Ps/slack-to-discord) - Import a Slack export into a Discord server
-
-*   [edemaine/slack-backup](https://github.com/edemaine/slack-backup) - Backup Slack users, channels, and messages for conversion to Discord
-
-*   [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
-
-*   [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-
-*   [rudderlabs/airbyte](https://github.com/rudderlabs/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
-
-*   [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
-
-*   [amundsen-io/amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
-
-*   [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-
-*   [great-expectations/great\_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-
-*   [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
-
-*   [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-
-*   [metagov/gateway](https://github.com/metagov/gateway) - An API gateway for online communities
-
-*   [mauforonda/mastodon\_timeline](https://github.com/mauforonda/mastodon_timeline) -
-
-*   [searchmysite/searchmysite.net](https://github.com/searchmysite/searchmysite.net) - searchmysite.net is an open source search engine and search as a service
-
-*   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-
-*   [kpurdon/waybacklapse](https://github.com/kpurdon/waybacklapse) - A WayBack Machine Time-Lapse Generator
-
-*   [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
-
-*   [alexwennerberg/boxnotes2html](https://github.com/alexwennerberg/boxnotes2html) - Export/convert Box Notes to HTML, Markdown or Plain Text.
-
-*   [dropbox/dbx-career-framework](https://github.com/dropbox/dbx-career-framework) -
-
-*   [open-telemetry/community](https://github.com/open-telemetry/community) - OpenTelemetry community content
-
-*   [redhat-documentation/vale-at-red-hat](https://github.com/redhat-documentation/vale-at-red-hat) - Vale config files, styles, and docs to help individuals and teams roll out Vale
-
-*   [varner/nyc-311-discord-bot](https://github.com/varner/nyc-311-discord-bot) -
-
-*   [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-
-*   [macedotavares/obsidian-utilities](https://github.com/macedotavares/obsidian-utilities) - An Alfred workflow focusing on quick entry and logging.
-
-*   [caltechlibrary/handprint](https://github.com/caltechlibrary/handprint) - Apply different text recognition services to images of handwritten documents.
-
-*   [simonw/airtable-export](https://github.com/simonw/airtable-export) - Export Airtable data to YAML, JSON or SQLite files on disk
-
-*   [DocNow/diffengine](https://github.com/DocNow/diffengine) - track changes to the news, where news is anything with an RSS feed
-
-*   [whiskyechobravo/kerko](https://github.com/whiskyechobravo/kerko) - A web application component that provides a faceted search interface for bibliographies managed with Zotero.
-
-*   [the-krafty-koder/pdf2json](https://github.com/the-krafty-koder/pdf2json) - A python package that converts pdf documents into json(displayed per page) and optionally sends them to Algolia as index records
-
-*   [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-
-*   [cleverdevil/indiepaper](https://github.com/cleverdevil/indiepaper) - A "read later" service for the IndieWeb using Micropub
-
-*   [django-wiki/django-wiki](https://github.com/django-wiki/django-wiki) - A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
-
-*   [MatthieuBizien/roam-to-git](https://github.com/MatthieuBizien/roam-to-git) - Automatic RoamResearch backup to Git
-
-*   [strob/gentle](https://github.com/strob/gentle) - gentle forced aligner
-
-*   [robwalton/alfred-ulysses-workflow](https://github.com/robwalton/alfred-ulysses-workflow) - Alfred 3 workflow for Ulysses
-
-*   [rodricios/autocomplete](https://github.com/rodricios/autocomplete) - Autocomplete - an adult and kid friendly exercise in creating a predictive program
-
-*   [latentstudio/UncannyRd](https://github.com/latentstudio/UncannyRd) - A tool for collectively synthesizing a never-ending road using Generative Adversarial Neural Networks.
-
-*   [mysociety/sayit](https://github.com/mysociety/sayit) - SayIt - a component for recording and storing public statements.
-
-*   [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
-
-*   [markriedl/WikiPlots](https://github.com/markriedl/WikiPlots) - A dataset containing story plots from Wikipedia (books, movies, etc.) and the code for the extractor.
-
-*   [PageBot/PageBot](https://github.com/PageBot/PageBot) - Scripted page layout framework for Python.
-
-*   [IraKorshunova/folk-rnn](https://github.com/IraKorshunova/folk-rnn) - folk music modelling with LSTM
-
-*   [ajdavis/proporti.onl](https://github.com/ajdavis/proporti.onl) - Compare number of women, men, and nonbinary people among my friends and followers.
-
-*   [rsms/inter](https://github.com/rsms/inter) - The Inter font family
-
-*   [soimort/you-get](https://github.com/soimort/you-get) - :arrow\_double\_down: Dumb downloader that scrapes the web
-
-*   [MasterScrat/Chatistics](https://github.com/MasterScrat/Chatistics) - 💬 Python scripts to parse Messenger, Hangouts, WhatsApp and Telegram chat logs into DataFrames.
-
-*   [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
-
-*   [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
-
-*   [AmauryCarrade/MastodonToTwitter](https://github.com/AmauryCarrade/MastodonToTwitter) - Mastodon <-> Twitter cross-poster.
-
-*   [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
-
-*   [williamleif/histwords](https://github.com/williamleif/histwords) - Collection of tools for building diachronic/historical word vectors
-
-*   [Rhizome-Conifer/conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
-
-*   [frnsys/arena](https://github.com/frnsys/arena) - python interface to the are.na API
-
-*   [sdockray/syllabus-hub](https://github.com/sdockray/syllabus-hub) - A GitHub for syllabi
-
-*   [alexjc/neural-enhance](https://github.com/alexjc/neural-enhance) - Super Resolution for images using deep learning.
-
-*   [kshaffer/pypothesis](https://github.com/kshaffer/pypothesis) - Python scripts for interacting with the hypothes.is API
-
-*   [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
-
-*   [helloworlddata/datasets](https://github.com/helloworlddata/datasets) - Public datasets of interest, curated by Dan Nguyen
-
-*   [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
-
-*   [editorsnotes/editorsnotes-server](https://github.com/editorsnotes/editorsnotes-server) - A web application for organizing the research notes of humanities scholars
-
-*   [cortesi/scurve](https://github.com/cortesi/scurve) - A library for drawing space-filling curves like the Hilbert Curve.
-
-*   [dannguyen/watson-word-watcher](https://github.com/dannguyen/watson-word-watcher) - A proof of concept using IBM's Speech-to-Text API to do quick-and-dirty transcriptions
-
-*   [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
-
-*   [agermanidis/thingscoop](https://github.com/agermanidis/thingscoop) - Search and filter videos based on objects that appear in them using convolutional neural networks
-
-*   [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
-
-*   [some-programs/exitwp](https://github.com/some-programs/exitwp) - Exitwp is tool primarily aimed for making migration from one or more wordpress blogs to the jekyll blog engine as easy as possible.
-
-*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
-
-*   [NYPL-publicdomain/pd-visualization](https://github.com/NYPL-publicdomain/pd-visualization) - A visualization and interface that helps users explore ~187K digital items from NYPL in the public domain
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-*   [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator.
-
-*   [formspree/formspree](https://github.com/formspree/formspree) - The successor to this repository is actively maintained at https://formspree.io. Its source code is not available
-
-*   [hayaku/hayaku](https://github.com/hayaku/hayaku) - Fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster
-
-*   [evidens/json2csv](https://github.com/evidens/json2csv) - Converts JSON files to CSV (pulling data from nested structures). Useful for Mongo data
-
-*   [Donohue/offlinebot](https://github.com/Donohue/offlinebot) - "Someone thinks you should take this discussion offline."
-
-*   [aparrish/pronouncingpy](https://github.com/aparrish/pronouncingpy) - A simple interface for the CMU pronouncing dictionary
-
-*   [waldoj/frostline](https://github.com/waldoj/frostline) - A dataset, API, and parser for USDA plant hardiness zones.
-
-*   [dilshod/xlsx2csv](https://github.com/dilshod/xlsx2csv) - Convert xslx to csv, it is fast, and works for huge xlsx files
-
-*   [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
-
-*   [opendata/lmgtdfy](https://github.com/opendata/lmgtdfy) - “Let Me Get That Data For You” catalogs the machine-readable data on a given domain name. \[RETIRED]
-
-*   [javl/poser](https://github.com/javl/poser) -
-
-*   [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
-
-*   [molly/misheardly](https://github.com/molly/misheardly) - Twitter bot to mishear song lyrics
-
-*   [snarfed/bridgy](https://github.com/snarfed/bridgy) - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...
-
-*   [cdzombak/groupme-tools](https://github.com/cdzombak/groupme-tools) - \[NO LONGER MAINTAINED] Tools for fetching and analyzing a GroupMe group chat transcript in its entirety.
-
-*   [evz/tacofancy-api](https://github.com/evz/tacofancy-api) - Making an API for https://github.com/sinker/tacofancy
-
-*   [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
-
-*   [hmason/datastorytelling](https://github.com/hmason/datastorytelling) - NYU ITP data storytelling
-
-*   [mozilla/source](https://github.com/mozilla/source) - DEPRECATED - Code for source.mozillaopennews.org/
-
-*   [gratipay/gratipay.com](https://github.com/gratipay/gratipay.com) - Here lieth a pioneer in open source sustainability. RIP
-
-*   [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
-
-*   [andrewgodwin/lastgraph](https://github.com/andrewgodwin/lastgraph) - Archived code for LastGraph
-
-*   [tategallery/collection](https://github.com/tategallery/collection) - Tate Collection metadata
-
-*   [MinnPost/gs-proxy](https://github.com/MinnPost/gs-proxy) - A simple cache proxy for Google spreadsheets.
-
-*   [Citytracking/toner](https://github.com/Citytracking/toner) - "Toner" is the name of the high contrast, black-and-white map tiles, and Mapnik stylesheets, used for the Dotspotting project.
-
-*   [freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) - GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
-
-*   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-
-*   [givp/RoyGBiv](https://github.com/givp/RoyGBiv) - RoyGBiv is a python module for analyzing image colors
-
-*   [dbader/alfred-countdown-timer](https://github.com/dbader/alfred-countdown-timer) - A countdown timer extension for Alfred.app
-
-*   [longnow/longview](https://github.com/longnow/longview) - Long View is a utility written in Python for generating long-spanning timelines from CSV-formatted data.
-
-*   [ecprice/newsdiffs](https://github.com/ecprice/newsdiffs) - Automatic scraper that tracks changes in news articles over time.
-
-*   [tweepy/tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
-
-*   [aparrish/everywordbot](https://github.com/aparrish/everywordbot) - a simple script for creating @everyword-like twitter services
-
-*   [jisaacks/GitGutter](https://github.com/jisaacks/GitGutter) - A Sublime Text 2/3 plugin to see git diff in gutter
-
-*   [OpenEndedGroup/Field](https://github.com/OpenEndedGroup/Field) - A development environment for art
-
-*   [kemayo/sublime-text-git](https://github.com/kemayo/sublime-text-git) - Plugin for some git integration into sublime text
-
-*   [bgreenlee/sublime-github](https://github.com/bgreenlee/sublime-github) - Sublime Text 2/3 plugin that provides a number of useful commands for GitHub.
-
-*   [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
-
-*   [meetar/dotmap](https://github.com/meetar/dotmap) - dotmap based on http://bmander.com/dotmap/index.html
-
-*   [brianhouse/tanglr](https://github.com/brianhouse/tanglr) - Tanglr is a Chrome extension that anonymously links your browsing with that of another person
-
-*   [toolness/vignelli-mta-map](https://github.com/toolness/vignelli-mta-map) - Static, offline-capable version of Massimo Vignelli's 2011 NYC subway map.
-
-*   [sublimehq/anim\_encoder](https://github.com/sublimehq/anim_encoder) -
-
-*   [aaronsw/commentsareclosed](https://github.com/aaronsw/commentsareclosed) -
-
-*   [IMAmuseum/ima-collection](https://github.com/IMAmuseum/ima-collection) - The Indianapolis Museum of Art's collection data
-
-*   [b-g/processing-sublime](https://github.com/b-g/processing-sublime) - A Sublime Text package for the programming language Processing
-
-*   [glitchdotcom/WebPutty](https://github.com/glitchdotcom/WebPutty) - WebPutty is a simple CSS editing and hosting service that you can run on Google App Engine.
-
-*   [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
-
-*   [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover) - A Python utility for moving bookmarks/reading lists between services
-
-*   [straup/collection](https://github.com/straup/collection) - Cooper-Hewitt's Collection Database
-
-*   [samsonw/SublimeTask](https://github.com/samsonw/SublimeTask) - Sublime Text Task Plugin
-
-*   [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
-
-*   [jedahan/haiku-wifi](https://github.com/jedahan/haiku-wifi) - turn your wireless router's extra radios into a public billboard!
-
-*   [betaworks/findings-api](https://github.com/betaworks/findings-api) - API Documentation and related code
+*   [jashkenas/docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 
 ## miscellaneous
 
@@ -1650,6 +1720,22 @@
 *   [cooperhewitt/collection](https://github.com/cooperhewitt/collection) - Collection Data for Cooper Hewitt, Smithsonian Design Museum
 
 *   [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
+
+*   [buymeasoda/soda-theme](https://github.com/buymeasoda/soda-theme) - Dark and light custom UI themes for Sublime Text
+
+*   [georgemandis/jekyll-rss-feeds](https://github.com/georgemandis/jekyll-rss-feeds) - Templates for rendering RSS feeds for your Jekyll blog
+
+*   [tboronczyk/JavaScript-Experiments](https://github.com/tboronczyk/JavaScript-Experiments) - Various small experiments in JavaScript
+
+*   [msporny/dna](https://github.com/msporny/dna) - Manu Sporny's genetic information (roughly 1 million SNP markers)
+
+*   [jpfinley/printmaster](https://github.com/jpfinley/printmaster) - Markdown and InDesign in unholy communion
+
+*   [MarioRicalde/SCSS.tmbundle](https://github.com/MarioRicalde/SCSS.tmbundle) - The TextMate SCSS Official Bundle. Now Compatible with SublimeText2.
+
+*   [mojombo/tomdoc](https://github.com/mojombo/tomdoc) - A flexible code documentation specification with human readers in mind.
+
+*   [mojombo/clippy](https://github.com/mojombo/clippy) - Clippy is a very simple Flash widget that makes it possible to place arbitrary text onto the client's clipboard.
 
 ## JavaScript
 
@@ -2597,37 +2683,93 @@
 
 *   [okfocus/okhover](https://github.com/okfocus/okhover) - Other hover effects are boring.
 
-## Rust
+*   [tmcw/big](https://github.com/tmcw/big) - presentations for busy messy hackers
 
-*   [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
+*   [desandro/imagesloaded](https://github.com/desandro/imagesloaded) - :camera: JavaScript is all like "You images done yet or what?"
 
-*   [awwaiid/ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
+*   [podio/jquery-mentions-input](https://github.com/podio/jquery-mentions-input) -
 
-*   [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
+*   [mattkersley/Responsive-Menu](https://github.com/mattkersley/Responsive-Menu) - Turns any \<ol> or \<ul> into a \<select> for mobiles and low browser sizes
 
-*   [sowcow/blank\_slate\_pdf](https://github.com/sowcow/blank_slate_pdf) - Abstract and simplistic PDFs for RM from Rust code. There are random experimental PDFs in older releases and Ruby code in older commits.
+*   [jsplumb/jsBezier](https://github.com/jsplumb/jsBezier) - Bezier curve helper functions for JavaScript.  Used by jsPlumb; perhaps useful for others.
 
-*   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
+*   [bryanwoods/autolink-js](https://github.com/bryanwoods/autolink-js) - Tiny little tool to find URLs in a string of text and hyperlink them
 
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+*   [mozilla/lightbeam](https://github.com/mozilla/lightbeam) - Orignal unmaintained version of the Lightbeam extension. See lightbeam-we for the new one which works in modern versions of Firefox.
 
-*   [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+*   [WardCunningham/Smallest-Federated-Wiki](https://github.com/WardCunningham/Smallest-Federated-Wiki) - This wiki innovates by: 1. federated sharing, 2. drag refactoring and 3. data visualization.
 
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+*   [tiff/wysihtml5](https://github.com/tiff/wysihtml5) - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
 
-*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+*   [triplecanopy/horizonize](https://github.com/triplecanopy/horizonize) - Horizonize is a jQuery plugin to lay out any HTML content in horizontally-scrolling columns.
 
-*   [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine:  Create a searchable library from your personal documents, interests, and more!
+*   [philgyford/daily-paper](https://github.com/philgyford/daily-paper) - For viewing a daily issue of the Guardian and Observer newspapers. `main` branch should be stable, current work is in `dev` branch.
 
-*   [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
+*   [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 
-*   [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
+*   [cemerick/jsdifflib](https://github.com/cemerick/jsdifflib) - A javascript library for diffing text and generating corresponding HTML views
 
-*   [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀
+*   [josephg/ShareJS](https://github.com/josephg/ShareJS) - Collaborative editing in any app
 
-*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
+*   [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 
-*   [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
+*   [desandro/typekit-table](https://github.com/desandro/typekit-table) - Sort and filter high-quality fonts from Typekit
+
+*   [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
+
+*   [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
+
+*   [browserstate/history.js](https://github.com/browserstate/history.js) - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.  For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.
+
+*   [samizdatco/arbor](https://github.com/samizdatco/arbor) - a graph visualization library using web workers and jQuery
+
+*   [openannotation/annotator](https://github.com/openannotation/annotator) - Annotation tools for the web. Select text, images, or (nearly) anything else, and add your notes.
+
+*   [strathausen/dracula](https://github.com/strathausen/dracula) - JavaScript layout and representation of connected graphs.
+
+*   [filamentgroup/Responsive-Images](https://github.com/filamentgroup/Responsive-Images) - NOTE: use Picturefill instead. An Experiment with Mobile-First Images that Scale Responsively & Responsibly
+
+*   [nasser/zajal](https://github.com/nasser/zajal) - Experimental creative coding framework
+
+*   [substance/substance-legacy](https://github.com/substance/substance-legacy) - Towards open digital publishing
+
+*   [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
+
+*   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+
+*   [glenmurphy/dropmocks](https://github.com/glenmurphy/dropmocks) - Online image sharing
+
+*   [kylefox/jquery-modal](https://github.com/kylefox/jquery-modal) - The simplest possible modal for jQuery
+
+*   [antimatter15/jsgif](https://github.com/antimatter15/jsgif) - Save a HTML5 Canvas to GIF and Animations. A port of as3gif GIFPlayer to JS
+
+*   [stamen/modestmaps-js](https://github.com/stamen/modestmaps-js) - Modest Maps javascript port
+
+*   [jaukia/zoomooz](https://github.com/jaukia/zoomooz) - An easy-to-use jQuery plugin for making zooming web pages.
+
+*   [jackrusher/jssvggraph](https://github.com/jackrusher/jssvggraph) - Javascript/SVG Graph Layout
+
+*   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+
+*   [jquery-backstretch/jquery-backstretch](https://github.com/jquery-backstretch/jquery-backstretch) - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes.
+
+*   [cowboy/javascript-linkify](https://github.com/cowboy/javascript-linkify) - JavaScript Linkify: Process links in text
+
+*   [migurski/canvas-warp](https://github.com/migurski/canvas-warp) - Map warping with HTML canvas
+
+*   [rsms/hunch-upload](https://github.com/rsms/hunch-upload) - Multiple concurrent files uploads with progress in pure HTML
+
+*   [mattb/flotsam](https://github.com/mattb/flotsam) - Slushpile for handy fragments of script that don't fit anywhere else
+
+*   [asual/jquery-address](https://github.com/asual/jquery-address) - jQuery Address - Deep linking for the masses
+
+*   [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
+
+*   [nakajima/slidedown](https://github.com/nakajima/slidedown) - Generate syntax-highlighted slides from Markdown
+
+*   [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
+
+*   [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 
 ## Shell
 
@@ -3023,6 +3165,22 @@
 
 *   [straup/parallel-flickr](https://github.com/straup/parallel-flickr) -
 
+*   [lisezmoi/scri.ch](https://github.com/lisezmoi/scri.ch) - scri.ch is a minimal web app that lets you draw, share, and fork existing drawings.
+
+*   [statedecoded/statedecoded](https://github.com/statedecoded/statedecoded) - Legal codes, for humans.
+
+*   [iamcal/oembed](https://github.com/iamcal/oembed) - The oEmbed Spec
+
+*   [cashmusic/platform](https://github.com/cashmusic/platform) - A free and open platform giving all musicians access to tools that let them manage, promote, and sell their music online.
+
+*   [kastner/highlite](https://github.com/kastner/highlite) - Hide an image using CSS3
+
+*   [kolber/stacey](https://github.com/kolber/stacey) - Cheap & easy content management
+
+*   [ThinkUpLLC/ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) - ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.
+
+*   [abraham/twitteroauth](https://github.com/abraham/twitteroauth) - The most popular PHP library for use with the Twitter OAuth REST API.
+
 ## CSS
 
 *   [timpaul/form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - A prototype of a tool that generates web forms from document forms
@@ -3142,6 +3300,10 @@
 *   [raphaelbastide/1962](https://github.com/raphaelbastide/1962) - Versioned physical sculpture
 
 *   [heygrady/scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in SASS.
+
+*   [jonikorpi/Frameless](https://github.com/jonikorpi/Frameless) - The spiritual successor to Less Framework
+
+*   [desandro/windex](https://github.com/desandro/windex) - Pretty up your localhost. No more 1996 jank.
 
 ## Elixir
 
@@ -3311,6 +3473,26 @@
 
 *   [plamoni/SiriProxy](https://github.com/plamoni/SiriProxy) - A (tampering) proxy server for Apple's Siri
 
+*   [runemadsen/Magic-Book-Project](https://github.com/runemadsen/Magic-Book-Project) - DEPRECATED: We are reviving the Magic Book project as a node package: https://github.com/magicbookproject/magicbook
+
+*   [nytimes/Fech](https://github.com/nytimes/Fech) - Deprecated. Please see https://github.com/dwillis/Fech for a maintained fork.
+
+*   [tjackiw/acts-as-readable](https://github.com/tjackiw/acts-as-readable) - A simple plugin that allows a user to mark anything as 'read.' Common usage would include forum posts, news items, etc.
+
+*   [github/email\_reply\_parser](https://github.com/github/email_reply_parser) - Small library to parse plain text email content
+
+*   [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
+
+*   [spoiledmilk/casein3](https://github.com/spoiledmilk/casein3) - Lightweight CMS for Ruby on Rails 3.x from Spoiled Milk.
+
+*   [imathis/octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
+
+*   [heartcombo/devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden.
+
+*   [aanand/deadweight](https://github.com/aanand/deadweight) - NOT MAINTAINED
+
+*   [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe\_with\_meridians: Jekyll is a blog-aware static site generator in Ruby
+
 ## Handlebars
 
 *   [carbon-design-system/carbon-for-ibm-dotcom-web-components-test](https://github.com/carbon-design-system/carbon-for-ibm-dotcom-web-components-test) - Environment for testing Carbon for IBM.com web components as a mock application
@@ -3370,6 +3552,8 @@
 *   [pedroborges/kirby-xml-sitemap](https://github.com/pedroborges/kirby-xml-sitemap) - ⬢ A flexible & powerful XML Sitemap generator for Kirby CMS
 
 *   [fletcher/MMD-ePub](https://github.com/fletcher/MMD-ePub) - Now deprecated -- MMD v6 has better (and easier) support for exporting EPUB v3
+
+*   [schacon/git-scribe](https://github.com/schacon/git-scribe) - basically the best way to write an ebook
 
 ## Perl
 
@@ -3475,6 +3659,16 @@
 
 *   [MassiveHealth/Opaque](https://github.com/MassiveHealth/Opaque) - A prototype UI showing how one would implement an app with Clear-like animations & gestures.
 
+*   [steipete/PSStackedView](https://github.com/steipete/PSStackedView) - open source implementation of Twitter/iPad stacked ui - done right.
+
+*   [twitter-archive/twui](https://github.com/twitter-archive/twui) - A UI framework for Mac based on Core Animation
+
+*   [Simbul/baker](https://github.com/Simbul/baker) - The HTML5 ebook framework to publish interactive books & magazines on iPad & iPhone using simply open web standards
+
+*   [rsms/scrup](https://github.com/rsms/scrup) - Take a screenshot (in OS X) — paste the URL somewhere a second later
+
+*   [potionfactory/LetsMove](https://github.com/potionfactory/LetsMove) - A sample that shows how to move a running Mac application to the /Applications directory
+
 ## ActionScript
 
 *   [open-source-flash/open-source-flash](https://github.com/open-source-flash/open-source-flash) - Petition to open source Flash and Shockwave spec
@@ -3525,6 +3719,10 @@
 
 *   [craigspaeth/jquery.fillwidth](https://github.com/craigspaeth/jquery.fillwidth) - Line up images to the edge of their container (like google images) without cropping
 
+*   [bergie/hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
+
+*   [docpad/docpad](https://github.com/docpad/docpad) - Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft powerful static sites quicker than ever before.
+
 ## GLSL
 
 *   [keijiro/ShaderSketches](https://github.com/keijiro/ShaderSketches) - KodeLife shader sketches I wrote while commuting
@@ -3560,3 +3758,11 @@
 ## Objective-C++
 
 *   [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
+
+## DIGITAL Command Language
+
+*   [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
+
+## Scala
+
+*   [GravityLabs/goose](https://github.com/GravityLabs/goose) - Html Content / Article Extractor in Scala - open sourced from Gravity Labs
