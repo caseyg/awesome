@@ -27,6 +27,7 @@
 *   [Ruby](#ruby)
 *   [Handlebars](#handlebars)
 *   [Zig](#zig)
+*   [MDX](#mdx)
 *   [R](#r)
 *   [Dart](#dart)
 *   [C](#c-1)
@@ -42,7 +43,6 @@
 *   [Racket](#racket)
 *   [Haskell](#haskell)
 *   [Emacs Lisp](#emacs-lisp)
-*   [MDX](#mdx)
 *   [Smarty](#smarty)
 *   [Dockerfile](#dockerfile)
 *   [Objective-C](#objective-c)
@@ -1090,8 +1090,6 @@
 *   [mylofi/localfirstweb.dev](https://github.com/mylofi/localfirstweb.dev) - A list of various resources for local-first web development
 
 *   [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 
 *   [metafizzy/infinite-scroll](https://github.com/metafizzy/infinite-scroll) - 📜 Automatically add next page
 
@@ -2151,7 +2149,7 @@
 
 *   [frnsys/the\_founder](https://github.com/frnsys/the_founder) - start a company, ruin the world
 
-*   [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
+*   [davidmerfield/blot](https://github.com/davidmerfield/blot) - Turns a folder into a website
 
 *   [almonk/shrink2](https://github.com/almonk/shrink2) - A professional for your Github issues
 
@@ -3501,6 +3499,14 @@
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
+## MDX
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
+*   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers
+
 ## R
 
 *   [omgitsjessie/slack-exports](https://github.com/omgitsjessie/slack-exports) - Manipulating slack text data from JSON export
@@ -3620,12 +3626,6 @@
 ## Emacs Lisp
 
 *   [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
-
-## MDX
-
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-
-*   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers
 
 ## Smarty
 

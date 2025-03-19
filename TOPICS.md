@@ -2436,8 +2436,11 @@
 *   [outlook-web](#outlook-web)
 *   [media-temple](#media-temple)
 *   [lightbox](#lightbox)
+*   [css-flexbox](#css-flexbox)
+*   [css-grid](#css-grid)
 *   [css-tricks](#css-tricks)
 *   [css3](#css3)
+*   [flexbox](#flexbox)
 *   [learning-resources](#learning-resources)
 *   [protip](#protip)
 *   [tips](#tips)
@@ -3470,7 +3473,7 @@
 
 *   [kai-qu/notation](https://github.com/kai-qu/notation) - Collection of quotes on notation design & how it affects thought.
 
-*   [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
+*   [davidmerfield/blot](https://github.com/davidmerfield/blot) - Turns a folder into a website
 
 *   [penibelst/jekyll-compress-html](https://github.com/penibelst/jekyll-compress-html) - A Jekyll layout that compresses HTML in pure Liquid
 
@@ -20008,11 +20011,23 @@
 
 *   [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 
+## css-flexbox
+
+*   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+
+## css-grid
+
+*   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+
 ## css-tricks
 
 *   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 
 ## css3
+
+*   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+
+## flexbox
 
 *   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 
