@@ -592,7 +592,9 @@
 *   [resizable](#resizable)
 *   [dialog](#dialog)
 *   [drawer](#drawer)
+*   [epic-stack](#epic-stack)
 *   [remix-stack](#remix-stack)
+*   [remix-stacks](#remix-stacks)
 *   [elixir](#elixir)
 *   [postgres](#postgres)
 *   [replication](#replication)
@@ -2767,6 +2769,8 @@
 
 ## miscellaneous
 
+*   [aseelert/watsonx-openai-api](https://github.com/aseelert/watsonx-openai-api) - Watsonx Openai compatible API
+
 *   [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
 
 *   [askjohngeorge/mcp-doc-scraper](https://github.com/askjohngeorge/mcp-doc-scraper) -
@@ -4775,8 +4779,6 @@
 
 *   [jashkenas/docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 
-*   [jquery-backstretch/jquery-backstretch](https://github.com/jquery-backstretch/jquery-backstretch) - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes.
-
 ## awesome
 
 *   [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
@@ -5189,7 +5191,7 @@
 
 *   [Toolbase-AI/toolbase](https://github.com/Toolbase-AI/toolbase) - A desktop application that adds powerful tools to Claude and AI platforms
 
-*   [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Profile-based customization enables easy switching between different tasks (like code review and documentation). Code outlining support is available as an experimental feature.
+*   [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Profile-based customization enables easy switching between different tasks (like code review and documentation). Includes smart code outlining.
 
 *   [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) - 🗂️🤖 Airtable Model Context Protocol Server, for allowing AI systems to interact with your Airtable bases
 
@@ -5199,7 +5201,7 @@
 
 *   [Toolbase-AI/toolbase](https://github.com/Toolbase-AI/toolbase) - A desktop application that adds powerful tools to Claude and AI platforms
 
-*   [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Profile-based customization enables easy switching between different tasks (like code review and documentation). Code outlining support is available as an experimental feature.
+*   [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Profile-based customization enables easy switching between different tasks (like code review and documentation). Includes smart code outlining.
 
 *   [IBM/wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
 
@@ -5319,11 +5321,11 @@
 
 ## claude-desktop
 
-*   [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Profile-based customization enables easy switching between different tasks (like code review and documentation). Code outlining support is available as an experimental feature.
+*   [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Profile-based customization enables easy switching between different tasks (like code review and documentation). Includes smart code outlining.
 
 ## cli
 
-*   [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Profile-based customization enables easy switching between different tasks (like code review and documentation). Code outlining support is available as an experimental feature.
+*   [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Profile-based customization enables easy switching between different tasks (like code review and documentation). Includes smart code outlining.
 
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 
@@ -5353,7 +5355,7 @@
 
 ## coding
 
-*   [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Profile-based customization enables easy switching between different tasks (like code review and documentation). Code outlining support is available as an experimental feature.
+*   [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Profile-based customization enables easy switching between different tasks (like code review and documentation). Includes smart code outlining.
 
 *   [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 
@@ -10671,7 +10673,15 @@
 
 *   [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 
+## epic-stack
+
+*   [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
+
 ## remix-stack
+
+*   [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
+
+## remix-stacks
 
 *   [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
 
