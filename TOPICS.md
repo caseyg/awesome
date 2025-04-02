@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [ai](#ai)
 *   [cursor](#cursor)
 *   [cursorai](#cursorai)
@@ -20,7 +21,6 @@
 *   [swift](#swift)
 *   [virtualization](#virtualization)
 *   [virtualization-framework](#virtualization-framework)
-*   [miscellaneous](#miscellaneous)
 *   [accesibility](#accesibility)
 *   [react](#react)
 *   [ui](#ui)
@@ -2781,213 +2781,9 @@
 *   [graph-dracula](#graph-dracula)
 *   [jquery-modal](#jquery-modal)
 
-## ai
-
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
-
-*   [gumloop/guMCP](https://github.com/gumloop/guMCP) - Gumloop Unified Model Context Protocol (guMCP)
-
-*   [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
-
-*   [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
-
-*   [ahmad2b/canvas-callback](https://github.com/ahmad2b/canvas-callback) - This open-source project & guide shows you exactly how to implement Canvas UX pattern + LangGraph human-in-the-loop workflows in your AI apps.
-
-*   [Toolbase-AI/toolbase](https://github.com/Toolbase-AI/toolbase) - A desktop application that adds powerful tools to Claude and AI platforms
-
-*   [tadata-org/fastapi\_mcp](https://github.com/tadata-org/fastapi_mcp) - A zero-configuration tool for automatically exposing FastAPI endpoints as Model Context Protocol (MCP) tools.
-
-*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
-
-*   [IBM/watsonx-ai-platform-demos](https://github.com/IBM/watsonx-ai-platform-demos) - AI Agents, LLM Fine-tuning, Developer Productivity, Governance, IBM watsonx
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
-
-*   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript
-
-*   [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
-
-*   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
-
-*   [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
-
-*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
-
-*   [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-
-*   [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-
-*   [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services
-
-*   [IBM/wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
-
-*   [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-
-*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-
-*   [LangbaseInc/BaseAI](https://github.com/LangbaseInc/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
-
-*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
-
-*   [livekit/agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
-
-*   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
-
-*   [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
-
-*   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
-
-*   [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, toolchain and Composer.
-
-*   [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
-
-*   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-
-*   [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI
-
-*   [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
-
-*   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
-
-*   [r2d4/llm.ts](https://github.com/r2d4/llm.ts) - Call any LLM with a single API. Zero dependencies.
-
-*   [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
-
-*   [vasilecampeanu/obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver is an Obsidian plugin that integrates a ChatGPT-like interface into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you improve your writing and brainstorming process.
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
-
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-*   [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
-
-*   [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
-
-*   [deepfates/silicon](https://github.com/deepfates/silicon) - Add some intelligence to your notes with Silicon AI for Obsidian
-
-*   [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-
-*   [huridocs/uwazi](https://github.com/huridocs/uwazi) - Uwazi is a web-based, open-source solution for building and sharing document collections
-
-*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
-## cursor
-
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
-
-*   [tadata-org/fastapi\_mcp](https://github.com/tadata-org/fastapi_mcp) - A zero-configuration tool for automatically exposing FastAPI endpoints as Model Context Protocol (MCP) tools.
-
-*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
-
-*   [javierbyte/control-user-cursor](https://github.com/javierbyte/control-user-cursor) - Small experiment to 'control' the user cursor with JavaScript and CSS.
-
-## cursorai
-
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
-
-## lovable
-
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
-
-## system-instruction
-
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
-
-## system-prompts
-
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
-
-## v0
-
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
-
-## ai-agent
-
-*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
-
-*   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript
-
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-
-*   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
-
-## apple
-
-*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
-
-*   [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-
-*   [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
-
-## computer-use
-
-*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
-
-## cua
-
-*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
-
-## lume
-
-*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
-
-## macos
-
-*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
-
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-
-*   [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
-
-*   [psobot/keynote-parser](https://github.com/psobot/keynote-parser) - A packer/unpacker for Apple Keynote presentation files.
-
-*   [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
-
-*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-
-*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-
-*   [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
-
-*   [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise
-
-*   [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
-
-## swift
-
-*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
-
-*   [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
-
-*   [planetary-social/planetary-ios](https://github.com/planetary-social/planetary-ios) - Social for humans, not algorithms.
-
-*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-
-*   [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise
-
-## virtualization
-
-*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
-
-## virtualization-framework
-
-*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
-
 ## miscellaneous
+
+*   [iliane5/meridian](https://github.com/iliane5/meridian) - Meridian cuts through news noise by scraping hundreds of sources, analyzing stories with AI, and delivering concise, personalized daily briefs.
 
 *   [cblgh/cerca](https://github.com/cblgh/cerca) - lean forum software
 
@@ -4987,7 +4783,211 @@
 
 *   [antimatter15/jsgif](https://github.com/antimatter15/jsgif) - Save a HTML5 Canvas to GIF and Animations. A port of as3gif GIFPlayer to JS
 
-*   [Simbul/baker](https://github.com/Simbul/baker) - The HTML5 ebook framework to publish interactive books & magazines on iPad & iPhone using simply open web standards
+## ai
+
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
+
+*   [gumloop/guMCP](https://github.com/gumloop/guMCP) - Gumloop Unified Model Context Protocol (guMCP)
+
+*   [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+
+*   [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
+
+*   [ahmad2b/canvas-callback](https://github.com/ahmad2b/canvas-callback) - This open-source project & guide shows you exactly how to implement Canvas UX pattern + LangGraph human-in-the-loop workflows in your AI apps.
+
+*   [Toolbase-AI/toolbase](https://github.com/Toolbase-AI/toolbase) - A desktop application that adds powerful tools to Claude and AI platforms
+
+*   [tadata-org/fastapi\_mcp](https://github.com/tadata-org/fastapi_mcp) - A zero-configuration tool for automatically exposing FastAPI endpoints as Model Context Protocol (MCP) tools.
+
+*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+
+*   [IBM/watsonx-ai-platform-demos](https://github.com/IBM/watsonx-ai-platform-demos) - AI Agents, LLM Fine-tuning, Developer Productivity, Governance, IBM watsonx
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
+
+*   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript
+
+*   [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
+
+*   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
+
+*   [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
+
+*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+
+*   [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+
+*   [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
+
+*   [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services
+
+*   [IBM/wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
+
+*   [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
+
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
+
+*   [LangbaseInc/BaseAI](https://github.com/LangbaseInc/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
+
+*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+
+*   [livekit/agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
+
+*   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
+
+*   [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
+
+*   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
+
+*   [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, toolchain and Composer.
+
+*   [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
+
+*   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+
+*   [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI
+
+*   [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
+
+*   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
+
+*   [r2d4/llm.ts](https://github.com/r2d4/llm.ts) - Call any LLM with a single API. Zero dependencies.
+
+*   [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
+
+*   [vasilecampeanu/obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver is an Obsidian plugin that integrates a ChatGPT-like interface into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you improve your writing and brainstorming process.
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+*   [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
+
+*   [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
+
+*   [deepfates/silicon](https://github.com/deepfates/silicon) - Add some intelligence to your notes with Silicon AI for Obsidian
+
+*   [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+
+*   [huridocs/uwazi](https://github.com/huridocs/uwazi) - Uwazi is a web-based, open-source solution for building and sharing document collections
+
+*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+## cursor
+
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
+
+*   [tadata-org/fastapi\_mcp](https://github.com/tadata-org/fastapi_mcp) - A zero-configuration tool for automatically exposing FastAPI endpoints as Model Context Protocol (MCP) tools.
+
+*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
+
+*   [javierbyte/control-user-cursor](https://github.com/javierbyte/control-user-cursor) - Small experiment to 'control' the user cursor with JavaScript and CSS.
+
+## cursorai
+
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
+
+## lovable
+
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
+
+## system-instruction
+
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
+
+## system-prompts
+
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
+
+## v0
+
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
+
+## ai-agent
+
+*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
+
+*   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript
+
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+
+*   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+
+## apple
+
+*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
+
+*   [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+
+*   [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+
+## computer-use
+
+*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
+
+## cua
+
+*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
+
+## lume
+
+*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
+
+## macos
+
+*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
+
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+
+*   [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
+
+*   [psobot/keynote-parser](https://github.com/psobot/keynote-parser) - A packer/unpacker for Apple Keynote presentation files.
+
+*   [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
+
+*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+
+*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+*   [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+
+*   [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise
+
+*   [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
+
+## swift
+
+*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
+
+*   [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+
+*   [planetary-social/planetary-ios](https://github.com/planetary-social/planetary-ios) - Social for humans, not algorithms.
+
+*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+
+*   [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise
+
+## virtualization
+
+*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
+
+## virtualization-framework
+
+*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
 
 ## accesibility
 
@@ -5297,7 +5297,7 @@
 
 *   [livekit/agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
 
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
 
 *   [activepieces/activepieces](https://github.com/activepieces/activepieces) - Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
 
@@ -6283,7 +6283,7 @@
 
 *   [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.
 
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
 
 *   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 
@@ -6535,7 +6535,7 @@
 
 *   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
 
 *   [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
 
@@ -7189,7 +7189,7 @@
 
 *   [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
 
 *   [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis.
 
@@ -10067,7 +10067,7 @@
 
 *   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
 
 ## computer-vision
 
