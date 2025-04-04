@@ -2763,7 +2763,6 @@
 *   [datatable](#datatable)
 *   [excel-javascript](#excel-javascript)
 *   [grid-component](#grid-component)
-*   [javascript-tools](#javascript-tools)
 *   [react-datatable](#react-datatable)
 *   [react-grid](#react-grid)
 *   [vue-table](#vue-table)
@@ -6166,8 +6165,6 @@
 *   [octokit/webhooks](https://github.com/octokit/webhooks) - machine-readable, always up-to-date GitHub Webhooks specifications
 
 *   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
-
-*   [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
 *   [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 
@@ -13458,6 +13455,8 @@
 ## component
 
 *   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
+
+*   [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 
 ## component-library
 
@@ -21526,10 +21525,6 @@
 *   [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 
 ## grid-component
-
-*   [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
-
-## javascript-tools
 
 *   [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 
