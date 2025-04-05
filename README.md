@@ -529,7 +529,7 @@
 
 *   [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 
-*   [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
+*   [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 
 *   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
@@ -2547,6 +2547,10 @@
 
 *   [kylefox/jquery-modal](https://github.com/kylefox/jquery-modal) - The simplest possible modal for jQuery
 
+*   [antimatter15/jsgif](https://github.com/antimatter15/jsgif) - Save a HTML5 Canvas to GIF and Animations. A port of as3gif GIFPlayer to JS
+
+*   [stamen/modestmaps-js](https://github.com/stamen/modestmaps-js) - Modest Maps javascript port
+
 ## Rust
 
 *   [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -2653,8 +2657,6 @@
 
 *   [zackseuberling/books](https://github.com/zackseuberling/books) - books I'm reading or have read
 
-*   [antiboredom/ice-linkedin](https://github.com/antiboredom/ice-linkedin) - Dataset of LinkedIn members who work for ICE
-
 *   [alexmorley/dgit-web](https://github.com/alexmorley/dgit-web) - Decentralised Git Repo Sharing/Storage backed by Dat
 
 *   [krismuniz/dat-utils](https://github.com/krismuniz/dat-utils) - Utility functions for Beaker Browser's DatArchive API
@@ -2706,8 +2708,6 @@
 *   [arachnezine/arachne](https://github.com/arachnezine/arachne) - A webzine about labour, gender and technology, w/ Dorothy Howard
 
 *   [mislav/poignant-guide](https://github.com/mislav/poignant-guide) - Why's Poignant Guide to Ruby
-
-*   [laurelschwulst/veryinteractive.net](https://github.com/laurelschwulst/veryinteractive.net) - Class hub website running on Kirby CMS
 
 *   [iros/patternfills](https://github.com/iros/patternfills) - A collection of svg patterns and build scripts that allow utilizing them in svg, css and d3.
 
@@ -3299,8 +3299,6 @@
 
 *   [mezzoblue/csszengarden.com](https://github.com/mezzoblue/csszengarden.com) - The source of csszengarden.com
 
-*   [eddiemachado-zz/bones](https://github.com/eddiemachado-zz/bones) - A Mobile-First, Responsive WordPress starter theme based off 320 and Up & HTML5 Boilerplate.
-
 *   [deanhunt/pantheon](https://github.com/deanhunt/pantheon) - Pantheon is a Chrome extension built during Art Hack Day :: God Mode
 
 *   [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
@@ -3668,6 +3666,8 @@
 *   [steipete/PSStackedView](https://github.com/steipete/PSStackedView) - open source implementation of Twitter/iPad stacked ui - done right.
 
 *   [twitter-archive/twui](https://github.com/twitter-archive/twui) - A UI framework for Mac based on Core Animation
+
+*   [Simbul/baker](https://github.com/Simbul/baker) - The HTML5 ebook framework to publish interactive books & magazines on iPad & iPhone using simply open web standards
 
 ## ActionScript
 
