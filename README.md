@@ -61,7 +61,7 @@
 
 ## Python
 
-*   [google/A2A](https://github.com/google/A2A) -
+*   [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 
 *   [principia-ai/WriteHERE](https://github.com/principia-ai/WriteHERE) - An Open-Source AI Writing Project.
 
