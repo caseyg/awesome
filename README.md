@@ -61,6 +61,8 @@
 
 ## miscellaneous
 
+*   [ibm-granite/granite-code-models](https://github.com/ibm-granite/granite-code-models) - Granite Code Models: A Family of Open Foundation Models for Code Intelligence
+
 *   [Aider-AI/conventions](https://github.com/Aider-AI/conventions) - Community-contributed convention files for use with aider
 
 *   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
@@ -1021,7 +1023,7 @@
 
 *   [kanedata/airtable-to-sqlite](https://github.com/kanedata/airtable-to-sqlite) -
 
-*   [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
+*   [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker container layer for Computer-Use AI agents.
 
 *   [gumloop/guMCP](https://github.com/gumloop/guMCP) - Gumloop Unified Model Context Protocol (guMCP)
 
@@ -2522,8 +2524,6 @@
 *   [filamentgroup/Responsive-Images](https://github.com/filamentgroup/Responsive-Images) - NOTE: use Picturefill instead. An Experiment with Mobile-First Images that Scale Responsively & Responsibly
 
 *   [nasser/zajal](https://github.com/nasser/zajal) - Experimental creative coding framework
-
-*   [substance/substance-legacy](https://github.com/substance/substance-legacy) - Towards open digital publishing
 
 ## Jupyter Notebook
 
