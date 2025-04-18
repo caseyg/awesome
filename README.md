@@ -65,7 +65,7 @@
 
 *   [Aider-AI/conventions](https://github.com/Aider-AI/conventions) - Community-contributed convention files for use with aider
 
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable & Devin AI System Prompts & AI Models.
 
 *   [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 
@@ -1023,7 +1023,7 @@
 
 *   [kanedata/airtable-to-sqlite](https://github.com/kanedata/airtable-to-sqlite) -
 
-*   [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker container layer for Computer-Use AI agents.
+*   [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 
 *   [gumloop/guMCP](https://github.com/gumloop/guMCP) - Gumloop Unified Model Context Protocol (guMCP)
 
@@ -1137,7 +1137,7 @@
 
 *   [rschroll/rmrl](https://github.com/rschroll/rmrl) - Render reMarkable documents to PDF
 
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight library for building Agents with memory, knowledge, tools and reasoning.
 
 *   [definitive-io/duckdb-text2sql](https://github.com/definitive-io/duckdb-text2sql) -
 
@@ -1533,7 +1533,7 @@
 
 *   [ppl-ai/modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 
-*   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+*   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
