@@ -76,6 +76,8 @@
 
 *   [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
 
+*   [iliane5/meridian](https://github.com/iliane5/meridian) - Meridian cuts through news noise by scraping hundreds of sources, analyzing stories with AI, and delivering concise, personalized daily briefs.
+
 *   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 
 *   [sadmann7/diceui](https://github.com/sadmann7/diceui) - A collection of composable, unstyled UI primitives for building accessible web applications.
@@ -208,7 +210,7 @@
 
 *   [inhumantsar/slurp](https://github.com/inhumantsar/slurp) - Slurps webpages and saves them as clean, uncluttered Markdown. Think Pocket, but better.
 
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 
 *   [HiDeoo/starlight-obsidian](https://github.com/HiDeoo/starlight-obsidian) - Starlight plugin to publish Obsidian vaults
 
@@ -599,8 +601,6 @@
 *   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 
 *   [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
-
-*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 
 *   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
@@ -2486,6 +2486,8 @@
 
 *   [mattkersley/Responsive-Menu](https://github.com/mattkersley/Responsive-Menu) - Turns any \<ol> or \<ul> into a \<select> for mobiles and low browser sizes
 
+*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+
 *   [jsplumb/jsBezier](https://github.com/jsplumb/jsBezier) - Bezier curve helper functions for JavaScript.  Used by jsPlumb; perhaps useful for others.
 
 *   [bryanwoods/autolink-js](https://github.com/bryanwoods/autolink-js) - Tiny little tool to find URLs in a string of text and hyperlink them
@@ -2523,8 +2525,6 @@
 *   [strathausen/dracula](https://github.com/strathausen/dracula) - JavaScript layout and representation of connected graphs.
 
 ## Jupyter Notebook
-
-*   [iliane5/meridian](https://github.com/iliane5/meridian) - Meridian cuts through news noise by scraping hundreds of sources, analyzing stories with AI, and delivering concise, personalized daily briefs.
 
 *   [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
 
