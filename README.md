@@ -922,6 +922,8 @@
 
 *   [tchoi8/poetry](https://github.com/tchoi8/poetry) - version controlled poetry
 
+*   [paperwork/paperwork](https://github.com/paperwork/paperwork) -
+
 *   [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
 
 *   [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
@@ -2902,8 +2904,6 @@
 
 *   [yeargin/mediatemple-backup](https://github.com/yeargin/mediatemple-backup) - Collection of bash scripts for database backups.
 
-*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
-
 *   [INN/docs](https://github.com/INN/docs) - INN Labs – Product & Technology Team Docs
 
 *   [cryptoparty/handbook](https://github.com/cryptoparty/handbook) - The CryptoParty Handbook
@@ -3346,7 +3346,7 @@
 
 *   [berkmancenter/tagteam](https://github.com/berkmancenter/tagteam) - Enhanced Social Tagging for Academic Communities
 
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 
 *   [gdpelican/mingle](https://github.com/gdpelican/mingle) - Icebreaker plugin for Discourse
 

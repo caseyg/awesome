@@ -2584,10 +2584,6 @@
 *   [slide](#slide)
 *   [slideshow](#slideshow)
 *   [snap](#snap)
-*   [evernote](#evernote)
-*   [google-keep](#google-keep)
-*   [microsoft-onenote](#microsoft-onenote)
-*   [paperwork](#paperwork)
 *   [adblock](#adblock)
 *   [blocker](#blocker)
 *   [extension](#extension)
@@ -4074,6 +4070,8 @@
 *   [airhadoken/snowclone-a-minute](https://github.com/airhadoken/snowclone-a-minute) - Snowclone a Minute! You too can write an annoying twitter bot of your choosing.
 
 *   [idamantium/uncommonplaces-jekyll](https://github.com/idamantium/uncommonplaces-jekyll) - Portfolio site buit with Jekyll. Much of the content was migrated over form Wordpress. I'm using the Compass version of Zurb Foundation for the front end framework
+
+*   [paperwork/paperwork](https://github.com/paperwork/paperwork) -
 
 *   [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
 
@@ -6173,7 +6171,7 @@
 
 *   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
 
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 
 *   [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 
@@ -8101,8 +8099,6 @@
 
 *   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
-*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
-
 *   [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
 
 ## astro
@@ -8212,8 +8208,6 @@
 *   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 *   [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
-
-*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 
 *   [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 
@@ -10194,8 +10188,6 @@
 *   [huridocs/uwazi](https://github.com/huridocs/uwazi) - Uwazi is a web-based, open-source solution for building and sharing document collections
 
 *   [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
-
-*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 
 *   [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 
@@ -12429,7 +12421,7 @@
 
 *   [berkmancenter/tagteam](https://github.com/berkmancenter/tagteam) - Enhanced Social Tagging for Academic Communities
 
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 
 *   [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
@@ -12561,17 +12553,17 @@
 
 ## finance
 
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 
 *   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 
 ## hotwire
 
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 
 ## personal-finance
 
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 
 *   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 
@@ -12579,15 +12571,15 @@
 
 ## ruby-on-rails
 
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 
 ## stimulusjs
 
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 
 ## turbo
 
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 
 ## api-design
 
@@ -13010,8 +13002,6 @@
 *   [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
 *   [Rhizome-Conifer/conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
-
-*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 
 ## issue-tracker
 
@@ -15599,8 +15589,6 @@
 
 *   [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
 
-*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
-
 ## community
 
 *   [apache/answer](https://github.com/apache/answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
@@ -15632,8 +15620,6 @@
 *   [gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook) - In-browser literate notebooks
 
 *   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-
-*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 
 ## starboard
 
@@ -20928,22 +20914,6 @@
 ## snap
 
 *   [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
-
-## evernote
-
-*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
-
-## google-keep
-
-*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
-
-## microsoft-onenote
-
-*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
-
-## paperwork
-
-*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 
 ## adblock
 
