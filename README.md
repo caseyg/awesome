@@ -1536,7 +1536,7 @@
 
 *   [ahmad2b/canvas-callback](https://github.com/ahmad2b/canvas-callback) - This open-source project & guide shows you exactly how to implement Canvas UX pattern + LangGraph human-in-the-loop workflows in your AI apps.
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 *   [Fallomai/spinai](https://github.com/Fallomai/spinai) -
 
@@ -1896,7 +1896,7 @@
 
 *   [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 
-*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 
 *   [arvinxx/airtable-app-user-journal-map](https://github.com/arvinxx/airtable-app-user-journal-map) - An User Journal Map App of AirTable
 

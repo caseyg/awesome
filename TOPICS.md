@@ -1607,15 +1607,18 @@
 *   [businessintelligence](#businessintelligence)
 *   [clojure](#clojure)
 *   [metabase](#metabase)
-*   [angular-powerpoint](#angular-powerpoint)
 *   [es6-powerpoint](#es6-powerpoint)
+*   [export-to-pptx](#export-to-pptx)
 *   [html-to-powerpoint](#html-to-powerpoint)
 *   [javascript-powerpoint](#javascript-powerpoint)
 *   [node-powerpoint](#node-powerpoint)
-*   [powerpoint-charts](#powerpoint-charts)
+*   [officejs-alternative](#officejs-alternative)
 *   [powerpoint-library](#powerpoint-library)
 *   [powerpoint-presentations](#powerpoint-presentations)
+*   [pptxgenjs](#pptxgenjs)
+*   [presentation-library](#presentation-library)
 *   [react-powerpoint](#react-powerpoint)
+*   [slide-generator](#slide-generator)
 *   [typescript-powerpoint](#typescript-powerpoint)
 *   [background-tasks](#background-tasks)
 *   [event-driven](#event-driven)
@@ -5094,7 +5097,7 @@
 
 *   [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
@@ -5638,7 +5641,7 @@
 
 *   [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 
@@ -5666,7 +5669,7 @@
 
 *   [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 
@@ -5760,7 +5763,7 @@
 
 *   [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
 
-*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 
 *   [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
 
@@ -5992,7 +5995,7 @@
 
 *   [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 *   [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 
@@ -6594,7 +6597,7 @@
 
 *   [gumloop/guMCP](https://github.com/gumloop/guMCP) - Gumloop Unified Model Context Protocol (guMCP)
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 *   [Toolbase-AI/toolbase](https://github.com/Toolbase-AI/toolbase) - A desktop application that adds powerful tools to Claude and AI platforms
 
@@ -7332,13 +7335,13 @@
 
 ## deepseek
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 *   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 
 ## electron-app
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 *   [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 
@@ -7346,13 +7349,13 @@
 
 ## electronjs
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 *   [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
 
 ## genai
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 *   [IBM/watsonx-ai-platform-demos](https://github.com/IBM/watsonx-ai-platform-demos) - AI Agents, LLM Fine-tuning, Developer Productivity, Governance, IBM watsonx
 
@@ -7362,23 +7365,23 @@
 
 ## googleai
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 ## groq
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 *   [LangbaseInc/BaseAI](https://github.com/LangbaseInc/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
 
 ## mcp-client
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## mistral
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 *   [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources including academic databases, scientific repositories, web content, and private document collections.
 
@@ -7388,19 +7391,19 @@
 
 ## mistralai
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 ## ollama-gui
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 ## openrouter
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 ## vuejs
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 *   [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 
@@ -7412,7 +7415,7 @@
 
 ## vuejs3
 
-*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+*   [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 
 ## claude
 
@@ -10444,7 +10447,7 @@
 
 *   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
-*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 
 ## tables
 
@@ -12892,7 +12895,7 @@
 
 *   [singerla/pptx-automizer](https://github.com/singerla/pptx-automizer) - A template based pptx generator for Node.js
 
-*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 
 ## powerpoint-automation
 
@@ -12902,7 +12905,7 @@
 
 *   [singerla/pptx-automizer](https://github.com/singerla/pptx-automizer) - A template based pptx generator for Node.js
 
-*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 
 ## alpine
 
@@ -16494,45 +16497,57 @@
 
 *   [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar\_chart:
 
-## angular-powerpoint
-
-*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
-
 ## es6-powerpoint
 
-*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
+
+## export-to-pptx
+
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 
 ## html-to-powerpoint
 
-*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 
 ## javascript-powerpoint
 
-*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 
 ## node-powerpoint
 
-*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 
-## powerpoint-charts
+## officejs-alternative
 
-*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 
 ## powerpoint-library
 
-*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 
 ## powerpoint-presentations
 
-*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
+
+## pptxgenjs
+
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
+
+## presentation-library
+
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 
 ## react-powerpoint
 
-*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
+
+## slide-generator
+
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 
 ## typescript-powerpoint
 
-*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 
 ## background-tasks
 
