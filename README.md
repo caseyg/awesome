@@ -56,6 +56,7 @@
 *   [HaXe](#haxe)
 *   [Vim script](#vim-script)
 *   [Objective-C++](#objective-c-1)
+*   [DIGITAL Command Language](#digital-command-language)
 
 ## TypeScript
 
@@ -2447,8 +2448,6 @@
 
 *   [fat/slides-os-guilt](https://github.com/fat/slides-os-guilt) - what the f\*\*\* is open source and why do i feel so guilty
 
-*   [cjse/copiousfreetime-haircut](https://github.com/cjse/copiousfreetime-haircut) - Jeremy, before and after his haircut.
-
 *   [cooperhewitt/collection-people](https://github.com/cooperhewitt/collection-people) - These are the people in the Cooper-Hewitt collection
 
 *   [sdether/happenstance](https://github.com/sdether/happenstance) - A federated, decentralized status network
@@ -3760,3 +3759,7 @@
 ## Objective-C++
 
 *   [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
+
+## DIGITAL Command Language
+
+*   [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at

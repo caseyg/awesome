@@ -2809,6 +2809,7 @@
 *   [flexibility](#flexibility)
 *   [pagination](#pagination)
 *   [sort](#sort)
+*   [dmca](#dmca)
 
 ## miscellaneous
 
@@ -4577,8 +4578,6 @@
 *   [julescarbon/styleblaster](https://github.com/julescarbon/styleblaster) - 69 Streetstyles Erryday
 
 *   [caseyg/CooperUnion.info](https://github.com/caseyg/CooperUnion.info) - A concise starting point for learning about the financial and philosophical challenges facing The Cooper Union.
-
-*   [cjse/copiousfreetime-haircut](https://github.com/cjse/copiousfreetime-haircut) - Jeremy, before and after his haircut.
 
 *   [panicinc/burnside](https://github.com/panicinc/burnside) - Panic's Burnside bridges Twitter to email and back.
 
@@ -21917,3 +21916,7 @@
 ## sort
 
 *   [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
+
+## dmca
+
+*   [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
