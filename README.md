@@ -279,6 +279,8 @@
 
 *   [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The CRDT Yjs WebSocket backend for conflict-free real-time collaboration in your app.
 
+*   [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+
 *   [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 
 *   [nikdanilov/whisper-obsidian-plugin](https://github.com/nikdanilov/whisper-obsidian-plugin) - Speech-to-text in Obsidian using OpenAI Whisper
@@ -739,7 +741,7 @@
 
 *   [rschroll/rmrl](https://github.com/rschroll/rmrl) - Render reMarkable documents to PDF
 
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight, high-performance library for building Agents with memory, knowledge, and reasoning.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight, high-performance library for building Agents.
 
 *   [definitive-io/duckdb-text2sql](https://github.com/definitive-io/duckdb-text2sql) -
 
@@ -1118,8 +1120,6 @@
 *   [Prototypr/prototypr-frontend](https://github.com/Prototypr/prototypr-frontend) - Open source publishing platform, built with Next.js and Strapi CMS backend. Uses Tiptap / Prose-mirror editor. 💙
 
 *   [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-
-*   [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 
 *   [pockethost/pockethost](https://github.com/pockethost/pockethost) - Open source multitenant PocketBase server
 
