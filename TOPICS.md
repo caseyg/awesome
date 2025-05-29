@@ -4,6 +4,12 @@
 
 ## Table of Contents
 
+*   [data-layer](#data-layer)
+*   [local-first](#local-first)
+*   [signals](#signals)
+*   [sqlite](#sqlite)
+*   [state-management](#state-management)
+*   [sync-engine](#sync-engine)
 *   [agent](#agent)
 *   [artificial-intelligence](#artificial-intelligence)
 *   [chatgpt](#chatgpt)
@@ -67,7 +73,6 @@
 *   [openrouter](#openrouter)
 *   [self-hosted](#self-hosted)
 *   [wiki](#wiki)
-*   [local-first](#local-first)
 *   [notetaking](#notetaking)
 *   [react](#react)
 *   [rust](#rust)
@@ -131,6 +136,10 @@
 *   [vector-database-embedding](#vector-database-embedding)
 *   [vector-search](#vector-search)
 *   [vector-search-engine](#vector-search-engine)
+*   [a2a](#a2a)
+*   [a2a-mcp](#a2a-mcp)
+*   [a2a-protocol](#a2a-protocol)
+*   [a2a-server](#a2a-server)
 *   [agentic-workflow](#agentic-workflow)
 *   [ai-writing](#ai-writing)
 *   [creative-writing-ai](#creative-writing-ai)
@@ -166,7 +175,6 @@
 *   [postgresql](#postgresql)
 *   [realtime](#realtime)
 *   [spreadsheet](#spreadsheet)
-*   [sqlite](#sqlite)
 *   [bolt](#bolt)
 *   [cursor](#cursor)
 *   [cursorai](#cursorai)
@@ -578,7 +586,6 @@
 *   [crdts](#crdts)
 *   [end-to-end-encryption](#end-to-end-encryption)
 *   [offline-first](#offline-first)
-*   [state-management](#state-management)
 *   [sync](#sync)
 *   [catalog](#catalog)
 *   [ckan](#ckan)
@@ -2826,6 +2833,64 @@
 *   [vue-table](#vue-table)
 *   [not-maintained](#not-maintained)
 
+## data-layer
+
+*   [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
+
+## local-first
+
+*   [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
+
+*   [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Privacy-first AI Notepad for back-to-back meetings
+
+*   [garden-co/jazz](https://github.com/garden-co/jazz) - Toolkit for backendless apps
+
+*   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
+
+*   [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
+
+*   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
+
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+
+*   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
+
+*   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
+## signals
+
+*   [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
+
+## sqlite
+
+*   [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
+
+*   [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+
+*   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
+
+*   [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
+
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+
+*   [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
+
+*   [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
+
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+
+*   [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+
+## state-management
+
+*   [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
+
+*   [garden-co/jazz](https://github.com/garden-co/jazz) - Toolkit for backendless apps
+
+## sync-engine
+
+*   [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
+
 ## agent
 
 *   [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -3521,8 +3586,6 @@
 *   [ibm-granite/granite-code-models](https://github.com/ibm-granite/granite-code-models) - Granite Code Models: A Family of Open Foundation Models for Code Intelligence
 
 *   [Aider-AI/conventions](https://github.com/Aider-AI/conventions) - Community-contributed convention files for use with aider
-
-*   [google-a2a/A2A](https://github.com/google-a2a/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 
 *   [GrayAreaorg/airtable-to-sqlite](https://github.com/GrayAreaorg/airtable-to-sqlite) -
 
@@ -4474,7 +4537,7 @@
 
 *   [lenazun/working-remotely](https://github.com/lenazun/working-remotely) - A list of tips and practical ideas we've learned while working remotely
 
-*   [slackapi/onboarding-example](https://github.com/slackapi/onboarding-example) - A demonstration of how to build an onboarding app using Slack's Events API
+*   [slack-samples/javascript-onboarding-events](https://github.com/slack-samples/javascript-onboarding-events) - An onboarding app for a welcoming workspace
 
 *   [danielzarick/Colorplane](https://github.com/danielzarick/Colorplane) - A color picker for humans. Built with canvas & javascript.
 
@@ -5478,8 +5541,6 @@
 
 *   [artunit/ossocr](https://github.com/artunit/ossocr) - gathering point for open source OCR scripts and diffs
 
-*   [josephg/ShareJS](https://github.com/josephg/ShareJS) - Collaborative editing in any app
-
 ## inference
 
 *   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -6226,24 +6287,6 @@
 
 *   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
 
-## local-first
-
-*   [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Privacy-first AI Notepad for back-to-back meetings
-
-*   [garden-co/jazz](https://github.com/garden-co/jazz) - Toolkit for backendless apps
-
-*   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
-
-*   [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
-
-*   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
-
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
-
-*   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
-
-*   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
-
 ## notetaking
 
 *   [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Privacy-first AI Notepad for back-to-back meetings
@@ -6517,6 +6560,8 @@
 *   [i-am-bee/acp](https://github.com/i-am-bee/acp) - Framework-agnostic agent communication. Unified by design.
 
 *   [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
+
+*   [google-a2a/A2A](https://github.com/google-a2a/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 
 *   [microsoft/Agents](https://github.com/microsoft/Agents) - The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.
 
@@ -7004,6 +7049,8 @@
 
 *   [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 
+*   [google-a2a/A2A](https://github.com/google-a2a/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
+
 *   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 
 *   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
@@ -7253,6 +7300,22 @@
 ## vector-search-engine
 
 *   [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
+
+## a2a
+
+*   [google-a2a/A2A](https://github.com/google-a2a/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
+
+## a2a-mcp
+
+*   [google-a2a/A2A](https://github.com/google-a2a/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
+
+## a2a-protocol
+
+*   [google-a2a/A2A](https://github.com/google-a2a/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
+
+## a2a-server
+
+*   [google-a2a/A2A](https://github.com/google-a2a/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 
 ## agentic-workflow
 
@@ -7635,24 +7698,6 @@
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 *   [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
-
-## sqlite
-
-*   [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-
-*   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-
-*   [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
-
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
-
-*   [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
-
-*   [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
-
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-
-*   [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 
 ## bolt
 
@@ -10849,10 +10894,6 @@
 *   [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 
 *   [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
-
-## state-management
-
-*   [garden-co/jazz](https://github.com/garden-co/jazz) - Toolkit for backendless apps
 
 ## sync
 
