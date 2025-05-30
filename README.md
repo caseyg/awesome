@@ -706,6 +706,8 @@
 
 *   [HelloThisIsFlo/Things3-To-OmniFocus](https://github.com/HelloThisIsFlo/Things3-To-OmniFocus) - Migrate from Things3 to OmniFocus (via TaskPaper)
 
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+
 *   [codellm-devkit/python-sdk](https://github.com/codellm-devkit/python-sdk) - The official Python SDK for Codellm-Devkit
 
 *   [Yusuke710/nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI) - The simplest open-source implementation of perplexity.ai
@@ -1608,8 +1610,6 @@
 
 *   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
 
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-
 *   [briankinney/airtable-swagger](https://github.com/briankinney/airtable-swagger) - Build OAS 3.0 API Definitions from Airtable Schema Object
 
 *   [mondaycom/welcome-apps](https://github.com/mondaycom/welcome-apps) - A collection of "Hello World" monday.com apps
@@ -1628,7 +1628,7 @@
 
 *   [dennishansen/holograph](https://github.com/dennishansen/holograph) - A new kind of visual programming
 
-*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - Obsidian Template for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
+*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - LifeOS example vault for Obsidian(Combining P.A.R.A with Periodic Notes)
 
 *   [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 

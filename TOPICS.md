@@ -8977,7 +8977,7 @@
 
 *   [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar) - Create flexible, context-aware toolbars for your notes with this plugin for Obsidian.
 
-*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - Obsidian Template for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
+*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - LifeOS example vault for Obsidian(Combining P.A.R.A with Periodic Notes)
 
 *   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 
@@ -9049,7 +9049,7 @@
 
 *   [oxdc/obsidian-vertical-tabs](https://github.com/oxdc/obsidian-vertical-tabs) - An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.
 
-*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - Obsidian Template for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
+*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - LifeOS example vault for Obsidian(Combining P.A.R.A with Periodic Notes)
 
 *   [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
 
@@ -9115,7 +9115,7 @@
 
 *   [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 
-*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - Obsidian Template for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
+*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - LifeOS example vault for Obsidian(Combining P.A.R.A with Periodic Notes)
 
 *   [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md) -
 
@@ -11469,15 +11469,15 @@
 
 ## lifeos
 
-*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - Obsidian Template for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
+*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - LifeOS example vault for Obsidian(Combining P.A.R.A with Periodic Notes)
 
 ## obsidian-template
 
-*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - Obsidian Template for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
+*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - LifeOS example vault for Obsidian(Combining P.A.R.A with Periodic Notes)
 
 ## obsidian-vault
 
-*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - Obsidian Template for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
+*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - LifeOS example vault for Obsidian(Combining P.A.R.A with Periodic Notes)
 
 *   [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
 
@@ -11489,7 +11489,7 @@
 
 ## para
 
-*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - Obsidian Template for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
+*   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - LifeOS example vault for Obsidian(Combining P.A.R.A with Periodic Notes)
 
 ## design-system
 
