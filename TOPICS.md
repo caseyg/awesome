@@ -2583,7 +2583,6 @@
 *   [tips](#tips)
 *   [tips-and-tricks](#tips-and-tricks)
 *   [useful](#useful)
-*   [mp3player](#mp3player)
 *   [streaming](#streaming)
 *   [i18next](#i18next)
 *   [react-email](#react-email)
@@ -3900,7 +3899,7 @@
 
 *   [stevengill/pancake-studio](https://github.com/stevengill/pancake-studio) - A server that receives json payloads, flattens the keys and sends this new payload to passed in url
 
-*   [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
+*   [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 
 *   [11ty/webc](https://github.com/11ty/webc) - Single File Web Components
 
@@ -7144,7 +7143,7 @@
 
 *   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
-*   [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+*   [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 
 ## command-line
 
@@ -8406,7 +8405,7 @@
 
 *   [gruntjs/grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify) - Minify files with UglifyJS.
 
-*   [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+*   [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
@@ -8785,6 +8784,8 @@
 ## beeai
 
 *   [IBM/watsonx-developer-hub](https://github.com/IBM/watsonx-developer-hub) - Examples and guides for building Gen AI applications on the watsonx platform.
+
+*   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript.
 
 ## crewai
 
@@ -11104,7 +11105,7 @@
 
 *   [ryanatkn/earbetter](https://github.com/ryanatkn/earbetter) - ear trainer and tools for playing and programming music and audio 🎶🦜
 
-*   [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+*   [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 
 ## ear-training
 
@@ -11123,6 +11124,8 @@
 *   [hundredrabbits/Marabu](https://github.com/hundredrabbits/Marabu) - Music Synthetiser
 
 *   [feross/last-fm](https://github.com/feross/last-fm) - Simple, robust LastFM API client (for public data)
+
+*   [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 
 *   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 
@@ -18038,7 +18041,7 @@
 
 *   [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 
-*   [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+*   [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 
 ## php
 
@@ -18257,6 +18260,8 @@
 ## music-player
 
 *   [hypermodules/hyperamp](https://github.com/hypermodules/hyperamp) - 🎛 Humble music player
+
+*   [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 
 ## education
 
@@ -21094,13 +21099,9 @@
 
 *   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 
-## mp3player
-
-*   [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
-
 ## streaming
 
-*   [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+*   [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 
 ## i18next
 

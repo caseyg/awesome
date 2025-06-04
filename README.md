@@ -1130,8 +1130,6 @@
 
 *   [cryptoparty/handbook](https://github.com/cryptoparty/handbook) - The CryptoParty Handbook
 
-*   [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
-
 *   [celoyd/wheather](https://github.com/celoyd/wheather) - Image-compositing scripts for filtering weather out of satellite images
 
 *   [CC-Archived/mou-theme-solarized](https://github.com/CC-Archived/mou-theme-solarized) - Mou (http://mouapp.com/) theme for Markdown syntax highlighting using Ethan Schoonover's Solarized color scheme.
@@ -2596,7 +2594,7 @@
 
 *   [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine:  Create a searchable library from your personal documents, interests, and more!
 
-*   [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
+*   [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 
 *   [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 
@@ -3164,7 +3162,7 @@
 
 *   [storypioneers/kirby-selector](https://github.com/storypioneers/kirby-selector) - file selector panel field for Kirby CMS
 
-*   [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+*   [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 
 *   [mzur/kirby-calendar-plugin](https://github.com/mzur/kirby-calendar-plugin) - A plugin for the Kirby CMS to easily implement an event calendar.
 
@@ -3457,6 +3455,8 @@
 *   [dpla-attic/platform](https://github.com/dpla-attic/platform) - The DPLA Platform
 
 *   [nodanaonlyzuul/chorus](https://github.com/nodanaonlyzuul/chorus) -
+
+*   [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 
 *   [techbookclub/library](https://github.com/techbookclub/library) - The new website for techbookclub.
 
