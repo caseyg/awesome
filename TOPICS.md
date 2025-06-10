@@ -55,16 +55,17 @@
 *   [ai-agents](#ai-agents)
 *   [ai-tools](#ai-tools)
 *   [automation](#automation)
+*   [browser](#browser)
 *   [browser-extension](#browser-extension)
 *   [browser-use](#browser-use)
 *   [chrome-extension](#chrome-extension)
-*   [javascript](#javascript)
 *   [manus](#manus)
 *   [mariner](#mariner)
 *   [multi-agent](#multi-agent)
+*   [nano](#nano)
 *   [opensource](#opensource)
 *   [operator](#operator)
-*   [web-agent](#web-agent)
+*   [web](#web)
 *   [web-automation](#web-automation)
 *   [gemini](#gemini)
 *   [github](#github)
@@ -112,10 +113,10 @@
 *   [rest-api](#rest-api)
 *   [sdk](#sdk)
 *   [swagger](#swagger)
-*   [web](#web)
 *   [anthropic](#anthropic)
 *   [generative-ai](#generative-ai)
 *   [generative-ui](#generative-ui)
+*   [javascript](#javascript)
 *   [language-model](#language-model)
 *   [svelte](#svelte)
 *   [vercel](#vercel)
@@ -397,7 +398,6 @@
 *   [pdf-extractor](#pdf-extractor)
 *   [pdf-extractor-llm](#pdf-extractor-llm)
 *   [browser-automation](#browser-automation)
-*   [browser](#browser)
 *   [browser-engine](#browser-engine)
 *   [jmap](#jmap)
 *   [jmap-client](#jmap-client)
@@ -5787,6 +5787,16 @@
 
 *   [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
+## browser
+
+*   [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+
+*   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+
+*   [josephernest/bigpicture.js](https://github.com/josephernest/bigpicture.js) - bigpicture.js is a Javascript library that allows infinite panning and infinite zooming in HTML pages.
+
+*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+
 ## browser-extension
 
 *   [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
@@ -5813,228 +5823,6 @@
 
 *   [defmethodinc/just-not-sorry](https://github.com/defmethodinc/just-not-sorry) - Chrome extension that warns you when you write emails using words which undermine your message
 
-## javascript
-
-*   [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
-
-*   [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-
-*   [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
-
-*   [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
-
-*   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
-
-*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
-
-*   [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
-
-*   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
-
-*   [simplyhexagonal/short-unique-id](https://github.com/simplyhexagonal/short-unique-id) - Short Unique ID (UUID) generation library. Available in NPM.
-
-*   [sqids/sqids-javascript](https://github.com/sqids/sqids-javascript) - Official JavaScript port of Sqids. Generate short unique IDs from numbers.
-
-*   [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - An ultra-simplified explanation of design patterns implemented in javascript
-
-*   [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
-
-*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-
-*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-
-*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
-
-*   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-
-*   [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
-
-*   [textlint/textlint](https://github.com/textlint/textlint) - textlint is the pluggable linter for natural language text.
-
-*   [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
-
-*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-*   [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
-
-*   [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
-
-*   [DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 \[ES6] cheatsheet containing tips, tricks, best practices and code snippets
-
-*   [carbon-design-system/carbon-for-ibm-dotcom](https://github.com/carbon-design-system/carbon-for-ibm-dotcom) - Carbon for IBM.com is based on the Carbon Design System for IBM
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
-
-*   [fnando/sparkline](https://github.com/fnando/sparkline) - Generate SVG sparklines with JavaScript without any external dependency.
-
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
-
-*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-
-*   [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-
-*   [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-
-*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-
-*   [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
-
-*   [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
-
-*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
-
-*   [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
-
-*   [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
-
-*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-
-*   [publiclab/plots2](https://github.com/publiclab/plots2) - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! :balloon:
-
-*   [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
-
-*   [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
-
-*   [swup/swup](https://github.com/swup/swup) - Versatile and extensible page transition library for server-rendered websites 🎉
-
-*   [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-
-*   [DanWebb/jdown](https://github.com/DanWebb/jdown) - Transform a directory of markdown files to JSON
-
-*   [josephernest/bigpicture.js](https://github.com/josephernest/bigpicture.js) - bigpicture.js is a Javascript library that allows infinite panning and infinite zooming in HTML pages.
-
-*   [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-
-*   [ssbc/ssb-server](https://github.com/ssbc/ssb-server) - The gossip and replication server for Secure Scuttlebutt - a distributed social network
-
-*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-
-*   [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
-
-*   [bradley/Blotter](https://github.com/bradley/Blotter) - A JavaScript API for drawing unconventional text effects on the web.
-
-*   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers (updated for 2025)
-
-*   [sindresorhus/refined-twitter](https://github.com/sindresorhus/refined-twitter) - Browser extension that simplifies the Twitter interface and adds useful features
-
-*   [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
-
-*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-
-*   [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
-
-*   [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
-
-*   [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
-
-*   [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
-
-*   [micjamking/synth-secrets](https://github.com/micjamking/synth-secrets) - Screen-scraped articles on subtractive synthesis (using Node.js)
-
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-
-*   [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
-
-*   [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
-
-*   [javierbyte/control-user-cursor](https://github.com/javierbyte/control-user-cursor) - Small experiment to 'control' the user cursor with JavaScript and CSS.
-
-*   [julkue/mark.js](https://github.com/julkue/mark.js) - JavaScript keyword highlighting. Mark text with options that fit every application. Also available as jQuery plugin.
-
-*   [dropbox/dropbox-sdk-js](https://github.com/dropbox/dropbox-sdk-js) - The Official Dropbox API V2 SDK for Javascript
-
-*   [feross/last-fm](https://github.com/feross/last-fm) - Simple, robust LastFM API client (for public data)
-
-*   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
-
-*   [kingdido999/zooming](https://github.com/kingdido999/zooming) - 🔍 Image zoom that makes sense.
-
-*   [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
-
-*   [javierarce/toolbox](https://github.com/javierarce/toolbox) - A collection of tools, APIs and other resources to use in creative coding web projects.
-
-*   [bigskysoftware/intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
-
-*   [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
-
-*   [jkbrzt/rrule](https://github.com/jkbrzt/rrule) - JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more.
-
-*   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-
-*   [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
-
-*   [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
-
-*   [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
-
-*   [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
-
-*   [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
-
-*   [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
-
-*   [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
-
-*   [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
-
-*   [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
-
-*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-
-*   [archivist/archivist](https://github.com/archivist/archivist) - A full-stack publishing solution involving different technologies to power digital archives
-
-*   [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
-
-*   [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
-
-*   [uBlock-LLC/uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
-
-*   [mimo84/bootstrap-maxlength](https://github.com/mimo84/bootstrap-maxlength) - This plugin integrates by default with Twitter bootstrap using badges to display the maximum lenght of the field where the user is inserting text. Uses the HTML5 attribute "maxlength" to work.
-
-*   [zeroclipboard/zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
-
-*   [timuric/Content-generator-sketch-plugin](https://github.com/timuric/Content-generator-sketch-plugin) - Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc
-
-*   [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
-
-*   [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
-
-*   [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
-
-*   [schteppe/cannon.js](https://github.com/schteppe/cannon.js) - A lightweight 3D physics engine written in JavaScript.
-
-*   [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
-
-*   [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
-
-*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
-
-*   [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
-
-*   [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
-
-*   [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
-
-*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-
-*   [thisandagain/troll](https://github.com/thisandagain/troll) - Language sentiment analysis and neural networks... for trolls.
-
-*   [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
-
-*   [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
-
-*   [darcyclarke/Repo.js](https://github.com/darcyclarke/Repo.js) - :page\_facing\_up: A plugin to embed Github repos on your site
-
-*   [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-
-*   [tmcw/big](https://github.com/tmcw/big) - presentations for busy messy hackers
-
-*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
-
 ## manus
 
 *   [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
@@ -6050,6 +5838,10 @@
 *   [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 
 *   [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+
+## nano
+
+*   [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 
 ## opensource
 
@@ -6073,9 +5865,31 @@
 
 *   [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 
-## web-agent
+## web
 
 *   [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+
+*   [konfig-sdks/openapi-examples](https://github.com/konfig-sdks/openapi-examples) - The highest quality collection of up-to-date OpenAPI specifications for public APIs on the internet. This dataset also includes descriptions, categories, uptime metrics, and media assets for every API.
+
+*   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
+
+*   [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
+
+*   [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+*   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+
+*   [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
+
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+
+*   [zeroclipboard/zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
+
+*   [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
+
+*   [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 
 ## web-automation
 
@@ -7011,30 +6825,6 @@
 
 *   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 
-## web
-
-*   [konfig-sdks/openapi-examples](https://github.com/konfig-sdks/openapi-examples) - The highest quality collection of up-to-date OpenAPI specifications for public APIs on the internet. This dataset also includes descriptions, categories, uptime metrics, and media assets for every API.
-
-*   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
-
-*   [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
-
-*   [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
-
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-
-*   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-
-*   [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
-
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
-
-*   [zeroclipboard/zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
-
-*   [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
-
-*   [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
-
 ## anthropic
 
 *   [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -7062,6 +6852,226 @@
 ## generative-ui
 
 *   [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
+
+## javascript
+
+*   [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
+
+*   [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
+
+*   [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
+
+*   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
+
+*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+
+*   [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
+
+*   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
+
+*   [simplyhexagonal/short-unique-id](https://github.com/simplyhexagonal/short-unique-id) - Short Unique ID (UUID) generation library. Available in NPM.
+
+*   [sqids/sqids-javascript](https://github.com/sqids/sqids-javascript) - Official JavaScript port of Sqids. Generate short unique IDs from numbers.
+
+*   [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - An ultra-simplified explanation of design patterns implemented in javascript
+
+*   [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+
+*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+
+*   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+
+*   [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
+
+*   [textlint/textlint](https://github.com/textlint/textlint) - textlint is the pluggable linter for natural language text.
+
+*   [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
+
+*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+*   [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
+
+*   [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
+
+*   [DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 \[ES6] cheatsheet containing tips, tricks, best practices and code snippets
+
+*   [carbon-design-system/carbon-for-ibm-dotcom](https://github.com/carbon-design-system/carbon-for-ibm-dotcom) - Carbon for IBM.com is based on the Carbon Design System for IBM
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+
+*   [fnando/sparkline](https://github.com/fnando/sparkline) - Generate SVG sparklines with JavaScript without any external dependency.
+
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+
+*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+
+*   [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+
+*   [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+
+*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+
+*   [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
+
+*   [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
+
+*   [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
+
+*   [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+
+*   [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
+
+*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+
+*   [publiclab/plots2](https://github.com/publiclab/plots2) - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! :balloon:
+
+*   [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
+
+*   [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
+
+*   [swup/swup](https://github.com/swup/swup) - Versatile and extensible page transition library for server-rendered websites 🎉
+
+*   [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+
+*   [DanWebb/jdown](https://github.com/DanWebb/jdown) - Transform a directory of markdown files to JSON
+
+*   [josephernest/bigpicture.js](https://github.com/josephernest/bigpicture.js) - bigpicture.js is a Javascript library that allows infinite panning and infinite zooming in HTML pages.
+
+*   [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+
+*   [ssbc/ssb-server](https://github.com/ssbc/ssb-server) - The gossip and replication server for Secure Scuttlebutt - a distributed social network
+
+*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+
+*   [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+
+*   [bradley/Blotter](https://github.com/bradley/Blotter) - A JavaScript API for drawing unconventional text effects on the web.
+
+*   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers (updated for 2025)
+
+*   [sindresorhus/refined-twitter](https://github.com/sindresorhus/refined-twitter) - Browser extension that simplifies the Twitter interface and adds useful features
+
+*   [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
+
+*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+
+*   [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
+
+*   [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
+
+*   [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
+
+*   [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
+
+*   [micjamking/synth-secrets](https://github.com/micjamking/synth-secrets) - Screen-scraped articles on subtractive synthesis (using Node.js)
+
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+
+*   [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
+
+*   [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+
+*   [javierbyte/control-user-cursor](https://github.com/javierbyte/control-user-cursor) - Small experiment to 'control' the user cursor with JavaScript and CSS.
+
+*   [julkue/mark.js](https://github.com/julkue/mark.js) - JavaScript keyword highlighting. Mark text with options that fit every application. Also available as jQuery plugin.
+
+*   [dropbox/dropbox-sdk-js](https://github.com/dropbox/dropbox-sdk-js) - The Official Dropbox API V2 SDK for Javascript
+
+*   [feross/last-fm](https://github.com/feross/last-fm) - Simple, robust LastFM API client (for public data)
+
+*   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
+
+*   [kingdido999/zooming](https://github.com/kingdido999/zooming) - 🔍 Image zoom that makes sense.
+
+*   [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
+
+*   [javierarce/toolbox](https://github.com/javierarce/toolbox) - A collection of tools, APIs and other resources to use in creative coding web projects.
+
+*   [bigskysoftware/intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
+
+*   [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
+
+*   [jkbrzt/rrule](https://github.com/jkbrzt/rrule) - JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more.
+
+*   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+
+*   [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
+
+*   [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
+
+*   [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
+
+*   [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
+
+*   [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
+
+*   [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
+
+*   [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
+
+*   [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
+
+*   [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
+
+*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+
+*   [archivist/archivist](https://github.com/archivist/archivist) - A full-stack publishing solution involving different technologies to power digital archives
+
+*   [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
+
+*   [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+
+*   [uBlock-LLC/uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
+
+*   [mimo84/bootstrap-maxlength](https://github.com/mimo84/bootstrap-maxlength) - This plugin integrates by default with Twitter bootstrap using badges to display the maximum lenght of the field where the user is inserting text. Uses the HTML5 attribute "maxlength" to work.
+
+*   [zeroclipboard/zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
+
+*   [timuric/Content-generator-sketch-plugin](https://github.com/timuric/Content-generator-sketch-plugin) - Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc
+
+*   [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+
+*   [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
+
+*   [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
+
+*   [schteppe/cannon.js](https://github.com/schteppe/cannon.js) - A lightweight 3D physics engine written in JavaScript.
+
+*   [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
+
+*   [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
+
+*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
+
+*   [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
+
+*   [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
+
+*   [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
+
+*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
+*   [thisandagain/troll](https://github.com/thisandagain/troll) - Language sentiment analysis and neural networks... for trolls.
+
+*   [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
+
+*   [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
+
+*   [darcyclarke/Repo.js](https://github.com/darcyclarke/Repo.js) - :page\_facing\_up: A plugin to embed Github repos on your site
+
+*   [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+
+*   [tmcw/big](https://github.com/tmcw/big) - presentations for busy messy hackers
+
+*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
 ## language-model
 
@@ -9598,14 +9608,6 @@
 ## browser-automation
 
 *   [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
-
-## browser
-
-*   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-
-*   [josephernest/bigpicture.js](https://github.com/josephernest/bigpicture.js) - bigpicture.js is a Javascript library that allows infinite panning and infinite zooming in HTML pages.
-
-*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
 ## browser-engine
 
