@@ -194,6 +194,7 @@
 *   [windsurf-ai](#windsurf-ai)
 *   [ai-agent](#ai-agent)
 *   [apple](#apple)
+*   [containerization](#containerization)
 *   [cua](#cua)
 *   [lume](#lume)
 *   [macos](#macos)
@@ -7816,6 +7817,10 @@
 *   [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
 *   [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
+
+## containerization
+
+*   [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 
 ## cua
 
