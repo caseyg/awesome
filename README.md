@@ -70,8 +70,6 @@
 
 *   [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Privacy-first AI Notepad for back-to-back meetings
 
-*   [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
-
 *   [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 
 *   [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -341,8 +339,6 @@
 *   [watson-developer-cloud/discovery-components](https://github.com/watson-developer-cloud/discovery-components) - IBM Watson Discovery components
 
 *   [team-openpm/workgpt](https://github.com/team-openpm/workgpt) - A GPT agent framework for invoking APIs
-
-*   [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful books, wikis, websites and PKMs from markdown.
 
 *   [meteorlxy/keynote-parser](https://github.com/meteorlxy/keynote-parser) - A library for parsing Apple Keynote file.
 
@@ -626,7 +622,7 @@
 
 *   [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 
-*   [i-am-bee/acp](https://github.com/i-am-bee/acp) - Framework-agnostic agent communication. Unified by design.
+*   [i-am-bee/acp](https://github.com/i-am-bee/acp) - Open protocol for communication between AI agents, applications, and humans.
 
 *   [IBM/ibm-watsonx-orchestrate-adk](https://github.com/IBM/ibm-watsonx-orchestrate-adk) - The command line client for watsonx Orchestrate's agent builder experience.
 
@@ -1255,6 +1251,8 @@
 *   [formbricks/design](https://github.com/formbricks/design) - Formbricks Design Team Repository.
 
 *   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
+
+*   [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful books, wikis, websites and PKMs from markdown.
 
 *   [CerebralBlue/Neuralseek\_Watson-Assistant-Extension](https://github.com/CerebralBlue/Neuralseek_Watson-Assistant-Extension) -
 
@@ -2565,6 +2563,8 @@
 *   [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 
 *   [cemerick/jsdifflib](https://github.com/cemerick/jsdifflib) - A javascript library for diffing text and generating corresponding HTML views
+
+*   [josephg/ShareJS](https://github.com/josephg/ShareJS) - Collaborative editing in any app
 
 ## Rust
 
