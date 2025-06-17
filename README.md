@@ -704,8 +704,6 @@
 
 *   [HelloThisIsFlo/Things3-To-OmniFocus](https://github.com/HelloThisIsFlo/Things3-To-OmniFocus) - Migrate from Things3 to OmniFocus (via TaskPaper)
 
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-
 *   [codellm-devkit/python-sdk](https://github.com/codellm-devkit/python-sdk) - The official Python SDK for Codellm-Devkit
 
 *   [Yusuke710/nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI) - The simplest open-source implementation of perplexity.ai
@@ -1605,6 +1603,8 @@
 *   [klimeryk/recalendar.js](https://github.com/klimeryk/recalendar.js) - ReCalendar - create your personalized calendar PDF for ReMarkable tablets
 
 *   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
+
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 
 *   [briankinney/airtable-swagger](https://github.com/briankinney/airtable-swagger) - Build OAS 3.0 API Definitions from Airtable Schema Object
 
