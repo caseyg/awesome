@@ -406,7 +406,7 @@
 
 *   [locokit/locokit](https://github.com/locokit/locokit) - The Low Code Kit repository
 
-*   [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+*   [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 *   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
 
@@ -1542,6 +1542,8 @@
 
 *   [thomasdavis/best-practices](https://github.com/thomasdavis/best-practices) - This is a fork of timoxley - Tidbits of best practices information from around the web
 
+*   [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
+
 *   [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 
 *   [seriesseed/equity](https://github.com/seriesseed/equity) - Series Seed Preferred Stock
@@ -1620,7 +1622,7 @@
 
 *   [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
 
-*   [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+*   [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 
 *   [dennishansen/holograph](https://github.com/dennishansen/holograph) - A new kind of visual programming
 
@@ -3455,8 +3457,6 @@
 *   [dpla-attic/platform](https://github.com/dpla-attic/platform) - The DPLA Platform
 
 *   [nodanaonlyzuul/chorus](https://github.com/nodanaonlyzuul/chorus) -
-
-*   [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 
 *   [techbookclub/library](https://github.com/techbookclub/library) - The new website for techbookclub.
 
