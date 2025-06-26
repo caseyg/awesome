@@ -12,7 +12,7 @@
 *   [Haml](#haml)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
-*   [C#](#c-1)
+*   [PowerShell](#powershell)
 *   [Go](#go)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
@@ -32,7 +32,7 @@
 *   [Zig](#zig)
 *   [R](#r)
 *   [Dart](#dart)
-*   [C](#c-2)
+*   [C](#c-1)
 *   [Java](#java)
 *   [XSLT](#xslt)
 *   [Perl](#perl)
@@ -40,6 +40,7 @@
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
 *   [JSON](#json)
+*   [C#](#c-2)
 *   [Gherkin](#gherkin)
 *   [Racket](#racket)
 *   [Haskell](#haskell)
@@ -422,6 +423,8 @@
 
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 
+*   [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+
 *   [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 
 *   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
@@ -711,6 +714,8 @@
 *   [thephm/email\_md](https://github.com/thephm/email_md) - IMAP email to Markdown
 
 *   [HelloThisIsFlo/Things3-To-OmniFocus](https://github.com/HelloThisIsFlo/Things3-To-OmniFocus) - Migrate from Things3 to OmniFocus (via TaskPaper)
+
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 
 *   [codellm-devkit/python-sdk](https://github.com/codellm-devkit/python-sdk) - The official Python SDK for Codellm-Devkit
 
@@ -1609,8 +1614,6 @@
 *   [klimeryk/recalendar.js](https://github.com/klimeryk/recalendar.js) - ReCalendar - create your personalized calendar PDF for ReMarkable tablets
 
 *   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
-
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 
 *   [briankinney/airtable-swagger](https://github.com/briankinney/airtable-swagger) - Build OAS 3.0 API Definitions from Airtable Schema Object
 
@@ -2606,15 +2609,9 @@
 
 *   [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 
-## C\#
+## PowerShell
 
 *   [microsoft/Agents](https://github.com/microsoft/Agents) - The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.
-
-*   [Nican/Furland](https://github.com/Nican/Furland) - Building a real-time twitter graph of your friends
-
-*   [keijiro/PuppetTest](https://github.com/keijiro/PuppetTest) - An experiment in procedural dance animation
-
-*   [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
 
 ## Go
 
@@ -2687,8 +2684,6 @@
 *   [re3data/using\_the\_re3data\_API](https://github.com/re3data/using_the_re3data_API) -
 
 *   [spackows/MURAL-API-Samples](https://github.com/spackows/MURAL-API-Samples) - Sample code snippets demonstrating using the MURAL API
-
-*   [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 
 *   [collective-action/tech](https://github.com/collective-action/tech) - Documentation of all collective action from tech workers.
 
@@ -3617,6 +3612,14 @@
 ## JSON
 
 *   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+
+## C\#
+
+*   [Nican/Furland](https://github.com/Nican/Furland) - Building a real-time twitter graph of your friends
+
+*   [keijiro/PuppetTest](https://github.com/keijiro/PuppetTest) - An experiment in procedural dance animation
+
+*   [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
 
 ## Gherkin
 
