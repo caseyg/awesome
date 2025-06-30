@@ -4946,7 +4946,7 @@
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is the App Store for LLM tools. Your API ⇒ Paid MCP. Instantly.
 
 *   [IBM/watsonx-developer-hub](https://github.com/IBM/watsonx-developer-hub) - Examples and guides for building Gen AI applications on the watsonx platform.
 
@@ -5186,7 +5186,7 @@
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is the App Store for LLM tools. Your API ⇒ Paid MCP. Instantly.
 
 *   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
@@ -6514,7 +6514,7 @@
 
 *   [ahmad2b/canvas-callback](https://github.com/ahmad2b/canvas-callback) - This open-source project & guide shows you exactly how to implement Canvas UX pattern + LangGraph human-in-the-loop workflows in your AI apps.
 
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is the App Store for LLM tools. Your API ⇒ Paid MCP. Instantly.
 
 *   [IBM/watsonx-developer-hub](https://github.com/IBM/watsonx-developer-hub) - Examples and guides for building Gen AI applications on the watsonx platform.
 
@@ -8812,7 +8812,7 @@
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is the App Store for LLM tools. Your API ⇒ Paid MCP. Instantly.
 
 *   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
 

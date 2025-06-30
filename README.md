@@ -131,7 +131,7 @@
 
 *   [NicolasMontone/ai-sdk-agents](https://github.com/NicolasMontone/ai-sdk-agents) - Tools for Vercel AI SDK
 
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is the App Store for LLM tools. Your API ⇒ Paid MCP. Instantly.
 
 *   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript.
 
