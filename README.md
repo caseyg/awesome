@@ -165,6 +165,8 @@
 
 *   [different-ai/note-companion](https://github.com/different-ai/note-companion) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
 
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+
 *   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 
 *   [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
@@ -716,8 +718,6 @@
 *   [thephm/email\_md](https://github.com/thephm/email_md) - IMAP email to Markdown
 
 *   [HelloThisIsFlo/Things3-To-OmniFocus](https://github.com/HelloThisIsFlo/Things3-To-OmniFocus) - Migrate from Things3 to OmniFocus (via TaskPaper)
-
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 
 *   [codellm-devkit/python-sdk](https://github.com/codellm-devkit/python-sdk) - The official Python SDK for Codellm-Devkit
 
@@ -2951,7 +2951,7 @@
 
 ## MDX
 
-*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
+*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 
 *   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 
