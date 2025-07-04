@@ -34,12 +34,12 @@
 *   [raycast](#raycast)
 *   [spotlight](#spotlight)
 *   [tabs-management](#tabs-management)
-*   [electron](#electron)
 *   [gpt](#gpt)
 *   [llama2](#llama2)
 *   [llamacpp](#llamacpp)
 *   [localai](#localai)
 *   [self-hosted](#self-hosted)
+*   [tauri](#tauri)
 *   [ai](#ai)
 *   [anthropic](#anthropic)
 *   [artifacts](#artifacts)
@@ -122,7 +122,6 @@
 *   [wiki](#wiki)
 *   [notetaking](#notetaking)
 *   [rust](#rust)
-*   [tauri](#tauri)
 *   [agents](#agents)
 *   [protocol](#protocol)
 *   [aceternity-ui](#aceternity-ui)
@@ -763,6 +762,7 @@
 *   [elixir](#elixir)
 *   [replication](#replication)
 *   [e2e-testing](#e2e-testing)
+*   [electron](#electron)
 *   [end-to-end-testing](#end-to-end-testing)
 *   [test](#test)
 *   [test-automation](#test-automation)
@@ -5489,26 +5489,6 @@
 
 *   [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 
-## electron
-
-*   [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-
-*   [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
-
-*   [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
-
-*   [hypermodules/hyperamp](https://github.com/hypermodules/hyperamp) - 🎛 Humble music player
-
-*   [dawnlabs/alchemy](https://github.com/dawnlabs/alchemy) - :crystal\_ball: File conversion, all from the menu bar
-
-*   [thmsbfft/oryoki](https://github.com/thmsbfft/oryoki) - Ōryōki \[応量器] is an experimental web browser with a thin interface.
-
-*   [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
-
-*   [muan/mojibar](https://github.com/muan/mojibar) - :tangerine: Emoji searcher but as a menubar app.
-
 ## gpt
 
 *   [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
@@ -5587,6 +5567,14 @@
 
 *   [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
 
+## tauri
+
+*   [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+
+*   [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Privacy-first AI Notepad for back-to-back meetings
+
+*   [braden-w/whispering](https://github.com/braden-w/whispering) -
+
 ## ai
 
 *   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
@@ -5619,7 +5607,7 @@
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is the App Store for LLM tools. Your API ⇒ Paid MCP. Instantly.
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is RapidAPI for LLM Tools. Your API ⇒ Paid MCP. Instantly.
 
 *   [IBM/watsonx-developer-hub](https://github.com/IBM/watsonx-developer-hub) - Examples and guides for building Gen AI applications on the watsonx platform.
 
@@ -5859,7 +5847,7 @@
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is the App Store for LLM tools. Your API ⇒ Paid MCP. Instantly.
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is RapidAPI for LLM Tools. Your API ⇒ Paid MCP. Instantly.
 
 *   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
@@ -6923,12 +6911,6 @@
 
 *   [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 
-## tauri
-
-*   [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Privacy-first AI Notepad for back-to-back meetings
-
-*   [braden-w/whispering](https://github.com/braden-w/whispering) -
-
 ## agents
 
 *   [i-am-bee/acp](https://github.com/i-am-bee/acp) - Open protocol for communication between AI agents, applications, and humans.
@@ -6941,7 +6923,7 @@
 
 *   [ahmad2b/canvas-callback](https://github.com/ahmad2b/canvas-callback) - This open-source project & guide shows you exactly how to implement Canvas UX pattern + LangGraph human-in-the-loop workflows in your AI apps.
 
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is the App Store for LLM tools. Your API ⇒ Paid MCP. Instantly.
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is RapidAPI for LLM Tools. Your API ⇒ Paid MCP. Instantly.
 
 *   [IBM/watsonx-developer-hub](https://github.com/IBM/watsonx-developer-hub) - Examples and guides for building Gen AI applications on the watsonx platform.
 
@@ -9089,7 +9071,7 @@
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is the App Store for LLM tools. Your API ⇒ Paid MCP. Instantly.
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is RapidAPI for LLM Tools. Your API ⇒ Paid MCP. Instantly.
 
 *   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
 
@@ -12010,6 +11992,24 @@
 ## e2e-testing
 
 *   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+## electron
+
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+*   [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
+
+*   [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
+
+*   [hypermodules/hyperamp](https://github.com/hypermodules/hyperamp) - 🎛 Humble music player
+
+*   [dawnlabs/alchemy](https://github.com/dawnlabs/alchemy) - :crystal\_ball: File conversion, all from the menu bar
+
+*   [thmsbfft/oryoki](https://github.com/thmsbfft/oryoki) - Ōryōki \[応量器] is an experimental web browser with a thin interface.
+
+*   [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
+
+*   [muan/mojibar](https://github.com/muan/mojibar) - :tangerine: Emoji searcher but as a menubar app.
 
 ## end-to-end-testing
 

@@ -139,7 +139,7 @@
 
 *   [NicolasMontone/ai-sdk-agents](https://github.com/NicolasMontone/ai-sdk-agents) - Tools for Vercel AI SDK
 
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is the App Store for LLM tools. Your API ⇒ Paid MCP. Instantly.
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is RapidAPI for LLM Tools. Your API ⇒ Paid MCP. Instantly.
 
 *   [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) -
 
@@ -2073,8 +2073,6 @@
 
 *   [mbailey/openai-proxy](https://github.com/mbailey/openai-proxy) - Route select OpenAI API endpoints to local services (e.g. Whisper, Ollama, Kororo).
 
-*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
 *   [i-am-bee/bee-stack](https://github.com/i-am-bee/bee-stack) - Run the entire bee application stack using docker-compose
 
 *   [cloudsftp/reSnap](https://github.com/cloudsftp/reSnap) - Take screnshots of your reMarkable tablet over SSH
@@ -2616,6 +2614,8 @@
 ## PowerShell
 
 *   [microsoft/Agents](https://github.com/microsoft/Agents) - The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.
+
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 ## Go
 
