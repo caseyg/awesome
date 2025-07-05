@@ -5573,7 +5573,7 @@
 
 *   [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Privacy-first AI Notepad for back-to-back meetings
 
-*   [braden-w/whispering](https://github.com/braden-w/whispering) -
+*   [braden-w/whispering](https://github.com/braden-w/whispering) - Press shortcut → speak → get text. Free and open source ❤️
 
 ## ai
 
@@ -7393,7 +7393,7 @@
 
 *   [ryanatkn/earbetter](https://github.com/ryanatkn/earbetter) - ear trainer and tools for playing and programming music and audio 🎶🦜
 
-*   [braden-w/whispering](https://github.com/braden-w/whispering) -
+*   [braden-w/whispering](https://github.com/braden-w/whispering) - Press shortcut → speak → get text. Free and open source ❤️
 
 *   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
 
@@ -10167,7 +10167,7 @@
 
 *   [ryanatkn/earbetter](https://github.com/ryanatkn/earbetter) - ear trainer and tools for playing and programming music and audio 🎶🦜
 
-*   [braden-w/whispering](https://github.com/braden-w/whispering) -
+*   [braden-w/whispering](https://github.com/braden-w/whispering) - Press shortcut → speak → get text. Free and open source ❤️
 
 *   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
 
@@ -11355,7 +11355,7 @@
 
 ## tailwindcss
 
-*   [braden-w/whispering](https://github.com/braden-w/whispering) -
+*   [braden-w/whispering](https://github.com/braden-w/whispering) - Press shortcut → speak → get text. Free and open source ❤️
 
 *   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
 
