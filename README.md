@@ -2091,7 +2091,7 @@
 
 *   [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 
-*   [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+*   [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 
 *   [jjjake/internetarchive](https://github.com/jjjake/internetarchive) - A Python and Command-Line Interface to Archive.org
 
