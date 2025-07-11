@@ -3228,7 +3228,7 @@
 
 *   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 
-*   [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Gatsby and Airtable.
+*   [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Astro and Airtable.
 
 *   [samirillion/air\_gantt](https://github.com/samirillion/air_gantt) - Airtable data to force-directed graph
 

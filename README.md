@@ -2965,7 +2965,7 @@
 
 *   [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!
 
-*   [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Gatsby and Airtable.
+*   [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Astro and Airtable.
 
 *   [museapphq/infinitecanvas.tools](https://github.com/museapphq/infinitecanvas.tools) - Website describing the infinite canvas category of app
 
