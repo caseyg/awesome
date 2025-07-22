@@ -1409,7 +1409,7 @@
 
 *   [tomeshnet/p2p-internet-workshop](https://github.com/tomeshnet/p2p-internet-workshop) - Building the Peer-to-Peer Internet workshop series
 
-*   [terra0project/source](https://github.com/terra0project/source) - A collection of experimental smart contracts for environmental management
+*   [terra0project/environmental-contracts](https://github.com/terra0project/environmental-contracts) - A collection of experimental smart contracts for environmental management
 
 *   [ssbc/ssb-server](https://github.com/ssbc/ssb-server) - The gossip and replication server for Secure Scuttlebutt - a distributed social network
 

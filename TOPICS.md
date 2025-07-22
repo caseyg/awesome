@@ -3489,7 +3489,7 @@
 
 *   [sinabahram/sharab](https://github.com/sinabahram/sharab) - A NodeJS webapp with a RESTful API to manage a wine collection
 
-*   [terra0project/source](https://github.com/terra0project/source) - A collection of experimental smart contracts for environmental management
+*   [terra0project/environmental-contracts](https://github.com/terra0project/environmental-contracts) - A collection of experimental smart contracts for environmental management
 
 *   [alvesjtiago/clip2p](https://github.com/alvesjtiago/clip2p) - Decentralized file sharing right from the menu bar (based on the Dat Protocol).
 
