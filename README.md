@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
@@ -15,7 +16,6 @@
 *   [Haml](#haml)
 *   [Rust](#rust)
 *   [PowerShell](#powershell)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [MDX](#mdx)
 *   [Astro](#astro)
@@ -58,6 +58,48 @@
 *   [HaXe](#haxe)
 *   [Vim script](#vim-script)
 *   [Objective-C++](#objective-c-1)
+
+## Jupyter Notebook
+
+*   [NirDiamant/RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+
+*   [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
+
+*   [IBM/watsonx-ai-platform-demos](https://github.com/IBM/watsonx-ai-platform-demos) - AI Agents, LLM Fine-tuning, Developer Productivity, Governance, IBM watsonx
+
+*   [ibm-granite-community/granite-snack-cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook) - Granite Snack Cookbook -- easily consumable recipes (python notebooks) that showcase the capabilities of the Granite models
+
+*   [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services
+
+*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+
+*   [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
+
+*   [VaibhaveS/MeetingOWL](https://github.com/VaibhaveS/MeetingOWL) - MeetingOWL is a ML based system which can generate smart reports for online meetings based on the audio file.
+
+*   [graphlit/graphlit-samples](https://github.com/graphlit/graphlit-samples) - Sample applications built on the Graphlit Platform
+
+*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
+
+*   [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+
+*   [re3data/using\_the\_re3data\_API](https://github.com/re3data/using_the_re3data_API) -
+
+*   [spackows/MURAL-API-Samples](https://github.com/spackows/MURAL-API-Samples) - Sample code snippets demonstrating using the MURAL API
+
+*   [collective-action/tech](https://github.com/collective-action/tech) - Documentation of all collective action from tech workers.
+
+*   [ChubaOraka/Crime-and-School](https://github.com/ChubaOraka/Crime-and-School) - This is a data science team project that aims to investigate whether public education affects crime levels.
+
+*   [saurabhmathur96/clickbait-detector](https://github.com/saurabhmathur96/clickbait-detector) - Detects clickbait headlines using deep learning.
+
+*   [frnsys/ml101](https://github.com/frnsys/ml101) - intro to machine learning - reverse engineering phenomena
+
+*   [mitmedialab/CLIFF-up](https://github.com/mitmedialab/CLIFF-up) - Set up MIT's CLIFF geolocation service with Vagrant
+
+*   [lifewinning/situated.systems](https://github.com/lifewinning/situated.systems) -
+
+*   [sunlightlabs/fcc-net-neutrality-comments](https://github.com/sunlightlabs/fcc-net-neutrality-comments) - scraping, parsing and making sense of the flood of comments submitted to the FCC on net neutrality
 
 ## Python
 
@@ -163,7 +205,7 @@
 
 *   [Yusuke710/nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI) - The simplest open-source implementation of perplexity.ai
 
-*   [QwenLM/Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.
+*   [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
 
 *   [DS4SD/deepsearch-examples](https://github.com/DS4SD/deepsearch-examples) - Examples using the Deep Search functionalities
 
@@ -2079,8 +2121,6 @@
 
 *   [gattis/milkshake](https://github.com/gattis/milkshake) - WebGL Milkdrop Preset Renderer
 
-*   [okfocus/okhover](https://github.com/okfocus/okhover) - Other hover effects are boring.
-
 ## CSS
 
 *   [maxmandia/autocomplete](https://github.com/maxmandia/autocomplete) - AI autocomplete that works on every \<textarea /> element.
@@ -2796,46 +2836,6 @@
 *   [microsoft/Agents](https://github.com/microsoft/Agents) - The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.
 
 *   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
-## Jupyter Notebook
-
-*   [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
-
-*   [IBM/watsonx-ai-platform-demos](https://github.com/IBM/watsonx-ai-platform-demos) - AI Agents, LLM Fine-tuning, Developer Productivity, Governance, IBM watsonx
-
-*   [ibm-granite-community/granite-snack-cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook) - Granite Snack Cookbook -- easily consumable recipes (python notebooks) that showcase the capabilities of the Granite models
-
-*   [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services
-
-*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
-
-*   [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
-
-*   [VaibhaveS/MeetingOWL](https://github.com/VaibhaveS/MeetingOWL) - MeetingOWL is a ML based system which can generate smart reports for online meetings based on the audio file.
-
-*   [graphlit/graphlit-samples](https://github.com/graphlit/graphlit-samples) - Sample applications built on the Graphlit Platform
-
-*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
-
-*   [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-
-*   [re3data/using\_the\_re3data\_API](https://github.com/re3data/using_the_re3data_API) -
-
-*   [spackows/MURAL-API-Samples](https://github.com/spackows/MURAL-API-Samples) - Sample code snippets demonstrating using the MURAL API
-
-*   [collective-action/tech](https://github.com/collective-action/tech) - Documentation of all collective action from tech workers.
-
-*   [ChubaOraka/Crime-and-School](https://github.com/ChubaOraka/Crime-and-School) - This is a data science team project that aims to investigate whether public education affects crime levels.
-
-*   [saurabhmathur96/clickbait-detector](https://github.com/saurabhmathur96/clickbait-detector) - Detects clickbait headlines using deep learning.
-
-*   [frnsys/ml101](https://github.com/frnsys/ml101) - intro to machine learning - reverse engineering phenomena
-
-*   [mitmedialab/CLIFF-up](https://github.com/mitmedialab/CLIFF-up) - Set up MIT's CLIFF geolocation service with Vagrant
-
-*   [lifewinning/situated.systems](https://github.com/lifewinning/situated.systems) -
-
-*   [sunlightlabs/fcc-net-neutrality-comments](https://github.com/sunlightlabs/fcc-net-neutrality-comments) - scraping, parsing and making sense of the flood of comments submitted to the FCC on net neutrality
 
 ## HTML
 
