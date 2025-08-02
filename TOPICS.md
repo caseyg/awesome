@@ -238,6 +238,8 @@
 *   [agent-computer-interface](#agent-computer-interface)
 *   [computer-automation](#computer-automation)
 *   [computer-use](#computer-use)
+*   [computer-use-agent](#computer-use-agent)
+*   [cua](#cua)
 *   [grounding](#grounding)
 *   [gui-agents](#gui-agents)
 *   [in-context-reinforcement-learning](#in-context-reinforcement-learning)
@@ -274,7 +276,6 @@
 *   [ai-agent](#ai-agent)
 *   [apple](#apple)
 *   [containerization](#containerization)
-*   [cua](#cua)
 *   [lume](#lume)
 *   [macos](#macos)
 *   [swift](#swift)
@@ -2786,6 +2787,10 @@
 *   [http2](#http2)
 *   [spdy](#spdy)
 *   [speed](#speed)
+*   [crm-platform](#crm-platform)
+*   [dcode-2025](#dcode-2025)
+*   [fundraising](#fundraising)
+*   [nonprofit](#nonprofit)
 *   [twitter-api](#twitter-api)
 *   [introjs](#introjs)
 *   [minify](#minify)
@@ -3550,7 +3555,7 @@
 
 *   [langchain-ai/open\_deep\_research](https://github.com/langchain-ai/open_deep_research) -
 
-*   [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+*   [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 
 *   [holmari/repostats](https://github.com/holmari/repostats) - Review stats for GitHub
 
@@ -5199,8 +5204,6 @@
 *   [ivansafrin/Polycode](https://github.com/ivansafrin/Polycode) - Polycode is a cross-platform framework for creative code.
 
 *   [deanhunt/pantheon](https://github.com/deanhunt/pantheon) - Pantheon is a Chrome extension built during Art Hack Day :: God Mode
-
-*   [civicrm/civicrm-core](https://github.com/civicrm/civicrm-core) - CiviCRM (Core Application and Framework)
 
 *   [aparrish/everywordbot](https://github.com/aparrish/everywordbot) - a simple script for creating @everyword-like twitter services
 
@@ -7730,6 +7733,8 @@
 
 *   [tosdr/tosdr.org](https://github.com/tosdr/tosdr.org) - ARCHIVED Source code for tosdr.org
 
+*   [civicrm/civicrm-core](https://github.com/civicrm/civicrm-core) - CiviCRM (Core Application and Framework)
+
 *   [cooperhewitt/collection](https://github.com/cooperhewitt/collection) - Collection Data for Cooper Hewitt, Smithsonian Design Museum
 
 ## openrouter
@@ -8442,6 +8447,16 @@
 
 *   [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 
+## computer-use-agent
+
+*   [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
+
+## cua
+
+*   [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
+
+*   [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
+
 ## grounding
 
 *   [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
@@ -8801,10 +8816,6 @@
 *   [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 
 ## containerization
-
-*   [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
-
-## cua
 
 *   [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 
@@ -22473,6 +22484,22 @@
 ## speed
 
 *   [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
+
+## crm-platform
+
+*   [civicrm/civicrm-core](https://github.com/civicrm/civicrm-core) - CiviCRM (Core Application and Framework)
+
+## dcode-2025
+
+*   [civicrm/civicrm-core](https://github.com/civicrm/civicrm-core) - CiviCRM (Core Application and Framework)
+
+## fundraising
+
+*   [civicrm/civicrm-core](https://github.com/civicrm/civicrm-core) - CiviCRM (Core Application and Framework)
+
+## nonprofit
+
+*   [civicrm/civicrm-core](https://github.com/civicrm/civicrm-core) - CiviCRM (Core Application and Framework)
 
 ## twitter-api
 
