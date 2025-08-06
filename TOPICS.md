@@ -14484,7 +14484,7 @@
 
 *   [olach/kirby-relationship](https://github.com/olach/kirby-relationship) - Sortable multiselect field for Kirby 2 CMS
 
-*   [sylvainjule/kirby-imageboxes](https://github.com/sylvainjule/kirby-imageboxes) - Add illustrations to Kirby's checkboxes. Kirby 3 and 4.
+*   [sylvainjule/kirby-imageboxes](https://github.com/sylvainjule/kirby-imageboxes) - Add illustrations to Kirby's checkboxes. Compatible with Kirby 3, 4, 5.
 
 *   [sylvainjule/kirby-imageradio](https://github.com/sylvainjule/kirby-imageradio) - Add illustrations to Kirby's radio buttons. Compatible with Kirby 3, 4, 5.
 
@@ -20386,23 +20386,23 @@
 
 ## checkboxes
 
-*   [sylvainjule/kirby-imageboxes](https://github.com/sylvainjule/kirby-imageboxes) - Add illustrations to Kirby's checkboxes. Kirby 3 and 4.
+*   [sylvainjule/kirby-imageboxes](https://github.com/sylvainjule/kirby-imageboxes) - Add illustrations to Kirby's checkboxes. Compatible with Kirby 3, 4, 5.
 
 ## illustrated
 
-*   [sylvainjule/kirby-imageboxes](https://github.com/sylvainjule/kirby-imageboxes) - Add illustrations to Kirby's checkboxes. Kirby 3 and 4.
+*   [sylvainjule/kirby-imageboxes](https://github.com/sylvainjule/kirby-imageboxes) - Add illustrations to Kirby's checkboxes. Compatible with Kirby 3, 4, 5.
 
 *   [sylvainjule/kirby-imageradio](https://github.com/sylvainjule/kirby-imageradio) - Add illustrations to Kirby's radio buttons. Compatible with Kirby 3, 4, 5.
 
 ## illustration
 
-*   [sylvainjule/kirby-imageboxes](https://github.com/sylvainjule/kirby-imageboxes) - Add illustrations to Kirby's checkboxes. Kirby 3 and 4.
+*   [sylvainjule/kirby-imageboxes](https://github.com/sylvainjule/kirby-imageboxes) - Add illustrations to Kirby's checkboxes. Compatible with Kirby 3, 4, 5.
 
 *   [sylvainjule/kirby-imageradio](https://github.com/sylvainjule/kirby-imageradio) - Add illustrations to Kirby's radio buttons. Compatible with Kirby 3, 4, 5.
 
 ## image
 
-*   [sylvainjule/kirby-imageboxes](https://github.com/sylvainjule/kirby-imageboxes) - Add illustrations to Kirby's checkboxes. Kirby 3 and 4.
+*   [sylvainjule/kirby-imageboxes](https://github.com/sylvainjule/kirby-imageboxes) - Add illustrations to Kirby's checkboxes. Compatible with Kirby 3, 4, 5.
 
 *   [sylvainjule/kirby-imageradio](https://github.com/sylvainjule/kirby-imageradio) - Add illustrations to Kirby's radio buttons. Compatible with Kirby 3, 4, 5.
 
