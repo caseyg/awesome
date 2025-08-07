@@ -63,6 +63,8 @@
 
 ## TypeScript
 
+*   [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+
 *   [danielroe/goff](https://github.com/danielroe/goff) - Sync GitHub issues offline into a local folder
 
 *   [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
@@ -3524,8 +3526,6 @@
 *   [kolber/stacey](https://github.com/kolber/stacey) - Cheap & easy content management
 
 *   [ThinkUpLLC/ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) - ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.
-
-*   [abraham/twitteroauth](https://github.com/abraham/twitteroauth) - The most popular PHP library for use with the Twitter OAuth REST API.
 
 ## Elixir
 
