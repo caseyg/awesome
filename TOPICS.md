@@ -3863,7 +3863,7 @@
 
 *   [holmari/repostats](https://github.com/holmari/repostats) - Review stats for GitHub
 
-*   [MadLlama25/fastmail-mcp](https://github.com/MadLlama25/fastmail-mcp) - A Model Context Protocol (MCP) server that provides access to the Fastmail API, enabling AI assistants to interact with email, contacts, and calendar data.
+*   [MadLlama25/fastmail-mcp](https://github.com/MadLlama25/fastmail-mcp) - A Model Context Protocol (MCP) server that provides access to the Fastmail API, enabling AI assistants to interact with email, contacts, and calendar data. Includes a DXT (desktop extension) for Claude Desktop.
 
 *   [coderpr0grammer/autocomplete-ai](https://github.com/coderpr0grammer/autocomplete-ai) -
 
