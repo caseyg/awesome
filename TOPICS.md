@@ -4,6 +4,11 @@
 
 ## Table of Contents
 
+*   [evaluation-framework](#evaluation-framework)
+*   [evaluation-metrics](#evaluation-metrics)
+*   [llm-evaluation](#llm-evaluation)
+*   [llm-evaluation-framework](#llm-evaluation-framework)
+*   [llm-evaluation-metrics](#llm-evaluation-metrics)
 *   [ai](#ai)
 *   [ai-best-practices](#ai-best-practices)
 *   [ai-guides](#ai-guides)
@@ -340,7 +345,6 @@
 *   [autogen](#autogen)
 *   [evaluation](#evaluation)
 *   [large-language-models](#large-language-models)
-*   [llm-evaluation](#llm-evaluation)
 *   [llm-observability](#llm-observability)
 *   [llmops](#llmops)
 *   [monitoring](#monitoring)
@@ -2912,6 +2916,28 @@
 *   [interactive-fiction](#interactive-fiction)
 *   [devise](#devise)
 *   [zip](#zip)
+
+## evaluation-framework
+
+*   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
+
+## evaluation-metrics
+
+*   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
+
+## llm-evaluation
+
+*   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
+
+*   [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+
+## llm-evaluation-framework
+
+*   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
+
+## llm-evaluation-metrics
+
+*   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 
 ## ai
 
@@ -5938,8 +5964,6 @@
 *   [kolber/stacey](https://github.com/kolber/stacey) - Cheap & easy content management
 
 *   [aanand/deadweight](https://github.com/aanand/deadweight) - NOT MAINTAINED
-
-*   [ThinkUpLLC/ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) - ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.
 
 ## git
 
@@ -9486,10 +9510,6 @@
 *   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 
 *   [Yusuke710/nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI) - The simplest open-source implementation of perplexity.ai
-
-## llm-evaluation
-
-*   [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 
 ## llm-observability
 
