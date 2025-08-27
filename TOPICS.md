@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [aha](#aha)
+*   [aha-ideas](#aha-ideas)
 *   [agentic-ai](#agentic-ai)
 *   [ai-agents](#ai-agents)
 *   [microsoft-graph-api](#microsoft-graph-api)
@@ -2919,6 +2921,14 @@
 *   [interactive-fiction](#interactive-fiction)
 *   [devise](#devise)
 
+## aha
+
+*   [cedricziel/aha-mcp](https://github.com/cedricziel/aha-mcp) - A Model Context Protocol (MCP) server that provides seamless integration with Aha.io's product management platform.
+
+## aha-ideas
+
+*   [cedricziel/aha-mcp](https://github.com/cedricziel/aha-mcp) - A Model Context Protocol (MCP) server that provides seamless integration with Aha.io's product management platform.
+
 ## agentic-ai
 
 *   [NoeSamaille/wxo-oauth-authz-code](https://github.com/NoeSamaille/wxo-oauth-authz-code) - Working example of a custom Python tool for IBM watsonx Orchestrate that allows to query Calendar Events from Microsoft 365 using a member connection implementing an OAuth Authorization Code flow.
@@ -5072,8 +5082,6 @@
 *   [asual/jquery-address](https://github.com/asual/jquery-address) - jQuery Address - Deep linking for the masses
 
 *   [potionfactory/LetsMove](https://github.com/potionfactory/LetsMove) - A sample that shows how to move a running Mac application to the /Applications directory
-
-*   [kastner/highlite](https://github.com/kastner/highlite) - Hide an image using CSS3
 
 ## evaluation-framework
 
