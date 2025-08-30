@@ -398,8 +398,6 @@
 
 *   [r2d4/llm.ts](https://github.com/r2d4/llm.ts) - Call any LLM with a single API. Zero dependencies.
 
-*   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
-
 *   [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 
 *   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
@@ -2793,6 +2791,8 @@
 *   [timpaul/form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - A prototype of a tool that generates web forms from document forms
 
 *   [Prototypr/gftw-project](https://github.com/Prototypr/gftw-project) -
+
+*   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 
 *   [stevengill/pancake-studio](https://github.com/stevengill/pancake-studio) - A server that receives json payloads, flattens the keys and sends this new payload to passed in url
 
