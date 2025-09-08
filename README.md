@@ -5,6 +5,7 @@
 ## Table of Contents
 
 *   [JavaScript](#javascript)
+*   [CSS](#css)
 *   [Ruby](#ruby)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
@@ -14,7 +15,6 @@
 *   [Nunjucks](#nunjucks)
 *   [PHP](#php)
 *   [miscellaneous](#miscellaneous)
-*   [CSS](#css)
 *   [Shell](#shell)
 *   [QML](#qml)
 *   [PLpgSQL](#plpgsql)
@@ -63,6 +63,10 @@
 *   [Scala](#scala)
 
 ## JavaScript
+
+*   [paulrobertlloyd/classnames](https://github.com/paulrobertlloyd/classnames) - A source of inspiration for naming things.
+
+*   [benjifs/micropub](https://github.com/benjifs/micropub) - Serverless Micropub and media endpoints to publish to static site
 
 *   [dannymcc/Granola-to-Obsidian](https://github.com/dannymcc/Granola-to-Obsidian) - An Obsidian plugin to automatically sync notes from Granola AI
 
@@ -1088,7 +1092,135 @@
 
 *   [kylefox/jquery-modal](https://github.com/kylefox/jquery-modal) - The simplest possible modal for jQuery
 
-*   [antimatter15/jsgif](https://github.com/antimatter15/jsgif) - Save a HTML5 Canvas to GIF and Animations. A port of as3gif GIFPlayer to JS
+## CSS
+
+*   [grantcodes/postrchildbot](https://github.com/grantcodes/postrchildbot) - A chatbot for posting to micropub enabled websites
+
+*   [MaybeThisIsRu/smix-eleventy-starter](https://github.com/MaybeThisIsRu/smix-eleventy-starter) - A standards-respecting starter kit for Eleventy. Go Indie.
+
+*   [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
+
+*   [maxmandia/autocomplete](https://github.com/maxmandia/autocomplete) - AI autocomplete that works on every \<textarea /> element.
+
+*   [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino) - A native look and feel Obsidian theme designed for a clean, focused, and mobile-friendly writing experience.
+
+*   [timpaul/form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - A prototype of a tool that generates web forms from document forms
+
+*   [Prototypr/gftw-project](https://github.com/Prototypr/gftw-project) -
+
+*   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
+
+*   [stevengill/pancake-studio](https://github.com/stevengill/pancake-studio) - A server that receives json payloads, flattens the keys and sends this new payload to passed in url
+
+*   [mdlincoln/jekyll-slack](https://github.com/mdlincoln/jekyll-slack) - Generate a static archive from a Slack data export
+
+*   [vsoch/docsy-jekyll](https://github.com/vsoch/docsy-jekyll) - A Jekyll version of the beautiful Docsy!
+
+*   [classicrob/quartz](https://github.com/classicrob/quartz) - 🌱 host your own second brain and digital garden for free
+
+*   [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
+
+*   [corinnekaryiu/obsidian-habit-mood-tracker](https://github.com/corinnekaryiu/obsidian-habit-mood-tracker) - Obsidian Habit & Mood Tracker
+
+*   [obsidianmd/obsidian-help](https://github.com/obsidianmd/obsidian-help) - Help documentation for Obsidian.
+
+*   [geoffreysflaminglasersword/Coalescer](https://github.com/geoffreysflaminglasersword/Coalescer) - An Obsidian plugin for coalescing graph nodes (titles, tags, etc.)
+
+*   [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
+
+*   [Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection) - A collection of snippet to customize obsidian
+
+*   [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
+
+*   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
+
+*   [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
+
+*   [paulbricman/dual-obsidian-client](https://github.com/paulbricman/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
+
+*   [cyanharlow/purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
+
+*   [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
+
+*   [WorldAfterCapital/WorldAfterCapital](https://github.com/WorldAfterCapital/WorldAfterCapital) - Technological progress has shifted scarcity for humanity.
+
+*   [poole/poole](https://github.com/poole/poole) - The Jekyll Butler. A no frills responsive Jekyll blog theme.
+
+*   [jthingelstad/foreground](https://github.com/jthingelstad/foreground) - A MediaWiki skin that focuses on putting your content in the foreground.
+
+*   [nicoleslaw/strategicwriting](https://github.com/nicoleslaw/strategicwriting) - Writing for designers — course materials for SVA IXD thesis prep
+
+*   [tachyons-css/tachyons-verbose](https://github.com/tachyons-css/tachyons-verbose) - Functional CSS for humans. Verbose edition.
+
+*   [egoist/hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
+
+*   [stanographer/aloft](https://github.com/stanographer/aloft) - Real time transcription delivery engine (Overhaul)
+
+*   [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
+
+*   [frend/frend.co](https://github.com/frend/frend.co) - Frend — A collection of accessible, modern front-end components.
+
+*   [james2doyle/google-form-styling](https://github.com/james2doyle/google-form-styling) - A stylesheet to be used if you want to create your own theme for a google form
+
+*   [at-import/jacket](https://github.com/at-import/jacket) - Conditional Styles with Sass. Dress you CSS appropriately.
+
+*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+
+*   [sawyerh/cssmixins](https://github.com/sawyerh/cssmixins) - CSS3 mixins for STYL, SCSS, SASS & LESS.
+
+*   [opattison/Pattern-Primer-Jekyll](https://github.com/opattison/Pattern-Primer-Jekyll) - Jekyll project for generating styled patterns from a folder of markup snippets. A fork of Pattern-Primer by adactio.
+
+*   [robinrendle/atomic-framework](https://github.com/robinrendle/atomic-framework) - Organising Sass modules into quarks, atoms and molecules
+
+*   [Squarespace/base-template](https://github.com/Squarespace/base-template) - A Squarespace starter template with minimal markup and styles.
+
+*   [mrcoles/markdown-css](https://github.com/mrcoles/markdown-css) - CSS for making regular HTML look like plain-text markdown.
+
+*   [voxmedia/verge-50](https://github.com/voxmedia/verge-50) - An example of a Middleman-powered editorial app built by the Vox Media Product Team and published by The Verge.
+
+*   [codrops/PageTransitions](https://github.com/codrops/PageTransitions) - A showcase collection of various page transition effects using CSS animations.
+
+*   [bdkauff/MetRandomImage](https://github.com/bdkauff/MetRandomImage) -
+
+*   [north/north](https://github.com/north/north) - Design and development standards to align and guide your project.
+
+*   [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
+
+*   [tylerpaige/green-camp](https://github.com/tylerpaige/green-camp) - A multi-directional slideshow
+
+*   [tylerpaige/power-ppt](https://github.com/tylerpaige/power-ppt) - Experimental multi-directional "Powerpoint" format
+
+*   [himedlooff/project-timeline](https://github.com/himedlooff/project-timeline) - An HTML template for project timelines
+
+*   [lemonmade/bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
+
+*   [rmaake1/httpstatuses](https://github.com/rmaake1/httpstatuses) - A directory of HTTP Status Codes and code references
+
+*   [ofZach/sfpc\_site](https://github.com/ofZach/sfpc_site) - sfpc work
+
+*   [justdeleteme/justdelete.me](https://github.com/justdeleteme/justdelete.me) - A directory of direct links to delete your account from web services.
+
+*   [drublic/Sass-Mixins](https://github.com/drublic/Sass-Mixins) - Sass mixins for general use
+
+*   [mezzoblue/csszengarden.com](https://github.com/mezzoblue/csszengarden.com) - The source of csszengarden.com
+
+*   [deanhunt/pantheon](https://github.com/deanhunt/pantheon) - Pantheon is a Chrome extension built during Art Hack Day :: God Mode
+
+*   [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
+
+*   [guillaumepotier/Garlic.js](https://github.com/guillaumepotier/Garlic.js) - Automatically persist your forms' text and select field values locally, until the form is submitted.
+
+*   [alphagov/government-digital-strategy](https://github.com/alphagov/government-digital-strategy) - Government Digital Strategy
+
+*   [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
+
+*   [prose/starter](https://github.com/prose/starter) - A starter site for Jekyll + Prose
+
+*   [raphaelbastide/1962](https://github.com/raphaelbastide/1962) - Versioned physical sculpture
+
+*   [heygrady/scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in SASS.
+
+*   [jonikorpi/Frameless](https://github.com/jonikorpi/Frameless) - The spiritual successor to Less Framework
 
 ## Ruby
 
@@ -3118,136 +3250,6 @@
 
 *   [jpfinley/printmaster](https://github.com/jpfinley/printmaster) - Markdown and InDesign in unholy communion
 
-*   [MarioRicalde/SCSS.tmbundle](https://github.com/MarioRicalde/SCSS.tmbundle) - The TextMate SCSS Official Bundle. Now Compatible with SublimeText2.
-
-## CSS
-
-*   [MaybeThisIsRu/smix-eleventy-starter](https://github.com/MaybeThisIsRu/smix-eleventy-starter) - A standards-respecting starter kit for Eleventy. Go Indie.
-
-*   [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
-
-*   [maxmandia/autocomplete](https://github.com/maxmandia/autocomplete) - AI autocomplete that works on every \<textarea /> element.
-
-*   [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino) - A native look and feel Obsidian theme designed for a clean, focused, and mobile-friendly writing experience.
-
-*   [timpaul/form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - A prototype of a tool that generates web forms from document forms
-
-*   [Prototypr/gftw-project](https://github.com/Prototypr/gftw-project) -
-
-*   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
-
-*   [stevengill/pancake-studio](https://github.com/stevengill/pancake-studio) - A server that receives json payloads, flattens the keys and sends this new payload to passed in url
-
-*   [mdlincoln/jekyll-slack](https://github.com/mdlincoln/jekyll-slack) - Generate a static archive from a Slack data export
-
-*   [vsoch/docsy-jekyll](https://github.com/vsoch/docsy-jekyll) - A Jekyll version of the beautiful Docsy!
-
-*   [classicrob/quartz](https://github.com/classicrob/quartz) - 🌱 host your own second brain and digital garden for free
-
-*   [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
-
-*   [corinnekaryiu/obsidian-habit-mood-tracker](https://github.com/corinnekaryiu/obsidian-habit-mood-tracker) - Obsidian Habit & Mood Tracker
-
-*   [obsidianmd/obsidian-help](https://github.com/obsidianmd/obsidian-help) - Help documentation for Obsidian.
-
-*   [geoffreysflaminglasersword/Coalescer](https://github.com/geoffreysflaminglasersword/Coalescer) - An Obsidian plugin for coalescing graph nodes (titles, tags, etc.)
-
-*   [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
-
-*   [Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection) - A collection of snippet to customize obsidian
-
-*   [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
-
-*   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
-
-*   [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
-
-*   [paulbricman/dual-obsidian-client](https://github.com/paulbricman/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
-
-*   [cyanharlow/purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
-
-*   [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
-
-*   [WorldAfterCapital/WorldAfterCapital](https://github.com/WorldAfterCapital/WorldAfterCapital) - Technological progress has shifted scarcity for humanity.
-
-*   [poole/poole](https://github.com/poole/poole) - The Jekyll Butler. A no frills responsive Jekyll blog theme.
-
-*   [jthingelstad/foreground](https://github.com/jthingelstad/foreground) - A MediaWiki skin that focuses on putting your content in the foreground.
-
-*   [nicoleslaw/strategicwriting](https://github.com/nicoleslaw/strategicwriting) - Writing for designers — course materials for SVA IXD thesis prep
-
-*   [tachyons-css/tachyons-verbose](https://github.com/tachyons-css/tachyons-verbose) - Functional CSS for humans. Verbose edition.
-
-*   [egoist/hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
-
-*   [stanographer/aloft](https://github.com/stanographer/aloft) - Real time transcription delivery engine (Overhaul)
-
-*   [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
-
-*   [frend/frend.co](https://github.com/frend/frend.co) - Frend — A collection of accessible, modern front-end components.
-
-*   [james2doyle/google-form-styling](https://github.com/james2doyle/google-form-styling) - A stylesheet to be used if you want to create your own theme for a google form
-
-*   [at-import/jacket](https://github.com/at-import/jacket) - Conditional Styles with Sass. Dress you CSS appropriately.
-
-*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-
-*   [sawyerh/cssmixins](https://github.com/sawyerh/cssmixins) - CSS3 mixins for STYL, SCSS, SASS & LESS.
-
-*   [opattison/Pattern-Primer-Jekyll](https://github.com/opattison/Pattern-Primer-Jekyll) - Jekyll project for generating styled patterns from a folder of markup snippets. A fork of Pattern-Primer by adactio.
-
-*   [robinrendle/atomic-framework](https://github.com/robinrendle/atomic-framework) - Organising Sass modules into quarks, atoms and molecules
-
-*   [Squarespace/base-template](https://github.com/Squarespace/base-template) - A Squarespace starter template with minimal markup and styles.
-
-*   [mrcoles/markdown-css](https://github.com/mrcoles/markdown-css) - CSS for making regular HTML look like plain-text markdown.
-
-*   [voxmedia/verge-50](https://github.com/voxmedia/verge-50) - An example of a Middleman-powered editorial app built by the Vox Media Product Team and published by The Verge.
-
-*   [codrops/PageTransitions](https://github.com/codrops/PageTransitions) - A showcase collection of various page transition effects using CSS animations.
-
-*   [bdkauff/MetRandomImage](https://github.com/bdkauff/MetRandomImage) -
-
-*   [north/north](https://github.com/north/north) - Design and development standards to align and guide your project.
-
-*   [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
-
-*   [tylerpaige/green-camp](https://github.com/tylerpaige/green-camp) - A multi-directional slideshow
-
-*   [tylerpaige/power-ppt](https://github.com/tylerpaige/power-ppt) - Experimental multi-directional "Powerpoint" format
-
-*   [himedlooff/project-timeline](https://github.com/himedlooff/project-timeline) - An HTML template for project timelines
-
-*   [lemonmade/bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
-
-*   [rmaake1/httpstatuses](https://github.com/rmaake1/httpstatuses) - A directory of HTTP Status Codes and code references
-
-*   [ofZach/sfpc\_site](https://github.com/ofZach/sfpc_site) - sfpc work
-
-*   [justdeleteme/justdelete.me](https://github.com/justdeleteme/justdelete.me) - A directory of direct links to delete your account from web services.
-
-*   [drublic/Sass-Mixins](https://github.com/drublic/Sass-Mixins) - Sass mixins for general use
-
-*   [mezzoblue/csszengarden.com](https://github.com/mezzoblue/csszengarden.com) - The source of csszengarden.com
-
-*   [deanhunt/pantheon](https://github.com/deanhunt/pantheon) - Pantheon is a Chrome extension built during Art Hack Day :: God Mode
-
-*   [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
-
-*   [guillaumepotier/Garlic.js](https://github.com/guillaumepotier/Garlic.js) - Automatically persist your forms' text and select field values locally, until the form is submitted.
-
-*   [alphagov/government-digital-strategy](https://github.com/alphagov/government-digital-strategy) - Government Digital Strategy
-
-*   [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
-
-*   [prose/starter](https://github.com/prose/starter) - A starter site for Jekyll + Prose
-
-*   [raphaelbastide/1962](https://github.com/raphaelbastide/1962) - Versioned physical sculpture
-
-*   [heygrady/scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in SASS.
-
-*   [jonikorpi/Frameless](https://github.com/jonikorpi/Frameless) - The spiritual successor to Less Framework
-
 ## Shell
 
 *   [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
@@ -3883,8 +3885,6 @@
 *   [steipete/PSStackedView](https://github.com/steipete/PSStackedView) - open source implementation of Twitter/iPad stacked ui - done right.
 
 *   [twitter-archive/twui](https://github.com/twitter-archive/twui) - A UI framework for Mac based on Core Animation
-
-*   [Simbul/baker](https://github.com/Simbul/baker) - The HTML5 ebook framework to publish interactive books & magazines on iPad & iPhone using simply open web standards
 
 ## ActionScript
 

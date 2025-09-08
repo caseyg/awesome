@@ -4,6 +4,14 @@
 
 ## Table of Contents
 
+*   [reference](#reference)
+*   [resource](#resource)
+*   [indieweb](#indieweb)
+*   [lambda](#lambda)
+*   [micropub](#micropub)
+*   [netlify](#netlify)
+*   [serverless](#serverless)
+*   [chatbot](#chatbot)
 *   [miscellaneous](#miscellaneous)
 *   [archive](#archive)
 *   [backup](#backup)
@@ -46,8 +54,6 @@
 *   [memex](#memex)
 *   [personal-archive](#personal-archive)
 *   [ruby](#ruby)
-*   [indieweb](#indieweb)
-*   [micropub](#micropub)
 *   [p3k](#p3k)
 *   [openheart](#openheart)
 *   [rss](#rss)
@@ -565,7 +571,6 @@
 *   [jmap](#jmap)
 *   [jmap-client](#jmap-client)
 *   [focus-mode](#focus-mode)
-*   [chatbot](#chatbot)
 *   [ai-scraping](#ai-scraping)
 *   [crawler](#crawler)
 *   [data](#data)
@@ -782,7 +787,6 @@
 *   [voice](#voice)
 *   [api-client](#api-client)
 *   [http-client](#http-client)
-*   [reference](#reference)
 *   [coop](#coop)
 *   [cooperative](#cooperative)
 *   [curated-list](#curated-list)
@@ -1017,7 +1021,6 @@
 *   [events](#events)
 *   [orchestration](#orchestration)
 *   [scheduler](#scheduler)
-*   [serverless](#serverless)
 *   [loops](#loops)
 *   [posthog](#posthog)
 *   [resend](#resend)
@@ -1389,7 +1392,6 @@
 *   [wasm](#wasm)
 *   [11ty-starter](#11ty-starter)
 *   [flexsearch](#flexsearch)
-*   [netlify](#netlify)
 *   [bigquery](#bigquery)
 *   [data-collection](#data-collection)
 *   [data-connectors](#data-connectors)
@@ -2001,7 +2003,6 @@
 *   [view-transitions](#view-transitions)
 *   [spider](#spider)
 *   [gohugo](#gohugo)
-*   [lambda](#lambda)
 *   [microsub](#microsub)
 *   [pecan](#pecan)
 *   [read-later](#read-later)
@@ -2798,7 +2799,6 @@
 *   [abandoned](#abandoned)
 *   [imap-client](#imap-client)
 *   [pgp](#pgp)
-*   [resource](#resource)
 *   [satire](#satire)
 *   [carto](#carto)
 *   [geolocation](#geolocation)
@@ -2947,6 +2947,114 @@
 *   [dracula](#dracula)
 *   [graph-dracula](#graph-dracula)
 *   [jquery-modal](#jquery-modal)
+
+## reference
+
+*   [paulrobertlloyd/classnames](https://github.com/paulrobertlloyd/classnames) - A source of inspiration for naming things.
+
+*   [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
+
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+
+*   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
+
+## resource
+
+*   [paulrobertlloyd/classnames](https://github.com/paulrobertlloyd/classnames) - A source of inspiration for naming things.
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+## indieweb
+
+*   [benjifs/micropub](https://github.com/benjifs/micropub) - Serverless Micropub and media endpoints to publish to static site
+
+*   [grantcodes/postrchildbot](https://github.com/grantcodes/postrchildbot) - A chatbot for posting to micropub enabled websites
+
+*   [rknightuk/slashpages](https://github.com/rknightuk/slashpages) - A guide to common pages you can add to your website
+
+*   [aaronpk/Quill](https://github.com/aaronpk/Quill) - 🖋 A Micropub client for creating posts
+
+*   [dupunkto/pubb](https://github.com/dupunkto/pubb) - Website engine that explores ways to blend websites, social media and collaboration on the Web, by implementing open standards.
+
+*   [MaybeThisIsRu/smix-eleventy-starter](https://github.com/MaybeThisIsRu/smix-eleventy-starter) - A standards-respecting starter kit for Eleventy. Go Indie.
+
+*   [voxpelli/webpage-micropub-to-github](https://github.com/voxpelli/webpage-micropub-to-github) - Self-hosteable Micropub endpoint that publishes to Jekyll by committing to GitHub
+
+*   [snarfed/granary](https://github.com/snarfed/granary) - 💬 The social web translator
+
+*   [getindiekit/indiekit](https://github.com/getindiekit/indiekit) - The little Node.js server with all the parts needed to publish content to your personal website and share it on social networks.
+
+*   [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
+
+*   [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social networks
+
+*   [aaronpk/Meetable](https://github.com/aaronpk/Meetable) - an event listing website
+
+*   [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
+
+*   [dg01d/nanopub](https://github.com/dg01d/nanopub) - MicroPub support for Static Blog Engine
+
+## lambda
+
+*   [benjifs/micropub](https://github.com/benjifs/micropub) - Serverless Micropub and media endpoints to publish to static site
+
+*   [cleverdevil/indiepaper](https://github.com/cleverdevil/indiepaper) - A "read later" service for the IndieWeb using Micropub
+
+*   [sawyerh/highlights](https://github.com/sawyerh/highlights) - Code for converting, importing, processing, and displaying Kindle, Instapaper, and Safari Books highlights
+
+## micropub
+
+*   [benjifs/micropub](https://github.com/benjifs/micropub) - Serverless Micropub and media endpoints to publish to static site
+
+*   [grantcodes/postrchildbot](https://github.com/grantcodes/postrchildbot) - A chatbot for posting to micropub enabled websites
+
+*   [aaronpk/Quill](https://github.com/aaronpk/Quill) - 🖋 A Micropub client for creating posts
+
+*   [voxpelli/webpage-micropub-to-github](https://github.com/voxpelli/webpage-micropub-to-github) - Self-hosteable Micropub endpoint that publishes to Jekyll by committing to GitHub
+
+*   [getindiekit/indiekit](https://github.com/getindiekit/indiekit) - The little Node.js server with all the parts needed to publish content to your personal website and share it on social networks.
+
+*   [cleverdevil/indiepaper](https://github.com/cleverdevil/indiepaper) - A "read later" service for the IndieWeb using Micropub
+
+*   [dg01d/nanopub](https://github.com/dg01d/nanopub) - MicroPub support for Static Blog Engine
+
+## netlify
+
+*   [benjifs/micropub](https://github.com/benjifs/micropub) - Serverless Micropub and media endpoints to publish to static site
+
+*   [aha-app/netlify-flexsearch](https://github.com/aha-app/netlify-flexsearch) - Implement search for static sites on Netlify, powered by FlexSearch and Netlify functions
+
+*   [daviddarnes/alembic](https://github.com/daviddarnes/alembic) - ⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+
+## serverless
+
+*   [benjifs/micropub](https://github.com/benjifs/micropub) - Serverless Micropub and media endpoints to publish to static site
+
+*   [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
+
+*   [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
+
+*   [11ty/demo-eleventy-serverless-oauth](https://github.com/11ty/demo-eleventy-serverless-oauth) - A demo project using OAuth to secure some of your Eleventy Serverless routes.
+
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+
+*   [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
+
+## chatbot
+
+*   [grantcodes/postrchildbot](https://github.com/grantcodes/postrchildbot) - A chatbot for posting to micropub enabled websites
+
+*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+
+*   [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
+
+*   [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
+
+*   [vasilecampeanu/obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver is an Obsidian plugin that integrates a ChatGPT-like interface into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you improve your writing and brainstorming process.
+
+*   [paulbricman/dual-obsidian-client](https://github.com/paulbricman/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
+
+*   [Fang-/Urbit-By-Doing](https://github.com/Fang-/Urbit-By-Doing) - A dysfunctional programmer's guide to making things in Hoon.
 
 ## miscellaneous
 
@@ -5014,12 +5122,6 @@
 
 *   [jpfinley/printmaster](https://github.com/jpfinley/printmaster) - Markdown and InDesign in unholy communion
 
-*   [MarioRicalde/SCSS.tmbundle](https://github.com/MarioRicalde/SCSS.tmbundle) - The TextMate SCSS Official Bundle. Now Compatible with SublimeText2.
-
-*   [antimatter15/jsgif](https://github.com/antimatter15/jsgif) - Save a HTML5 Canvas to GIF and Animations. A port of as3gif GIFPlayer to JS
-
-*   [Simbul/baker](https://github.com/Simbul/baker) - The HTML5 ebook framework to publish interactive books & magazines on iPad & iPhone using simply open web standards
-
 ## archive
 
 *   [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
@@ -5391,44 +5493,6 @@
 *   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 *   [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
-
-## indieweb
-
-*   [rknightuk/slashpages](https://github.com/rknightuk/slashpages) - A guide to common pages you can add to your website
-
-*   [aaronpk/Quill](https://github.com/aaronpk/Quill) - 🖋 A Micropub client for creating posts
-
-*   [dupunkto/pubb](https://github.com/dupunkto/pubb) - Website engine that explores ways to blend websites, social media and collaboration on the Web, by implementing open standards.
-
-*   [MaybeThisIsRu/smix-eleventy-starter](https://github.com/MaybeThisIsRu/smix-eleventy-starter) - A standards-respecting starter kit for Eleventy. Go Indie.
-
-*   [voxpelli/webpage-micropub-to-github](https://github.com/voxpelli/webpage-micropub-to-github) - Self-hosteable Micropub endpoint that publishes to Jekyll by committing to GitHub
-
-*   [snarfed/granary](https://github.com/snarfed/granary) - 💬 The social web translator
-
-*   [getindiekit/indiekit](https://github.com/getindiekit/indiekit) - The little Node.js server with all the parts needed to publish content to your personal website and share it on social networks.
-
-*   [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
-
-*   [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social networks
-
-*   [aaronpk/Meetable](https://github.com/aaronpk/Meetable) - an event listing website
-
-*   [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
-
-*   [dg01d/nanopub](https://github.com/dg01d/nanopub) - MicroPub support for Static Blog Engine
-
-## micropub
-
-*   [aaronpk/Quill](https://github.com/aaronpk/Quill) - 🖋 A Micropub client for creating posts
-
-*   [voxpelli/webpage-micropub-to-github](https://github.com/voxpelli/webpage-micropub-to-github) - Self-hosteable Micropub endpoint that publishes to Jekyll by committing to GitHub
-
-*   [getindiekit/indiekit](https://github.com/getindiekit/indiekit) - The little Node.js server with all the parts needed to publish content to your personal website and share it on social networks.
-
-*   [cleverdevil/indiepaper](https://github.com/cleverdevil/indiepaper) - A "read later" service for the IndieWeb using Micropub
-
-*   [dg01d/nanopub](https://github.com/dg01d/nanopub) - MicroPub support for Static Blog Engine
 
 ## p3k
 
@@ -11272,20 +11336,6 @@
 
 *   [selfire1/todoist-focus-mode](https://github.com/selfire1/todoist-focus-mode) - Flowist is a Focus Mode companion for Todoist
 
-## chatbot
-
-*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
-
-*   [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
-
-*   [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
-
-*   [vasilecampeanu/obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver is an Obsidian plugin that integrates a ChatGPT-like interface into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you improve your writing and brainstorming process.
-
-*   [paulbricman/dual-obsidian-client](https://github.com/paulbricman/dual-obsidian-client) - A skilled virtual assistant for Obsidian.
-
-*   [Fang-/Urbit-By-Doing](https://github.com/Fang-/Urbit-By-Doing) - A dysfunctional programmer's guide to making things in Hoon.
-
 ## ai-scraping
 
 *   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
@@ -12734,14 +12784,6 @@
 
 *   [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 
-## reference
-
-*   [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
-
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-
-*   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
-
 ## coop
 
 *   [hng/tech-coops](https://github.com/hng/tech-coops) - A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
@@ -14055,18 +14097,6 @@
 *   [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 
 *   [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
-
-## serverless
-
-*   [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
-
-*   [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
-
-*   [11ty/demo-eleventy-serverless-oauth](https://github.com/11ty/demo-eleventy-serverless-oauth) - A demo project using OAuth to secure some of your Eleventy Serverless routes.
-
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
-
-*   [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 
 ## loops
 
@@ -16161,12 +16191,6 @@
 ## flexsearch
 
 *   [aha-app/netlify-flexsearch](https://github.com/aha-app/netlify-flexsearch) - Implement search for static sites on Netlify, powered by FlexSearch and Netlify functions
-
-## netlify
-
-*   [aha-app/netlify-flexsearch](https://github.com/aha-app/netlify-flexsearch) - Implement search for static sites on Netlify, powered by FlexSearch and Netlify functions
-
-*   [daviddarnes/alembic](https://github.com/daviddarnes/alembic) - ⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 
 ## bigquery
 
@@ -19103,12 +19127,6 @@
 ## gohugo
 
 *   [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
-
-## lambda
-
-*   [cleverdevil/indiepaper](https://github.com/cleverdevil/indiepaper) - A "read later" service for the IndieWeb using Micropub
-
-*   [sawyerh/highlights](https://github.com/sawyerh/highlights) - Code for converting, importing, processing, and displaying Kindle, Instapaper, and Safari Books highlights
 
 ## microsub
 
@@ -22701,10 +22719,6 @@
 ## pgp
 
 *   [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
-
-## resource
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## satire
 
