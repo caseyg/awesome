@@ -1168,6 +1168,7 @@
 *   [ember](#ember)
 *   [lit](#lit)
 *   [qwik](#qwik)
+*   [ripple](#ripple)
 *   [mqtt](#mqtt)
 *   [mqtt-broker](#mqtt-broker)
 *   [nodejs-library](#nodejs-library)
@@ -15035,6 +15036,10 @@
 *   [matschik/component-party.dev](https://github.com/matschik/component-party.dev) - 🎉 Web component JS frameworks overview by their syntax and features
 
 *   [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
+
+## ripple
+
+*   [matschik/component-party.dev](https://github.com/matschik/component-party.dev) - 🎉 Web component JS frameworks overview by their syntax and features
 
 ## mqtt
 
