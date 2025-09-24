@@ -625,14 +625,20 @@
 *   [jmap](#jmap)
 *   [jmap-client](#jmap-client)
 *   [focus-mode](#focus-mode)
+*   [ai-crawler](#ai-crawler)
 *   [ai-scraping](#ai-scraping)
+*   [ai-search](#ai-search)
 *   [crawler](#crawler)
-*   [data](#data)
+*   [data-extraction](#data-extraction)
 *   [html-to-markdown](#html-to-markdown)
 *   [scraper](#scraper)
 *   [scraping](#scraping)
 *   [web-crawler](#web-crawler)
+*   [web-data](#web-data)
+*   [web-data-extraction](#web-data-extraction)
+*   [web-scraper](#web-scraper)
 *   [web-scraping](#web-scraping)
+*   [web-search](#web-search)
 *   [webscraping](#webscraping)
 *   [ai-assistant](#ai-assistant)
 *   [assistant](#assistant)
@@ -680,6 +686,7 @@
 *   [textarea](#textarea)
 *   [apachespark](#apachespark)
 *   [bigdata](#bigdata)
+*   [data](#data)
 *   [dataengineering](#dataengineering)
 *   [document](#document)
 *   [prompt](#prompt)
@@ -2194,7 +2201,6 @@
 *   [unity](#unity)
 *   [unity3d](#unity3d)
 *   [node-crawler](#node-crawler)
-*   [web-scraper](#web-scraper)
 *   [twitter-extension](#twitter-extension)
 *   [userstyle](#userstyle)
 *   [effects](#effects)
@@ -7645,6 +7651,8 @@
 
 *   [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 
+*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+
 *   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 
 *   [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
@@ -8548,8 +8556,6 @@
 *   [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 
 *   [DS4SD/deepsearch-toolkit](https://github.com/DS4SD/deepsearch-toolkit) -  Interact with the Deep Search platform for new knowledge explorations and discoveries
 
@@ -11819,7 +11825,15 @@
 
 *   [selfire1/todoist-focus-mode](https://github.com/selfire1/todoist-focus-mode) - Flowist is a Focus Mode companion for Todoist
 
+## ai-crawler
+
+*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+
 ## ai-scraping
+
+*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+
+## ai-search
 
 *   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 
@@ -11831,29 +11845,9 @@
 
 *   [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 
-## data
+## data-extraction
 
 *   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
-
-*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
-
-*   [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.
-
-*   [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
-
-*   [postlight/account](https://github.com/postlight/account) - 📚️ ➕ 🔢  Tell little stories with numbers
-
-*   [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar\_chart:
-
-*   [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
-
-*   [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
-
-*   [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project) - The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
-
-*   [Quartz/bad-data-guide](https://github.com/Quartz/bad-data-guide) - An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
-
-*   [dataliterate/data-populator](https://github.com/dataliterate/data-populator) - A plugin for Sketch and Adobe XD to populate your design mockups with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 
 ## html-to-markdown
 
@@ -11897,11 +11891,29 @@
 
 *   [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 
+## web-data
+
+*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+
+## web-data-extraction
+
+*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+
+## web-scraper
+
+*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+
+*   [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
+
 ## web-scraping
 
 *   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 
 *   [programminghistorian/jekyll](https://github.com/programminghistorian/jekyll) - Jekyll-based static site for The Programming Historian
+
+## web-search
+
+*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 
 ## webscraping
 
@@ -12200,6 +12212,28 @@
 ## bigdata
 
 *   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+
+## data
+
+*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+
+*   [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.
+
+*   [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
+
+*   [postlight/account](https://github.com/postlight/account) - 📚️ ➕ 🔢  Tell little stories with numbers
+
+*   [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar\_chart:
+
+*   [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
+
+*   [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
+
+*   [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project) - The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
+
+*   [Quartz/bad-data-guide](https://github.com/Quartz/bad-data-guide) - An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
+
+*   [dataliterate/data-populator](https://github.com/dataliterate/data-populator) - A plugin for Sketch and Adobe XD to populate your design mockups with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 
 ## dataengineering
 
@@ -20202,10 +20236,6 @@
 *   [keijiro/PuppetTest](https://github.com/keijiro/PuppetTest) - An experiment in procedural dance animation
 
 ## node-crawler
-
-*   [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
-
-## web-scraper
 
 *   [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 
