@@ -4,10 +4,16 @@
 
 ## Table of Contents
 
+*   [ai](#ai)
+*   [copilot](#copilot)
+*   [development](#development)
+*   [engineering](#engineering)
+*   [prd](#prd)
+*   [spec](#spec)
+*   [spec-driven](#spec-driven)
 *   [macos](#macos)
 *   [macos-app](#macos-app)
 *   [swift](#swift)
-*   [ai](#ai)
 *   [dictation](#dictation)
 *   [voice](#voice)
 *   [artificial-intelligence](#artificial-intelligence)
@@ -358,7 +364,6 @@
 *   [notion](#notion)
 *   [perplexity](#perplexity)
 *   [dataset](#dataset)
-*   [development](#development)
 *   [free](#free)
 *   [list](#list)
 *   [lists](#lists)
@@ -400,7 +405,6 @@
 *   [planning](#planning)
 *   [bot](#bot)
 *   [botframework](#botframework)
-*   [copilot](#copilot)
 *   [copilotstudio](#copilotstudio)
 *   [teams](#teams)
 *   [autonomous-agents](#autonomous-agents)
@@ -605,7 +609,6 @@
 *   [capabilities](#capabilities)
 *   [constraints](#constraints)
 *   [dependencies](#dependencies)
-*   [engineering](#engineering)
 *   [flow](#flow)
 *   [flow-engineering](#flow-engineering)
 *   [leadership](#leadership)
@@ -2981,57 +2984,9 @@
 *   [html5-history](#html5-history)
 *   [html5-history-api](#html5-history-api)
 
-## macos
-
-*   [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
-
-*   [amicalhq/amical](https://github.com/amicalhq/amical) - 🎙️ Open Source AI Dictation App ⚡ Type 3x faster, no keyboard needed.
-
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
-
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-
-*   [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
-
-*   [psobot/keynote-parser](https://github.com/psobot/keynote-parser) - A packer/unpacker for Apple Keynote presentation files.
-
-*   [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
-
-*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-
-*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-
-*   [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
-
-*   [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise
-
-*   [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
-
-## macos-app
-
-*   [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
-
-*   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ is meetly ai
-
-## swift
-
-*   [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
-
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
-
-*   [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
-
-*   [planetary-social/planetary-ios](https://github.com/planetary-social/planetary-ios) - Social for humans, not algorithms.
-
-*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-
-*   [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise
-
 ## ai
+
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 
 *   [heyito/ito](https://github.com/heyito/ito) - Ito, smart dictation in every application
 
@@ -3166,6 +3121,102 @@
 *   [huridocs/uwazi](https://github.com/huridocs/uwazi) - Uwazi is a web-based, open-source solution for building and sharing document collections
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+## copilot
+
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+
+*   [microsoft/Agents](https://github.com/microsoft/Agents) - The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.
+
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
+
+## development
+
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+
+*   [konfig-sdks/openapi-examples](https://github.com/konfig-sdks/openapi-examples) - The highest quality collection of up-to-date OpenAPI specifications for public APIs on the internet. This dataset also includes descriptions, categories, uptime metrics, and media assets for every API.
+
+*   [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
+
+*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## engineering
+
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+
+*   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
+
+*   [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+
+## prd
+
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+
+## spec
+
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+
+## spec-driven
+
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+
+## macos
+
+*   [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
+
+*   [amicalhq/amical](https://github.com/amicalhq/amical) - 🎙️ Open Source AI Dictation App ⚡ Type 3x faster, no keyboard needed.
+
+*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+
+*   [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
+
+*   [psobot/keynote-parser](https://github.com/psobot/keynote-parser) - A packer/unpacker for Apple Keynote presentation files.
+
+*   [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
+
+*   [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+
+*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+*   [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
+
+*   [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise
+
+*   [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
+
+## macos-app
+
+*   [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
+
+*   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ is meetly ai
+
+## swift
+
+*   [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
+
+*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+
+*   [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+
+*   [planetary-social/planetary-ios](https://github.com/planetary-social/planetary-ios) - Social for humans, not algorithms.
+
+*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+
+*   [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise
 
 ## dictation
 
@@ -6493,8 +6544,6 @@
 
 *   [samizdatco/arbor](https://github.com/samizdatco/arbor) - a graph visualization library using web workers and jQuery
 
-*   [openannotation/annotator](https://github.com/openannotation/annotator) - Annotation tools for the web. Select text, images, or (nearly) anything else, and add your notes.
-
 ## blog
 
 *   [otaviocc/obsidian-microblog](https://github.com/otaviocc/obsidian-microblog) - Micro.publish is an Obsidian plugin to publish notes directly to Micro.blog, written in TypeScript
@@ -9687,18 +9736,6 @@
 
 *   [cooperhewitt/collection](https://github.com/cooperhewitt/collection) - Collection Data for Cooper Hewitt, Smithsonian Design Museum
 
-## development
-
-*   [konfig-sdks/openapi-examples](https://github.com/konfig-sdks/openapi-examples) - The highest quality collection of up-to-date OpenAPI specifications for public APIs on the internet. This dataset also includes descriptions, categories, uptime metrics, and media assets for every API.
-
-*   [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-
-*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
 ## free
 
 *   [konfig-sdks/openapi-examples](https://github.com/konfig-sdks/openapi-examples) - The highest quality collection of up-to-date OpenAPI specifications for public APIs on the internet. This dataset also includes descriptions, categories, uptime metrics, and media assets for every API.
@@ -10036,16 +10073,6 @@
 ## botframework
 
 *   [microsoft/Agents](https://github.com/microsoft/Agents) - The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.
-
-## copilot
-
-*   [microsoft/Agents](https://github.com/microsoft/Agents) - The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.
-
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 
 ## copilotstudio
 
@@ -11724,12 +11751,6 @@
 ## dependencies
 
 *   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
-
-## engineering
-
-*   [stevepereira/flow-engineering](https://github.com/stevepereira/flow-engineering) - Flow Engineering is the practice of improving the flow of work, information, and data across organizations through value streams.
-
-*   [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 
 ## flow
 
