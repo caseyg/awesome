@@ -117,7 +117,7 @@
 
 *   [kanedata/airtable-to-sqlite](https://github.com/kanedata/airtable-to-sqlite) -
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 *   [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 
@@ -3479,8 +3479,6 @@
 
 *   [charbelrami/grid-container](https://github.com/charbelrami/grid-container) - A grid for the future, CSS Grid Layout + Web Components (Custom Elements v1 + Shadow DOM v1)
 
-*   [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
-
 *   [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 
 *   [tchoi8/teachingasart](https://github.com/tchoi8/teachingasart) - Class on pedagogy.
@@ -3632,6 +3630,8 @@
 *   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 
 *   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers (updated for 2025)
+
+*   [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 
 ## Astro
 

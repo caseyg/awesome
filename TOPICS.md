@@ -3175,7 +3175,7 @@
 
 *   [amicalhq/amical](https://github.com/amicalhq/amical) - 🎙️ Open Source AI Dictation App ⚡ Type 3x faster, no keyboard needed.
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 *   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
@@ -3207,7 +3207,7 @@
 
 *   [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 *   [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
@@ -4011,7 +4011,7 @@
 
 *   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ is meetly ai
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 *   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
@@ -9347,7 +9347,7 @@
 
 *   [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 *   [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 
@@ -9599,7 +9599,7 @@
 
 *   [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 ## mariner
 
@@ -10107,7 +10107,7 @@
 
 *   [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 ## computer-use-agent
 
@@ -10117,7 +10117,7 @@
 
 *   [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 ## grounding
 
@@ -10447,7 +10447,7 @@
 
 ## ai-agent
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 *   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript.
 
@@ -10461,7 +10461,7 @@
 
 ## apple
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 *   [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
@@ -10469,27 +10469,27 @@
 
 ## containerization
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 ## lume
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 ## operator
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 ## virtualization
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 ## virtualization-framework
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 ## windows-sandbox
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 ## accesibility
 
