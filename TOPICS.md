@@ -109,6 +109,7 @@
 *   [dump](#dump)
 *   [dumper](#dumper)
 *   [mattermost](#mattermost)
+*   [mattermost-app](#mattermost-app)
 *   [migration-tool](#migration-tool)
 *   [slack](#slack)
 *   [slack-exports](#slack-exports)
@@ -7082,6 +7083,10 @@
 *   [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 
 ## mattermost
+
+*   [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
+
+## mattermost-app
 
 *   [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 
