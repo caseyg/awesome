@@ -915,6 +915,7 @@
 *   [starter-template](#starter-template)
 *   [tailwind-theme](#tailwind-theme)
 *   [zeon-studio](#zeon-studio)
+*   [hacktoberfest2025](#hacktoberfest2025)
 *   [architecture](#architecture)
 *   [digitization](#digitization)
 *   [named-entity-recognition](#named-entity-recognition)
@@ -7768,6 +7769,8 @@
 
 *   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
+*   [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+
 *   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
@@ -7781,6 +7784,8 @@
 *   [paoloricciuti/sveltekit-search-params](https://github.com/paoloricciuti/sveltekit-search-params) - The easiest way to read and WRITE from query parameters in sveltekit.
 
 *   [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
+
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
 
 *   [json-patch-builder-online/json-patch-builder-online.github.io](https://github.com/json-patch-builder-online/json-patch-builder-online.github.io) - JSON Patch Builder Online
 
@@ -13633,6 +13638,10 @@
 ## zeon-studio
 
 *   [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!
+
+## hacktoberfest2025
+
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
 
 ## architecture
 
