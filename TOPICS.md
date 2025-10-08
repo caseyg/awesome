@@ -3102,7 +3102,7 @@
 
 *   [cr7258/elasticsearch-mcp-server](https://github.com/cr7258/elasticsearch-mcp-server) - A Model Context Protocol (MCP) server implementation that provides Elasticsearch and OpenSearch interaction.
 
-*   [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
+*   [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - The official MCP server implementation for the Perplexity API Platform
 
 *   [continuedev/amplified.dev](https://github.com/continuedev/amplified.dev) - 🔊 We believe in a future where developers are amplified, not automated
 
@@ -3325,8 +3325,6 @@
 *   [Open-Source-Collective/osc](https://github.com/Open-Source-Collective/osc) - osc
 
 *   [mattcroat/joy-of-code](https://github.com/mattcroat/joy-of-code) - 🌸 Joy of Code is a digital garden growing curious minds
-
-*   [Ebonsignori/obsidian-at-symbol-linking](https://github.com/Ebonsignori/obsidian-at-symbol-linking) - Adds ability to link with @ in Obsidian. Can limit @ linking to specific folders e.g. People/
 
 *   [formbricks/design](https://github.com/formbricks/design) - Formbricks Design Team Repository.
 
@@ -6668,6 +6666,8 @@
 
 *   [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
 
+*   [Ebonsignori/obsidian-at-symbol-linking](https://github.com/Ebonsignori/obsidian-at-symbol-linking) - Adds ability to link with symbols (e.g. @) in Obsidian. Can limit symbol linking to specific folders e.g. People/
+
 *   [natelandau/obsidian-metadata](https://github.com/natelandau/obsidian-metadata) - Batch updates to metadata in an Obsidian vault
 
 *   [Feel-ix-343/obsidian-canvas-moc](https://github.com/Feel-ix-343/obsidian-canvas-moc) - Converts MOC note files to an obsidian canvas
@@ -6721,6 +6721,8 @@
 *   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 
 *   [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
+
+*   [Ebonsignori/obsidian-at-symbol-linking](https://github.com/Ebonsignori/obsidian-at-symbol-linking) - Adds ability to link with symbols (e.g. @) in Obsidian. Can limit symbol linking to specific folders e.g. People/
 
 *   [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful books, wikis, websites and PKMs from markdown.
 
@@ -6795,6 +6797,8 @@
 *   [oxdc/obsidian-vertical-tabs](https://github.com/oxdc/obsidian-vertical-tabs) - An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.
 
 *   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - LifeOS example vault for Obsidian(Combining P.A.R.A with Periodic Notes)
+
+*   [Ebonsignori/obsidian-at-symbol-linking](https://github.com/Ebonsignori/obsidian-at-symbol-linking) - Adds ability to link with symbols (e.g. @) in Obsidian. Can limit symbol linking to specific folders e.g. People/
 
 *   [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
 

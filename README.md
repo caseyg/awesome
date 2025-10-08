@@ -1171,7 +1171,7 @@
 
 *   [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 
-*   [Ebonsignori/obsidian-at-symbol-linking](https://github.com/Ebonsignori/obsidian-at-symbol-linking) - Adds ability to link with @ in Obsidian. Can limit @ linking to specific folders e.g. People/
+*   [Ebonsignori/obsidian-at-symbol-linking](https://github.com/Ebonsignori/obsidian-at-symbol-linking) - Adds ability to link with symbols (e.g. @) in Obsidian. Can limit symbol linking to specific folders e.g. People/
 
 *   [nomic-ai/deepscatter](https://github.com/nomic-ai/deepscatter) - Zoomable, animated scatterplots in the browser that scales over a billion points
 
@@ -1993,7 +1993,7 @@
 
 *   [GrayAreaorg/airtable-to-sqlite](https://github.com/GrayAreaorg/airtable-to-sqlite) -
 
-*   [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
+*   [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - The official MCP server implementation for the Perplexity API Platform
 
 *   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 
