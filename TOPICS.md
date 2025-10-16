@@ -3425,7 +3425,7 @@
 
 *   [interop-alliance/life-server](https://github.com/interop-alliance/life-server) - A decentralized personal data framework inspired by MIT's Solid Project
 
-*   [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain text project planning in Obsidian
+*   [obsmd-projects/obsidian-projects](https://github.com/obsmd-projects/obsidian-projects) - Plain text project planning in Obsidian
 
 *   [pietrop/digital-paper-edit-electron](https://github.com/pietrop/digital-paper-edit-electron) -  Work in progress - digital paper edit project - Electron, Cross Platform Desktop app - Mac, Windows, Linux
 
