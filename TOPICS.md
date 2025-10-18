@@ -2988,6 +2988,8 @@
 
 ## miscellaneous
 
+*   [IBM-OSS-Support/GenAI-Slack-Thread-Reader-and-Chat-Bot](https://github.com/IBM-OSS-Support/GenAI-Slack-Thread-Reader-and-Chat-Bot) -
+
 *   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
 
 *   [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
@@ -4792,7 +4794,7 @@
 
 *   [nornagon/scrubby](https://github.com/nornagon/scrubby) - Tweak values in JavaScript without having to reload.
 
-*   [suprb/Nested](https://github.com/suprb/Nested) - Gap free multi column grid
+*   [andreas-pihlstrom/Nested](https://github.com/andreas-pihlstrom/Nested) - Gap free multi column grid
 
 *   [okfocus/okjson](https://github.com/okfocus/okjson) - Turn a directory structure into JSON for whatever.
 
@@ -5027,8 +5029,6 @@
 *   [cemerick/jsdifflib](https://github.com/cemerick/jsdifflib) - A javascript library for diffing text and generating corresponding HTML views
 
 *   [artunit/ossocr](https://github.com/artunit/ossocr) - gathering point for open source OCR scripts and diffs
-
-*   [josephg/ShareJS](https://github.com/josephg/ShareJS) - Collaborative editing in any app
 
 ## computer-use
 
