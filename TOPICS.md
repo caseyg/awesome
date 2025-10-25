@@ -55,8 +55,8 @@
 *   [asciicast](#asciicast)
 *   [asciinema](#asciinema)
 *   [cli](#cli)
-*   [recorder](#recorder)
 *   [rust](#rust)
+*   [streaming](#streaming)
 *   [terminal](#terminal)
 *   [ai-note-taking-app](#ai-note-taking-app)
 *   [asr](#asr)
@@ -74,6 +74,7 @@
 *   [live](#live)
 *   [mac](#mac)
 *   [meeting-minutes](#meeting-minutes)
+*   [recorder](#recorder)
 *   [whisper-cpp](#whisper-cpp)
 *   [windows](#windows)
 *   [api-client](#api-client)
@@ -2735,7 +2736,6 @@
 *   [tips](#tips)
 *   [tips-and-tricks](#tips-and-tricks)
 *   [useful](#useful)
-*   [streaming](#streaming)
 *   [i18next](#i18next)
 *   [react-email](#react-email)
 *   [t3-stack](#t3-stack)
@@ -2982,6 +2982,7 @@
 *   [react-datatable](#react-datatable)
 *   [react-grid](#react-grid)
 *   [vue-table](#vue-table)
+*   [not-maintained](#not-maintained)
 
 ## managed-by-terraform
 
@@ -4547,8 +4548,6 @@
 
 *   [lifewinning/\_NBP](https://github.com/lifewinning/_NBP) - Documents and notes for a project on the National Business Park in Annapolis Junction, MD
 
-*   [rmaake1/httpstatuses](https://github.com/rmaake1/httpstatuses) - A directory of HTTP Status Codes and code references
-
 *   [nasser/sfpc-talk](https://github.com/nasser/sfpc-talk) - Source code to the various slideshows used during my September 16, 2013 talk at the SFPC opening
 
 *   [ofZach/sfpc\_site](https://github.com/ofZach/sfpc_site) - sfpc work
@@ -6053,12 +6052,6 @@
 
 *   [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
 
-## recorder
-
-*   [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-
-*   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ is meetly ai
-
 ## rust
 
 *   [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
@@ -6082,6 +6075,12 @@
 *   [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀
 
 *   [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
+
+## streaming
+
+*   [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
+
+*   [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 
 ## terminal
 
@@ -6352,6 +6351,10 @@
 *   [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 
 ## meeting-minutes
+
+*   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ is meetly ai
+
+## recorder
 
 *   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ is meetly ai
 
@@ -22631,10 +22634,6 @@
 
 *   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 
-## streaming
-
-*   [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
-
 ## i18next
 
 *   [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
@@ -23425,6 +23424,8 @@
 
 *   [cooperhewitt/collection-people](https://github.com/cooperhewitt/collection-people) - These are the people in the Cooper-Hewitt collection
 
+*   [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
+
 ## desktop-wallpaper
 
 *   [tomtaylor/satellite-eyes](https://github.com/tomtaylor/satellite-eyes) - Mac OS X app to automatically set your desktop wallpaper to the satellite view overhead.
@@ -23650,3 +23651,7 @@
 ## vue-table
 
 *   [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
+
+## not-maintained
+
+*   [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.

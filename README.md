@@ -2342,6 +2342,8 @@
 
 *   [frankpf/gridless-boilerplate](https://github.com/frankpf/gridless-boilerplate) - Gridless is an awesome HTML5 and CSS3 boilerplate for making responsive, cross-browser websites with beautiful typography
 
+*   [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
+
 ## TypeScript
 
 *   [heyito/ito](https://github.com/heyito/ito) - Ito, smart dictation in every application
@@ -3111,8 +3113,6 @@
 *   [himedlooff/project-timeline](https://github.com/himedlooff/project-timeline) - An HTML template for project timelines
 
 *   [lemonmade/bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
-
-*   [rmaake1/httpstatuses](https://github.com/rmaake1/httpstatuses) - A directory of HTTP Status Codes and code references
 
 *   [ofZach/sfpc\_site](https://github.com/ofZach/sfpc_site) - sfpc work
 
