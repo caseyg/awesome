@@ -10,8 +10,8 @@
 *   [Python](#python)
 *   [Swift](#swift)
 *   [Clojure](#clojure)
-*   [Shell](#shell)
 *   [HTML](#html)
+*   [Shell](#shell)
 *   [Rust](#rust)
 *   [CSS](#css)
 *   [Ruby](#ruby)
@@ -558,7 +558,7 @@
 
 *   [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 
-*   [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+*   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 
 *   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.
 
@@ -1125,6 +1125,8 @@
 ## JavaScript
 
 *   [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian) -
+
+*   [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 
 *   [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 
@@ -2662,64 +2664,6 @@
 
 *   [maryrosecook/islaclj](https://github.com/maryrosecook/islaclj) - A programming language for young children
 
-## Shell
-
-*   [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
-
-*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-
-*   [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
-
-*   [mbailey/openai-proxy](https://github.com/mbailey/openai-proxy) - Route select OpenAI API endpoints to local services (e.g. Whisper, Ollama, Kororo).
-
-*   [i-am-bee/bee-stack](https://github.com/i-am-bee/bee-stack) - Run the entire bee application stack using docker-compose
-
-*   [cloudsftp/reSnap](https://github.com/cloudsftp/reSnap) - Take screnshots of your reMarkable tablet over SSH
-
-*   [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
-
-*   [rseng/awesome-rseng](https://github.com/rseng/awesome-rseng) - A curated list of GitHub organizations that primarily serve open source or academic software projects.
-
-*   [rseng/software](https://github.com/rseng/software) - research software encyclopedia database
-
-*   [Khan/style-guides](https://github.com/Khan/style-guides) - Docs for the Organization
-
-*   [tombubul/newtabimages](https://github.com/tombubul/newtabimages) - Low-maintenance, serverless approach to interacting with a giant screenshot archive
-
-*   [dphiffer/data-and-social-justice](https://github.com/dphiffer/data-and-social-justice) - Bennington College / Fall 2018
-
-*   [hendricius/the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
-
-*   [RandomArray/ContractKiller](https://github.com/RandomArray/ContractKiller) -
-
-*   [overview/overview-local](https://github.com/overview/overview-local) - Run Overview on your own system
-
-*   [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
-
-*   [jakkm3n/trollascii](https://github.com/jakkm3n/trollascii) - Central repository of world-famous ANSI and ASCII art
-
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-
-*   [benbalter/jekyll-style-guide](https://github.com/benbalter/jekyll-style-guide) - An opinionated guide to common Jekyll design patterns and anti-patterns.
-
-*   [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
-
-*   [dphiffer/downloading-is-never-stealing](https://github.com/dphiffer/downloading-is-never-stealing) - A convenient set of hyperlinks and shell scripts for reading and archiving Aaron Swartz's online writings
-
-*   [NYPL-publicdomain/data-and-utilities](https://github.com/NYPL-publicdomain/data-and-utilities) - Snapshot of Item and Collection data for public domain materials in NYPL Digital Collections, as part of NYPL's January 2016 public domain release.
-
-*   [coralproject/reef](https://github.com/coralproject/reef) - Concepts, practices and principles
-
-*   [yeargin/mediatemple-backup](https://github.com/yeargin/mediatemple-backup) - Collection of bash scripts for database backups.
-
-*   [INN/docs](https://github.com/INN/docs) - INN Labs – Product & Technology Team Docs
-
-*   [cryptoparty/handbook](https://github.com/cryptoparty/handbook) - The CryptoParty Handbook
-
-*   [celoyd/wheather](https://github.com/celoyd/wheather) - Image-compositing scripts for filtering weather out of satellite images
-
-*   [CC-Archived/mou-theme-solarized](https://github.com/CC-Archived/mou-theme-solarized) - Mou (http://mouapp.com/) theme for Markdown syntax highlighting using Ethan Schoonover's Solarized color scheme.
-
 ## HTML
 
 *   [aavetis/PRarena](https://github.com/aavetis/PRarena) - This repo tracks the opened and merged PRs by the top SWE coding agents by OpenAI, GitHub, and others. Updates every 3 hours.
@@ -2971,6 +2915,62 @@
 *   [MattWilcox/Adaptive-Images](https://github.com/MattWilcox/Adaptive-Images) - Automatically adapts your existing HTML images for mobile devices. No mark-up changes needed.
 
 *   [frankpf/gridless-boilerplate](https://github.com/frankpf/gridless-boilerplate) - Gridless is an awesome HTML5 and CSS3 boilerplate for making responsive, cross-browser websites with beautiful typography
+
+## Shell
+
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+
+*   [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
+
+*   [mbailey/openai-proxy](https://github.com/mbailey/openai-proxy) - Route select OpenAI API endpoints to local services (e.g. Whisper, Ollama, Kororo).
+
+*   [i-am-bee/bee-stack](https://github.com/i-am-bee/bee-stack) - Run the entire bee application stack using docker-compose
+
+*   [cloudsftp/reSnap](https://github.com/cloudsftp/reSnap) - Take screnshots of your reMarkable tablet over SSH
+
+*   [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
+
+*   [rseng/awesome-rseng](https://github.com/rseng/awesome-rseng) - A curated list of GitHub organizations that primarily serve open source or academic software projects.
+
+*   [rseng/software](https://github.com/rseng/software) - research software encyclopedia database
+
+*   [Khan/style-guides](https://github.com/Khan/style-guides) - Docs for the Organization
+
+*   [tombubul/newtabimages](https://github.com/tombubul/newtabimages) - Low-maintenance, serverless approach to interacting with a giant screenshot archive
+
+*   [dphiffer/data-and-social-justice](https://github.com/dphiffer/data-and-social-justice) - Bennington College / Fall 2018
+
+*   [hendricius/the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
+
+*   [RandomArray/ContractKiller](https://github.com/RandomArray/ContractKiller) -
+
+*   [overview/overview-local](https://github.com/overview/overview-local) - Run Overview on your own system
+
+*   [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
+
+*   [jakkm3n/trollascii](https://github.com/jakkm3n/trollascii) - Central repository of world-famous ANSI and ASCII art
+
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+
+*   [benbalter/jekyll-style-guide](https://github.com/benbalter/jekyll-style-guide) - An opinionated guide to common Jekyll design patterns and anti-patterns.
+
+*   [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
+
+*   [dphiffer/downloading-is-never-stealing](https://github.com/dphiffer/downloading-is-never-stealing) - A convenient set of hyperlinks and shell scripts for reading and archiving Aaron Swartz's online writings
+
+*   [NYPL-publicdomain/data-and-utilities](https://github.com/NYPL-publicdomain/data-and-utilities) - Snapshot of Item and Collection data for public domain materials in NYPL Digital Collections, as part of NYPL's January 2016 public domain release.
+
+*   [coralproject/reef](https://github.com/coralproject/reef) - Concepts, practices and principles
+
+*   [yeargin/mediatemple-backup](https://github.com/yeargin/mediatemple-backup) - Collection of bash scripts for database backups.
+
+*   [INN/docs](https://github.com/INN/docs) - INN Labs – Product & Technology Team Docs
+
+*   [cryptoparty/handbook](https://github.com/cryptoparty/handbook) - The CryptoParty Handbook
+
+*   [celoyd/wheather](https://github.com/celoyd/wheather) - Image-compositing scripts for filtering weather out of satellite images
+
+*   [CC-Archived/mou-theme-solarized](https://github.com/CC-Archived/mou-theme-solarized) - Mou (http://mouapp.com/) theme for Markdown syntax highlighting using Ethan Schoonover's Solarized color scheme.
 
 ## Rust
 
