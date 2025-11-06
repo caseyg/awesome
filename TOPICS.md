@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [eaf](#eaf)
 *   [emacs](#emacs)
 *   [emacs-lisp](#emacs-lisp)
 *   [mindmap](#mindmap)
-*   [miscellaneous](#miscellaneous)
 *   [managed-by-terraform](#managed-by-terraform)
 *   [computer-use](#computer-use)
 *   [enterprise](#enterprise)
@@ -2971,31 +2971,9 @@
 *   [guardian](#guardian)
 *   [newspaper](#newspaper)
 
-## eaf
-
-*   [emacs-eaf/eaf-mindmap](https://github.com/emacs-eaf/eaf-mindmap) - Keyboard-driven Mindmap editor
-
-## emacs
-
-*   [emacs-eaf/eaf-mindmap](https://github.com/emacs-eaf/eaf-mindmap) - Keyboard-driven Mindmap editor
-
-*   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-
-## emacs-lisp
-
-*   [emacs-eaf/eaf-mindmap](https://github.com/emacs-eaf/eaf-mindmap) - Keyboard-driven Mindmap editor
-
-## mindmap
-
-*   [emacs-eaf/eaf-mindmap](https://github.com/emacs-eaf/eaf-mindmap) - Keyboard-driven Mindmap editor
-
-*   [phase1geo/Minder](https://github.com/phase1geo/Minder) - Mind-mapping application for Elementary OS
-
-*   [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
-
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-
 ## miscellaneous
+
+*   [navapbc/strata](https://github.com/navapbc/strata) - A platform that empowers teams to accelerate delivery through self-service tools and training.
 
 *   [IBM/mcp-composer](https://github.com/IBM/mcp-composer) - MCP Composer
 
@@ -5039,7 +5017,29 @@
 
 *   [tboronczyk/JavaScript-Experiments](https://github.com/tboronczyk/JavaScript-Experiments) - Various small experiments in JavaScript
 
-*   [frankpf/gridless-boilerplate](https://github.com/frankpf/gridless-boilerplate) - Gridless is an awesome HTML5 and CSS3 boilerplate for making responsive, cross-browser websites with beautiful typography
+## eaf
+
+*   [emacs-eaf/eaf-mindmap](https://github.com/emacs-eaf/eaf-mindmap) - Keyboard-driven Mindmap editor
+
+## emacs
+
+*   [emacs-eaf/eaf-mindmap](https://github.com/emacs-eaf/eaf-mindmap) - Keyboard-driven Mindmap editor
+
+*   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+
+## emacs-lisp
+
+*   [emacs-eaf/eaf-mindmap](https://github.com/emacs-eaf/eaf-mindmap) - Keyboard-driven Mindmap editor
+
+## mindmap
+
+*   [emacs-eaf/eaf-mindmap](https://github.com/emacs-eaf/eaf-mindmap) - Keyboard-driven Mindmap editor
+
+*   [phase1geo/Minder](https://github.com/phase1geo/Minder) - Mind-mapping application for Elementary OS
+
+*   [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
+
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## managed-by-terraform
 
