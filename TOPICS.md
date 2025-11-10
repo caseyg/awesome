@@ -3035,7 +3035,7 @@
 
 *   [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian) -
 
-*   [vercel/workflow](https://github.com/vercel/workflow) - Workflow DevKit: Build durable, resilient, and observable workflows
+*   [vercel/workflow](https://github.com/vercel/workflow) - Workflow DevKit: Build durable, reliable, and observable apps and AI Agents in Typescript
 
 *   [IBM-OSS-Support/GenAI-Slack-Thread-Reader-and-Chat-Bot](https://github.com/IBM-OSS-Support/GenAI-Slack-Thread-Reader-and-Chat-Bot) -
 
@@ -3043,7 +3043,7 @@
 
 *   [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 
-*   [inline-chat/inline](https://github.com/inline-chat/inline) - 💬 A better way to chat for teams
+*   [inline-chat/inline](https://github.com/inline-chat/inline) - Inline is a fast, lightweight, scalable, and powerful work chat app which enables unprecedented collaboration bandwidth.
 
 *   [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 

@@ -66,7 +66,7 @@
 
 *   [m-rgba/obsidian-ai-agent](https://github.com/m-rgba/obsidian-ai-agent) - An integrated AI agent (currently Claude Code) plugin for Obsidian.
 
-*   [vercel/workflow](https://github.com/vercel/workflow) - Workflow DevKit: Build durable, resilient, and observable workflows
+*   [vercel/workflow](https://github.com/vercel/workflow) - Workflow DevKit: Build durable, reliable, and observable apps and AI Agents in Typescript
 
 *   [heyito/ito](https://github.com/heyito/ito) - Ito, smart dictation in every application
 
@@ -2636,7 +2636,7 @@
 
 ## Swift
 
-*   [inline-chat/inline](https://github.com/inline-chat/inline) - 💬 A better way to chat for teams
+*   [inline-chat/inline](https://github.com/inline-chat/inline) - Inline is a fast, lightweight, scalable, and powerful work chat app which enables unprecedented collaboration bandwidth.
 
 *   [finnvoor/yap](https://github.com/finnvoor/yap) - 🗣️ A CLI for on-device speech transcription using Speech.framework on macOS 26
 
