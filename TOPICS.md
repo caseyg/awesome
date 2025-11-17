@@ -2987,7 +2987,7 @@
 
 *   [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian) -
 
-*   [vercel/workflow](https://github.com/vercel/workflow) - Workflow DevKit: Build durable, reliable, and observable apps and AI Agents in Typescript
+*   [vercel/workflow](https://github.com/vercel/workflow) - Workflow DevKit: Build durable, reliable, and observable apps and AI Agents in TypeScript
 
 *   [IBM-OSS-Support/GenAI-Slack-Thread-Reader-and-Chat-Bot](https://github.com/IBM-OSS-Support/GenAI-Slack-Thread-Reader-and-Chat-Bot) -
 

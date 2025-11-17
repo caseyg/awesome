@@ -68,7 +68,7 @@
 
 *   [m-rgba/obsidian-ai-agent](https://github.com/m-rgba/obsidian-ai-agent) - An integrated AI agent (currently Claude Code) plugin for Obsidian.
 
-*   [vercel/workflow](https://github.com/vercel/workflow) - Workflow DevKit: Build durable, reliable, and observable apps and AI Agents in Typescript
+*   [vercel/workflow](https://github.com/vercel/workflow) - Workflow DevKit: Build durable, reliable, and observable apps and AI Agents in TypeScript
 
 *   [heyito/ito](https://github.com/heyito/ito) - Ito, smart dictation in every application
 
