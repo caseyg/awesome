@@ -4,6 +4,12 @@
 
 ## Table of Contents
 
+*   [cookiecutter](#cookiecutter)
+*   [copier-template](#copier-template)
+*   [hacktoberfest](#hacktoberfest)
+*   [project-template](#project-template)
+*   [python](#python)
+*   [scaffolding](#scaffolding)
 *   [ai-agents](#ai-agents)
 *   [ai-coding](#ai-coding)
 *   [claude](#claude)
@@ -230,11 +236,9 @@
 *   [watsonx-orchestrate](#watsonx-orchestrate)
 *   [evaluation-framework](#evaluation-framework)
 *   [evaluation-metrics](#evaluation-metrics)
-*   [hacktoberfest](#hacktoberfest)
 *   [llm-evaluation](#llm-evaluation)
 *   [llm-evaluation-framework](#llm-evaluation-framework)
 *   [llm-evaluation-metrics](#llm-evaluation-metrics)
-*   [python](#python)
 *   [ai-best-practices](#ai-best-practices)
 *   [ai-guides](#ai-guides)
 *   [ai-productivity](#ai-productivity)
@@ -2981,6 +2985,300 @@
 *   [jquery-ui](#jquery-ui)
 *   [screenshot](#screenshot)
 
+## cookiecutter
+
+*   [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
+
+## copier-template
+
+*   [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
+
+## hacktoberfest
+
+*   [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
+
+*   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
+
+*   [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.gg/ejRNvftDp9
+
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+
+*   [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+
+*   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
+
+*   [simplyhexagonal/short-unique-id](https://github.com/simplyhexagonal/short-unique-id) - Short Unique ID (UUID) generation library. Available in NPM.
+
+*   [paoloricciuti/sveltekit-search-params](https://github.com/paoloricciuti/sveltekit-search-params) - The easiest way to read and WRITE from query parameters in sveltekit.
+
+*   [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
+
+*   [json-patch-builder-online/json-patch-builder-online.github.io](https://github.com/json-patch-builder-online/json-patch-builder-online.github.io) - JSON Patch Builder Online
+
+*   [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
+
+*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+
+*   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+
+*   [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
+
+*   [carbon-design-system/devtools](https://github.com/carbon-design-system/devtools) - A simple set of tools for teams building live Carbon pages.
+
+*   [octokit/webhooks](https://github.com/octokit/webhooks) - machine-readable, always up-to-date GitHub Webhooks specifications
+
+*   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
+
+*   [apollo-elements/apollo-elements](https://github.com/apollo-elements/apollo-elements) - 🚀🌛 Use the Launch Platform 👩‍🚀👨‍🚀
+
+*   [pR0Ps/slack-to-discord](https://github.com/pR0Ps/slack-to-discord) - Import a Slack export into a Discord server
+
+*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+
+*   [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
+
+*   [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+
+*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+
+*   [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box.
+
+*   [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
+
+*   [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
+
+*   [apache/answer](https://github.com/apache/answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+
+*   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
+
+*   [gavinr/github-csv-tools](https://github.com/gavinr/github-csv-tools) - Import and export GitHub issues via CSV
+
+*   [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
+
+*   [vsoch/docsy-jekyll](https://github.com/vsoch/docsy-jekyll) - A Jekyll version of the beautiful Docsy!
+
+*   [rseng/awesome-rseng](https://github.com/rseng/awesome-rseng) - A curated list of GitHub organizations that primarily serve open source or academic software projects.
+
+*   [rseng/software](https://github.com/rseng/software) - research software encyclopedia database
+
+*   [IQSS/dataverse](https://github.com/IQSS/dataverse) - Open source research data repository software
+
+*   [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀
+
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+
+*   [redhat-documentation/vale-at-red-hat](https://github.com/redhat-documentation/vale-at-red-hat) - Vale config files, styles, and docs to help individuals and teams roll out Vale
+
+*   [errata-ai/IBM](https://github.com/errata-ai/IBM) - A Vale-compatible implementation of IBM's Developer Editorial Style Guide.
+
+*   [ChrisChinchilla/Openly](https://github.com/ChrisChinchilla/Openly) - A Vale linter style that aims to replicate Grammarly in an open-source, privacy-friendly way
+
+*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+
+*   [publiclab/plots2](https://github.com/publiclab/plots2) - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! :balloon:
+
+*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+
+*   [planetary-social/planetary-ios](https://github.com/planetary-social/planetary-ios) - Social for humans, not algorithms.
+
+*   [athensresearch/athens](https://github.com/athensresearch/athens) - Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21
+
+*   [rasulkireev/awesome-basb](https://github.com/rasulkireev/awesome-basb) - A curated list of resource for Building a Second Brain.
+
+*   [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
+
+*   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
+
+*   [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+
+*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+
+*   [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
+
+*   [daviddarnes/alembic](https://github.com/daviddarnes/alembic) - ⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+
+*   [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
+
+*   [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
+
+*   [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+
+*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+
+*   [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
+
+*   [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
+
+*   [gruntjs/grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify) - Minify files with UglifyJS.
+
+*   [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+*   [freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) - GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
+
+*   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+
+*   [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+
+*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+
+## project-template
+
+*   [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
+
+## python
+
+*   [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
+
+*   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
+
+*   [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).
+
+*   [NirDiamant/RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+
+*   [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
+
+*   [jeffjjohnston/fastmail-mcp-server](https://github.com/jeffjjohnston/fastmail-mcp-server) - A basic MCP server that provides access to a Fastmail inbox
+
+*   [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
+
+*   [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
+
+*   [i-am-bee/acp](https://github.com/i-am-bee/acp) - Open protocol for communication between AI agents, applications, and humans.
+
+*   [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.gg/ejRNvftDp9
+
+*   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+
+*   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript.
+
+*   [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
+
+*   [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services
+
+*   [DS4SD/deepsearch-toolkit](https://github.com/DS4SD/deepsearch-toolkit) -  Interact with the Deep Search platform for new knowledge explorations and discoveries
+
+*   [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
+
+*   [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.
+
+*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
+
+*   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+
+*   [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
+
+*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+*   [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
+
+*   [mongodb-labs/ipsum](https://github.com/mongodb-labs/ipsum) - Python utils to create random JSON data and import into mongoDB - This Repository is NOT a supported MongoDB product
+
+*   [linto-ai/whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual Automatic Speech Recognition with word-level timestamps and confidence
+
+*   [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+
+*   [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
+
+*   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
+
+*   [natelandau/obsidian-metadata](https://github.com/natelandau/obsidian-metadata) - Batch updates to metadata in an Obsidian vault
+
+*   [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
+
+*   [biolab/orange3](https://github.com/biolab/orange3) - 🍊 :bar\_chart: :bulb: Orange: Interactive data analysis
+
+*   [psobot/keynote-parser](https://github.com/psobot/keynote-parser) - A packer/unpacker for Apple Keynote presentation files.
+
+*   [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+*   [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact, analyze and structure massive text, image, embedding, audio and video datasets
+
+*   [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
+
+*   [Geeks-Vegeta/medium-blog-scraping](https://github.com/Geeks-Vegeta/medium-blog-scraping) - 🕸️ Medium Blog Scrapper to Deta.sh 🌌
+
+*   [yangdanny97/slack-export-extraction](https://github.com/yangdanny97/slack-export-extraction) - Simple class to read Slack public data exports into a data structure for easy preprocessing and manipulation
+
+*   [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+
+*   [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+
+*   [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
+
+*   [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+
+*   [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+
+*   [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
+
+*   [palewire/news-homepages](https://github.com/palewire/news-homepages) - An open-source archive that gathers, saves, shares and analyzes news homepages
+
+*   [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
+
+*   [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
+
+*   [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
+
+*   [caltechlibrary/handprint](https://github.com/caltechlibrary/handprint) - Apply different text recognition services to images of handwritten documents.
+
+*   [whiskyechobravo/kerko](https://github.com/whiskyechobravo/kerko) - A web application component that provides a faceted search interface for bibliographies managed with Zotero.
+
+*   [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+
+*   [cleverdevil/indiepaper](https://github.com/cleverdevil/indiepaper) - A "read later" service for the IndieWeb using Micropub
+
+*   [django-wiki/django-wiki](https://github.com/django-wiki/django-wiki) - A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
+
+*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+
+*   [programminghistorian/jekyll](https://github.com/programminghistorian/jekyll) - Jekyll-based static site for The Programming Historian
+
+*   [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+
+*   [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
+
+*   [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
+
+*   [Rhizome-Conifer/conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
+
+*   [javierarce/toolbox](https://github.com/javierarce/toolbox) - A collection of tools, APIs and other resources to use in creative coding web projects.
+
+*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
+
+*   [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
+
+*   [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
+
+*   [freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) - GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
+
+*   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+
+*   [tweepy/tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
+
+*   [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
+
+*   [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
+
+*   [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover) - A Python utility for moving bookmarks/reading lists between services
+
+*   [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
+
+## scaffolding
+
+*   [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
+
 ## ai-agents
 
 *   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
@@ -5254,8 +5552,6 @@
 *   [tjackiw/acts-as-readable](https://github.com/tjackiw/acts-as-readable) - A simple plugin that allows a user to mark anything as 'read.' Common usage would include forum posts, news items, etc.
 
 *   [buymeasoda/soda-theme](https://github.com/buymeasoda/soda-theme) - Dark and light custom UI themes for Sublime Text
-
-*   [steipete/PSStackedView](https://github.com/steipete/PSStackedView) - open source implementation of Twitter/iPad stacked ui - done right.
 
 ## ide
 
@@ -8233,138 +8529,6 @@
 
 *   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 
-## hacktoberfest
-
-*   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
-
-*   [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.gg/ejRNvftDp9
-
-*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-
-*   [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
-
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-
-*   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
-
-*   [simplyhexagonal/short-unique-id](https://github.com/simplyhexagonal/short-unique-id) - Short Unique ID (UUID) generation library. Available in NPM.
-
-*   [paoloricciuti/sveltekit-search-params](https://github.com/paoloricciuti/sveltekit-search-params) - The easiest way to read and WRITE from query parameters in sveltekit.
-
-*   [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
-
-*   [json-patch-builder-online/json-patch-builder-online.github.io](https://github.com/json-patch-builder-online/json-patch-builder-online.github.io) - JSON Patch Builder Online
-
-*   [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
-
-*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
-
-*   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-
-*   [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
-
-*   [carbon-design-system/devtools](https://github.com/carbon-design-system/devtools) - A simple set of tools for teams building live Carbon pages.
-
-*   [octokit/webhooks](https://github.com/octokit/webhooks) - machine-readable, always up-to-date GitHub Webhooks specifications
-
-*   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
-
-*   [apollo-elements/apollo-elements](https://github.com/apollo-elements/apollo-elements) - 🚀🌛 Use the Launch Platform 👩‍🚀👨‍🚀
-
-*   [pR0Ps/slack-to-discord](https://github.com/pR0Ps/slack-to-discord) - Import a Slack export into a Discord server
-
-*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-
-*   [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
-
-*   [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-
-*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-
-*   [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box.
-
-*   [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
-
-*   [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
-
-*   [apache/answer](https://github.com/apache/answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-
-*   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-
-*   [gavinr/github-csv-tools](https://github.com/gavinr/github-csv-tools) - Import and export GitHub issues via CSV
-
-*   [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
-
-*   [vsoch/docsy-jekyll](https://github.com/vsoch/docsy-jekyll) - A Jekyll version of the beautiful Docsy!
-
-*   [rseng/awesome-rseng](https://github.com/rseng/awesome-rseng) - A curated list of GitHub organizations that primarily serve open source or academic software projects.
-
-*   [rseng/software](https://github.com/rseng/software) - research software encyclopedia database
-
-*   [IQSS/dataverse](https://github.com/IQSS/dataverse) - Open source research data repository software
-
-*   [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀
-
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-
-*   [redhat-documentation/vale-at-red-hat](https://github.com/redhat-documentation/vale-at-red-hat) - Vale config files, styles, and docs to help individuals and teams roll out Vale
-
-*   [errata-ai/IBM](https://github.com/errata-ai/IBM) - A Vale-compatible implementation of IBM's Developer Editorial Style Guide.
-
-*   [ChrisChinchilla/Openly](https://github.com/ChrisChinchilla/Openly) - A Vale linter style that aims to replicate Grammarly in an open-source, privacy-friendly way
-
-*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-
-*   [publiclab/plots2](https://github.com/publiclab/plots2) - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! :balloon:
-
-*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-
-*   [planetary-social/planetary-ios](https://github.com/planetary-social/planetary-ios) - Social for humans, not algorithms.
-
-*   [athensresearch/athens](https://github.com/athensresearch/athens) - Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21
-
-*   [rasulkireev/awesome-basb](https://github.com/rasulkireev/awesome-basb) - A curated list of resource for Building a Second Brain.
-
-*   [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
-
-*   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-
-*   [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-
-*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-
-*   [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
-
-*   [daviddarnes/alembic](https://github.com/daviddarnes/alembic) - ⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-
-*   [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
-
-*   [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
-
-*   [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
-
-*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-
-*   [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
-
-*   [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
-
-*   [gruntjs/grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify) - Minify files with UglifyJS.
-
-*   [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-*   [freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) - GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
-
-*   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-
-*   [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-
-*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
-
 ## llm-evaluation
 
 *   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
@@ -8378,148 +8542,6 @@
 ## llm-evaluation-metrics
 
 *   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
-
-## python
-
-*   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
-
-*   [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).
-
-*   [NirDiamant/RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
-
-*   [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
-
-*   [jeffjjohnston/fastmail-mcp-server](https://github.com/jeffjjohnston/fastmail-mcp-server) - A basic MCP server that provides access to a Fastmail inbox
-
-*   [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-
-*   [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
-
-*   [i-am-bee/acp](https://github.com/i-am-bee/acp) - Open protocol for communication between AI agents, applications, and humans.
-
-*   [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.gg/ejRNvftDp9
-
-*   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-
-*   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript.
-
-*   [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
-
-*   [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services
-
-*   [DS4SD/deepsearch-toolkit](https://github.com/DS4SD/deepsearch-toolkit) -  Interact with the Deep Search platform for new knowledge explorations and discoveries
-
-*   [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
-
-*   [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.
-
-*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
-
-*   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-
-*   [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
-
-*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-
-*   [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-
-*   [mongodb-labs/ipsum](https://github.com/mongodb-labs/ipsum) - Python utils to create random JSON data and import into mongoDB - This Repository is NOT a supported MongoDB product
-
-*   [linto-ai/whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual Automatic Speech Recognition with word-level timestamps and confidence
-
-*   [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
-
-*   [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
-
-*   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
-
-*   [natelandau/obsidian-metadata](https://github.com/natelandau/obsidian-metadata) - Batch updates to metadata in an Obsidian vault
-
-*   [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
-
-*   [biolab/orange3](https://github.com/biolab/orange3) - 🍊 :bar\_chart: :bulb: Orange: Interactive data analysis
-
-*   [psobot/keynote-parser](https://github.com/psobot/keynote-parser) - A packer/unpacker for Apple Keynote presentation files.
-
-*   [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-*   [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact, analyze and structure massive text, image, embedding, audio and video datasets
-
-*   [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
-
-*   [Geeks-Vegeta/medium-blog-scraping](https://github.com/Geeks-Vegeta/medium-blog-scraping) - 🕸️ Medium Blog Scrapper to Deta.sh 🌌
-
-*   [yangdanny97/slack-export-extraction](https://github.com/yangdanny97/slack-export-extraction) - Simple class to read Slack public data exports into a data structure for easy preprocessing and manipulation
-
-*   [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-
-*   [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-
-*   [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
-
-*   [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-
-*   [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-
-*   [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
-
-*   [palewire/news-homepages](https://github.com/palewire/news-homepages) - An open-source archive that gathers, saves, shares and analyzes news homepages
-
-*   [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-
-*   [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
-
-*   [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
-
-*   [caltechlibrary/handprint](https://github.com/caltechlibrary/handprint) - Apply different text recognition services to images of handwritten documents.
-
-*   [whiskyechobravo/kerko](https://github.com/whiskyechobravo/kerko) - A web application component that provides a faceted search interface for bibliographies managed with Zotero.
-
-*   [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-
-*   [cleverdevil/indiepaper](https://github.com/cleverdevil/indiepaper) - A "read later" service for the IndieWeb using Micropub
-
-*   [django-wiki/django-wiki](https://github.com/django-wiki/django-wiki) - A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
-
-*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-
-*   [programminghistorian/jekyll](https://github.com/programminghistorian/jekyll) - Jekyll-based static site for The Programming Historian
-
-*   [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
-
-*   [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
-
-*   [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
-
-*   [Rhizome-Conifer/conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
-
-*   [javierarce/toolbox](https://github.com/javierarce/toolbox) - A collection of tools, APIs and other resources to use in creative coding web projects.
-
-*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
-
-*   [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
-
-*   [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
-
-*   [freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) - GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
-
-*   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-
-*   [tweepy/tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
-
-*   [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
-
-*   [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
-
-*   [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover) - A Python utility for moving bookmarks/reading lists between services
-
-*   [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
 
 ## ai-best-practices
 
