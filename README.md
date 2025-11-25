@@ -1010,6 +1010,8 @@
 
 *   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 
+*   [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+
 *   [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
 
 *   [mbailey/openai-proxy](https://github.com/mbailey/openai-proxy) - Route select OpenAI API endpoints to local services (e.g. Whisper, Ollama, Kororo).
@@ -1234,7 +1236,7 @@
 
 *   [htunnicliff/jmap-jam](https://github.com/htunnicliff/jmap-jam) - Jam is a tiny (~2kb gzipped), strongly-typed JMAP client with zero runtime dependencies. It has friendly, fluent APIs that make working with JMAP a breeze.
 
-*   [different-ai/note-companion](https://github.com/different-ai/note-companion) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
+*   [Nexus-JPF/note-companion](https://github.com/Nexus-JPF/note-companion) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
 
 *   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 
@@ -1967,8 +1969,6 @@
 *   [emacs-eaf/eaf-mindmap](https://github.com/emacs-eaf/eaf-mindmap) - Keyboard-driven Mindmap editor
 
 *   [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian) -
-
-*   [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 
 *   [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 

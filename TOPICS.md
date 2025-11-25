@@ -3417,7 +3417,7 @@
 
 *   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
 
-*   [different-ai/note-companion](https://github.com/different-ai/note-companion) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
+*   [Nexus-JPF/note-companion](https://github.com/Nexus-JPF/note-companion) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
 
 *   [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 
@@ -3682,8 +3682,6 @@
 *   [pR0Ps/slack-to-discord](https://github.com/pR0Ps/slack-to-discord) - Import a Slack export into a Discord server
 
 *   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-
-*   [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 
 *   [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
@@ -6567,7 +6565,7 @@
 
 *   [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 
-*   [different-ai/note-companion](https://github.com/different-ai/note-companion) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
+*   [Nexus-JPF/note-companion](https://github.com/Nexus-JPF/note-companion) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
 
 *   [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 
@@ -6855,7 +6853,7 @@
 
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 
-*   [different-ai/note-companion](https://github.com/different-ai/note-companion) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
+*   [Nexus-JPF/note-companion](https://github.com/Nexus-JPF/note-companion) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
 
 *   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 
