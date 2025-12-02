@@ -166,7 +166,7 @@
 
 ## TypeScript
 
-*   [ProfSynapse/claudesidian-mcp](https://github.com/ProfSynapse/claudesidian-mcp) -
+*   [ProfSynapse/nexus](https://github.com/ProfSynapse/nexus) -
 
 *   [leochiu-a/universal-agents](https://github.com/leochiu-a/universal-agents) - This repository hosts the canonical rules and skills every AI Agent must follow so that behavior stays consistent across runtimes.
 

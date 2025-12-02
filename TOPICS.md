@@ -3139,7 +3139,7 @@
 
 ## miscellaneous
 
-*   [ProfSynapse/claudesidian-mcp](https://github.com/ProfSynapse/claudesidian-mcp) -
+*   [ProfSynapse/nexus](https://github.com/ProfSynapse/nexus) -
 
 *   [EveryInc/compounding-engineering-plugin](https://github.com/EveryInc/compounding-engineering-plugin) - Official Claude Code compounding engineering plugin
 
@@ -5808,8 +5808,6 @@
 ## hacktoberfest
 
 *   [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
-
-*   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 
 *   [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.gg/ejRNvftDp9
 
