@@ -155,7 +155,7 @@
 
 *   [lukasbach/pensieve](https://github.com/lukasbach/pensieve) - Desktop app for recording meetings from locally running apps and transcribing and summarizing them with a local LLM
 
-*   [amicalhq/amical](https://github.com/amicalhq/amical) - 🎙️ Open Source and Local-first AI Dictation App ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.
+*   [amicalhq/amical](https://github.com/amicalhq/amical) - 🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.
 
 *   [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 
@@ -1255,7 +1255,7 @@
 
 *   [IBM-OSS-Support/GenAI-Slack-Thread-Reader-and-Chat-Bot](https://github.com/IBM-OSS-Support/GenAI-Slack-Thread-Reader-and-Chat-Bot) -
 
-*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
+*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 
 *   [cuga-project/cuga-agent](https://github.com/cuga-project/cuga-agent) - CUGA is an open-source generalist agent for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features.
 
