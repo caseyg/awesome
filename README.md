@@ -63,6 +63,8 @@
 
 ## Python
 
+*   [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
+
 *   [BandarLabs/open-skills](https://github.com/BandarLabs/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
 
 *   [vinayak-mehta/mcp-browser-use](https://github.com/vinayak-mehta/mcp-browser-use) - MCP server for browser-use
@@ -2893,8 +2895,6 @@
 
 *   [rsms/hunch-upload](https://github.com/rsms/hunch-upload) - Multiple concurrent files uploads with progress in pure HTML
 
-*   [mattb/flotsam](https://github.com/mattb/flotsam) - Slushpile for handy fragments of script that don't fit anywhere else
-
 ## Ruby
 
 *   [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
@@ -2951,7 +2951,7 @@
 
 *   [merlos/jekyll-auto-image](https://github.com/merlos/jekyll-auto-image) - jekyll plugin that makes available the first image of a post in the template
 
-*   [thoughtbot/suspenders](https://github.com/thoughtbot/suspenders) - A Rails template with our standard defaults.
+*   [thoughtbot/suspenders](https://github.com/thoughtbot/suspenders) - A Rails application template with our standard defaults, optimized for deployment on Heroku.
 
 *   [saclark/jekyll-multipost](https://github.com/saclark/jekyll-multipost) - Generate multiple posts, each utilizing a different layout, from a single post entry.
 
