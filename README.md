@@ -99,6 +99,8 @@
 
 *   [microsoft/mcp-interviewer](https://github.com/microsoft/mcp-interviewer) - Catch MCP server issues before your agents do.
 
+*   [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+
 *   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 
 *   [hwy2bell/Google-Lists\_to\_Apple-Guides](https://github.com/hwy2bell/Google-Lists_to_Apple-Guides) - Python script to clean Google Lists and generate Apple Maps search links. Works alongside an Apple Shortcut for quick transfer of saved locations.
@@ -1850,8 +1852,6 @@
 *   [emacs-eaf/eaf-mindmap](https://github.com/emacs-eaf/eaf-mindmap) - Keyboard-driven Mindmap editor
 
 *   [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian) -
-
-*   [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 
 *   [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 
