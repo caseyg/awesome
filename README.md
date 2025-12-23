@@ -31,7 +31,6 @@
 *   [Vue](#vue)
 *   [Elixir](#elixir)
 *   [Makefile](#makefile)
-*   [Handlebars](#handlebars)
 *   [Zig](#zig)
 *   [R](#r)
 *   [Dart](#dart)
@@ -115,8 +114,6 @@
 
 *   [coderpr0grammer/autocomplete-ai](https://github.com/coderpr0grammer/autocomplete-ai) -
 
-*   [carbon-design-system/carbon-react-router-starter](https://github.com/carbon-design-system/carbon-react-router-starter) - A template for developers to start new UIs with Carbon, with Vite and server-side rendering, and a few more goodies
-
 *   [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 
 *   [PhialsBasement/Chain-of-Recursive-Thoughts](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts) - I made my AI think harder by making it argue with itself repeatedly. It works stupidly well.
@@ -170,8 +167,6 @@
 *   [baisong/sveltekit-airtable-quickstart](https://github.com/baisong/sveltekit-airtable-quickstart) - Implements the official Airtable NPM package, making fetched records accessible in the +page.svelte data object
 
 *   [Flet/github-slugger](https://github.com/Flet/github-slugger) - :octocat: Generate a slug just like GitHub does for markdown headings.
-
-*   [carbon-design-system/devtools](https://github.com/carbon-design-system/devtools) - A simple set of tools for teams building live Carbon pages.
 
 *   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 
@@ -2127,8 +2122,6 @@
 
 *   [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 
-*   [carbon-design-system/carbon-for-ibm-dotcom](https://github.com/carbon-design-system/carbon-for-ibm-dotcom) - Carbon for IBM.com is based on the Carbon Design System for IBM
-
 *   [iDempiere-micro/erpjs](https://github.com/iDempiere-micro/erpjs) - erpjs - open source serverless headless ERP\&CRM in JavaScript/TypeScript
 
 *   [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
@@ -3942,10 +3935,6 @@
 *   [caltechlibrary/baler](https://github.com/caltechlibrary/baler) - Bad link reporter for GitHub repositories
 
 *   [joho/7XX-rfc](https://github.com/joho/7XX-rfc) - An RFC for a new series of HTTP status codes covering developer fouls.
-
-## Handlebars
-
-*   [carbon-design-system/carbon-for-ibm-dotcom-web-components-test](https://github.com/carbon-design-system/carbon-for-ibm-dotcom-web-components-test) - Environment for testing Carbon for IBM.com web components as a mock application
 
 ## Zig
 
