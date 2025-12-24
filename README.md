@@ -1338,7 +1338,7 @@
 
 *   [rschroll/rmrl](https://github.com/rschroll/rmrl) - Render reMarkable documents to PDF
 
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent toolkit: framework, runtime, and control plane.
 
 *   [definitive-io/duckdb-text2sql](https://github.com/definitive-io/duckdb-text2sql) -
 
