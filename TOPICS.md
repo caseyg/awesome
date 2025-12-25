@@ -5440,7 +5440,7 @@
 
 ## ai
 
-*   [BandarLabs/open-skills](https://github.com/BandarLabs/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
+*   [instavm/open-skills](https://github.com/instavm/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
 
 *   [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
@@ -5592,7 +5592,7 @@
 
 ## claude
 
-*   [BandarLabs/open-skills](https://github.com/BandarLabs/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
+*   [instavm/open-skills](https://github.com/instavm/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
 
 *   [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
@@ -5618,7 +5618,7 @@
 
 ## gemini-cli
 
-*   [BandarLabs/open-skills](https://github.com/BandarLabs/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
+*   [instavm/open-skills](https://github.com/instavm/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
 
 *   [leochiu-a/universal-agents](https://github.com/leochiu-a/universal-agents) - The Lightest Shared Standard for AI Agents
 
@@ -5628,7 +5628,7 @@
 
 ## mcp
 
-*   [BandarLabs/open-skills](https://github.com/BandarLabs/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
+*   [instavm/open-skills](https://github.com/instavm/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
 
 *   [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 
@@ -5684,7 +5684,7 @@
 
 ## ollama
 
-*   [BandarLabs/open-skills](https://github.com/BandarLabs/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
+*   [instavm/open-skills](https://github.com/instavm/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
 
 *   [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 
@@ -5704,7 +5704,7 @@
 
 ## privacy
 
-*   [BandarLabs/open-skills](https://github.com/BandarLabs/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
+*   [instavm/open-skills](https://github.com/instavm/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
 
 *   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 
@@ -5722,11 +5722,11 @@
 
 ## qwen-cli
 
-*   [BandarLabs/open-skills](https://github.com/BandarLabs/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
+*   [instavm/open-skills](https://github.com/instavm/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
 
 ## skills
 
-*   [BandarLabs/open-skills](https://github.com/BandarLabs/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
+*   [instavm/open-skills](https://github.com/instavm/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
 
 *   [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
 

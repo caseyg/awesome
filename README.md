@@ -1136,7 +1136,7 @@
 
 *   [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 
-*   [BandarLabs/open-skills](https://github.com/BandarLabs/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
+*   [instavm/open-skills](https://github.com/instavm/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
 
 *   [vinayak-mehta/mcp-browser-use](https://github.com/vinayak-mehta/mcp-browser-use) - MCP server for browser-use
 
