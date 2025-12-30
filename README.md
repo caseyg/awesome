@@ -4,24 +4,24 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
+*   [PHP](#php)
+*   [Shell](#shell)
 *   [Python](#python)
 *   [Java](#java)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
-*   [miscellaneous](#miscellaneous)
 *   [MDX](#mdx)
 *   [Svelte](#svelte)
 *   [Swift](#swift)
 *   [Ruby](#ruby)
 *   [Go](#go)
-*   [Shell](#shell)
 *   [HTML](#html)
 *   [Clojure](#clojure)
 *   [CSS](#css)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Nunjucks](#nunjucks)
-*   [PHP](#php)
 *   [QML](#qml)
 *   [C++](#c)
 *   [Haml](#haml)
@@ -59,6 +59,690 @@
 *   [Objective-C++](#objective-c-1)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Scala](#scala)
+
+## miscellaneous
+
+*   [lout33/claude\_life\_assistant](https://github.com/lout33/claude_life_assistant) - A personal coach that remembers, notices patterns, and holds you accountable.
+
+*   [carlvellotti/template-product-os](https://github.com/carlvellotti/template-product-os) - Product OS Template - Build your own file-based Product OS with included frameworks and prompts
+
+*   [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
+
+*   [obra/superpowers-marketplace](https://github.com/obra/superpowers-marketplace) - Curated Claude Code plugin marketplace
+
+*   [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
+
+*   [navapbc/strata](https://github.com/navapbc/strata) - A platform that empowers teams to accelerate delivery through self-service tools and training.
+
+*   [IBM/mcp-composer](https://github.com/IBM/mcp-composer) - MCP Composer
+
+*   [microsoft/amplifier](https://github.com/microsoft/amplifier) -
+
+*   [simonw/claude-skills](https://github.com/simonw/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
+
+*   [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
+
+*   [indieweb/wiki](https://github.com/indieweb/wiki) - Wiki backup and issue tracking for indieweb.org
+
+*   [jenna-winkler/ai-power-user-playbook](https://github.com/jenna-winkler/ai-power-user-playbook) - A community-driven playbook of strategies and prompt patterns for effectively working with AI agents.
+
+*   [yousefebrahimi0/list-ai-extensions-chrome-addons-firefox](https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox) - Complete list of AI-powered Extensions for Google Chrome & Addons for Firefox
+
+*   [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
+
+*   [microsoft/vscode-ai-toolkit](https://github.com/microsoft/vscode-ai-toolkit) -
+
+*   [konfig-sdks/openapi-examples](https://github.com/konfig-sdks/openapi-examples) - The highest quality collection of up-to-date OpenAPI specifications for public APIs on the internet. This dataset also includes descriptions, categories, uptime metrics, and media assets for every API.
+
+*   [ibm-granite/granite-code-models](https://github.com/ibm-granite/granite-code-models) - Granite Code Models: A Family of Open Foundation Models for Code Intelligence
+
+*   [Aider-AI/conventions](https://github.com/Aider-AI/conventions) - Community-contributed convention files for use with aider
+
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+
+*   [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
+
+*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+
+*   [IBM/watsonx-code-assistant](https://github.com/IBM/watsonx-code-assistant) - IBM watsonx Code Assistant simplifies and accelerates coding workflows across Python, Java, C, C++, Go, JavaScript, Typescript, and more. It leverages the Granite model to augment programmer skill sets, simplifying and automating coding and modernization efforts.
+
+*   [openai/SWELancer-Benchmark](https://github.com/openai/SWELancer-Benchmark) - This repo contains the dataset and code for the paper "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?"
+
+*   [openai/model\_spec](https://github.com/openai/model_spec) - The OpenAI Model Spec
+
+*   [SpursGoZmy/Awesome-Tabular-LLMs](https://github.com/SpursGoZmy/Awesome-Tabular-LLMs) - We collect papers about "large language models (LLM) for table-related tasks", e.g., using LLM for Table QA task. “表格+LLM”相关论文整理
+
+*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+
+*   [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
+
+*   [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - An ultra-simplified explanation of design patterns implemented in javascript
+
+*   [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+
+*   [IBM/wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
+
+*   [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) - Free variable writing fonts from iA
+
+*   [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of
+
+*   [XargsUK/awesome-adhd](https://github.com/XargsUK/awesome-adhd) - A curated list of ADHD apps, books, ideas and resources across the web!
+
+*   [IBM/watsonx-ai-python-sdk](https://github.com/IBM/watsonx-ai-python-sdk) - IBM watsonx.ai Python Client Documentation
+
+*   [hrishioa/tough-llm-tests](https://github.com/hrishioa/tough-llm-tests) - Some tough questions to test new models.
+
+*   [denten-courses/narrative](https://github.com/denten-courses/narrative) -
+
+*   [hng/tech-coops](https://github.com/hng/tech-coops) - A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
+
+*   [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
+
+*   [steka/reMarkable\_templates](https://github.com/steka/reMarkable_templates) -
+
+*   [vonneudeck/remarkable-bujo](https://github.com/vonneudeck/remarkable-bujo) - Bullet Journal templates for the reMarkable (2) paper tablet
+
+*   [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
+
+*   [mrseth01/awesome-adhd](https://github.com/mrseth01/awesome-adhd) - Awesome Resources for ADHD
+
+*   [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md) -
+
+*   [domenicosolazzo/awesome-okr](https://github.com/domenicosolazzo/awesome-okr) - A curated list about OKR (Objective - Key Results)
+
+*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+*   [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile) - Awesome List of resources on Agile Software Development.
+
+*   [mongodb-labs/ipsum](https://github.com/mongodb-labs/ipsum) - Python utils to create random JSON data and import into mongoDB - This Repository is NOT a supported MongoDB product
+
+*   [shaunlebron/history-of-lisp-parens](https://github.com/shaunlebron/history-of-lisp-parens) - a history of Lisp's most notorious artifact, parentheses
+
+*   [ivanreese/visual-programming-codex](https://github.com/ivanreese/visual-programming-codex) - Waypoints to the past and future of visual programming.
+
+*   [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
+
+*   [kepano/40-questions](https://github.com/kepano/40-questions) - Questions that I ask myself at the end of each year and each decade.
+
+*   [gigasheetco/fortune-500-domains](https://github.com/gigasheetco/fortune-500-domains) -
+
+*   [Open-Source-Collective/osc](https://github.com/Open-Source-Collective/osc) - osc
+
+*   [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
+
+*   [formbricks/design](https://github.com/formbricks/design) - Formbricks Design Team Repository.
+
+*   [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
+
+*   [CerebralBlue/Neuralseek\_Watson-Assistant-Extension](https://github.com/CerebralBlue/Neuralseek_Watson-Assistant-Extension) -
+
+*   [bcneng/recruiter-autoresponse](https://github.com/bcneng/recruiter-autoresponse) - Based on the Medium Article entitled - "Career Advice Nobody Gave Me: Never ignore a recruiter" this repo has a copyable script which you can use to auto-respond to recruiters.
+
+*   [webstudio-is/webstudio-community](https://github.com/webstudio-is/webstudio-community) - 🤗 Start Here! Discussions, issues, docs and roadmap
+
+*   [protontypes/open-business-models](https://github.com/protontypes/open-business-models) - A curated list on the topic of open business models and strategies
+
+*   [franquil/question-driven-one-page-business-plan-template](https://github.com/franquil/question-driven-one-page-business-plan-template) - A question-driven, simple, concise one-page template that help you clarify your business ideas.
+
+*   [metagov/govbase-website](https://github.com/metagov/govbase-website) - Metagov's Govbase landing page
+
+*   [Ledgerback/Platform-Coop](https://github.com/Ledgerback/Platform-Coop) - Repository for platform cooperativism information.
+
+*   [TfTHacker/DashboardPlusPlus](https://github.com/TfTHacker/DashboardPlusPlus) - Demonstrating the Dashboard++ method of organizing a vault in Obsidian
+
+*   [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
+
+*   [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
+
+*   [github/MVG](https://github.com/github/MVG) - MVG = Minimum Viable Governance
+
+*   [jonkeegan/behind-this-website](https://github.com/jonkeegan/behind-this-website) - Checklist for investigating the provenance and ownership of websites.
+
+*   [seatable/seatable](https://github.com/seatable/seatable) - SeaTable: easy like a spreadsheet, powerful like a database. Unlimited rows in a single base.
+
+*   [impactmapping/open-impact-mapping-workshop](https://github.com/impactmapping/open-impact-mapping-workshop) - Facilitation exercises for teaching/running impact mapping sessions, Creative Commons
+
+*   [swyxio/awesome-dev-podcasts](https://github.com/swyxio/awesome-dev-podcasts) - a curated list of awesome dev podcasts and why they are awesome
+
+*   [researchops/pace\_layers\_matrix](https://github.com/researchops/pace_layers_matrix) - These are the CC Sharealike licensed workshop materials from the Pace Layers Matrix workshop on using the 8 pillars of UR and a pace layers framework to help create a future strategy and forward work plan for UR
+
+*   [nickmilo/IMF-v3](https://github.com/nickmilo/IMF-v3) -
+
+*   [infews/job\_search\_in\_obsidian](https://github.com/infews/job_search_in_obsidian) - An Obsidian Vault with notes & process for finding a job
+
+*   [a4blip/A4BLiP](https://github.com/a4blip/A4BLiP) - Archives for Black Lives in Philly was inspired by Jarrett Drake, Digital Archivist at Princeton University, and his work to end archives' erasure of Black lives. The group has been working on a statement about issues raised by the #BlackLivesMatter movement and our role as archives professionals since August of this year. The goal of the statement is to illustrate how the Black Lives Matter movement is an archives issue and for it to become a living document which other organizations modify and add to.
+
+*   [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+
+*   [ournetworks/2020-submissions](https://github.com/ournetworks/2020-submissions) - ARCHIVED--Submissions for Our Networks 2020 have now closed, check out our full program online!
+
+*   [rasulkireev/awesome-basb](https://github.com/rasulkireev/awesome-basb) - A curated list of resource for Building a Second Brain.
+
+*   [natematias/covid-19-social-science-research](https://github.com/natematias/covid-19-social-science-research) - COVID 19 Social Science Research Tracker
+
+*   [roam-unofficial/awesome-roam](https://github.com/roam-unofficial/awesome-roam) - A curated list of https://roamresearch.com/ resources
+
+*   [pzwang/lostweb](https://github.com/pzwang/lostweb) - The Web We Lost, and What Comes Next
+
+*   [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
+
+*   [SFPC/codeofconduct](https://github.com/SFPC/codeofconduct) -
+
+*   [pol-is/polis-issues](https://github.com/pol-is/polis-issues) - :bug: feature requests and bug reports
+
+*   [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
+
+*   [fsteff/p2p-base](https://github.com/fsteff/p2p-base) - collection of ideas for a p2p library
+
+*   [pfrazee/infocivics](https://github.com/pfrazee/infocivics) - Information Civics paper
+
+*   [new-computers/writing](https://github.com/new-computers/writing) -
+
+*   [hackergrrl/git-ssb-intro](https://github.com/hackergrrl/git-ssb-intro) - :wrench: Learn git-ssb: a decentralized GitHub alternative.
+
+*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+
+*   [dat-ecosystem-archive/DEPs](https://github.com/dat-ecosystem-archive/DEPs) - Dat Enhancement Proposals. Contains all specs for the Dat protocol, including drafts. \[ DEPRECATED - see https://github.com/hypercore-protocol/hypercore-proposals for similar functionality. More info on active projects and modules at https://dat-ecosystem.org/ ]
+
+*   [lynaghk/subform-layout](https://github.com/lynaghk/subform-layout) - Embeddable layout engine. Like flexbox, but with fewer concepts, applied uniformly.
+
+*   [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
+
+*   [wcmaart/collection](https://github.com/wcmaart/collection) - Williams College Museum of Art (WCMA) collection data
+
+*   [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
+
+*   [MimiOnuoha/On-Algorithmic-Violence](https://github.com/MimiOnuoha/On-Algorithmic-Violence) - Attempts at fleshing out the concept of algorithmic violence.
+
+*   [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer
+
+*   [denten-courses/technologies-of-dissent](https://github.com/denten-courses/technologies-of-dissent) -
+
+*   [mttmyr/awesome-tech-cooperatives](https://github.com/mttmyr/awesome-tech-cooperatives) - A collection of awesome cooperative tech companies and projects
+
+*   [kateray/floodlight](https://github.com/kateray/floodlight) -
+
+*   [MimiOnuoha/missing-datasets](https://github.com/MimiOnuoha/missing-datasets) - An overview and exploration of the concept of missing datasets.
+
+*   [antimodular/Best-practices-for-conservation-of-media-art](https://github.com/antimodular/Best-practices-for-conservation-of-media-art) - Best practices for conservation of media art from an artist’s perspective
+
+*   [MimiOnuoha/Philosophy-of-Data](https://github.com/MimiOnuoha/Philosophy-of-Data) - Philosophy of Data | Bennington College | Fall 2017
+
+*   [NaNoGenMo/2017](https://github.com/NaNoGenMo/2017) - National Novel Generation Month, 2017 edition.
+
+*   [prosecconetwork/TraceElements](https://github.com/prosecconetwork/TraceElements) - Tracery grammars for building creative Twitterbots. Contains generative grammars for story-telling, metaphor generation, ironic put-downs, Trumpisms, short poems, etc.
+
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+
+*   [StephenMilborrow/muct](https://github.com/StephenMilborrow/muct) - Landmarked face database (3755 faces, 76 landmarks)
+
+*   [aparrish/text-resources](https://github.com/aparrish/text-resources) - I have this big list of links to text stuff that I like, so I thought I'd make it into a repository.
+
+*   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+
+*   [DemocracyEarth/paper](https://github.com/DemocracyEarth/paper) - On self sovereign human identity.
+
+*   [jukedeck/nottingham-dataset](https://github.com/jukedeck/nottingham-dataset) - Cleaned version of the Nottingham dataset
+
+*   [SFPC/code-narratives](https://github.com/SFPC/code-narratives) - Summer '17 two-week SFPC session on generating and processing text with Python
+
+*   [cobudget-old/reading-list](https://github.com/cobudget-old/reading-list) - readings relevant to cobudget and its surrounding community
+
+*   [machinomy/awesome-non-financial-blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Curated list of projects that build non-financial applications of blockchain
+
+*   [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
+
+*   [mkgold/clouds](https://github.com/mkgold/clouds) -
+
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+*   [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
+
+*   [kai-qu/notation](https://github.com/kai-qu/notation) - Collection of quotes on notation design & how it affects thought.
+
+*   [gitscout/gitscout-feedback](https://github.com/gitscout/gitscout-feedback) - This repo is a place to report bugs, give feedback and share ideas on how we can improve Gitscout — Thanks :heart:
+
+*   [OpenNewsLabs/field-guide-open-source-newsroom](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom) - A community-driven guidebook to releasing open-source code in the newsroom.
+
+*   [OmerShapira/Hatemail-Corpus](https://github.com/OmerShapira/Hatemail-Corpus) - Corpus of incoming hatemail, for linguistic analysis.
+
+*   [hackergrrl/p2p-handbook](https://github.com/hackergrrl/p2p-handbook) - :horse: Let's learn how to peer-to-peer!
+
+*   [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+
+*   [PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks
+
+*   [justanothersystem/tools](https://github.com/justanothersystem/tools) - A directory of web based creative tools.
+
+*   [metmuseum/openaccess](https://github.com/metmuseum/openaccess) - The Metropolitan Museum of Art's Open Access Initiative
+
+*   [texnixe/kirby-secrets](https://github.com/texnixe/kirby-secrets) - Unofficial documentation for Kirby CMS. It's is NOT maintained by the Kirby crew.
+
+*   [Fang-/Urbit-By-Doing](https://github.com/Fang-/Urbit-By-Doing) - A dysfunctional programmer's guide to making things in Hoon.
+
+*   [amiaopensource/open-workflows](https://github.com/amiaopensource/open-workflows) - List of open workflows and resources for A/V archiving
+
+*   [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
+
+*   [yoshuawuyts/tiny-guide-to-non-fancy-node](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node) - A tiny guide to non fancy, high-value Node.js things
+
+*   [learning-gardens/pattern\_language](https://github.com/learning-gardens/pattern_language) - 📐 APL Reading Group
+
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
+*   [Quartz/bad-data-guide](https://github.com/Quartz/bad-data-guide) - An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
+
+*   [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
+
+*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
+
+*   [onethawt/reverseengineering-reading-list](https://github.com/onethawt/reverseengineering-reading-list) - A list of Reverse Engineering articles, books, and papers
+
+*   [iainc/Markdown-Content-Blocks](https://github.com/iainc/Markdown-Content-Blocks) - File transclusion syntax for Markdown.
+
+*   [javierarce/toolbox](https://github.com/javierarce/toolbox) - A collection of tools, APIs and other resources to use in creative coding web projects.
+
+*   [ascott1/accessibility-policy](https://github.com/ascott1/accessibility-policy) - An open accessibility policy
+
+*   [ascott1/ethical-web-dev](https://github.com/ascott1/ethical-web-dev) - A series of short books on ethical web development
+
+*   [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
+
+*   [MuseumofModernArt/collection](https://github.com/MuseumofModernArt/collection) - The Museum of Modern Art (MoMA) collection data
+
+*   [MuseumofModernArt/exhibitions](https://github.com/MuseumofModernArt/exhibitions) - The Museum of Modern Art (MoMA) exhibitions data
+
+*   [idamantium/ExperienceDesign](https://github.com/idamantium/ExperienceDesign) - Syllabus for Experience Design Seminar
+
+*   [javierarce/visual-references](https://github.com/javierarce/visual-references) - A list of visual references that make me immensely happy.
+
+*   [yhatt/marp](https://github.com/yhatt/marp) - The site of classic Markdown presentation writer app
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [mrjoelkemp/awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source) - Collection of links around paid/sustainable open source development
+
+*   [lenazun/working-remotely](https://github.com/lenazun/working-remotely) - A list of tips and practical ideas we've learned while working remotely
+
+*   [CodingTrain/Rainbow-Closed-Captions](https://github.com/CodingTrain/Rainbow-Closed-Captions) - Captions for my YouTube videos.
+
+*   [CodingTrain/Suggestion-Box](https://github.com/CodingTrain/Suggestion-Box) - A repo to track ideas for topics
+
+*   [tchoi8/ArtistToolKit](https://github.com/tchoi8/ArtistToolKit) - Material for a class at SFPC
+
+*   [straup/party-people](https://github.com/straup/party-people) - This is data about donors to museums in the New York City area.
+
+*   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
+
+*   [jed/building-brooklynjs](https://github.com/jed/building-brooklynjs) - My story of how we built BrooklynJS.
+
+*   [opengovfoundation/legal-information](https://github.com/opengovfoundation/legal-information) - The OpenGov Foundation's tax filing, organizational and legal documents
+
+*   [Linkurious/linkurious.js](https://github.com/Linkurious/linkurious.js) -
+
+*   [dequelabs/axe-firefox-devtools](https://github.com/dequelabs/axe-firefox-devtools) - Integration of axe-core into the Firefox developer tools
+
+*   [prettydiff/a11y-tools](https://github.com/prettydiff/a11y-tools) - JS Accessibility Tool List
+
+*   [bradfrost/frontend-guidelines-questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) - A one-page questionnaire to help your team establish effective frontend guidelines, so that you can write consistent & cohesive code together.
+
+*   [ddwht/sketch-dynamic-button](https://github.com/ddwht/sketch-dynamic-button) - Dynamic button plugin for Sketch.app
+
+*   [necolas/idiomatic-css](https://github.com/necolas/idiomatic-css) - Principles of writing consistent, idiomatic CSS.
+
+*   [18F/onboarding-documents](https://github.com/18F/onboarding-documents) - Forms, emails, and checklists to help with onboarding
+
+*   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+
+*   [airbnb/css](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
+
+*   [clef/handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion
+
+*   [erikao/journohackdays](https://github.com/erikao/journohackdays) - A work-in-progress guide to hosting journalism hack days.
+
+*   [max-mapper/recipes](https://github.com/max-mapper/recipes) - recipes i've cooked -- or will cook soon!
+
+*   [melodykramer/PublicMedia](https://github.com/melodykramer/PublicMedia) - Everything Public Media, in One Place
+
+*   [aparrish/sfpc-gen-text-2015](https://github.com/aparrish/sfpc-gen-text-2015) - notes and links for generative text workshop at SFPC 2015
+
+*   [tchoi8/poetry](https://github.com/tchoi8/poetry) - version controlled poetry
+
+*   [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
+
+*   [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+
+*   [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
+
+*   [allisonburtch/Critical-Theory-of-Technology](https://github.com/allisonburtch/Critical-Theory-of-Technology) - Politics, Utopia and Code. Fall 2014 class at SFPC.
+
+*   [dansinker/shareyourwork](https://github.com/dansinker/shareyourwork) -
+
+*   [tchoi8/RememberAndForget](https://github.com/tchoi8/RememberAndForget) -
+
+*   [tegacodes/SocialSoftware](https://github.com/tegacodes/SocialSoftware) -
+
+*   [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
+
+*   [mozilla/DropItLike](https://github.com/mozilla/DropItLike) - INACTIVE - http://mzl.la/ghe-archive - Some good software for those concerned about their OPSEC.  Geared towards journalists, but good for everyone!
+
+*   [stumpsyn/policies](https://github.com/stumpsyn/policies) - Policies for the Stumptown Syndicate
+
+*   [ofZach/sfpcSpring14](https://github.com/ofZach/sfpcSpring14) - code examples from sfpc spring 14
+
+*   [mangini/gdocs2md](https://github.com/mangini/gdocs2md) - Convert a Google Drive Document to the Markdown format, suitable for publishing.
+
+*   [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
+
+*   [dvschultz/99problems](https://github.com/dvschultz/99problems) - 99 Problems and e-reader rendering are all of them
+
+*   [keybase/keybase-issues](https://github.com/keybase/keybase-issues) - A single repo for managing publicly recognized issues with the keybase client, installer, and website.
+
+*   [busterbenson/public](https://github.com/busterbenson/public) - My public self and book of beliefs.
+
+*   [nprapps/bestpractices](https://github.com/nprapps/bestpractices) - Best practices and coding conventions for the NPR Visuals team.
+
+*   [tchoi8/dating](https://github.com/tchoi8/dating) - repo for my dating
+
+*   [opendata/Data-Ecosystems](https://github.com/opendata/Data-Ecosystems) - Ideas and plans for developing new ecosystems of open data. \[RETIRED]
+
+*   [everpix/Everpix-Intelligence](https://github.com/everpix/Everpix-Intelligence) - Uncensored Everpix metrics, financials and business data for your perusing
+
+*   [lifewinning/\_NBP](https://github.com/lifewinning/_NBP) - Documents and notes for a project on the National Business Park in Annapolis Junction, MD
+
+*   [jamiew/gml-spec](https://github.com/jamiew/gml-spec) - The reference Graffiti Markup Language (GML) file format specification
+
+*   [patriciogonzalezvivo/Shell-Initiation](https://github.com/patriciogonzalezvivo/Shell-Initiation) - Exoteric \*nix terminal tutorial
+
+*   [steveklabnik/CLOSURE](https://github.com/steveklabnik/CLOSURE) - Thanks, \_why.
+
+*   [thomasdavis/best-practices](https://github.com/thomasdavis/best-practices) - This is a fork of timoxley - Tidbits of best practices information from around the web
+
+*   [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
+
+*   [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
+
+*   [seriesseed/equity](https://github.com/seriesseed/equity) - Series Seed Preferred Stock
+
+*   [propublica/guides](https://github.com/propublica/guides) - ProPublica's News App and Data Style Guides
+
+*   [airandwater/Epstein2\_17\_13](https://github.com/airandwater/Epstein2_17_13) - Notes from a conversation with Mark Epstein
+
+*   [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
+
+*   [twitter-archive/twitter-text-js](https://github.com/twitter-archive/twitter-text-js) - A JavaScript implementation of Twitter's text processing library
+
+*   [audreywatters/learnersrights](https://github.com/audreywatters/learnersrights) - A Bill of Rights and Principles for Learning in the Digital Age
+
+*   [oreillymedia/open\_government](https://github.com/oreillymedia/open_government) - Open Government, released as part of #PDFtribute
+
+*   [straup/machinetags-readinglist](https://github.com/straup/machinetags-readinglist) - A reading list. About machine tags.
+
+*   [fat/slides-os-guilt](https://github.com/fat/slides-os-guilt) - what the f\*\*\* is open source and why do i feel so guilty
+
+*   [cooperhewitt/collection-people](https://github.com/cooperhewitt/collection-people) - These are the people in the Cooper-Hewitt collection
+
+*   [sdether/happenstance](https://github.com/sdether/happenstance) - A federated, decentralized status network
+
+*   [darcyclarke/Repo.js](https://github.com/darcyclarke/Repo.js) - :page\_facing\_up: A plugin to embed Github repos on your site
+
+*   [tumblr/policy](https://github.com/tumblr/policy) - Tumblr policies and guidelines
+
+*   [WiredEnterprise/Lord-of-the-Files](https://github.com/WiredEnterprise/Lord-of-the-Files) - A repository for the article Lord of the Files: How GitHub Tamed Free Software (And More), published on Wired.com
+
+*   [cooperhewitt/collection](https://github.com/cooperhewitt/collection) - Collection Data for Cooper Hewitt, Smithsonian Design Museum
+
+*   [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
+
+*   [buymeasoda/soda-theme](https://github.com/buymeasoda/soda-theme) - Dark and light custom UI themes for Sublime Text
+
+*   [georgemandis/jekyll-rss-feeds](https://github.com/georgemandis/jekyll-rss-feeds) - Templates for rendering RSS feeds for your Jekyll blog
+
+*   [tboronczyk/JavaScript-Experiments](https://github.com/tboronczyk/JavaScript-Experiments) - Various small experiments in JavaScript
+
+*   [msporny/dna](https://github.com/msporny/dna) - Manu Sporny's genetic information (roughly 1 million SNP markers)
+
+*   [jpfinley/printmaster](https://github.com/jpfinley/printmaster) - Markdown and InDesign in unholy communion
+
+*   [MarioRicalde/SCSS.tmbundle](https://github.com/MarioRicalde/SCSS.tmbundle) - The TextMate SCSS Official Bundle. Now Compatible with SublimeText2.
+
+*   [mojombo/tomdoc](https://github.com/mojombo/tomdoc) - A flexible code documentation specification with human readers in mind.
+
+## PHP
+
+*   [beaulebens/keyring-social-importers](https://github.com/beaulebens/keyring-social-importers) - A collection of importers which pull your content back from social networks, and into your own WordPress install.
+
+*   [aaronpk/Quill](https://github.com/aaronpk/Quill) - 🖋 A Micropub client for creating posts
+
+*   [dupunkto/pubb](https://github.com/dupunkto/pubb) - Website engine that explores ways to blend websites, social media and collaboration on the Web, by implementing open standards.
+
+*   [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API
+
+*   [aaronpk/Meetable](https://github.com/aaronpk/Meetable) - an event listing website
+
+*   [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
+
+*   [beyondcode/writeout.ai](https://github.com/beyondcode/writeout.ai) - Transcribe and translate your audio files - for free
+
+*   [zamentur/libreto](https://github.com/zamentur/libreto) - Collaborative notebook based on framapad
+
+*   [aaronpk/Local-MediaWiki-Sync](https://github.com/aaronpk/Local-MediaWiki-Sync) - Downloads all pages from a MediaWiki install to local text files.
+
+*   [indieweb/this-week](https://github.com/indieweb/this-week) - Weekly newsletter of IndieWebCamp activity
+
+*   [kerri-hicks/blur\_no-alt](https://github.com/kerri-hicks/blur_no-alt) - Blurs images in the WordPress editing interface if they don't have alt text on them, or if their alt text is just the filename of the image.
+
+*   [Daniel-KM/Omeka-S-module-Contribute](https://github.com/Daniel-KM/Omeka-S-module-Contribute) - Module for Omeka S that allows guest users or visitors to edit and complete metadata of a resource in the public side.
+
+*   [biblibre/omeka-cli](https://github.com/biblibre/omeka-cli) - Command line tool for Omeka
+
+*   [Daniel-KM/Omeka-S-module-UniversalViewer](https://github.com/Daniel-KM/Omeka-S-module-UniversalViewer) - Module for Omeka S that adds the IIIF specifications in order to act like an IIPImage server, and the UniversalViewer, a unified online player for any file. It can display books, images, maps, audio, movies, pdf, 3D views, and anything else as long as the appropriate extensions are installed.
+
+*   [Daniel-KM/Omeka-plugin-CsvImportPlus](https://github.com/Daniel-KM/Omeka-plugin-CsvImportPlus) - This fork of the plugin for Omeka allows users to import metadata of items from a simple CSV file. Improvements are: choice of separators, import of metadata of files and collections, update of any record, import of files one by one to avoid to overload the server.
+
+*   [Daniel-KM/Omeka-S-module-AmazonS3](https://github.com/Daniel-KM/Omeka-S-module-AmazonS3) - Module for Omeka S that allows to store files with Amason S3.
+
+*   [Daniel-KM/Omeka-S-module-ArchiveRepertory](https://github.com/Daniel-KM/Omeka-S-module-ArchiveRepertory) - Omeka S module that allows to keep original names of files and to put them in a hierarchical structure (collection / item / files) in order to get readable urls for files and to avoid an overloading of the file server.
+
+*   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+
+*   [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
+
+*   [dg01d/nanopub](https://github.com/dg01d/nanopub) - MicroPub support for Static Blog Engine
+
+*   [bnomei/kirby-php-mustache](https://github.com/bnomei/kirby-php-mustache) - Logic-less templates with PHP Mustache in Kirby CMS
+
+*   [eyebeam/eyebeam.org](https://github.com/eyebeam/eyebeam.org) - It's a website: eyebeam dot org
+
+*   [tmarois/Filebase](https://github.com/tmarois/Filebase) - A Simple but Powerful Flat File Database Storage.
+
+*   [iandoe/kirby-dominant-color](https://github.com/iandoe/kirby-dominant-color) - Kirby panel hook plugin to extract the dominant color out of an image
+
+*   [samnabi/shopkit](https://github.com/samnabi/shopkit) - Comprehensive commerce solution for Kirby CMS v2
+
+*   [sylvainjule/kirby-imageboxes](https://github.com/sylvainjule/kirby-imageboxes) - Add illustrations to Kirby's checkboxes. Compatible with Kirby 3, 4, 5.
+
+*   [sylvainjule/kirby-imageradio](https://github.com/sylvainjule/kirby-imageradio) - Add illustrations to Kirby's radio buttons. Compatible with Kirby 3, 4, 5.
+
+*   [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+
+*   [lukaskleinschmidt/kirby-delete](https://github.com/lukaskleinschmidt/kirby-delete) - Delete pages containing subpages
+
+*   [flokosiol/kirby-sharingbuttons](https://github.com/flokosiol/kirby-sharingbuttons) - Social Media Sharing Buttons for Kirby 2
+
+*   [hmazter/dropbox-image-slideshow](https://github.com/hmazter/dropbox-image-slideshow) - Web application to show images from a Dropbox folder as a slideshow
+
+*   [dphiffer/starmonger](https://github.com/dphiffer/starmonger) - A simple Twitter favorites archiver
+
+*   [pedroborges/kirby-meta-tags](https://github.com/pedroborges/kirby-meta-tags) - ⬢ HTML meta tags generator for Kirby. Supports Open Graph and Twitter Cards out of the box.
+
+*   [lord-executor/kirby-constructs](https://github.com/lord-executor/kirby-constructs) - Kirby CMS plugin with support for modular page component bundles with blueprints, controllers, templates and supporting files
+
+*   [texnixe/kirby-spreadsheet](https://github.com/texnixe/kirby-spreadsheet) -
+
+*   [ivinteractive/kirbycms-redirects](https://github.com/ivinteractive/kirbycms-redirects) -
+
+*   [fvsch/kirby-staticbuilder](https://github.com/fvsch/kirby-staticbuilder) - Static HTML exporter for Kirby CMS (v2 only)
+
+*   [fabianmichael/kirby-imagekit](https://github.com/fabianmichael/kirby-imagekit) - Asynchronous thumbnail creation and optimization for Kirby 2
+
+*   [kirby-deprecated-plugins/kirby-panel-prevnext](https://github.com/kirby-deprecated-plugins/kirby-panel-prevnext) - A Kirby CMS plugin for panel siblings navigation
+
+*   [lukaskleinschmidt/kirby-sortable](https://github.com/lukaskleinschmidt/kirby-sortable) - Making subpage managing a breeze
+
+*   [jongacnik/kirby2-spad](https://github.com/jongacnik/kirby2-spad) - 📄 Kirby single page app json
+
+*   [fabianmichael/kirby-typography](https://github.com/fabianmichael/kirby-typography) - Typographic enhancements for your Kirby-driven website.
+
+*   [kshaffer/hypothesis\_aggregator](https://github.com/kshaffer/hypothesis_aggregator) - A WordPress plugin for aggregating data via the hypothes.is API.
+
+*   [littlesis-org/littlesis](https://github.com/littlesis-org/littlesis) - Moved to:
+
+*   [kirby-deprecated-plugins/kirby-hooks-debugger](https://github.com/kirby-deprecated-plugins/kirby-hooks-debugger) - Debug Kirby Panel hooks
+
+*   [jongacnik/kirby2-sirvy](https://github.com/jongacnik/kirby2-sirvy) - 🔗 Kirby Services API
+
+*   [kirby-deprecated-plugins/kirby-revisions](https://github.com/kirby-deprecated-plugins/kirby-revisions) - Revisions for Kirby CMS
+
+*   [mAAdhaTTah/wordpress-github-sync](https://github.com/mAAdhaTTah/wordpress-github-sync) - A WordPress plugin to sync content with a GitHub repository (or Jekyll site)
+
+*   [getkirby-v1/plugins](https://github.com/getkirby-v1/plugins) - Deprecated! Please see: https://github.com/getkirby
+
+*   [greywillfade/wpxml-to-kirby](https://github.com/greywillfade/wpxml-to-kirby) - WordPress export to Kirby file generator
+
+*   [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
+
+*   [getkirby-v2/cli](https://github.com/getkirby-v2/cli) - Kirby's command line interface
+
+*   [jancbeck/kirby-responsive-images](https://github.com/jancbeck/kirby-responsive-images) - Bring responsive images to Kirby CMS
+
+*   [mzur/kirby-uniform](https://github.com/mzur/kirby-uniform) - A versatile Kirby plugin to handle web form actions.
+
+*   [storypioneers/kirby-selector](https://github.com/storypioneers/kirby-selector) - file selector panel field for Kirby CMS
+
+*   [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
+
+*   [mzur/kirby-calendar-plugin](https://github.com/mzur/kirby-calendar-plugin) - A plugin for the Kirby CMS to easily implement an event calendar.
+
+*   [bartvandebiezen/kirby-v2-scssphp](https://github.com/bartvandebiezen/kirby-v2-scssphp) - Sass plugin for Kirby
+
+*   [fanningert/kirbycms-extension-image](https://github.com/fanningert/kirbycms-extension-image) - KirbyCMS Extension - Image Extended
+
+*   [studiodumbar/kirby-extensions](https://github.com/studiodumbar/kirby-extensions) - Kirby 2 plugins and tags
+
+*   [ushahidi/Ushahidi\_Web](https://github.com/ushahidi/Ushahidi_Web) - Ushahidi v2. A platform that allows information collection, visualization and interactive mapping, allowing anyone to submit information through text messaging using a mobile phone, email or web form.
+
+*   [pwrstudio/sassolino](https://github.com/pwrstudio/sassolino) - Very small flat-file CMS
+
+*   [feminista/feminist-phone-intervention](https://github.com/feminista/feminist-phone-intervention) - Feminist Phone Intervention: feminist-phone-intervention.tumblr.com
+
+*   [pattern-lab/patternlab-php](https://github.com/pattern-lab/patternlab-php) - The PHP version of Pattern Lab
+
+*   [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
+
+*   [paulrobertlloyd/barebones](https://github.com/paulrobertlloyd/barebones) - Initial directory setup, style guide and pattern primer. Intended as a starting point for my own projects, available for others to clone and adapt for theirs.
+
+*   [codeforamerica/wp-splost](https://github.com/codeforamerica/wp-splost) - This is the Wordpress theme for Macon's SPLOST website.
+
+*   [infovore/iss\_photo\_toy](https://github.com/infovore/iss_photo_toy) -
+
+*   [dphiffer/wp-json-api](https://github.com/dphiffer/wp-json-api) - WordPress JSON API
+
+*   [civicrm/civicrm-core](https://github.com/civicrm/civicrm-core) - CiviCRM (Core Application and Framework)
+
+*   [Self-Evident/OneFileCMS](https://github.com/Self-Evident/OneFileCMS) - A single file cms - all in one file!
+
+*   [disqus/DISQUS-API-Recipes](https://github.com/disqus/DISQUS-API-Recipes) - Cook all the things!
+
+*   [straup/youarehere-www](https://github.com/straup/youarehere-www) - You are here. Maybe.
+
+*   [straup/pinboard-tools](https://github.com/straup/pinboard-tools) - Assorted tools for doing stuff on pinboard.in
+
+*   [okfocus/okjson](https://github.com/okfocus/okjson) - Turn a directory structure into JSON for whatever.
+
+*   [mikeindustries/Stellar-Tweetbot](https://github.com/mikeindustries/Stellar-Tweetbot) - An automated bot which retweets Flow from your Stellar.io account.
+
+*   [Coppertino/github-webhook](https://github.com/Coppertino/github-webhook) - Github php webhook to sync repository data into multiple servers (via ftp and ssh protocols)
+
+*   [straup/privatesquare](https://github.com/straup/privatesquare) - privatesquare is a simple web application to record and manage a database of foursquare check-ins.
+
+*   [getkirby-v1/starterkit](https://github.com/getkirby-v1/starterkit) - Deprecated! See http://github.com/getkirby
+
+*   [simplebits/Pears](https://github.com/simplebits/Pears) -
+
+*   [MantisSTS/FileMaker-PHP-API-Interface](https://github.com/MantisSTS/FileMaker-PHP-API-Interface) - This was just a private class that I made which helped me develop for the web using the FM PHP API but I have added my own methods which saved time and made life easier.
+
+*   [straup/parallel-flickr](https://github.com/straup/parallel-flickr) -
+
+*   [lisezmoi/scri.ch](https://github.com/lisezmoi/scri.ch) - scri.ch is a minimal web app that lets you draw, share, and fork existing drawings.
+
+*   [statedecoded/statedecoded](https://github.com/statedecoded/statedecoded) - Legal codes, for humans.
+
+*   [iamcal/oembed](https://github.com/iamcal/oembed) - The oEmbed Spec
+
+## Shell
+
+*   [GregBParker/things3-claude-skill](https://github.com/GregBParker/things3-claude-skill) -
+
+*   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
+
+*   [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+
+*   [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
+
+*   [mbailey/openai-proxy](https://github.com/mbailey/openai-proxy) - Route select OpenAI API endpoints to local services (e.g. Whisper, Ollama, Kororo).
+
+*   [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
+
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
+*   [i-am-bee/bee-stack](https://github.com/i-am-bee/bee-stack) - Run the entire bee application stack using docker-compose
+
+*   [cloudsftp/reSnap](https://github.com/cloudsftp/reSnap) - Take screnshots of your reMarkable tablet over SSH
+
+*   [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
+
+*   [rseng/awesome-rseng](https://github.com/rseng/awesome-rseng) - A curated list of GitHub organizations that primarily serve open source or academic software projects.
+
+*   [rseng/software](https://github.com/rseng/software) - research software encyclopedia database
+
+*   [Khan/style-guides](https://github.com/Khan/style-guides) - Docs for the Organization
+
+*   [tombubul/newtabimages](https://github.com/tombubul/newtabimages) - Low-maintenance, serverless approach to interacting with a giant screenshot archive
+
+*   [dphiffer/data-and-social-justice](https://github.com/dphiffer/data-and-social-justice) - Bennington College / Fall 2018
+
+*   [hendricius/the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
+
+*   [RandomArray/ContractKiller](https://github.com/RandomArray/ContractKiller) -
+
+*   [overview/overview-local](https://github.com/overview/overview-local) - Run Overview on your own system
+
+*   [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
+
+*   [jakkm3n/trollascii](https://github.com/jakkm3n/trollascii) - Central repository of world-famous ANSI and ASCII art
+
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+
+*   [benbalter/jekyll-style-guide](https://github.com/benbalter/jekyll-style-guide) - An opinionated guide to common Jekyll design patterns and anti-patterns.
+
+*   [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
+
+*   [dphiffer/downloading-is-never-stealing](https://github.com/dphiffer/downloading-is-never-stealing) - A convenient set of hyperlinks and shell scripts for reading and archiving Aaron Swartz's online writings
+
+*   [NYPL-publicdomain/data-and-utilities](https://github.com/NYPL-publicdomain/data-and-utilities) - Snapshot of Item and Collection data for public domain materials in NYPL Digital Collections, as part of NYPL's January 2016 public domain release.
+
+*   [coralproject/reef](https://github.com/coralproject/reef) - Concepts, practices and principles
+
+*   [yeargin/mediatemple-backup](https://github.com/yeargin/mediatemple-backup) - Collection of bash scripts for database backups.
+
+*   [INN/docs](https://github.com/INN/docs) - INN Labs – Product & Technology Team Docs
+
+*   [cryptoparty/handbook](https://github.com/cryptoparty/handbook) - The CryptoParty Handbook
+
+*   [celoyd/wheather](https://github.com/celoyd/wheather) - Image-compositing scripts for filtering weather out of satellite images
+
+*   [CC-Archived/mou-theme-solarized](https://github.com/CC-Archived/mou-theme-solarized) - Mou (http://mouapp.com/) theme for Markdown syntax highlighting using Ethan Schoonover's Solarized color scheme.
 
 ## Python
 
@@ -1664,8 +2348,6 @@
 
 *   [jquery-backstretch/jquery-backstretch](https://github.com/jquery-backstretch/jquery-backstretch) - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes.
 
-*   [cowboy/javascript-linkify](https://github.com/cowboy/javascript-linkify) - JavaScript Linkify: Process links in text
-
 ## Rust
 
 *   [dhanji/flock](https://github.com/dhanji/flock) - making geese flock
@@ -2386,452 +3068,6 @@
 
 *   [curiousdannii/parchment](https://github.com/curiousdannii/parchment) - The Interactive Fiction web app
 
-## miscellaneous
-
-*   [carlvellotti/template-product-os](https://github.com/carlvellotti/template-product-os) - Product OS Template - Build your own file-based Product OS with included frameworks and prompts
-
-*   [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
-
-*   [obra/superpowers-marketplace](https://github.com/obra/superpowers-marketplace) - Curated Claude Code plugin marketplace
-
-*   [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
-
-*   [navapbc/strata](https://github.com/navapbc/strata) - A platform that empowers teams to accelerate delivery through self-service tools and training.
-
-*   [IBM/mcp-composer](https://github.com/IBM/mcp-composer) - MCP Composer
-
-*   [microsoft/amplifier](https://github.com/microsoft/amplifier) -
-
-*   [simonw/claude-skills](https://github.com/simonw/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
-
-*   [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
-
-*   [indieweb/wiki](https://github.com/indieweb/wiki) - Wiki backup and issue tracking for indieweb.org
-
-*   [jenna-winkler/ai-power-user-playbook](https://github.com/jenna-winkler/ai-power-user-playbook) - A community-driven playbook of strategies and prompt patterns for effectively working with AI agents.
-
-*   [yousefebrahimi0/list-ai-extensions-chrome-addons-firefox](https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox) - Complete list of AI-powered Extensions for Google Chrome & Addons for Firefox
-
-*   [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
-
-*   [microsoft/vscode-ai-toolkit](https://github.com/microsoft/vscode-ai-toolkit) -
-
-*   [konfig-sdks/openapi-examples](https://github.com/konfig-sdks/openapi-examples) - The highest quality collection of up-to-date OpenAPI specifications for public APIs on the internet. This dataset also includes descriptions, categories, uptime metrics, and media assets for every API.
-
-*   [ibm-granite/granite-code-models](https://github.com/ibm-granite/granite-code-models) - Granite Code Models: A Family of Open Foundation Models for Code Intelligence
-
-*   [Aider-AI/conventions](https://github.com/Aider-AI/conventions) - Community-contributed convention files for use with aider
-
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-
-*   [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
-
-*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-
-*   [IBM/watsonx-code-assistant](https://github.com/IBM/watsonx-code-assistant) - IBM watsonx Code Assistant simplifies and accelerates coding workflows across Python, Java, C, C++, Go, JavaScript, Typescript, and more. It leverages the Granite model to augment programmer skill sets, simplifying and automating coding and modernization efforts.
-
-*   [openai/SWELancer-Benchmark](https://github.com/openai/SWELancer-Benchmark) - This repo contains the dataset and code for the paper "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?"
-
-*   [openai/model\_spec](https://github.com/openai/model_spec) - The OpenAI Model Spec
-
-*   [SpursGoZmy/Awesome-Tabular-LLMs](https://github.com/SpursGoZmy/Awesome-Tabular-LLMs) - We collect papers about "large language models (LLM) for table-related tasks", e.g., using LLM for Table QA task. “表格+LLM”相关论文整理
-
-*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-
-*   [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
-
-*   [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - An ultra-simplified explanation of design patterns implemented in javascript
-
-*   [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-
-*   [IBM/wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
-
-*   [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) - Free variable writing fonts from iA
-
-*   [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of
-
-*   [XargsUK/awesome-adhd](https://github.com/XargsUK/awesome-adhd) - A curated list of ADHD apps, books, ideas and resources across the web!
-
-*   [IBM/watsonx-ai-python-sdk](https://github.com/IBM/watsonx-ai-python-sdk) - IBM watsonx.ai Python Client Documentation
-
-*   [hrishioa/tough-llm-tests](https://github.com/hrishioa/tough-llm-tests) - Some tough questions to test new models.
-
-*   [denten-courses/narrative](https://github.com/denten-courses/narrative) -
-
-*   [hng/tech-coops](https://github.com/hng/tech-coops) - A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
-
-*   [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
-
-*   [steka/reMarkable\_templates](https://github.com/steka/reMarkable_templates) -
-
-*   [vonneudeck/remarkable-bujo](https://github.com/vonneudeck/remarkable-bujo) - Bullet Journal templates for the reMarkable (2) paper tablet
-
-*   [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
-
-*   [mrseth01/awesome-adhd](https://github.com/mrseth01/awesome-adhd) - Awesome Resources for ADHD
-
-*   [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md) -
-
-*   [domenicosolazzo/awesome-okr](https://github.com/domenicosolazzo/awesome-okr) - A curated list about OKR (Objective - Key Results)
-
-*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-
-*   [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile) - Awesome List of resources on Agile Software Development.
-
-*   [mongodb-labs/ipsum](https://github.com/mongodb-labs/ipsum) - Python utils to create random JSON data and import into mongoDB - This Repository is NOT a supported MongoDB product
-
-*   [shaunlebron/history-of-lisp-parens](https://github.com/shaunlebron/history-of-lisp-parens) - a history of Lisp's most notorious artifact, parentheses
-
-*   [ivanreese/visual-programming-codex](https://github.com/ivanreese/visual-programming-codex) - Waypoints to the past and future of visual programming.
-
-*   [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
-
-*   [kepano/40-questions](https://github.com/kepano/40-questions) - Questions that I ask myself at the end of each year and each decade.
-
-*   [gigasheetco/fortune-500-domains](https://github.com/gigasheetco/fortune-500-domains) -
-
-*   [Open-Source-Collective/osc](https://github.com/Open-Source-Collective/osc) - osc
-
-*   [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
-
-*   [formbricks/design](https://github.com/formbricks/design) - Formbricks Design Team Repository.
-
-*   [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
-
-*   [CerebralBlue/Neuralseek\_Watson-Assistant-Extension](https://github.com/CerebralBlue/Neuralseek_Watson-Assistant-Extension) -
-
-*   [bcneng/recruiter-autoresponse](https://github.com/bcneng/recruiter-autoresponse) - Based on the Medium Article entitled - "Career Advice Nobody Gave Me: Never ignore a recruiter" this repo has a copyable script which you can use to auto-respond to recruiters.
-
-*   [webstudio-is/webstudio-community](https://github.com/webstudio-is/webstudio-community) - 🤗 Start Here! Discussions, issues, docs and roadmap
-
-*   [protontypes/open-business-models](https://github.com/protontypes/open-business-models) - A curated list on the topic of open business models and strategies
-
-*   [franquil/question-driven-one-page-business-plan-template](https://github.com/franquil/question-driven-one-page-business-plan-template) - A question-driven, simple, concise one-page template that help you clarify your business ideas.
-
-*   [metagov/govbase-website](https://github.com/metagov/govbase-website) - Metagov's Govbase landing page
-
-*   [Ledgerback/Platform-Coop](https://github.com/Ledgerback/Platform-Coop) - Repository for platform cooperativism information.
-
-*   [TfTHacker/DashboardPlusPlus](https://github.com/TfTHacker/DashboardPlusPlus) - Demonstrating the Dashboard++ method of organizing a vault in Obsidian
-
-*   [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
-
-*   [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
-
-*   [github/MVG](https://github.com/github/MVG) - MVG = Minimum Viable Governance
-
-*   [jonkeegan/behind-this-website](https://github.com/jonkeegan/behind-this-website) - Checklist for investigating the provenance and ownership of websites.
-
-*   [seatable/seatable](https://github.com/seatable/seatable) - SeaTable: easy like a spreadsheet, powerful like a database. Unlimited rows in a single base.
-
-*   [impactmapping/open-impact-mapping-workshop](https://github.com/impactmapping/open-impact-mapping-workshop) - Facilitation exercises for teaching/running impact mapping sessions, Creative Commons
-
-*   [swyxio/awesome-dev-podcasts](https://github.com/swyxio/awesome-dev-podcasts) - a curated list of awesome dev podcasts and why they are awesome
-
-*   [researchops/pace\_layers\_matrix](https://github.com/researchops/pace_layers_matrix) - These are the CC Sharealike licensed workshop materials from the Pace Layers Matrix workshop on using the 8 pillars of UR and a pace layers framework to help create a future strategy and forward work plan for UR
-
-*   [nickmilo/IMF-v3](https://github.com/nickmilo/IMF-v3) -
-
-*   [infews/job\_search\_in\_obsidian](https://github.com/infews/job_search_in_obsidian) - An Obsidian Vault with notes & process for finding a job
-
-*   [a4blip/A4BLiP](https://github.com/a4blip/A4BLiP) - Archives for Black Lives in Philly was inspired by Jarrett Drake, Digital Archivist at Princeton University, and his work to end archives' erasure of Black lives. The group has been working on a statement about issues raised by the #BlackLivesMatter movement and our role as archives professionals since August of this year. The goal of the statement is to illustrate how the Black Lives Matter movement is an archives issue and for it to become a living document which other organizations modify and add to.
-
-*   [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
-
-*   [ournetworks/2020-submissions](https://github.com/ournetworks/2020-submissions) - ARCHIVED--Submissions for Our Networks 2020 have now closed, check out our full program online!
-
-*   [rasulkireev/awesome-basb](https://github.com/rasulkireev/awesome-basb) - A curated list of resource for Building a Second Brain.
-
-*   [natematias/covid-19-social-science-research](https://github.com/natematias/covid-19-social-science-research) - COVID 19 Social Science Research Tracker
-
-*   [roam-unofficial/awesome-roam](https://github.com/roam-unofficial/awesome-roam) - A curated list of https://roamresearch.com/ resources
-
-*   [pzwang/lostweb](https://github.com/pzwang/lostweb) - The Web We Lost, and What Comes Next
-
-*   [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
-
-*   [SFPC/codeofconduct](https://github.com/SFPC/codeofconduct) -
-
-*   [pol-is/polis-issues](https://github.com/pol-is/polis-issues) - :bug: feature requests and bug reports
-
-*   [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
-
-*   [fsteff/p2p-base](https://github.com/fsteff/p2p-base) - collection of ideas for a p2p library
-
-*   [pfrazee/infocivics](https://github.com/pfrazee/infocivics) - Information Civics paper
-
-*   [new-computers/writing](https://github.com/new-computers/writing) -
-
-*   [hackergrrl/git-ssb-intro](https://github.com/hackergrrl/git-ssb-intro) - :wrench: Learn git-ssb: a decentralized GitHub alternative.
-
-*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-
-*   [dat-ecosystem-archive/DEPs](https://github.com/dat-ecosystem-archive/DEPs) - Dat Enhancement Proposals. Contains all specs for the Dat protocol, including drafts. \[ DEPRECATED - see https://github.com/hypercore-protocol/hypercore-proposals for similar functionality. More info on active projects and modules at https://dat-ecosystem.org/ ]
-
-*   [lynaghk/subform-layout](https://github.com/lynaghk/subform-layout) - Embeddable layout engine. Like flexbox, but with fewer concepts, applied uniformly.
-
-*   [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
-
-*   [wcmaart/collection](https://github.com/wcmaart/collection) - Williams College Museum of Art (WCMA) collection data
-
-*   [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
-
-*   [MimiOnuoha/On-Algorithmic-Violence](https://github.com/MimiOnuoha/On-Algorithmic-Violence) - Attempts at fleshing out the concept of algorithmic violence.
-
-*   [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer
-
-*   [denten-courses/technologies-of-dissent](https://github.com/denten-courses/technologies-of-dissent) -
-
-*   [mttmyr/awesome-tech-cooperatives](https://github.com/mttmyr/awesome-tech-cooperatives) - A collection of awesome cooperative tech companies and projects
-
-*   [kateray/floodlight](https://github.com/kateray/floodlight) -
-
-*   [MimiOnuoha/missing-datasets](https://github.com/MimiOnuoha/missing-datasets) - An overview and exploration of the concept of missing datasets.
-
-*   [antimodular/Best-practices-for-conservation-of-media-art](https://github.com/antimodular/Best-practices-for-conservation-of-media-art) - Best practices for conservation of media art from an artist’s perspective
-
-*   [MimiOnuoha/Philosophy-of-Data](https://github.com/MimiOnuoha/Philosophy-of-Data) - Philosophy of Data | Bennington College | Fall 2017
-
-*   [NaNoGenMo/2017](https://github.com/NaNoGenMo/2017) - National Novel Generation Month, 2017 edition.
-
-*   [prosecconetwork/TraceElements](https://github.com/prosecconetwork/TraceElements) - Tracery grammars for building creative Twitterbots. Contains generative grammars for story-telling, metaphor generation, ironic put-downs, Trumpisms, short poems, etc.
-
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-
-*   [StephenMilborrow/muct](https://github.com/StephenMilborrow/muct) - Landmarked face database (3755 faces, 76 landmarks)
-
-*   [aparrish/text-resources](https://github.com/aparrish/text-resources) - I have this big list of links to text stuff that I like, so I thought I'd make it into a repository.
-
-*   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-
-*   [DemocracyEarth/paper](https://github.com/DemocracyEarth/paper) - On self sovereign human identity.
-
-*   [jukedeck/nottingham-dataset](https://github.com/jukedeck/nottingham-dataset) - Cleaned version of the Nottingham dataset
-
-*   [SFPC/code-narratives](https://github.com/SFPC/code-narratives) - Summer '17 two-week SFPC session on generating and processing text with Python
-
-*   [cobudget-old/reading-list](https://github.com/cobudget-old/reading-list) - readings relevant to cobudget and its surrounding community
-
-*   [machinomy/awesome-non-financial-blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Curated list of projects that build non-financial applications of blockchain
-
-*   [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
-
-*   [mkgold/clouds](https://github.com/mkgold/clouds) -
-
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-
-*   [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
-
-*   [kai-qu/notation](https://github.com/kai-qu/notation) - Collection of quotes on notation design & how it affects thought.
-
-*   [gitscout/gitscout-feedback](https://github.com/gitscout/gitscout-feedback) - This repo is a place to report bugs, give feedback and share ideas on how we can improve Gitscout — Thanks :heart:
-
-*   [OpenNewsLabs/field-guide-open-source-newsroom](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom) - A community-driven guidebook to releasing open-source code in the newsroom.
-
-*   [OmerShapira/Hatemail-Corpus](https://github.com/OmerShapira/Hatemail-Corpus) - Corpus of incoming hatemail, for linguistic analysis.
-
-*   [hackergrrl/p2p-handbook](https://github.com/hackergrrl/p2p-handbook) - :horse: Let's learn how to peer-to-peer!
-
-*   [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
-
-*   [PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks
-
-*   [justanothersystem/tools](https://github.com/justanothersystem/tools) - A directory of web based creative tools.
-
-*   [metmuseum/openaccess](https://github.com/metmuseum/openaccess) - The Metropolitan Museum of Art's Open Access Initiative
-
-*   [texnixe/kirby-secrets](https://github.com/texnixe/kirby-secrets) - Unofficial documentation for Kirby CMS. It's is NOT maintained by the Kirby crew.
-
-*   [Fang-/Urbit-By-Doing](https://github.com/Fang-/Urbit-By-Doing) - A dysfunctional programmer's guide to making things in Hoon.
-
-*   [amiaopensource/open-workflows](https://github.com/amiaopensource/open-workflows) - List of open workflows and resources for A/V archiving
-
-*   [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
-
-*   [yoshuawuyts/tiny-guide-to-non-fancy-node](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node) - A tiny guide to non fancy, high-value Node.js things
-
-*   [learning-gardens/pattern\_language](https://github.com/learning-gardens/pattern_language) - 📐 APL Reading Group
-
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-
-*   [Quartz/bad-data-guide](https://github.com/Quartz/bad-data-guide) - An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
-
-*   [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
-
-*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
-
-*   [onethawt/reverseengineering-reading-list](https://github.com/onethawt/reverseengineering-reading-list) - A list of Reverse Engineering articles, books, and papers
-
-*   [iainc/Markdown-Content-Blocks](https://github.com/iainc/Markdown-Content-Blocks) - File transclusion syntax for Markdown.
-
-*   [javierarce/toolbox](https://github.com/javierarce/toolbox) - A collection of tools, APIs and other resources to use in creative coding web projects.
-
-*   [ascott1/accessibility-policy](https://github.com/ascott1/accessibility-policy) - An open accessibility policy
-
-*   [ascott1/ethical-web-dev](https://github.com/ascott1/ethical-web-dev) - A series of short books on ethical web development
-
-*   [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
-
-*   [MuseumofModernArt/collection](https://github.com/MuseumofModernArt/collection) - The Museum of Modern Art (MoMA) collection data
-
-*   [MuseumofModernArt/exhibitions](https://github.com/MuseumofModernArt/exhibitions) - The Museum of Modern Art (MoMA) exhibitions data
-
-*   [idamantium/ExperienceDesign](https://github.com/idamantium/ExperienceDesign) - Syllabus for Experience Design Seminar
-
-*   [javierarce/visual-references](https://github.com/javierarce/visual-references) - A list of visual references that make me immensely happy.
-
-*   [yhatt/marp](https://github.com/yhatt/marp) - The site of classic Markdown presentation writer app
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [mrjoelkemp/awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source) - Collection of links around paid/sustainable open source development
-
-*   [lenazun/working-remotely](https://github.com/lenazun/working-remotely) - A list of tips and practical ideas we've learned while working remotely
-
-*   [CodingTrain/Rainbow-Closed-Captions](https://github.com/CodingTrain/Rainbow-Closed-Captions) - Captions for my YouTube videos.
-
-*   [CodingTrain/Suggestion-Box](https://github.com/CodingTrain/Suggestion-Box) - A repo to track ideas for topics
-
-*   [tchoi8/ArtistToolKit](https://github.com/tchoi8/ArtistToolKit) - Material for a class at SFPC
-
-*   [straup/party-people](https://github.com/straup/party-people) - This is data about donors to museums in the New York City area.
-
-*   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
-
-*   [jed/building-brooklynjs](https://github.com/jed/building-brooklynjs) - My story of how we built BrooklynJS.
-
-*   [opengovfoundation/legal-information](https://github.com/opengovfoundation/legal-information) - The OpenGov Foundation's tax filing, organizational and legal documents
-
-*   [Linkurious/linkurious.js](https://github.com/Linkurious/linkurious.js) -
-
-*   [dequelabs/axe-firefox-devtools](https://github.com/dequelabs/axe-firefox-devtools) - Integration of axe-core into the Firefox developer tools
-
-*   [prettydiff/a11y-tools](https://github.com/prettydiff/a11y-tools) - JS Accessibility Tool List
-
-*   [bradfrost/frontend-guidelines-questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) - A one-page questionnaire to help your team establish effective frontend guidelines, so that you can write consistent & cohesive code together.
-
-*   [ddwht/sketch-dynamic-button](https://github.com/ddwht/sketch-dynamic-button) - Dynamic button plugin for Sketch.app
-
-*   [necolas/idiomatic-css](https://github.com/necolas/idiomatic-css) - Principles of writing consistent, idiomatic CSS.
-
-*   [18F/onboarding-documents](https://github.com/18F/onboarding-documents) - Forms, emails, and checklists to help with onboarding
-
-*   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
-
-*   [airbnb/css](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
-
-*   [clef/handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion
-
-*   [erikao/journohackdays](https://github.com/erikao/journohackdays) - A work-in-progress guide to hosting journalism hack days.
-
-*   [max-mapper/recipes](https://github.com/max-mapper/recipes) - recipes i've cooked -- or will cook soon!
-
-*   [melodykramer/PublicMedia](https://github.com/melodykramer/PublicMedia) - Everything Public Media, in One Place
-
-*   [aparrish/sfpc-gen-text-2015](https://github.com/aparrish/sfpc-gen-text-2015) - notes and links for generative text workshop at SFPC 2015
-
-*   [tchoi8/poetry](https://github.com/tchoi8/poetry) - version controlled poetry
-
-*   [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
-
-*   [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-
-*   [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
-
-*   [allisonburtch/Critical-Theory-of-Technology](https://github.com/allisonburtch/Critical-Theory-of-Technology) - Politics, Utopia and Code. Fall 2014 class at SFPC.
-
-*   [dansinker/shareyourwork](https://github.com/dansinker/shareyourwork) -
-
-*   [tchoi8/RememberAndForget](https://github.com/tchoi8/RememberAndForget) -
-
-*   [tegacodes/SocialSoftware](https://github.com/tegacodes/SocialSoftware) -
-
-*   [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
-
-*   [mozilla/DropItLike](https://github.com/mozilla/DropItLike) - INACTIVE - http://mzl.la/ghe-archive - Some good software for those concerned about their OPSEC.  Geared towards journalists, but good for everyone!
-
-*   [stumpsyn/policies](https://github.com/stumpsyn/policies) - Policies for the Stumptown Syndicate
-
-*   [ofZach/sfpcSpring14](https://github.com/ofZach/sfpcSpring14) - code examples from sfpc spring 14
-
-*   [mangini/gdocs2md](https://github.com/mangini/gdocs2md) - Convert a Google Drive Document to the Markdown format, suitable for publishing.
-
-*   [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
-
-*   [dvschultz/99problems](https://github.com/dvschultz/99problems) - 99 Problems and e-reader rendering are all of them
-
-*   [keybase/keybase-issues](https://github.com/keybase/keybase-issues) - A single repo for managing publicly recognized issues with the keybase client, installer, and website.
-
-*   [busterbenson/public](https://github.com/busterbenson/public) - My public self and book of beliefs.
-
-*   [nprapps/bestpractices](https://github.com/nprapps/bestpractices) - Best practices and coding conventions for the NPR Visuals team.
-
-*   [tchoi8/dating](https://github.com/tchoi8/dating) - repo for my dating
-
-*   [opendata/Data-Ecosystems](https://github.com/opendata/Data-Ecosystems) - Ideas and plans for developing new ecosystems of open data. \[RETIRED]
-
-*   [everpix/Everpix-Intelligence](https://github.com/everpix/Everpix-Intelligence) - Uncensored Everpix metrics, financials and business data for your perusing
-
-*   [lifewinning/\_NBP](https://github.com/lifewinning/_NBP) - Documents and notes for a project on the National Business Park in Annapolis Junction, MD
-
-*   [jamiew/gml-spec](https://github.com/jamiew/gml-spec) - The reference Graffiti Markup Language (GML) file format specification
-
-*   [patriciogonzalezvivo/Shell-Initiation](https://github.com/patriciogonzalezvivo/Shell-Initiation) - Exoteric \*nix terminal tutorial
-
-*   [steveklabnik/CLOSURE](https://github.com/steveklabnik/CLOSURE) - Thanks, \_why.
-
-*   [thomasdavis/best-practices](https://github.com/thomasdavis/best-practices) - This is a fork of timoxley - Tidbits of best practices information from around the web
-
-*   [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
-
-*   [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
-
-*   [seriesseed/equity](https://github.com/seriesseed/equity) - Series Seed Preferred Stock
-
-*   [propublica/guides](https://github.com/propublica/guides) - ProPublica's News App and Data Style Guides
-
-*   [airandwater/Epstein2\_17\_13](https://github.com/airandwater/Epstein2_17_13) - Notes from a conversation with Mark Epstein
-
-*   [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
-
-*   [twitter-archive/twitter-text-js](https://github.com/twitter-archive/twitter-text-js) - A JavaScript implementation of Twitter's text processing library
-
-*   [audreywatters/learnersrights](https://github.com/audreywatters/learnersrights) - A Bill of Rights and Principles for Learning in the Digital Age
-
-*   [oreillymedia/open\_government](https://github.com/oreillymedia/open_government) - Open Government, released as part of #PDFtribute
-
-*   [straup/machinetags-readinglist](https://github.com/straup/machinetags-readinglist) - A reading list. About machine tags.
-
-*   [fat/slides-os-guilt](https://github.com/fat/slides-os-guilt) - what the f\*\*\* is open source and why do i feel so guilty
-
-*   [cooperhewitt/collection-people](https://github.com/cooperhewitt/collection-people) - These are the people in the Cooper-Hewitt collection
-
-*   [sdether/happenstance](https://github.com/sdether/happenstance) - A federated, decentralized status network
-
-*   [darcyclarke/Repo.js](https://github.com/darcyclarke/Repo.js) - :page\_facing\_up: A plugin to embed Github repos on your site
-
-*   [tumblr/policy](https://github.com/tumblr/policy) - Tumblr policies and guidelines
-
-*   [WiredEnterprise/Lord-of-the-Files](https://github.com/WiredEnterprise/Lord-of-the-Files) - A repository for the article Lord of the Files: How GitHub Tamed Free Software (And More), published on Wired.com
-
-*   [cooperhewitt/collection](https://github.com/cooperhewitt/collection) - Collection Data for Cooper Hewitt, Smithsonian Design Museum
-
-*   [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
-
-*   [buymeasoda/soda-theme](https://github.com/buymeasoda/soda-theme) - Dark and light custom UI themes for Sublime Text
-
-*   [georgemandis/jekyll-rss-feeds](https://github.com/georgemandis/jekyll-rss-feeds) - Templates for rendering RSS feeds for your Jekyll blog
-
-*   [tboronczyk/JavaScript-Experiments](https://github.com/tboronczyk/JavaScript-Experiments) - Various small experiments in JavaScript
-
-*   [msporny/dna](https://github.com/msporny/dna) - Manu Sporny's genetic information (roughly 1 million SNP markers)
-
-*   [jpfinley/printmaster](https://github.com/jpfinley/printmaster) - Markdown and InDesign in unholy communion
-
-*   [MarioRicalde/SCSS.tmbundle](https://github.com/MarioRicalde/SCSS.tmbundle) - The TextMate SCSS Official Bundle. Now Compatible with SublimeText2.
-
-*   [mojombo/tomdoc](https://github.com/mojombo/tomdoc) - A flexible code documentation specification with human readers in mind.
-
 ## MDX
 
 *   [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course) - Interactive course teaching Product Managers how to use Claude Code effectively
@@ -3143,68 +3379,6 @@
 *   [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 
 *   [itsabot/itsabot](https://github.com/itsabot/itsabot) - ItsAbot makes it easy and fun to build your own digital assistant, and we include everything you need to get started.
-
-## Shell
-
-*   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
-
-*   [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
-
-*   [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
-
-*   [mbailey/openai-proxy](https://github.com/mbailey/openai-proxy) - Route select OpenAI API endpoints to local services (e.g. Whisper, Ollama, Kororo).
-
-*   [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
-
-*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
-*   [i-am-bee/bee-stack](https://github.com/i-am-bee/bee-stack) - Run the entire bee application stack using docker-compose
-
-*   [cloudsftp/reSnap](https://github.com/cloudsftp/reSnap) - Take screnshots of your reMarkable tablet over SSH
-
-*   [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
-
-*   [rseng/awesome-rseng](https://github.com/rseng/awesome-rseng) - A curated list of GitHub organizations that primarily serve open source or academic software projects.
-
-*   [rseng/software](https://github.com/rseng/software) - research software encyclopedia database
-
-*   [Khan/style-guides](https://github.com/Khan/style-guides) - Docs for the Organization
-
-*   [tombubul/newtabimages](https://github.com/tombubul/newtabimages) - Low-maintenance, serverless approach to interacting with a giant screenshot archive
-
-*   [dphiffer/data-and-social-justice](https://github.com/dphiffer/data-and-social-justice) - Bennington College / Fall 2018
-
-*   [hendricius/the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
-
-*   [RandomArray/ContractKiller](https://github.com/RandomArray/ContractKiller) -
-
-*   [overview/overview-local](https://github.com/overview/overview-local) - Run Overview on your own system
-
-*   [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
-
-*   [jakkm3n/trollascii](https://github.com/jakkm3n/trollascii) - Central repository of world-famous ANSI and ASCII art
-
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-
-*   [benbalter/jekyll-style-guide](https://github.com/benbalter/jekyll-style-guide) - An opinionated guide to common Jekyll design patterns and anti-patterns.
-
-*   [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
-
-*   [dphiffer/downloading-is-never-stealing](https://github.com/dphiffer/downloading-is-never-stealing) - A convenient set of hyperlinks and shell scripts for reading and archiving Aaron Swartz's online writings
-
-*   [NYPL-publicdomain/data-and-utilities](https://github.com/NYPL-publicdomain/data-and-utilities) - Snapshot of Item and Collection data for public domain materials in NYPL Digital Collections, as part of NYPL's January 2016 public domain release.
-
-*   [coralproject/reef](https://github.com/coralproject/reef) - Concepts, practices and principles
-
-*   [yeargin/mediatemple-backup](https://github.com/yeargin/mediatemple-backup) - Collection of bash scripts for database backups.
-
-*   [INN/docs](https://github.com/INN/docs) - INN Labs – Product & Technology Team Docs
-
-*   [cryptoparty/handbook](https://github.com/cryptoparty/handbook) - The CryptoParty Handbook
-
-*   [celoyd/wheather](https://github.com/celoyd/wheather) - Image-compositing scripts for filtering weather out of satellite images
-
-*   [CC-Archived/mou-theme-solarized](https://github.com/CC-Archived/mou-theme-solarized) - Mou (http://mouapp.com/) theme for Markdown syntax highlighting using Ethan Schoonover's Solarized color scheme.
 
 ## HTML
 
@@ -3662,178 +3836,6 @@
 
 *   [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
-## PHP
-
-*   [aaronpk/Quill](https://github.com/aaronpk/Quill) - 🖋 A Micropub client for creating posts
-
-*   [dupunkto/pubb](https://github.com/dupunkto/pubb) - Website engine that explores ways to blend websites, social media and collaboration on the Web, by implementing open standards.
-
-*   [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API
-
-*   [aaronpk/Meetable](https://github.com/aaronpk/Meetable) - an event listing website
-
-*   [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
-
-*   [beyondcode/writeout.ai](https://github.com/beyondcode/writeout.ai) - Transcribe and translate your audio files - for free
-
-*   [zamentur/libreto](https://github.com/zamentur/libreto) - Collaborative notebook based on framapad
-
-*   [aaronpk/Local-MediaWiki-Sync](https://github.com/aaronpk/Local-MediaWiki-Sync) - Downloads all pages from a MediaWiki install to local text files.
-
-*   [indieweb/this-week](https://github.com/indieweb/this-week) - Weekly newsletter of IndieWebCamp activity
-
-*   [kerri-hicks/blur\_no-alt](https://github.com/kerri-hicks/blur_no-alt) - Blurs images in the WordPress editing interface if they don't have alt text on them, or if their alt text is just the filename of the image.
-
-*   [Daniel-KM/Omeka-S-module-Contribute](https://github.com/Daniel-KM/Omeka-S-module-Contribute) - Module for Omeka S that allows guest users or visitors to edit and complete metadata of a resource in the public side.
-
-*   [biblibre/omeka-cli](https://github.com/biblibre/omeka-cli) - Command line tool for Omeka
-
-*   [Daniel-KM/Omeka-S-module-UniversalViewer](https://github.com/Daniel-KM/Omeka-S-module-UniversalViewer) - Module for Omeka S that adds the IIIF specifications in order to act like an IIPImage server, and the UniversalViewer, a unified online player for any file. It can display books, images, maps, audio, movies, pdf, 3D views, and anything else as long as the appropriate extensions are installed.
-
-*   [Daniel-KM/Omeka-plugin-CsvImportPlus](https://github.com/Daniel-KM/Omeka-plugin-CsvImportPlus) - This fork of the plugin for Omeka allows users to import metadata of items from a simple CSV file. Improvements are: choice of separators, import of metadata of files and collections, update of any record, import of files one by one to avoid to overload the server.
-
-*   [Daniel-KM/Omeka-S-module-AmazonS3](https://github.com/Daniel-KM/Omeka-S-module-AmazonS3) - Module for Omeka S that allows to store files with Amason S3.
-
-*   [Daniel-KM/Omeka-S-module-ArchiveRepertory](https://github.com/Daniel-KM/Omeka-S-module-ArchiveRepertory) - Omeka S module that allows to keep original names of files and to put them in a hierarchical structure (collection / item / files) in order to get readable urls for files and to avoid an overloading of the file server.
-
-*   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
-
-*   [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
-
-*   [dg01d/nanopub](https://github.com/dg01d/nanopub) - MicroPub support for Static Blog Engine
-
-*   [bnomei/kirby-php-mustache](https://github.com/bnomei/kirby-php-mustache) - Logic-less templates with PHP Mustache in Kirby CMS
-
-*   [eyebeam/eyebeam.org](https://github.com/eyebeam/eyebeam.org) - It's a website: eyebeam dot org
-
-*   [tmarois/Filebase](https://github.com/tmarois/Filebase) - A Simple but Powerful Flat File Database Storage.
-
-*   [iandoe/kirby-dominant-color](https://github.com/iandoe/kirby-dominant-color) - Kirby panel hook plugin to extract the dominant color out of an image
-
-*   [samnabi/shopkit](https://github.com/samnabi/shopkit) - Comprehensive commerce solution for Kirby CMS v2
-
-*   [sylvainjule/kirby-imageboxes](https://github.com/sylvainjule/kirby-imageboxes) - Add illustrations to Kirby's checkboxes. Compatible with Kirby 3, 4, 5.
-
-*   [sylvainjule/kirby-imageradio](https://github.com/sylvainjule/kirby-imageradio) - Add illustrations to Kirby's radio buttons. Compatible with Kirby 3, 4, 5.
-
-*   [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
-
-*   [lukaskleinschmidt/kirby-delete](https://github.com/lukaskleinschmidt/kirby-delete) - Delete pages containing subpages
-
-*   [flokosiol/kirby-sharingbuttons](https://github.com/flokosiol/kirby-sharingbuttons) - Social Media Sharing Buttons for Kirby 2
-
-*   [hmazter/dropbox-image-slideshow](https://github.com/hmazter/dropbox-image-slideshow) - Web application to show images from a Dropbox folder as a slideshow
-
-*   [dphiffer/starmonger](https://github.com/dphiffer/starmonger) - A simple Twitter favorites archiver
-
-*   [pedroborges/kirby-meta-tags](https://github.com/pedroborges/kirby-meta-tags) - ⬢ HTML meta tags generator for Kirby. Supports Open Graph and Twitter Cards out of the box.
-
-*   [lord-executor/kirby-constructs](https://github.com/lord-executor/kirby-constructs) - Kirby CMS plugin with support for modular page component bundles with blueprints, controllers, templates and supporting files
-
-*   [texnixe/kirby-spreadsheet](https://github.com/texnixe/kirby-spreadsheet) -
-
-*   [ivinteractive/kirbycms-redirects](https://github.com/ivinteractive/kirbycms-redirects) -
-
-*   [fvsch/kirby-staticbuilder](https://github.com/fvsch/kirby-staticbuilder) - Static HTML exporter for Kirby CMS (v2 only)
-
-*   [fabianmichael/kirby-imagekit](https://github.com/fabianmichael/kirby-imagekit) - Asynchronous thumbnail creation and optimization for Kirby 2
-
-*   [kirby-deprecated-plugins/kirby-panel-prevnext](https://github.com/kirby-deprecated-plugins/kirby-panel-prevnext) - A Kirby CMS plugin for panel siblings navigation
-
-*   [lukaskleinschmidt/kirby-sortable](https://github.com/lukaskleinschmidt/kirby-sortable) - Making subpage managing a breeze
-
-*   [jongacnik/kirby2-spad](https://github.com/jongacnik/kirby2-spad) - 📄 Kirby single page app json
-
-*   [fabianmichael/kirby-typography](https://github.com/fabianmichael/kirby-typography) - Typographic enhancements for your Kirby-driven website.
-
-*   [kshaffer/hypothesis\_aggregator](https://github.com/kshaffer/hypothesis_aggregator) - A WordPress plugin for aggregating data via the hypothes.is API.
-
-*   [littlesis-org/littlesis](https://github.com/littlesis-org/littlesis) - Moved to:
-
-*   [kirby-deprecated-plugins/kirby-hooks-debugger](https://github.com/kirby-deprecated-plugins/kirby-hooks-debugger) - Debug Kirby Panel hooks
-
-*   [jongacnik/kirby2-sirvy](https://github.com/jongacnik/kirby2-sirvy) - 🔗 Kirby Services API
-
-*   [kirby-deprecated-plugins/kirby-revisions](https://github.com/kirby-deprecated-plugins/kirby-revisions) - Revisions for Kirby CMS
-
-*   [mAAdhaTTah/wordpress-github-sync](https://github.com/mAAdhaTTah/wordpress-github-sync) - A WordPress plugin to sync content with a GitHub repository (or Jekyll site)
-
-*   [getkirby-v1/plugins](https://github.com/getkirby-v1/plugins) - Deprecated! Please see: https://github.com/getkirby
-
-*   [greywillfade/wpxml-to-kirby](https://github.com/greywillfade/wpxml-to-kirby) - WordPress export to Kirby file generator
-
-*   [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
-
-*   [getkirby-v2/cli](https://github.com/getkirby-v2/cli) - Kirby's command line interface
-
-*   [jancbeck/kirby-responsive-images](https://github.com/jancbeck/kirby-responsive-images) - Bring responsive images to Kirby CMS
-
-*   [mzur/kirby-uniform](https://github.com/mzur/kirby-uniform) - A versatile Kirby plugin to handle web form actions.
-
-*   [storypioneers/kirby-selector](https://github.com/storypioneers/kirby-selector) - file selector panel field for Kirby CMS
-
-*   [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
-
-*   [mzur/kirby-calendar-plugin](https://github.com/mzur/kirby-calendar-plugin) - A plugin for the Kirby CMS to easily implement an event calendar.
-
-*   [bartvandebiezen/kirby-v2-scssphp](https://github.com/bartvandebiezen/kirby-v2-scssphp) - Sass plugin for Kirby
-
-*   [fanningert/kirbycms-extension-image](https://github.com/fanningert/kirbycms-extension-image) - KirbyCMS Extension - Image Extended
-
-*   [studiodumbar/kirby-extensions](https://github.com/studiodumbar/kirby-extensions) - Kirby 2 plugins and tags
-
-*   [ushahidi/Ushahidi\_Web](https://github.com/ushahidi/Ushahidi_Web) - Ushahidi v2. A platform that allows information collection, visualization and interactive mapping, allowing anyone to submit information through text messaging using a mobile phone, email or web form.
-
-*   [pwrstudio/sassolino](https://github.com/pwrstudio/sassolino) - Very small flat-file CMS
-
-*   [feminista/feminist-phone-intervention](https://github.com/feminista/feminist-phone-intervention) - Feminist Phone Intervention: feminist-phone-intervention.tumblr.com
-
-*   [pattern-lab/patternlab-php](https://github.com/pattern-lab/patternlab-php) - The PHP version of Pattern Lab
-
-*   [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
-
-*   [paulrobertlloyd/barebones](https://github.com/paulrobertlloyd/barebones) - Initial directory setup, style guide and pattern primer. Intended as a starting point for my own projects, available for others to clone and adapt for theirs.
-
-*   [codeforamerica/wp-splost](https://github.com/codeforamerica/wp-splost) - This is the Wordpress theme for Macon's SPLOST website.
-
-*   [infovore/iss\_photo\_toy](https://github.com/infovore/iss_photo_toy) -
-
-*   [dphiffer/wp-json-api](https://github.com/dphiffer/wp-json-api) - WordPress JSON API
-
-*   [civicrm/civicrm-core](https://github.com/civicrm/civicrm-core) - CiviCRM (Core Application and Framework)
-
-*   [Self-Evident/OneFileCMS](https://github.com/Self-Evident/OneFileCMS) - A single file cms - all in one file!
-
-*   [disqus/DISQUS-API-Recipes](https://github.com/disqus/DISQUS-API-Recipes) - Cook all the things!
-
-*   [straup/youarehere-www](https://github.com/straup/youarehere-www) - You are here. Maybe.
-
-*   [straup/pinboard-tools](https://github.com/straup/pinboard-tools) - Assorted tools for doing stuff on pinboard.in
-
-*   [okfocus/okjson](https://github.com/okfocus/okjson) - Turn a directory structure into JSON for whatever.
-
-*   [mikeindustries/Stellar-Tweetbot](https://github.com/mikeindustries/Stellar-Tweetbot) - An automated bot which retweets Flow from your Stellar.io account.
-
-*   [Coppertino/github-webhook](https://github.com/Coppertino/github-webhook) - Github php webhook to sync repository data into multiple servers (via ftp and ssh protocols)
-
-*   [straup/privatesquare](https://github.com/straup/privatesquare) - privatesquare is a simple web application to record and manage a database of foursquare check-ins.
-
-*   [getkirby-v1/starterkit](https://github.com/getkirby-v1/starterkit) - Deprecated! See http://github.com/getkirby
-
-*   [simplebits/Pears](https://github.com/simplebits/Pears) -
-
-*   [MantisSTS/FileMaker-PHP-API-Interface](https://github.com/MantisSTS/FileMaker-PHP-API-Interface) - This was just a private class that I made which helped me develop for the web using the FM PHP API but I have added my own methods which saved time and made life easier.
-
-*   [straup/parallel-flickr](https://github.com/straup/parallel-flickr) -
-
-*   [lisezmoi/scri.ch](https://github.com/lisezmoi/scri.ch) - scri.ch is a minimal web app that lets you draw, share, and fork existing drawings.
-
-*   [statedecoded/statedecoded](https://github.com/statedecoded/statedecoded) - Legal codes, for humans.
-
-*   [iamcal/oembed](https://github.com/iamcal/oembed) - The oEmbed Spec
-
-*   [cashmusic/platform](https://github.com/cashmusic/platform) - A free and open platform giving all musicians access to tools that let them manage, promote, and sell their music online.
-
 ## QML
 
 *   [reMarkable/remarkable-developer-examples](https://github.com/reMarkable/remarkable-developer-examples) -
@@ -4069,8 +4071,6 @@
 *   [twitter-archive/twui](https://github.com/twitter-archive/twui) - A UI framework for Mac based on Core Animation
 
 *   [Simbul/baker](https://github.com/Simbul/baker) - The HTML5 ebook framework to publish interactive books & magazines on iPad & iPhone using simply open web standards
-
-*   [rsms/scrup](https://github.com/rsms/scrup) - Take a screenshot (in OS X) — paste the URL somewhere a second later
 
 ## ActionScript
 
