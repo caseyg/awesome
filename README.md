@@ -983,7 +983,7 @@
 
 *   [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface
 
-*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+*   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
 *   [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 
@@ -1102,8 +1102,6 @@
 *   [dropbox/dbx-career-framework](https://github.com/dropbox/dbx-career-framework) -
 
 *   [open-telemetry/community](https://github.com/open-telemetry/community) - OpenTelemetry community content
-
-*   [redhat-documentation/vale-at-red-hat](https://github.com/redhat-documentation/vale-at-red-hat) - Vale config files, styles, and docs to help individuals and teams roll out Vale
 
 *   [varner/nyc-311-discord-bot](https://github.com/varner/nyc-311-discord-bot) -
 
@@ -2426,6 +2424,8 @@
 *   [rseng/software](https://github.com/rseng/software) - research software encyclopedia database
 
 *   [Khan/style-guides](https://github.com/Khan/style-guides) - Docs for the Organization
+
+*   [redhat-documentation/vale-at-red-hat](https://github.com/redhat-documentation/vale-at-red-hat) - Vale config files, styles, and docs to help individuals and teams roll out Vale
 
 *   [tombubul/newtabimages](https://github.com/tombubul/newtabimages) - Low-maintenance, serverless approach to interacting with a giant screenshot archive
 
