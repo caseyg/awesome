@@ -4,6 +4,10 @@
 
 ## Table of Contents
 
+*   [tailscale](#tailscale)
+*   [tailscale-control-server](#tailscale-control-server)
+*   [tailscale-server](#tailscale-server)
+*   [wireguard](#wireguard)
 *   [ai](#ai)
 *   [ai-agents](#ai-agents)
 *   [ai-crawler](#ai-crawler)
@@ -2653,7 +2657,6 @@
 *   [vpn](#vpn)
 *   [vpn-client](#vpn-client)
 *   [vpn-server](#vpn-server)
-*   [wireguard](#wireguard)
 *   [guide](#guide)
 *   [qz-things](#qz-things)
 *   [shell-script](#shell-script)
@@ -3093,6 +3096,24 @@
 *   [dracula](#dracula)
 *   [graph-dracula](#graph-dracula)
 *   [jquery-modal](#jquery-modal)
+
+## tailscale
+
+*   [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+
+## tailscale-control-server
+
+*   [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+
+## tailscale-server
+
+*   [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+
+## wireguard
+
+*   [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+
+*   [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## ai
 
@@ -6028,8 +6049,6 @@
 
 *   [spoiledmilk/casein3](https://github.com/spoiledmilk/casein3) - Lightweight CMS for Ruby on Rails 3.x from Spoiled Milk.
 
-*   [desandro/windex](https://github.com/desandro/windex) - Pretty up your localhost. No more 1996 jank.
-
 ## obsidian
 
 *   [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans visually, share with your team, send feedback with one click.
@@ -8643,8 +8662,6 @@
 *   [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 
 *   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 
 *   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 
@@ -22889,10 +22906,6 @@
 *   [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## vpn-server
-
-*   [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-
-## wireguard
 
 *   [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
