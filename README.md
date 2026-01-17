@@ -10,7 +10,6 @@
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
-*   [Roff](#roff)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Svelte](#svelte)
 *   [Shell](#shell)
@@ -750,6 +749,8 @@
 *   [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 
 *   [leefowlercu/agent-kit](https://github.com/leefowlercu/agent-kit) - My Claude Plugin Marketplace
+
+*   [asgeirtj/system\_prompts\_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 
 *   [freeplane/docs](https://github.com/freeplane/docs) -
 
@@ -3078,10 +3079,6 @@
 *   [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 
 *   [itsabot/itsabot](https://github.com/itsabot/itsabot) - ItsAbot makes it easy and fun to build your own digital assistant, and we include everything you need to get started.
-
-## Roff
-
-*   [asgeirtj/system\_prompts\_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 
 ## Jupyter Notebook
 
