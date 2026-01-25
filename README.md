@@ -2072,7 +2072,7 @@
 
 *   [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows
 
-*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you & agent need - Learn Agent by writing a Claude Code with only 16 line code
+*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need！write a claude code with only 16 line code
 
 *   [shussey/mcp-aha-themes](https://github.com/shussey/mcp-aha-themes) - Model Context Protocol server for exploring Aha! Product workspace themes
 
