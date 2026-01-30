@@ -3939,8 +3939,6 @@
 
 *   [lynaghk/subform-layout](https://github.com/lynaghk/subform-layout) - Embeddable layout engine. Like flexbox, but with fewer concepts, applied uniformly.
 
-*   [puckey/learning-by-example](https://github.com/puckey/learning-by-example) - An automated are.na channel
-
 *   [new-computers/arena-toolkit](https://github.com/new-computers/arena-toolkit) - Access to tools
 
 *   [samiz-dat/samiz-dat](https://github.com/samiz-dat/samiz-dat) - The beginings of a distributed library of libraries.
@@ -5269,6 +5267,8 @@
 
 *   [tboronczyk/JavaScript-Experiments](https://github.com/tboronczyk/JavaScript-Experiments) - Various small experiments in JavaScript
 
+*   [frankpf/gridless-boilerplate](https://github.com/frankpf/gridless-boilerplate) - Gridless is an awesome HTML5 and CSS3 boilerplate for making responsive, cross-browser websites with beautiful typography
+
 ## echarts
 
 *   [zaaack/vscode-markdown-editor](https://github.com/zaaack/vscode-markdown-editor) - A vscode extension to make your vscode become a  full-featured WYSIWYG markdown editor
@@ -5573,7 +5573,7 @@
 
 *   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 
 *   [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 
@@ -5849,7 +5849,7 @@
 
 *   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 
 *   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 
@@ -6865,7 +6865,7 @@
 
 *   [livekit/agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
 
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 
 ## coding
 
@@ -7453,7 +7453,7 @@
 
 *   [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 50+ formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 
 ## ffi
 
@@ -7853,7 +7853,7 @@
 
 *   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 
 *   [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 
@@ -8843,7 +8843,7 @@
 
 *   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 
 *   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
 
@@ -8985,7 +8985,7 @@
 
 *   [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 
 *   [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 
@@ -9727,7 +9727,7 @@
 
 *   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 
 *   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
 
@@ -10577,7 +10577,7 @@
 
 *   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 
 *   [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
 
@@ -12381,7 +12381,7 @@
 
 *   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 
 *   [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
@@ -12973,7 +12973,7 @@
 
 *   [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 
 *   [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 
@@ -15023,7 +15023,7 @@
 
 *   [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 
 ## sync
 
@@ -15031,7 +15031,7 @@
 
 *   [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 
@@ -15435,7 +15435,7 @@
 
 *   [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 
 *   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
 
@@ -15805,7 +15805,7 @@
 
 ## replication
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 
 ## e2e-testing
 

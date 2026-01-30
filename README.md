@@ -395,8 +395,6 @@
 
 *   [enokidotsite/enoki](https://github.com/enokidotsite/enoki) - ultralight tools for creating p2p sites
 
-*   [puckey/learning-by-example](https://github.com/puckey/learning-by-example) - An automated are.na channel
-
 *   [new-computers/arena-toolkit](https://github.com/new-computers/arena-toolkit) - Access to tools
 
 *   [marijnh/Eloquent-JavaScript](https://github.com/marijnh/Eloquent-JavaScript) - The sources for the Eloquent JavaScript book
@@ -1085,8 +1083,6 @@
 
 *   [obra/superpowers-marketplace](https://github.com/obra/superpowers-marketplace) - Curated Claude Code plugin marketplace
 
-*   [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
-
 *   [navapbc/strata](https://github.com/navapbc/strata) - A platform that empowers teams to accelerate delivery through self-service tools and training.
 
 *   [IBM/mcp-composer](https://github.com/IBM/mcp-composer) - MCP Composer
@@ -1698,6 +1694,8 @@
 *   [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 
 *   [leochiu-a/universal-agents](https://github.com/leochiu-a/universal-agents) - The Lightest Shared Standard for AI Agents
+
+*   [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
 
 *   [cloudflare/sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) - Run sandboxed code environments on Cloudflare's edge network
 
@@ -2557,7 +2555,7 @@
 
 *   [rschroll/rmrl](https://github.com/rschroll/rmrl) - Render reMarkable documents to PDF
 
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 
 *   [definitive-io/duckdb-text2sql](https://github.com/definitive-io/duckdb-text2sql) -
 
@@ -3577,6 +3575,8 @@
 
 *   [MattWilcox/Adaptive-Images](https://github.com/MattWilcox/Adaptive-Images) - Automatically adapts your existing HTML images for mobile devices. No mark-up changes needed.
 
+*   [frankpf/gridless-boilerplate](https://github.com/frankpf/gridless-boilerplate) - Gridless is an awesome HTML5 and CSS3 boilerplate for making responsive, cross-browser websites with beautiful typography
+
 ## Jupyter Notebook
 
 *   [sam-paech/slop-forensics](https://github.com/sam-paech/slop-forensics) -
@@ -3945,7 +3945,7 @@
 
 ## Elixir
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 
 ## Makefile
 
