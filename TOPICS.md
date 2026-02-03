@@ -834,6 +834,7 @@
 *   [pagefind](#pagefind)
 *   [withastro](#withastro)
 *   [confluence](#confluence)
+*   [mediawiki](#mediawiki)
 *   [notion-alternative](#notion-alternative)
 *   [realtime-collaboration](#realtime-collaboration)
 *   [dark-theme](#dark-theme)
@@ -2841,7 +2842,6 @@
 *   [modal-plugin](#modal-plugin)
 *   [archive-wikis](#archive-wikis)
 *   [digital-preservation](#digital-preservation)
-*   [mediawiki](#mediawiki)
 *   [wikipedia](#wikipedia)
 *   [wikiteam](#wikiteam)
 *   [backstopjs](#backstopjs)
@@ -13869,6 +13869,12 @@
 
 *   [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
 
+## mediawiki
+
+*   [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+
+*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2026, WikiTeam has preserved more than 600,000 wikis.
+
 ## notion-alternative
 
 *   [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
@@ -23902,10 +23908,6 @@
 *   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2026, WikiTeam has preserved more than 600,000 wikis.
 
 ## digital-preservation
-
-*   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2026, WikiTeam has preserved more than 600,000 wikis.
-
-## mediawiki
 
 *   [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2026, WikiTeam has preserved more than 600,000 wikis.
 
