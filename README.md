@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Nushell](#nushell)
 *   [Python](#python)
 *   [Go](#go)
 *   [TypeScript](#typescript)
@@ -58,6 +59,10 @@
 *   [HaXe](#haxe)
 *   [Vim script](#vim-script)
 *   [Objective-C++](#objective-c-1)
+
+## Nushell
+
+*   [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 
 ## Python
 
@@ -687,7 +692,7 @@
 
 *   [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 
-*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - A better, universal, open source version of Claude Code Plugins
+*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent config organizer and package manager.
 
 *   [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode
 
@@ -2381,8 +2386,6 @@
 
 *   [tiff/wysihtml5](https://github.com/tiff/wysihtml5) - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
 
-*   [triplecanopy/horizonize](https://github.com/triplecanopy/horizonize) - Horizonize is a jQuery plugin to lay out any HTML content in horizontally-scrolling columns.
-
 ## miscellaneous
 
 *   [jonathanyeung/mark-sharp](https://github.com/jonathanyeung/mark-sharp) - Mark Sharp WYSIWYG Markdown Editor for VS Code
@@ -3327,7 +3330,7 @@
 
 ## HTML
 
-*   [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 50+ formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server.
+*   [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 75+ formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server.
 
 *   [dave1010/tools](https://github.com/dave1010/tools) - Collection of tools
 
