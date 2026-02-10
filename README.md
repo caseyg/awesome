@@ -692,11 +692,11 @@
 
 *   [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 
-*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent config organizer and package manager.
+*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
 
 *   [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode
 
-*   [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
+*   [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The framework for User-Generated Interfaces
 
 *   [kill136/claude-code-open](https://github.com/kill136/claude-code-open) -
 
@@ -777,6 +777,8 @@
 *   [cedricziel/aha-mcp](https://github.com/cedricziel/aha-mcp) - A Model Context Protocol (MCP) server that provides seamless integration with Aha.io's product management platform.
 
 *   [build-with-groq/groq-code-cli](https://github.com/build-with-groq/groq-code-cli) - A highly customizable, lightweight, and open-source coding CLI powered by Groq for instant iteration.
+
+*   [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
 
 *   [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 
@@ -3055,8 +3057,6 @@
 *   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 
 *   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-
-*   [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
 
 *   [mbailey/openai-proxy](https://github.com/mbailey/openai-proxy) - Route select OpenAI API endpoints to local services (e.g. Whisper, Ollama, Kororo).
 

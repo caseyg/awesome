@@ -3179,7 +3179,7 @@
 
 *   [KDE/kitinerary](https://github.com/KDE/kitinerary) - Data Model and Extraction System for Travel Reservation information
 
-*   [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
+*   [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The framework for User-Generated Interfaces
 
 *   [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 
@@ -5293,7 +5293,7 @@
 
 *   [cosai-oasis/project-codeguard](https://github.com/cosai-oasis/project-codeguard) - Project CodeGuard is an open-source, model-agnostic security framework that embeds secure-by-default practices into AI coding agent workflows. It provides comprehensive security rules that guide AI assistants to generate more secure code automatically.
 
-*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent config organizer and package manager.
+*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
 
 *   [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
 
@@ -5349,7 +5349,7 @@
 
 *   [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 
-*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent config organizer and package manager.
+*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
 
 *   [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 
@@ -5519,7 +5519,7 @@
 
 *   [cosai-oasis/project-codeguard](https://github.com/cosai-oasis/project-codeguard) - Project CodeGuard is an open-source, model-agnostic security framework that embeds secure-by-default practices into AI coding agent workflows. It provides comprehensive security rules that guide AI assistants to generate more secure code automatically.
 
-*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent config organizer and package manager.
+*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
 
 *   [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 
@@ -5547,7 +5547,7 @@
 
 *   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 
-*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent config organizer and package manager.
+*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
 
 *   [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 
@@ -7025,35 +7025,35 @@
 
 ## commands
 
-*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent config organizer and package manager.
+*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
 
 *   [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 
 ## openpackage
 
-*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent config organizer and package manager.
+*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
 
 ## opkg
 
-*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent config organizer and package manager.
+*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
 
 ## package-manager
 
-*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent config organizer and package manager.
+*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
 
 *   [pr-pm/prpm](https://github.com/pr-pm/prpm) - The universal registry for AI coding tools
 
 ## plugins
 
-*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent config organizer and package manager.
+*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
 
 ## rules
 
-*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent config organizer and package manager.
+*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
 
 ## skills
 
-*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent config organizer and package manager.
+*   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
 
 *   [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian
 
