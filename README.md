@@ -1398,8 +1398,6 @@
 
 *   [leefowlercu/agent-kit](https://github.com/leefowlercu/agent-kit) - My Claude Plugin Marketplace
 
-*   [asgeirtj/system\_prompts\_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-
 *   [freeplane/docs](https://github.com/freeplane/docs) -
 
 *   [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
@@ -3050,7 +3048,7 @@
 
 *   [brianlovin/claude-config](https://github.com/brianlovin/claude-config) - My Claude Code setup
 
-*   [lout33/claude\_life\_assistant](https://github.com/lout33/claude_life_assistant) - A symbiotic AI agent that remembers everything, challenges you, and extends your cognition.
+*   [lout33/ai-life-assistant](https://github.com/lout33/ai-life-assistant) - A symbiotic AI agent that remembers everything, challenges you, and extends your cognition.
 
 *   [GregBParker/things3-claude-skill](https://github.com/GregBParker/things3-claude-skill) -
 
@@ -3331,6 +3329,8 @@
 ## HTML
 
 *   [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 75+ formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server.
+
+*   [asgeirtj/system\_prompts\_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 
 *   [dave1010/tools](https://github.com/dave1010/tools) - Collection of tools
 
