@@ -212,7 +212,7 @@
 
 *   [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 
-*   [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
+*   [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
 
 *   [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 
@@ -3050,7 +3050,7 @@
 
 *   [brianlovin/claude-config](https://github.com/brianlovin/claude-config) - My Claude Code setup
 
-*   [lout33/ai-life-assistant](https://github.com/lout33/ai-life-assistant) - A symbiotic AI agent that remembers everything, challenges you, and extends your cognition.
+*   [lout33/symbiotic-ai](https://github.com/lout33/symbiotic-ai) - A symbiotic AI agent that remembers everything, challenges you, and extends your cognition.
 
 *   [GregBParker/things3-claude-skill](https://github.com/GregBParker/things3-claude-skill) -
 
