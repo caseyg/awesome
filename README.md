@@ -594,7 +594,7 @@
 
 *   [langchain-ai/deep-agents-ui](https://github.com/langchain-ai/deep-agents-ui) - Custom UI for Deep Agents
 
-*   [zed-industries/claude-code-acp](https://github.com/zed-industries/claude-code-acp) - Use Claude Code from any ACP client such as Zed!
+*   [zed-industries/claude-agent-acp](https://github.com/zed-industries/claude-agent-acp) - Use Claude Agent SDK from any ACP client such as Zed!
 
 *   [team-forge-ai/openchat](https://github.com/team-forge-ai/openchat) - Private, local-first AI chat desktop app built with Tauri (Rust) + React + TypeScript.
 
@@ -692,7 +692,7 @@
 
 *   [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - The official MCP server implementation for the Perplexity API Platform
 
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 
 *   [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 
@@ -742,7 +742,7 @@
 
 *   [firecrawl/llmstxt-generator](https://github.com/firecrawl/llmstxt-generator) - 🔥 Generate llms.txt and llms-full.txt files for any website!
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents. Connect any agent framework to Chat, Generative UI, Frontend Tools, Human-in-the-Loop and Shared State. React & Angular supported.
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
 
 *   [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 
@@ -1434,7 +1434,7 @@
 
 *   [rschroll/rmrl](https://github.com/rschroll/rmrl) - Render reMarkable documents to PDF
 
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build multi-agent systems with streaming, memory, governance, and isolation built in.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build multi-agent systems with streaming, memory, governance, and request isolation.
 
 *   [definitive-io/duckdb-text2sql](https://github.com/definitive-io/duckdb-text2sql) -
 
