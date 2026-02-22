@@ -612,7 +612,7 @@
 
 *   [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) - Model Context Protocol server for GraphQL
 
-*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need. A nano Claude Code–like agent, built from 0 to 1
+*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
 
 *   [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 
@@ -3042,6 +3042,8 @@
 
 *   [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀
 
+*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
+
 *   [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 
 *   [cortesi/spacecurve](https://github.com/cortesi/spacecurve) - A library for drawing space-filling curves like the Hilbert Curve.
@@ -3447,8 +3449,6 @@
 *   [tchoi8/teachingasart](https://github.com/tchoi8/teachingasart) - Class on pedagogy.
 
 *   [ireade/alix](https://github.com/ireade/alix) - Alix, a browser extension for a11y.css
-
-*   [stencila/stencila](https://github.com/stencila/stencila) - Documents with Scientific Intelligence
 
 *   [alfredxing/brick](https://github.com/alfredxing/brick) - Open-source webfont service
 
