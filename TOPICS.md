@@ -840,6 +840,7 @@
 *   [research-tool](#research-tool)
 *   [english-language](#english-language)
 *   [grammar-checker](#grammar-checker)
+*   [md](#md)
 *   [developer](#developer)
 *   [governance](#governance)
 *   [ibm](#ibm)
@@ -860,7 +861,6 @@
 *   [multiagent](#multiagent)
 *   [react-flow](#react-flow)
 *   [jq](#jq)
-*   [md](#md)
 *   [querying](#querying)
 *   [eink](#eink)
 *   [remarkable-2](#remarkable-2)
@@ -1153,7 +1153,6 @@
 *   [webgpu](#webgpu)
 *   [webml](#webml)
 *   [offline](#offline)
-*   [pwa](#pwa)
 *   [comfy](#comfy)
 *   [comfyui](#comfyui)
 *   [stable-diffusion](#stable-diffusion)
@@ -1515,6 +1514,7 @@
 *   [landing-pages](#landing-pages)
 *   [next-js](#next-js)
 *   [page-builder](#page-builder)
+*   [pwa](#pwa)
 *   [shopify](#shopify)
 *   [webcomponents](#webcomponents)
 *   [admin-dashboard](#admin-dashboard)
@@ -5870,6 +5870,8 @@
 
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 
+*   [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
+
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 
 *   [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
@@ -6855,6 +6857,8 @@
 *   [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 
 *   [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+
+*   [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 
 *   [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 
@@ -11956,6 +11960,8 @@
 
 *   [snarfed/granary](https://github.com/snarfed/granary) - 💬 The social web translator
 
+*   [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
+
 *   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 *   [apache/incubator-annotator](https://github.com/apache/incubator-annotator) - Apache Annotator provides annotation enabling code for browsers, servers, and humans.
@@ -13982,6 +13988,12 @@
 
 *   [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
+## md
+
+*   [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
+
+*   [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
+
 ## developer
 
 *   [IBM/watsonx-ai-platform-demos](https://github.com/IBM/watsonx-ai-platform-demos) - AI Agents, LLM Fine-tuning, Developer Productivity, Governance, IBM watsonx
@@ -14103,10 +14115,6 @@
 *   [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 
 *   [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
-
-## md
-
-*   [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 
 ## querying
 
@@ -15807,12 +15815,6 @@
 *   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 
 *   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
-
-## pwa
-
-*   [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
-
-*   [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 
 ## comfy
 
@@ -17719,6 +17721,10 @@
 *   [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 
 ## page-builder
+
+*   [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
+
+## pwa
 
 *   [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 
