@@ -2327,6 +2327,8 @@
 
 *   [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 
+*   [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server.
+
 *   [dhanji/flock](https://github.com/dhanji/flock) - making geese flock
 
 *   [dhanji/g3](https://github.com/dhanji/g3) - experiments in goose
@@ -2699,7 +2701,7 @@
 
 *   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
-*   [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
+*   [basecamp/handbook](https://github.com/basecamp/handbook) - 37signals Employee Handbook
 
 *   [kai-qu/notation](https://github.com/kai-qu/notation) - Collection of quotes on notation design & how it affects thought.
 
@@ -3342,8 +3344,6 @@
 *   [kylemcdonald/AppropriatingNewTechnologies](https://github.com/kylemcdonald/AppropriatingNewTechnologies) - A half-semester class at ITP.
 
 ## HTML
-
-*   [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server.
 
 *   [asgeirtj/system\_prompts\_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 

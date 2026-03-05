@@ -4134,7 +4134,7 @@
 
 *   [yoeran/kirby-kit](https://github.com/yoeran/kirby-kit) - Kirby CMS starter kit with Gulp
 
-*   [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
+*   [basecamp/handbook](https://github.com/basecamp/handbook) - 37signals Employee Handbook
 
 *   [WardCunningham/wiki-plugin-slide](https://github.com/WardCunningham/wiki-plugin-slide) - Present from Wiki with Slides
 
