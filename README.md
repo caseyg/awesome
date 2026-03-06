@@ -1617,7 +1617,7 @@
 
 *   [getversive/whisker](https://github.com/getversive/whisker) - AI-powered usability testing CLI
 
-*   [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app for Mac
+*   [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app
 
 *   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 

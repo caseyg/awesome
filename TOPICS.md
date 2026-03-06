@@ -3196,7 +3196,7 @@
 
 *   [getversive/whisker](https://github.com/getversive/whisker) - AI-powered usability testing CLI
 
-*   [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app for Mac
+*   [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app
 
 *   [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 
