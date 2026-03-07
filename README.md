@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [MDX](#mdx)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -22,7 +23,6 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Svelte](#svelte)
 *   [Java](#java)
-*   [MDX](#mdx)
 *   [Ruby](#ruby)
 *   [Clojure](#clojure)
 *   [Nunjucks](#nunjucks)
@@ -60,6 +60,20 @@
 *   [HaXe](#haxe)
 *   [Vim script](#vim-script)
 *   [Objective-C++](#objective-c-1)
+
+## MDX
+
+*   [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
+
+*   [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course) - Interactive course teaching Product Managers how to use Claude Code effectively
+
+*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
+
+*   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
+
+*   [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 
 ## JavaScript
 
@@ -1065,6 +1079,8 @@
 
 *   [simonw/research](https://github.com/simonw/research) - Research projects
 
+*   [amplitude/mcp-marketplace](https://github.com/amplitude/mcp-marketplace) - Amplitude's MCP plugins and their related agents, skills, and commands
+
 *   [cosai-oasis/project-codeguard](https://github.com/cosai-oasis/project-codeguard) - Project CodeGuard is an open-source, model-agnostic security framework that embeds secure-by-default practices into AI coding agent workflows. It provides comprehensive security rules that guide AI assistants to generate more secure code automatically.
 
 *   [gmickel/outlookctl](https://github.com/gmickel/outlookctl) - Local CLI for automating Classic Outlook on Windows via COM. Includes a Claude Code/Codex Skill for AI-assisted email management with safety guardrails.
@@ -1619,7 +1635,7 @@
 
 *   [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 
 *   [Superkikim/nexus-ai-chat-importer](https://github.com/Superkikim/nexus-ai-chat-importer) -
 
@@ -1731,7 +1747,7 @@
 
 *   [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 
-*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
+*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 
 *   [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
 
@@ -1807,7 +1823,7 @@
 
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 
-*   [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
+*   [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 
 *   [singleportrait/a-pattern-language](https://github.com/singleportrait/a-pattern-language) - A directory and network for all patterns in A Pattern Language
 
@@ -2465,8 +2481,6 @@
 
 *   [nemocake/claude-obsidian-assistant](https://github.com/nemocake/claude-obsidian-assistant) -
 
-*   [amplitude/mcp-marketplace](https://github.com/amplitude/mcp-marketplace) - Amplitude's MCP plugins and their related agents, skills, and commands
-
 *   [jonathanyeung/mark-sharp](https://github.com/jonathanyeung/mark-sharp) - Mark Sharp WYSIWYG Markdown Editor for VS Code
 
 *   [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
@@ -2482,8 +2496,6 @@
 *   [navapbc/strata](https://github.com/navapbc/strata) - A platform that empowers teams to accelerate delivery through self-service tools and training.
 
 *   [IBM/mcp-composer](https://github.com/IBM/mcp-composer) - MCP Composer
-
-*   [microsoft/amplifier](https://github.com/microsoft/amplifier) -
 
 *   [simonw/claude-skills](https://github.com/simonw/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
 
@@ -3074,6 +3086,8 @@
 *   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 
 *   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+
+*   [microsoft/amplifier](https://github.com/microsoft/amplifier) -
 
 *   [mbailey/openai-proxy](https://github.com/mbailey/openai-proxy) - Route select OpenAI API endpoints to local services (e.g. Whisper, Ollama, Kororo).
 
@@ -3693,18 +3707,6 @@
 
 *   [matthewepler/ComputerGraphicsAndArt](https://github.com/matthewepler/ComputerGraphicsAndArt) - Code listings, implementations, and translations of code in the "Computer Graphics And Art" magazine (1976-1978).
 
-## MDX
-
-*   [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course) - Interactive course teaching Product Managers how to use Claude Code effectively
-
-*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-
-*   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
-
-*   [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
-
 ## Ruby
 
 *   [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
@@ -3870,8 +3872,6 @@
 *   [plamoni/SiriProxy](https://github.com/plamoni/SiriProxy) - A (tampering) proxy server for Apple's Siri
 
 *   [runemadsen/Magic-Book-Project](https://github.com/runemadsen/Magic-Book-Project) - DEPRECATED: We are reviving the Magic Book project as a node package: https://github.com/magicbookproject/magicbook
-
-*   [nytimes/Fech](https://github.com/nytimes/Fech) - Deprecated. Please see https://github.com/dwillis/Fech for a maintained fork.
 
 ## Clojure
 
