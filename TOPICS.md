@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [diffs](#diffs)
+*   [memescale](#memescale)
 *   [ai](#ai)
 *   [ai-agents](#ai-agents)
 *   [ai-memory](#ai-memory)
@@ -3244,6 +3246,14 @@
 *   [interactive-fiction](#interactive-fiction)
 *   [devise](#devise)
 
+## diffs
+
+*   [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
+
+## memescale
+
+*   [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
+
 ## ai
 
 *   [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
@@ -3344,8 +3354,6 @@
 
 *   [tadata-org/fastapi\_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 
-*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 
 *   [IBM/watsonx-ai-platform-demos](https://github.com/IBM/watsonx-ai-platform-demos) - AI Agents, LLM Fine-tuning, Developer Productivity, Governance, IBM watsonx
@@ -3382,7 +3390,7 @@
 
 *   [CommandCodeAI/BaseAI](https://github.com/CommandCodeAI/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
 
 *   [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 
@@ -6028,6 +6036,8 @@
 
 *   [potionfactory/LetsMove](https://github.com/potionfactory/LetsMove) - A sample that shows how to move a running Mac application to the /Applications directory
 
+*   [kastner/highlite](https://github.com/kastner/highlite) - Hide an image using CSS3
+
 ## agentic-ai
 
 *   [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator) - Agent Plan Annotator
@@ -6670,13 +6680,9 @@
 
 *   [Toolbase-AI/toolbase](https://github.com/Toolbase-AI/toolbase) - A desktop application that adds powerful tools to Claude and AI platforms
 
-*   [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
-
 *   [tadata-org/fastapi\_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 
 *   [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) - Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Langfuse prompts through the Model Context Protocol.
-
-*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 
 *   [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
@@ -6830,7 +6836,7 @@
 
 *   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
 
 *   [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 
@@ -8066,7 +8072,7 @@
 
 *   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
 
 *   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 
@@ -8548,7 +8554,7 @@
 
 *   [VaibhaveS/MeetingOWL](https://github.com/VaibhaveS/MeetingOWL) - MeetingOWL is a ML based system which can generate smart reports for online meetings based on the audio file.
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
 
 *   [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 
@@ -11816,8 +11822,6 @@
 
 *   [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 
-*   [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
-
 *   [razshare/sveltekit-sse](https://github.com/razshare/sveltekit-sse) - Server Sent Events with SvelteKit
 
 ## tauri
@@ -13266,7 +13270,7 @@
 
 *   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
 
 ## webui
 
@@ -16072,23 +16076,23 @@
 
 ## agi
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
 
 ## computer-vision
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
 
 *   [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 
 ## ml
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
 
 *   [jukedeck/nottingham-dataset](https://github.com/jukedeck/nottingham-dataset) - Cleaned version of the Nottingham dataset
 
 ## multimodal
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
 
 ## query-params
 
