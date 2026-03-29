@@ -3800,7 +3800,7 @@
 
 *   [mfazza/agentic\_muscle\_memory](https://github.com/mfazza/agentic_muscle_memory) - Agentic Muscle Memory is a self-evolving framework enabling agents to transform repeating patterns of work into permanent, high-quality skills. By mimicking the human process of building muscle memory through repetition, the framework ensures that once a complex task is solved twice, it becomes a reusable, audited, and standardized capability.
 
-*   [Michaelliv/napkin](https://github.com/Michaelliv/napkin) -
+*   [Michaelliv/napkin](https://github.com/Michaelliv/napkin) - 🧻 Local-first CLI for Obsidian vaults. Operates directly on markdown files — no Obsidian app required. Designed as a memory system for AI agents using progressive disclosure.
 
 *   [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A meeting note-taker that talks back.
 
