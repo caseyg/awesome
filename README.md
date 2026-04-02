@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [Python](#python)
@@ -19,11 +20,10 @@
 *   [Dart](#dart)
 *   [PHP](#php)
 *   [C++](#c)
-*   [HTML](#html)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Svelte](#svelte)
-*   [Java](#java)
 *   [Ruby](#ruby)
+*   [HTML](#html)
 *   [Clojure](#clojure)
 *   [Nunjucks](#nunjucks)
 *   [QML](#qml)
@@ -62,6 +62,28 @@
 *   [Objective-C++](#objective-c-1)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Scala](#scala)
+
+## Java
+
+*   [IBM/bob-demo](https://github.com/IBM/bob-demo) - A playground of fun, bite-sized IBM Bob demos. Because learning works better when you push it.
+
+*   [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
+
+*   [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
+
+*   [IQSS/dataverse](https://github.com/IQSS/dataverse) - Open source research data repository software
+
+*   [CompendiumNG/CompendiumNG](https://github.com/CompendiumNG/CompendiumNG) - CompendiumNG is continuation of the original Compendium project. It is based on version 2.0.1-beta of Compendium project.
+
+*   [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project) - The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
+
+*   [dphiffer/our-net](https://github.com/dphiffer/our-net) - Exploring network infrastructure through workshops and zines
+
+*   [dropbox/hackpad](https://github.com/dropbox/hackpad) - Hackpad is a web-based realtime wiki.
+
+*   [nysenate/OpenLegislation](https://github.com/nysenate/OpenLegislation) - OpenLegislation is a web service that delivers legislative information from the New York State Senate and Assembly to the public in near-real time.  It is used internally to serve up legislative data for nysenate.gov and the Bluebird-CRM.
+
+*   [matthewepler/ComputerGraphicsAndArt](https://github.com/matthewepler/ComputerGraphicsAndArt) - Code listings, implementations, and translations of code in the "Computer Graphics And Art" magazine (1976-1978).
 
 ## TypeScript
 
@@ -270,6 +292,8 @@
 *   [Fallomai/spinai](https://github.com/Fallomai/spinai) -
 
 *   [Toolbase-AI/toolbase](https://github.com/Toolbase-AI/toolbase) - A desktop application that adds powerful tools to Claude and AI platforms
+
+*   [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 
 *   [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) - 🗂️🤖 Airtable Model Context Protocol Server, for allowing AI systems to interact with your Airtable bases
 
@@ -1451,13 +1475,15 @@
 
 *   [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 
+*   [asgeirtj/system\_prompts\_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
+
 *   [carlvellotti/template-product-os](https://github.com/carlvellotti/template-product-os) - Product OS Template - Build your own file-based Product OS with included frameworks and prompts
 
 *   [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 
 *   [obra/superpowers-marketplace](https://github.com/obra/superpowers-marketplace) - Curated Claude Code plugin marketplace
 
-*   [navapbc/strata](https://github.com/navapbc/strata) - A platform that empowers teams to accelerate delivery through self-service tools and training.
+*   [navapbc/strata](https://github.com/navapbc/strata) - A suite of tools that empowers teams to accelerate delivery through self-service tools and training.
 
 *   [IBM/mcp-composer](https://github.com/IBM/mcp-composer) - MCP Composer
 
@@ -1484,6 +1510,8 @@
 *   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 
 *   [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
+
+*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 
 *   [IBM/watsonx-code-assistant](https://github.com/IBM/watsonx-code-assistant) - IBM watsonx Code Assistant simplifies and accelerates coding workflows across Python, Java, C, C++, Go, JavaScript, Typescript, and more. It leverages the Granite model to augment programmer skill sets, simplifying and automating coding and modernization efforts.
 
@@ -3155,10 +3183,6 @@
 
 *   [migurski/canvas-warp](https://github.com/migurski/canvas-warp) - Map warping with HTML canvas
 
-*   [rsms/hunch-upload](https://github.com/rsms/hunch-upload) - Multiple concurrent files uploads with progress in pure HTML
-
-*   [mattb/flotsam](https://github.com/mattb/flotsam) - Slushpile for handy fragments of script that don't fit anywhere else
-
 ## Nix
 
 *   [jm96441n/dotfiles](https://github.com/jm96441n/dotfiles) - Dotfiles for git configuration, aliases, and functions
@@ -3517,9 +3541,265 @@
 
 *   [kylemcdonald/AppropriatingNewTechnologies](https://github.com/kylemcdonald/AppropriatingNewTechnologies) - A half-semester class at ITP.
 
-## HTML
+## Jupyter Notebook
 
-*   [asgeirtj/system\_prompts\_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+*   [sam-paech/slop-forensics](https://github.com/sam-paech/slop-forensics) -
+
+*   [markwk/qs\_ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis
+
+*   [NirDiamant/RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+
+*   [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
+
+*   [IBM/watsonx-ai-platform-demos](https://github.com/IBM/watsonx-ai-platform-demos) - AI Agents, LLM Fine-tuning, Developer Productivity, Governance, IBM watsonx
+
+*   [ibm-granite-community/granite-snack-cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook) - Granite Snack Cookbook -- easily consumable recipes (python notebooks) that showcase the capabilities of the Granite models
+
+*   [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services
+
+*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+
+*   [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
+
+*   [VaibhaveS/MeetingOWL](https://github.com/VaibhaveS/MeetingOWL) - MeetingOWL is a ML based system which can generate smart reports for online meetings based on the audio file.
+
+*   [graphlit/graphlit-samples](https://github.com/graphlit/graphlit-samples) - Sample applications built on the Graphlit Platform
+
+*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
+
+*   [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+
+*   [re3data/using\_the\_re3data\_API](https://github.com/re3data/using_the_re3data_API) -
+
+*   [spackows/MURAL-API-Samples](https://github.com/spackows/MURAL-API-Samples) - Sample code snippets demonstrating using the MURAL API
+
+*   [collective-action/tech](https://github.com/collective-action/tech) - Documentation of all collective action from tech workers.
+
+*   [ChubaOraka/Crime-and-School](https://github.com/ChubaOraka/Crime-and-School) - This is a data science team project that aims to investigate whether public education affects crime levels.
+
+*   [saurabhmathur96/clickbait-detector](https://github.com/saurabhmathur96/clickbait-detector) - Detects clickbait headlines using deep learning.
+
+*   [frnsys/ml101](https://github.com/frnsys/ml101) - intro to machine learning - reverse engineering phenomena
+
+*   [mitmedialab/CLIFF-up](https://github.com/mitmedialab/CLIFF-up) - Set up MIT's CLIFF geolocation service with Vagrant
+
+*   [lifewinning/situated.systems](https://github.com/lifewinning/situated.systems) -
+
+*   [sunlightlabs/fcc-net-neutrality-comments](https://github.com/sunlightlabs/fcc-net-neutrality-comments) - scraping, parsing and making sense of the flood of comments submitted to the FCC on net neutrality
+
+## Svelte
+
+*   [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
+
+*   [vercel/ai-chatbot-svelte](https://github.com/vercel/ai-chatbot-svelte) - A full-featured, hackable SvelteKit AI chatbot built by Vercel
+
+*   [SveltePress/sveltepress](https://github.com/SveltePress/sveltepress) - A content centered site build tool, build on top of Sveltekit.
+
+*   [ryanatkn/earbetter](https://github.com/ryanatkn/earbetter) - ear trainer and tools for playing and programming music and audio 🎶🦜
+
+*   [HelgeSverre/supersaw](https://github.com/HelgeSverre/supersaw) - Open Source Web Based DAW written in Svelte
+
+*   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
+
+*   [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
+
+*   [josh-collinsworth/sveltekit-blog-starter](https://github.com/josh-collinsworth/sveltekit-blog-starter) - A preconfigured SvelteKit static blog starter, with Sass, Markdown, MDSvex, Rehype, background preloading, and more. See the README for full details.
+
+*   [carstenlebek/svelte-email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte ✉️🚀
+
+*   [spinspire/pocketbase-sveltekit-starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - a starter project to build a SvelteKit frontend with PocketBase backend
+
+*   [jianyuan/pocketbase-sveltekit-auth](https://github.com/jianyuan/pocketbase-sveltekit-auth) - Sample SvelteKit app with PocketBase integration
+
+*   [matiadev/joy-of-code](https://github.com/matiadev/joy-of-code) - 🌸 Joy of Code is a digital garden growing curious minds
+
+*   [homenotalone/homenotalone](https://github.com/homenotalone/homenotalone) - Get yourself a home on the internet and have friends over!
+
+*   [spences10/sveltekit-and-airtable-contact-form-example](https://github.com/spences10/sveltekit-and-airtable-contact-form-example) - SvelteKit form submission example with Airtable
+
+*   [obsmd-projects/obsidian-projects](https://github.com/obsmd-projects/obsidian-projects) - Plain text project planning in Obsidian
+
+*   [researchops/toolbox](https://github.com/researchops/toolbox) -
+
+*   [ekafyi/johnnydecimal-index-generator](https://github.com/ekafyi/johnnydecimal-index-generator) - Code for the Johnny Decimal Index Generator web app
+
+## Ruby
+
+*   [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
+
+*   [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - Super simple group chat, without a subscription
+
+*   [chronicle-app/chronicle-etl](https://github.com/chronicle-app/chronicle-etl) - 📜 A CLI toolkit for extracting and working with your digital history
+
+*   [berkmancenter/tagteam](https://github.com/berkmancenter/tagteam) - Enhanced Social Tagging for Academic Communities
+
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
+
+*   [gdpelican/mingle](https://github.com/gdpelican/mingle) - Icebreaker plugin for Discourse
+
+*   [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+
+*   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
+
+*   [publiclab/plots2](https://github.com/publiclab/plots2) - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! :balloon:
+
+*   [sharetribe/sharetribe](https://github.com/sharetribe/sharetribe) - Sharetribe Go is Sharetribe's old source-available marketplace software, which was also available as a hosted SaaS product. Sharetribe Go is no longer actively maintained.
+
+*   [cobudget-old/cobudget](https://github.com/cobudget-old/cobudget) - top level repo for cobudget apps
+
+*   [coyote-team/coyote](https://github.com/coyote-team/coyote) - Image annotation site and API to enable the distributed annotation of museum images.
+
+*   [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
+
+*   [algolia/jekyll-algolia](https://github.com/algolia/jekyll-algolia) - Add fast and relevant search to your Jekyll site
+
+*   [loomio/loomio](https://github.com/loomio/loomio) - Loomio is a collaborative decision making tool
+
+*   [netlify/jekyll-srcset](https://github.com/netlify/jekyll-srcset) - Dead simple responsive images for jekyll
+
+*   [chrisanthropic/Open-Publisher](https://github.com/chrisanthropic/Open-Publisher) - Using Jekyll to create outputs that can be used as Pandoc inputs. In short - input markdown, output mobi, epub, pdf, and print-ready pdf. With a focus on fiction.
+
+*   [piepdx/pie-cookbook](https://github.com/piepdx/pie-cookbook) - PIE is an experiment.  We've been everything from a coworking space to a community hub to an early stage startup accelerator. Now, we're open sourcing everything we've learned from nearly a decade of helping startups.
+
+*   [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
+
+*   [pocketworks/git2pdf](https://github.com/pocketworks/git2pdf) - Print physical Kanban cards from your GitHub issues, and stick that sweet stuff on your office wall
+
+*   [18F/jekyll-get](https://github.com/18F/jekyll-get) - DEPRECATED - see https://github.com/brockfanning/jekyll-get-json instead
+
+*   [JoeBergin/Batch-SFW-Scripts](https://github.com/JoeBergin/Batch-SFW-Scripts) - A collection of scripts for modifying local files on a Smallest Federated Wiki site. Use with caution.
+
+*   [WardCunningham/farm-scripts](https://github.com/WardCunningham/farm-scripts) - Federated Wiki Farm Management Scripts
+
+*   [javierarce/hypothesis](https://github.com/javierarce/hypothesis) - Unofficial ruby gem for the hypothesis.is API
+
+*   [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+
+*   [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
+
+*   [merlos/jekyll-auto-image](https://github.com/merlos/jekyll-auto-image) - jekyll plugin that makes available the first image of a post in the template
+
+*   [thoughtbot/suspenders](https://github.com/thoughtbot/suspenders) - A Rails application template with our standard defaults, optimized for deployment on Heroku.
+
+*   [saclark/jekyll-multipost](https://github.com/saclark/jekyll-multipost) - Generate multiple posts, each utilizing a different layout, from a single post entry.
+
+*   [bitbased/jekyll-layouts](https://github.com/bitbased/jekyll-layouts) - Jekyll plugin, that allows you to output multiple format files with individual layouts for each page, post, or collection.
+
+*   [bbc/wraith](https://github.com/bbc/wraith) - Wraith — A responsive screenshot comparison tool
+
+*   [RefugeRestrooms/refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms) - REFUGE restrooms indexes and maps safe restroom locations for trans, intersex, and gender nonconforming individuals.
+
+*   [ryantate/typingpool](https://github.com/ryantate/typingpool) - Typingpool - Ruby gem for for transcribing audio using Mechanical Turk
+
+*   [BooDoo/ebooks\_example](https://github.com/BooDoo/ebooks_example) - Heroku-ready turn-key \_ebooks implementation
+
+*   [sawyerh/siteleaf-boilerplate](https://github.com/sawyerh/siteleaf-boilerplate) -
+
+*   [benbalter/problem\_child](https://github.com/benbalter/problem_child) - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests).
+
+*   [dollaraday/dollaraday\_template](https://github.com/dollaraday/dollaraday_template) - DEPRECATED. A Ruby on Rails app template to make your own version of Dollar a Day.
+
+*   [sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory) - Official Sketch Plugin directory
+
+*   [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
+
+*   [antifuchs/gmail-britta](https://github.com/antifuchs/gmail-britta) - Generate complex gmail filters via a neat little ruby DSL
+
+*   [stripe-archive/gaps](https://github.com/stripe-archive/gaps) - Easy management of your Google Groups subscriptions.
+
+*   [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
+
+*   [harrisj/tweequality](https://github.com/harrisj/tweequality) - Exploring the Twee-Q model for assessing retweet equality
+
+*   [bmuller/gender\_detector](https://github.com/bmuller/gender_detector) - Get gender from first name in Ruby.
+
+*   [dubrie/twitter\_analytics](https://github.com/dubrie/twitter_analytics) - A crude deeper dive into the Twitter analytics data available at https://analytics.twitter.com. Will print out your tweet engagement and impression stats per day of week and hour
+
+*   [jekyll/jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap) - Jekyll plugin to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+*   [benbalter/word-to-markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word documents
+
+*   [sdboyer/dear\_github\_can\_i\_go\_home\_now](https://github.com/sdboyer/dear_github_can_i_go_home_now) - FOR GREAT JUSTICE
+
+*   [jekyll/jemoji](https://github.com/jekyll/jemoji) - GitHub-flavored emoji plugin for Jekyll
+
+*   [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+
+*   [dumbstore/dumbstore](https://github.com/dumbstore/dumbstore) - Dumb Apps for Dumb Phones
+
+*   [tealtan/gloss-server](https://github.com/tealtan/gloss-server) - Gloss Server
+
+*   [layervault/psd.rb](https://github.com/layervault/psd.rb) - Parse Photoshop files in Ruby with ease
+
+*   [dpla-attic/platform](https://github.com/dpla-attic/platform) - The DPLA Platform
+
+*   [nodanaonlyzuul/chorus](https://github.com/nodanaonlyzuul/chorus) -
+
+*   [techbookclub/library](https://github.com/techbookclub/library) - The new website for techbookclub.
+
+*   [louismullie/treat](https://github.com/louismullie/treat) - Natural language processing framework for Ruby.
+
+*   [henrypoydar/chronic\_duration](https://github.com/henrypoydar/chronic_duration) - A simple Ruby natural language parser for elapsed time
+
+*   [space150/gifvine](https://github.com/space150/gifvine) - A quick hack to convert Vine.co videos into animated GIFs
+
+*   [infovore/pinboard-bookmachine](https://github.com/infovore/pinboard-bookmachine) - Generate paperbacks from your Pinboard links
+
+*   [montera34/pageonex](https://github.com/montera34/pageonex) - PageOneX. Analyzing front pages
+
+*   [jsvine/gekyll](https://github.com/jsvine/gekyll) - A Jekyll plugin for using Git repositories as posts, giving you access to a post's commits, diffs, and more.
+
+*   [thoughtbot/neat](https://github.com/thoughtbot/neat) - A fluid and flexible grid Sass framework
+
+*   [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
+
+*   [johnkferguson/octomaps](https://github.com/johnkferguson/octomaps) - Octomaps displays all contributors to an open-source project on a map based upon the contributor's location.
+
+*   [jasonrudolph/stratify](https://github.com/jasonrudolph/stratify) - Rails + MongoDB app for building a consolidated timeline of your data from disparate sources (e.g.,  Twitter, GitHub, Foursquare, etc.)
+
+*   [kneath/kss](https://github.com/kneath/kss) - A methodology for documenting CSS and generating styleguides.
+
+*   [twitter-archive/clockworkraven](https://github.com/twitter-archive/clockworkraven) - Human-Powered Data Analysis with Mechanical Turk
+
+*   [muffinista/namey](https://github.com/muffinista/namey) - Random name generator based on US Census data
+
+*   [technoweenie/emoji-css-builder](https://github.com/technoweenie/emoji-css-builder) - Quick Ruby rake task for generating CSS and tiled image for displaying emoji in browsers.
+
+*   [basecamp/mail\_view](https://github.com/basecamp/mail_view) - Visual email testing
+
+*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
+*   [RailsApps/rails-stripe-membership-saas](https://github.com/RailsApps/rails-stripe-membership-saas) - An example Rails 4.2 app with Stripe and the Payola gem for a membership or subscription site.
+
+*   [FontCustom/fontcustom](https://github.com/FontCustom/fontcustom) - Generate custom icon webfonts from the comfort of the command line.
+
+*   [panicinc/burnside](https://github.com/panicinc/burnside) - Panic's Burnside bridges Twitter to email and back.
+
+*   [tangentialism/Bukkit-izer](https://github.com/tangentialism/Bukkit-izer) - Bukk.it randomization utility
+
+*   [DataMinerUK/infinite-interns](https://github.com/DataMinerUK/infinite-interns) - Vagrant VM boxes for data driven investigations.
+
+*   [jgv/area](https://github.com/jgv/area) - Perform a variety of conversions between places and area codes or zip codes.
+
+*   [natew/obtvse](https://github.com/natew/obtvse) - Deprecated: See natew/obtvse2
+
+*   [jasonwebster/tumblargh](https://github.com/jasonwebster/tumblargh) -
+
+*   [plamoni/SiriProxy](https://github.com/plamoni/SiriProxy) - A (tampering) proxy server for Apple's Siri
+
+*   [runemadsen/Magic-Book-Project](https://github.com/runemadsen/Magic-Book-Project) - DEPRECATED: We are reviving the Magic Book project as a node package: https://github.com/magicbookproject/magicbook
+
+*   [nytimes/Fech](https://github.com/nytimes/Fech) - Deprecated. Please see https://github.com/dwillis/Fech for a maintained fork.
+
+*   [tjackiw/acts-as-readable](https://github.com/tjackiw/acts-as-readable) - A simple plugin that allows a user to mark anything as 'read.' Common usage would include forum posts, news items, etc.
+
+*   [github/email\_reply\_parser](https://github.com/github/email_reply_parser) - Small library to parse plain text email content
+
+*   [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
+
+*   [spoiledmilk/casein3](https://github.com/spoiledmilk/casein3) - Lightweight CMS for Ruby on Rails 3.x from Spoiled Milk.
+
+## HTML
 
 *   [dave1010/tools](https://github.com/dave1010/tools) - Collection of tools
 
@@ -3776,286 +4056,6 @@
 *   [joseph/Monocle](https://github.com/joseph/Monocle) - A silky, tactile browser-based ebook JavaScript library.
 
 *   [jashkenas/docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
-
-## Jupyter Notebook
-
-*   [sam-paech/slop-forensics](https://github.com/sam-paech/slop-forensics) -
-
-*   [markwk/qs\_ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis
-
-*   [NirDiamant/RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
-
-*   [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
-
-*   [IBM/watsonx-ai-platform-demos](https://github.com/IBM/watsonx-ai-platform-demos) - AI Agents, LLM Fine-tuning, Developer Productivity, Governance, IBM watsonx
-
-*   [ibm-granite-community/granite-snack-cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook) - Granite Snack Cookbook -- easily consumable recipes (python notebooks) that showcase the capabilities of the Granite models
-
-*   [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services
-
-*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
-
-*   [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
-
-*   [VaibhaveS/MeetingOWL](https://github.com/VaibhaveS/MeetingOWL) - MeetingOWL is a ML based system which can generate smart reports for online meetings based on the audio file.
-
-*   [graphlit/graphlit-samples](https://github.com/graphlit/graphlit-samples) - Sample applications built on the Graphlit Platform
-
-*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
-
-*   [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-
-*   [re3data/using\_the\_re3data\_API](https://github.com/re3data/using_the_re3data_API) -
-
-*   [spackows/MURAL-API-Samples](https://github.com/spackows/MURAL-API-Samples) - Sample code snippets demonstrating using the MURAL API
-
-*   [collective-action/tech](https://github.com/collective-action/tech) - Documentation of all collective action from tech workers.
-
-*   [ChubaOraka/Crime-and-School](https://github.com/ChubaOraka/Crime-and-School) - This is a data science team project that aims to investigate whether public education affects crime levels.
-
-*   [saurabhmathur96/clickbait-detector](https://github.com/saurabhmathur96/clickbait-detector) - Detects clickbait headlines using deep learning.
-
-*   [frnsys/ml101](https://github.com/frnsys/ml101) - intro to machine learning - reverse engineering phenomena
-
-*   [mitmedialab/CLIFF-up](https://github.com/mitmedialab/CLIFF-up) - Set up MIT's CLIFF geolocation service with Vagrant
-
-*   [lifewinning/situated.systems](https://github.com/lifewinning/situated.systems) -
-
-*   [sunlightlabs/fcc-net-neutrality-comments](https://github.com/sunlightlabs/fcc-net-neutrality-comments) - scraping, parsing and making sense of the flood of comments submitted to the FCC on net neutrality
-
-## Svelte
-
-*   [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
-
-*   [vercel/ai-chatbot-svelte](https://github.com/vercel/ai-chatbot-svelte) - A full-featured, hackable SvelteKit AI chatbot built by Vercel
-
-*   [SveltePress/sveltepress](https://github.com/SveltePress/sveltepress) - A content centered site build tool, build on top of Sveltekit.
-
-*   [ryanatkn/earbetter](https://github.com/ryanatkn/earbetter) - ear trainer and tools for playing and programming music and audio 🎶🦜
-
-*   [HelgeSverre/supersaw](https://github.com/HelgeSverre/supersaw) - Open Source Web Based DAW written in Svelte
-
-*   [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
-
-*   [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
-
-*   [josh-collinsworth/sveltekit-blog-starter](https://github.com/josh-collinsworth/sveltekit-blog-starter) - A preconfigured SvelteKit static blog starter, with Sass, Markdown, MDSvex, Rehype, background preloading, and more. See the README for full details.
-
-*   [carstenlebek/svelte-email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte ✉️🚀
-
-*   [spinspire/pocketbase-sveltekit-starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - a starter project to build a SvelteKit frontend with PocketBase backend
-
-*   [jianyuan/pocketbase-sveltekit-auth](https://github.com/jianyuan/pocketbase-sveltekit-auth) - Sample SvelteKit app with PocketBase integration
-
-*   [matiadev/joy-of-code](https://github.com/matiadev/joy-of-code) - 🌸 Joy of Code is a digital garden growing curious minds
-
-*   [homenotalone/homenotalone](https://github.com/homenotalone/homenotalone) - Get yourself a home on the internet and have friends over!
-
-*   [spences10/sveltekit-and-airtable-contact-form-example](https://github.com/spences10/sveltekit-and-airtable-contact-form-example) - SvelteKit form submission example with Airtable
-
-*   [obsmd-projects/obsidian-projects](https://github.com/obsmd-projects/obsidian-projects) - Plain text project planning in Obsidian
-
-*   [researchops/toolbox](https://github.com/researchops/toolbox) -
-
-*   [ekafyi/johnnydecimal-index-generator](https://github.com/ekafyi/johnnydecimal-index-generator) - Code for the Johnny Decimal Index Generator web app
-
-## Java
-
-*   [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
-
-*   [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
-
-*   [IQSS/dataverse](https://github.com/IQSS/dataverse) - Open source research data repository software
-
-*   [CompendiumNG/CompendiumNG](https://github.com/CompendiumNG/CompendiumNG) - CompendiumNG is continuation of the original Compendium project. It is based on version 2.0.1-beta of Compendium project.
-
-*   [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project) - The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
-
-*   [dphiffer/our-net](https://github.com/dphiffer/our-net) - Exploring network infrastructure through workshops and zines
-
-*   [dropbox/hackpad](https://github.com/dropbox/hackpad) - Hackpad is a web-based realtime wiki.
-
-*   [nysenate/OpenLegislation](https://github.com/nysenate/OpenLegislation) - OpenLegislation is a web service that delivers legislative information from the New York State Senate and Assembly to the public in near-real time.  It is used internally to serve up legislative data for nysenate.gov and the Bluebird-CRM.
-
-*   [matthewepler/ComputerGraphicsAndArt](https://github.com/matthewepler/ComputerGraphicsAndArt) - Code listings, implementations, and translations of code in the "Computer Graphics And Art" magazine (1976-1978).
-
-## Ruby
-
-*   [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
-
-*   [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - Super simple group chat, without a subscription
-
-*   [chronicle-app/chronicle-etl](https://github.com/chronicle-app/chronicle-etl) - 📜 A CLI toolkit for extracting and working with your digital history
-
-*   [berkmancenter/tagteam](https://github.com/berkmancenter/tagteam) - Enhanced Social Tagging for Academic Communities
-
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
-
-*   [gdpelican/mingle](https://github.com/gdpelican/mingle) - Icebreaker plugin for Discourse
-
-*   [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-
-*   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-
-*   [publiclab/plots2](https://github.com/publiclab/plots2) - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! :balloon:
-
-*   [sharetribe/sharetribe](https://github.com/sharetribe/sharetribe) - Sharetribe Go is Sharetribe's old source-available marketplace software, which was also available as a hosted SaaS product. Sharetribe Go is no longer actively maintained.
-
-*   [cobudget-old/cobudget](https://github.com/cobudget-old/cobudget) - top level repo for cobudget apps
-
-*   [coyote-team/coyote](https://github.com/coyote-team/coyote) - Image annotation site and API to enable the distributed annotation of museum images.
-
-*   [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
-
-*   [algolia/jekyll-algolia](https://github.com/algolia/jekyll-algolia) - Add fast and relevant search to your Jekyll site
-
-*   [loomio/loomio](https://github.com/loomio/loomio) - Loomio is a collaborative decision making tool
-
-*   [netlify/jekyll-srcset](https://github.com/netlify/jekyll-srcset) - Dead simple responsive images for jekyll
-
-*   [chrisanthropic/Open-Publisher](https://github.com/chrisanthropic/Open-Publisher) - Using Jekyll to create outputs that can be used as Pandoc inputs. In short - input markdown, output mobi, epub, pdf, and print-ready pdf. With a focus on fiction.
-
-*   [piepdx/pie-cookbook](https://github.com/piepdx/pie-cookbook) - PIE is an experiment.  We've been everything from a coworking space to a community hub to an early stage startup accelerator. Now, we're open sourcing everything we've learned from nearly a decade of helping startups.
-
-*   [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-
-*   [pocketworks/git2pdf](https://github.com/pocketworks/git2pdf) - Print physical Kanban cards from your GitHub issues, and stick that sweet stuff on your office wall
-
-*   [18F/jekyll-get](https://github.com/18F/jekyll-get) - DEPRECATED - see https://github.com/brockfanning/jekyll-get-json instead
-
-*   [JoeBergin/Batch-SFW-Scripts](https://github.com/JoeBergin/Batch-SFW-Scripts) - A collection of scripts for modifying local files on a Smallest Federated Wiki site. Use with caution.
-
-*   [WardCunningham/farm-scripts](https://github.com/WardCunningham/farm-scripts) - Federated Wiki Farm Management Scripts
-
-*   [javierarce/hypothesis](https://github.com/javierarce/hypothesis) - Unofficial ruby gem for the hypothesis.is API
-
-*   [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-
-*   [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
-
-*   [merlos/jekyll-auto-image](https://github.com/merlos/jekyll-auto-image) - jekyll plugin that makes available the first image of a post in the template
-
-*   [thoughtbot/suspenders](https://github.com/thoughtbot/suspenders) - A Rails application template with our standard defaults, optimized for deployment on Heroku.
-
-*   [saclark/jekyll-multipost](https://github.com/saclark/jekyll-multipost) - Generate multiple posts, each utilizing a different layout, from a single post entry.
-
-*   [bitbased/jekyll-layouts](https://github.com/bitbased/jekyll-layouts) - Jekyll plugin, that allows you to output multiple format files with individual layouts for each page, post, or collection.
-
-*   [bbc/wraith](https://github.com/bbc/wraith) - Wraith — A responsive screenshot comparison tool
-
-*   [RefugeRestrooms/refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms) - REFUGE restrooms indexes and maps safe restroom locations for trans, intersex, and gender nonconforming individuals.
-
-*   [ryantate/typingpool](https://github.com/ryantate/typingpool) - Typingpool - Ruby gem for for transcribing audio using Mechanical Turk
-
-*   [BooDoo/ebooks\_example](https://github.com/BooDoo/ebooks_example) - Heroku-ready turn-key \_ebooks implementation
-
-*   [sawyerh/siteleaf-boilerplate](https://github.com/sawyerh/siteleaf-boilerplate) -
-
-*   [benbalter/problem\_child](https://github.com/benbalter/problem_child) - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests).
-
-*   [dollaraday/dollaraday\_template](https://github.com/dollaraday/dollaraday_template) - DEPRECATED. A Ruby on Rails app template to make your own version of Dollar a Day.
-
-*   [sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory) - Official Sketch Plugin directory
-
-*   [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
-
-*   [antifuchs/gmail-britta](https://github.com/antifuchs/gmail-britta) - Generate complex gmail filters via a neat little ruby DSL
-
-*   [stripe-archive/gaps](https://github.com/stripe-archive/gaps) - Easy management of your Google Groups subscriptions.
-
-*   [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
-
-*   [harrisj/tweequality](https://github.com/harrisj/tweequality) - Exploring the Twee-Q model for assessing retweet equality
-
-*   [bmuller/gender\_detector](https://github.com/bmuller/gender_detector) - Get gender from first name in Ruby.
-
-*   [dubrie/twitter\_analytics](https://github.com/dubrie/twitter_analytics) - A crude deeper dive into the Twitter analytics data available at https://analytics.twitter.com. Will print out your tweet engagement and impression stats per day of week and hour
-
-*   [jekyll/jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap) - Jekyll plugin to silently generate a sitemaps.org compliant sitemap for your Jekyll site
-
-*   [benbalter/word-to-markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word documents
-
-*   [sdboyer/dear\_github\_can\_i\_go\_home\_now](https://github.com/sdboyer/dear_github_can_i_go_home_now) - FOR GREAT JUSTICE
-
-*   [jekyll/jemoji](https://github.com/jekyll/jemoji) - GitHub-flavored emoji plugin for Jekyll
-
-*   [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-
-*   [dumbstore/dumbstore](https://github.com/dumbstore/dumbstore) - Dumb Apps for Dumb Phones
-
-*   [tealtan/gloss-server](https://github.com/tealtan/gloss-server) - Gloss Server
-
-*   [layervault/psd.rb](https://github.com/layervault/psd.rb) - Parse Photoshop files in Ruby with ease
-
-*   [dpla-attic/platform](https://github.com/dpla-attic/platform) - The DPLA Platform
-
-*   [nodanaonlyzuul/chorus](https://github.com/nodanaonlyzuul/chorus) -
-
-*   [techbookclub/library](https://github.com/techbookclub/library) - The new website for techbookclub.
-
-*   [louismullie/treat](https://github.com/louismullie/treat) - Natural language processing framework for Ruby.
-
-*   [henrypoydar/chronic\_duration](https://github.com/henrypoydar/chronic_duration) - A simple Ruby natural language parser for elapsed time
-
-*   [space150/gifvine](https://github.com/space150/gifvine) - A quick hack to convert Vine.co videos into animated GIFs
-
-*   [infovore/pinboard-bookmachine](https://github.com/infovore/pinboard-bookmachine) - Generate paperbacks from your Pinboard links
-
-*   [montera34/pageonex](https://github.com/montera34/pageonex) - PageOneX. Analyzing front pages
-
-*   [jsvine/gekyll](https://github.com/jsvine/gekyll) - A Jekyll plugin for using Git repositories as posts, giving you access to a post's commits, diffs, and more.
-
-*   [thoughtbot/neat](https://github.com/thoughtbot/neat) - A fluid and flexible grid Sass framework
-
-*   [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
-
-*   [johnkferguson/octomaps](https://github.com/johnkferguson/octomaps) - Octomaps displays all contributors to an open-source project on a map based upon the contributor's location.
-
-*   [jasonrudolph/stratify](https://github.com/jasonrudolph/stratify) - Rails + MongoDB app for building a consolidated timeline of your data from disparate sources (e.g.,  Twitter, GitHub, Foursquare, etc.)
-
-*   [kneath/kss](https://github.com/kneath/kss) - A methodology for documenting CSS and generating styleguides.
-
-*   [twitter-archive/clockworkraven](https://github.com/twitter-archive/clockworkraven) - Human-Powered Data Analysis with Mechanical Turk
-
-*   [muffinista/namey](https://github.com/muffinista/namey) - Random name generator based on US Census data
-
-*   [technoweenie/emoji-css-builder](https://github.com/technoweenie/emoji-css-builder) - Quick Ruby rake task for generating CSS and tiled image for displaying emoji in browsers.
-
-*   [basecamp/mail\_view](https://github.com/basecamp/mail_view) - Visual email testing
-
-*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-
-*   [RailsApps/rails-stripe-membership-saas](https://github.com/RailsApps/rails-stripe-membership-saas) - An example Rails 4.2 app with Stripe and the Payola gem for a membership or subscription site.
-
-*   [FontCustom/fontcustom](https://github.com/FontCustom/fontcustom) - Generate custom icon webfonts from the comfort of the command line.
-
-*   [panicinc/burnside](https://github.com/panicinc/burnside) - Panic's Burnside bridges Twitter to email and back.
-
-*   [tangentialism/Bukkit-izer](https://github.com/tangentialism/Bukkit-izer) - Bukk.it randomization utility
-
-*   [DataMinerUK/infinite-interns](https://github.com/DataMinerUK/infinite-interns) - Vagrant VM boxes for data driven investigations.
-
-*   [jgv/area](https://github.com/jgv/area) - Perform a variety of conversions between places and area codes or zip codes.
-
-*   [natew/obtvse](https://github.com/natew/obtvse) - Deprecated: See natew/obtvse2
-
-*   [jasonwebster/tumblargh](https://github.com/jasonwebster/tumblargh) -
-
-*   [plamoni/SiriProxy](https://github.com/plamoni/SiriProxy) - A (tampering) proxy server for Apple's Siri
-
-*   [runemadsen/Magic-Book-Project](https://github.com/runemadsen/Magic-Book-Project) - DEPRECATED: We are reviving the Magic Book project as a node package: https://github.com/magicbookproject/magicbook
-
-*   [nytimes/Fech](https://github.com/nytimes/Fech) - Deprecated. Please see https://github.com/dwillis/Fech for a maintained fork.
-
-*   [tjackiw/acts-as-readable](https://github.com/tjackiw/acts-as-readable) - A simple plugin that allows a user to mark anything as 'read.' Common usage would include forum posts, news items, etc.
-
-*   [github/email\_reply\_parser](https://github.com/github/email_reply_parser) - Small library to parse plain text email content
-
-*   [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
-
-*   [spoiledmilk/casein3](https://github.com/spoiledmilk/casein3) - Lightweight CMS for Ruby on Rails 3.x from Spoiled Milk.
-
-*   [imathis/octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
 
 ## Clojure
 
