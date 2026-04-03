@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Java](#java)
 *   [TypeScript](#typescript)
+*   [Java](#java)
 *   [Shell](#shell)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -63,29 +63,11 @@
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Scala](#scala)
 
-## Java
-
-*   [IBM/bob-demo](https://github.com/IBM/bob-demo) - A playground of fun, bite-sized IBM Bob demos. Because learning works better when you push it.
-
-*   [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
-
-*   [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
-
-*   [IQSS/dataverse](https://github.com/IQSS/dataverse) - Open source research data repository software
-
-*   [CompendiumNG/CompendiumNG](https://github.com/CompendiumNG/CompendiumNG) - CompendiumNG is continuation of the original Compendium project. It is based on version 2.0.1-beta of Compendium project.
-
-*   [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project) - The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
-
-*   [dphiffer/our-net](https://github.com/dphiffer/our-net) - Exploring network infrastructure through workshops and zines
-
-*   [dropbox/hackpad](https://github.com/dropbox/hackpad) - Hackpad is a web-based realtime wiki.
-
-*   [nysenate/OpenLegislation](https://github.com/nysenate/OpenLegislation) - OpenLegislation is a web service that delivers legislative information from the New York State Senate and Assembly to the public in near-real time.  It is used internally to serve up legislative data for nysenate.gov and the Bluebird-CRM.
-
-*   [matthewepler/ComputerGraphicsAndArt](https://github.com/matthewepler/ComputerGraphicsAndArt) - Code listings, implementations, and translations of code in the "Computer Graphics And Art" magazine (1976-1978).
-
 ## TypeScript
+
+*   [hashicorp/design-system](https://github.com/hashicorp/design-system) - Helios Design System
+
+*   [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 
 *   [redhat-developer/vscode-extension-tester](https://github.com/redhat-developer/vscode-extension-tester) - ExTester: Your Essential UI Testing Companion for Visual Studio Code Extensions! Seamlessly execute UI tests with Selenium WebDriver, ensuring robustness and reliability in your extension development journey. Simplify UI testing for your VS Code extensions and elevate the quality of your user interface effortlessly.
 
@@ -97,13 +79,13 @@
 
 *   [zokugun/vscode-cron](https://github.com/zokugun/vscode-cron) -
 
-*   [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. Built for the Nous Research hackathon.
+*   [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
 
 *   [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents) - An open-source background agents coding system
 
 *   [stablyai/agent-slack](https://github.com/stablyai/agent-slack) - Slack automation CLI for AI agents
 
-*   [Michaelliv/napkin](https://github.com/Michaelliv/napkin) - 🧻 Local-first CLI for Obsidian vaults. Operates directly on markdown files — no Obsidian app required. Designed as a memory system for AI agents using progressive disclosure.
+*   [Michaelliv/napkin](https://github.com/Michaelliv/napkin) - 🧻 Knowledge system for agents. Local-first, file-based, progressively disclosed.
 
 *   [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 
@@ -187,7 +169,7 @@
 
 *   [m-rgba/obsidian-ai-agent](https://github.com/m-rgba/obsidian-ai-agent) - An integrated AI agent (currently Claude Code) plugin for Obsidian.
 
-*   [vercel/workflow](https://github.com/vercel/workflow) - Workflow DevKit: Build durable, reliable, and observable apps and AI Agents in TypeScript
+*   [vercel/workflow](https://github.com/vercel/workflow) - Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript
 
 *   [heyito/ito](https://github.com/heyito/ito) - \[DEPRECATED] Ito, smart dictation in every application
 
@@ -627,7 +609,7 @@
 
 *   [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 
-*   [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
+*   [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 
 *   [ka-weihe/fastest-levenshtein](https://github.com/ka-weihe/fastest-levenshtein) - The fastest implementation of Levenshtein distance in JS/TS.
 
@@ -814,6 +796,28 @@
 *   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
 *   [curiousdannii/parchment](https://github.com/curiousdannii/parchment) - The Interactive Fiction web app
+
+## Java
+
+*   [IBM/bob-demo](https://github.com/IBM/bob-demo) - A playground of fun, bite-sized IBM Bob demos. Because learning works better when you push it.
+
+*   [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
+
+*   [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
+
+*   [IQSS/dataverse](https://github.com/IQSS/dataverse) - Open source research data repository software
+
+*   [CompendiumNG/CompendiumNG](https://github.com/CompendiumNG/CompendiumNG) - CompendiumNG is continuation of the original Compendium project. It is based on version 2.0.1-beta of Compendium project.
+
+*   [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project) - The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
+
+*   [dphiffer/our-net](https://github.com/dphiffer/our-net) - Exploring network infrastructure through workshops and zines
+
+*   [dropbox/hackpad](https://github.com/dropbox/hackpad) - Hackpad is a web-based realtime wiki.
+
+*   [nysenate/OpenLegislation](https://github.com/nysenate/OpenLegislation) - OpenLegislation is a web service that delivers legislative information from the New York State Senate and Assembly to the public in near-real time.  It is used internally to serve up legislative data for nysenate.gov and the Bluebird-CRM.
+
+*   [matthewepler/ComputerGraphicsAndArt](https://github.com/matthewepler/ComputerGraphicsAndArt) - Code listings, implementations, and translations of code in the "Computer Graphics And Art" magazine (1976-1978).
 
 ## Shell
 
@@ -3178,10 +3182,6 @@
 *   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
 *   [jquery-backstretch/jquery-backstretch](https://github.com/jquery-backstretch/jquery-backstretch) - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes.
-
-*   [cowboy/javascript-linkify](https://github.com/cowboy/javascript-linkify) - JavaScript Linkify: Process links in text
-
-*   [migurski/canvas-warp](https://github.com/migurski/canvas-warp) - Map warping with HTML canvas
 
 ## Nix
 
