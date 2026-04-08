@@ -22,12 +22,6 @@
 *   [landing-page](#landing-page)
 *   [documents](#documents)
 *   [paperless](#paperless)
-*   [components](#components)
-*   [design-systems](#design-systems)
-*   [emberjs](#emberjs)
-*   [hashicorp](#hashicorp)
-*   [helios](#helios)
-*   [icons](#icons)
 *   [astro](#astro)
 *   [cms](#cms)
 *   [emdash](#emdash)
@@ -462,6 +456,7 @@
 *   [code-interpreter](#code-interpreter)
 *   [containers](#containers)
 *   [sandbox](#sandbox)
+*   [emberjs](#emberjs)
 *   [learning](#learning)
 *   [notebook](#notebook)
 *   [notes-app](#notes-app)
@@ -1227,6 +1222,7 @@
 *   [obsidian-template](#obsidian-template)
 *   [obsidian-vault](#obsidian-vault)
 *   [para](#para)
+*   [design-systems](#design-systems)
 *   [geist](#geist)
 *   [geist-ui](#geist-ui)
 *   [react-components](#react-components)
@@ -1656,6 +1652,7 @@
 *   [es6-javascript](#es6-javascript)
 *   [hot-module-replacement](#hot-module-replacement)
 *   [a11y](#a11y)
+*   [components](#components)
 *   [components-library](#components-library)
 *   [user-interface](#user-interface)
 *   [forestry](#forestry)
@@ -2718,6 +2715,7 @@
 *   [mediawiki-skin](#mediawiki-skin)
 *   [component-library](#component-library)
 *   [figma-plugin](#figma-plugin)
+*   [icons](#icons)
 *   [shopify-polaris](#shopify-polaris)
 *   [experiment](#experiment)
 *   [activity-stream](#activity-stream)
@@ -3254,6 +3252,8 @@
 *   [jquery-modal](#jquery-modal)
 
 ## miscellaneous
+
+*   [andreaskelm/pm-brain](https://github.com/andreaskelm/pm-brain) - AI-powered product management thinking & operating system. Playbooks, guides, templates, and frameworks that bridge PM theory to daily execution.
 
 *   [hilash/cabinet](https://github.com/hilash/cabinet) - AI-first knowledge base and startup OS
 
@@ -5493,8 +5493,6 @@
 
 *   [spoiledmilk/casein3](https://github.com/spoiledmilk/casein3) - Lightweight CMS for Ruby on Rails 3.x from Spoiled Milk.
 
-*   [desandro/windex](https://github.com/desandro/windex) - Pretty up your localhost. No more 1996 jank.
-
 ## ai-agents
 
 *   [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -5959,8 +5957,6 @@
 
 *   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 
-*   [hashicorp/design-system](https://github.com/hashicorp/design-system) - Helios Design System
-
 *   [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
 
 *   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
@@ -5972,8 +5968,6 @@
 ## design-tokens
 
 *   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
-
-*   [hashicorp/design-system](https://github.com/hashicorp/design-system) - Helios Design System
 
 *   [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify's Polaris Design System - React implementation (Deprecated)
 
@@ -6008,58 +6002,6 @@
 *   [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 
 *   [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
-
-## components
-
-*   [hashicorp/design-system](https://github.com/hashicorp/design-system) - Helios Design System
-
-*   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
-
-*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-
-*   [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
-
-*   [frend/frend.co](https://github.com/frend/frend.co) - Frend — A collection of accessible, modern front-end components.
-
-## design-systems
-
-*   [hashicorp/design-system](https://github.com/hashicorp/design-system) - Helios Design System
-
-*   [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
-
-*   [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
-
-*   [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify's Polaris Design System - React implementation (Deprecated)
-
-*   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
-
-*   [tachyons-css/tachyons-verbose](https://github.com/tachyons-css/tachyons-verbose) - Functional CSS for humans. Verbose edition.
-
-*   [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
-
-*   [frctl/fractal](https://github.com/frctl/fractal) - A tool to help you build and document website component libraries and design systems.
-
-## emberjs
-
-*   [hashicorp/design-system](https://github.com/hashicorp/design-system) - Helios Design System
-
-*   [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system
-
-*   [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
-
-## hashicorp
-
-*   [hashicorp/design-system](https://github.com/hashicorp/design-system) - Helios Design System
-
-## helios
-
-*   [hashicorp/design-system](https://github.com/hashicorp/design-system) - Helios Design System
-
-## icons
-
-*   [hashicorp/design-system](https://github.com/hashicorp/design-system) - Helios Design System
-
-*   [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify's Polaris Design System - React implementation (Deprecated)
 
 ## astro
 
@@ -7567,7 +7509,7 @@
 
 *   [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 
-*   [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Office Compound Engineering plugin for Claude Code, Codex, and more
+*   [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, and more
 
 *   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 
@@ -11235,7 +11177,7 @@
 
 ## compound
 
-*   [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Office Compound Engineering plugin for Claude Code, Codex, and more
+*   [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, and more
 
 ## agentic-coding
 
@@ -11374,6 +11316,12 @@
 ## sandbox
 
 *   [cloudflare/sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) - Run sandboxed code environments on Cloudflare's edge network
+
+## emberjs
+
+*   [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system
+
+*   [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
 
 ## learning
 
@@ -16645,6 +16593,22 @@
 
 *   [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - LifeOS example vault for Obsidian(Combining P.A.R.A with Periodic Notes)
 
+## design-systems
+
+*   [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
+
+*   [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
+
+*   [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify's Polaris Design System - React implementation (Deprecated)
+
+*   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
+
+*   [tachyons-css/tachyons-verbose](https://github.com/tachyons-css/tachyons-verbose) - Functional CSS for humans. Verbose edition.
+
+*   [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
+
+*   [frctl/fractal](https://github.com/frctl/fractal) - A tool to help you build and document website component libraries and design systems.
+
 ## geist
 
 *   [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
@@ -18932,6 +18896,16 @@
 *   [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
 
 *   [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - The A11Y Project is a community-driven effort to make digital accessibility easier.
+
+## components
+
+*   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
+
+*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+
+*   [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
+
+*   [frend/frend.co](https://github.com/frend/frend.co) - Frend — A collection of accessible, modern front-end components.
 
 ## components-library
 
@@ -23992,6 +23966,10 @@
 *   [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify's Polaris Design System - React implementation (Deprecated)
 
 ## figma-plugin
+
+*   [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify's Polaris Design System - React implementation (Deprecated)
+
+## icons
 
 *   [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify's Polaris Design System - React implementation (Deprecated)
 
