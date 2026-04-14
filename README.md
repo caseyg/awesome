@@ -1930,6 +1930,8 @@
 
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 
+*   [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
+
 *   [singleportrait/a-pattern-language](https://github.com/singleportrait/a-pattern-language) - A directory and network for all patterns in A Pattern Language
 
 *   [nihaocami/ai-tool-maker](https://github.com/nihaocami/ai-tool-maker) - Generate AI SDK Tools from OpenAPI specs
@@ -3821,8 +3823,6 @@
 *   [aavetis/PRarena](https://github.com/aavetis/PRarena) - This repo tracks the opened and merged PRs by the top SWE coding agents by OpenAI, GitHub, and others. Updates regularly.
 
 *   [continuedev/amplified.dev](https://github.com/continuedev/amplified.dev) - 🔊 We believe in a future where developers are amplified, not automated
-
-*   [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 
 *   [IBM/watsonx-ai-samples](https://github.com/IBM/watsonx-ai-samples) - IBM watsonx.ai sample models, notebooks and apps.
 
