@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [CSS](#css)
@@ -13,7 +14,6 @@
 *   [Kotlin](#kotlin)
 *   [C#](#c)
 *   [Java](#java)
-*   [Shell](#shell)
 *   [Go](#go)
 *   [Swift](#swift)
 *   [MDX](#mdx)
@@ -63,6 +63,82 @@
 *   [Objective-C++](#objective-c-1)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Scala](#scala)
+
+## Shell
+
+*   [Owl-Listener/designpowers](https://github.com/Owl-Listener/designpowers) - An agent design team you control: 10 agents that run an inclusive design process while you direct.
+
+*   [Acelogic/agentic-coding-flywheel-setup-simplified](https://github.com/Acelogic/agentic-coding-flywheel-setup-simplified) - Simplified cross-platform installer for Dicklesworthstone's Agentic Coding Flywheel - 33 tools for AI-powered multi-agent development (macOS, Linux, WSL)
+
+*   [nikolasrieble/opencode-config](https://github.com/nikolasrieble/opencode-config) - Opinionated project-agnostic OpenCode configuration with agents for Jira, Confluence, and security reviews
+
+*   [brianlovin/agent-config](https://github.com/brianlovin/agent-config) - My coding agent config
+
+*   [lout33/symbiotic-ai](https://github.com/lout33/symbiotic-ai) - A symbiotic AI agent that remembers everything, challenges you, and extends your cognition.
+
+*   [GregBParker/things3-claude-skill](https://github.com/GregBParker/things3-claude-skill) -
+
+*   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
+
+*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+
+*   [microsoft/amplifier](https://github.com/microsoft/amplifier) -
+
+*   [mbailey/openai-proxy](https://github.com/mbailey/openai-proxy) - Route select OpenAI API endpoints to local services (e.g. Whisper, Ollama, Kororo).
+
+*   [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
+
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
+*   [i-am-bee/bee-stack](https://github.com/i-am-bee/bee-stack) - Run the entire bee application stack using docker-compose
+
+*   [cloudsftp/reSnap](https://github.com/cloudsftp/reSnap) - Take screnshots of your reMarkable tablet over SSH
+
+*   [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
+
+*   [rseng/awesome-rseng](https://github.com/rseng/awesome-rseng) - A curated list of GitHub organizations that primarily serve open source or academic software projects.
+
+*   [rseng/software](https://github.com/rseng/software) - research software encyclopedia database
+
+*   [Khan/style-guides](https://github.com/Khan/style-guides) - Docs for the Organization
+
+*   [redhat-documentation/vale-at-red-hat](https://github.com/redhat-documentation/vale-at-red-hat) - Vale config files, styles, and docs to help individuals and teams roll out Vale
+
+*   [tombubul/newtabimages](https://github.com/tombubul/newtabimages) - Low-maintenance, serverless approach to interacting with a giant screenshot archive
+
+*   [dphiffer/data-and-social-justice](https://github.com/dphiffer/data-and-social-justice) - Bennington College / Fall 2018
+
+*   [hendricius/the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
+
+*   [RandomArray/ContractKiller](https://github.com/RandomArray/ContractKiller) -
+
+*   [overview/overview-local](https://github.com/overview/overview-local) - Run Overview on your own system
+
+*   [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
+
+*   [jakkm3n/trollascii](https://github.com/jakkm3n/trollascii) - Central repository of world-famous ANSI and ASCII art
+
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+
+*   [benbalter/jekyll-style-guide](https://github.com/benbalter/jekyll-style-guide) - An opinionated guide to common Jekyll design patterns and anti-patterns.
+
+*   [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
+
+*   [dphiffer/downloading-is-never-stealing](https://github.com/dphiffer/downloading-is-never-stealing) - A convenient set of hyperlinks and shell scripts for reading and archiving Aaron Swartz's online writings
+
+*   [NYPL-publicdomain/data-and-utilities](https://github.com/NYPL-publicdomain/data-and-utilities) - Snapshot of Item and Collection data for public domain materials in NYPL Digital Collections, as part of NYPL's January 2016 public domain release.
+
+*   [coralproject/reef](https://github.com/coralproject/reef) - Concepts, practices and principles
+
+*   [yeargin/mediatemple-backup](https://github.com/yeargin/mediatemple-backup) - Collection of bash scripts for database backups.
+
+*   [INN/docs](https://github.com/INN/docs) - INN Labs – Product & Technology Team Docs
+
+*   [cryptoparty/handbook](https://github.com/cryptoparty/handbook) - The CryptoParty Handbook
+
+*   [celoyd/wheather](https://github.com/celoyd/wheather) - Image-compositing scripts for filtering weather out of satellite images
+
+*   [CC-Archived/mou-theme-solarized](https://github.com/CC-Archived/mou-theme-solarized) - Mou (http://mouapp.com/) theme for Markdown syntax highlighting using Ethan Schoonover's Solarized color scheme.
 
 ## miscellaneous
 
@@ -517,8 +593,6 @@
 *   [tboronczyk/JavaScript-Experiments](https://github.com/tboronczyk/JavaScript-Experiments) - Various small experiments in JavaScript
 
 *   [msporny/dna](https://github.com/msporny/dna) - Manu Sporny's genetic information (roughly 1 million SNP markers)
-
-*   [jpfinley/printmaster](https://github.com/jpfinley/printmaster) - Markdown and InDesign in unholy communion
 
 ## Rust
 
@@ -1603,8 +1677,6 @@
 *   [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 
 *   [kanedata/airtable-to-sqlite](https://github.com/kanedata/airtable-to-sqlite) -
-
-*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 *   [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 
@@ -3132,80 +3204,6 @@
 
 *   [matthewepler/ComputerGraphicsAndArt](https://github.com/matthewepler/ComputerGraphicsAndArt) - Code listings, implementations, and translations of code in the "Computer Graphics And Art" magazine (1976-1978).
 
-## Shell
-
-*   [Acelogic/agentic-coding-flywheel-setup-simplified](https://github.com/Acelogic/agentic-coding-flywheel-setup-simplified) - Simplified cross-platform installer for Dicklesworthstone's Agentic Coding Flywheel - 33 tools for AI-powered multi-agent development (macOS, Linux, WSL)
-
-*   [nikolasrieble/opencode-config](https://github.com/nikolasrieble/opencode-config) - Opinionated project-agnostic OpenCode configuration with agents for Jira, Confluence, and security reviews
-
-*   [brianlovin/agent-config](https://github.com/brianlovin/agent-config) - My coding agent config
-
-*   [lout33/symbiotic-ai](https://github.com/lout33/symbiotic-ai) - A symbiotic AI agent that remembers everything, challenges you, and extends your cognition.
-
-*   [GregBParker/things3-claude-skill](https://github.com/GregBParker/things3-claude-skill) -
-
-*   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
-
-*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-
-*   [microsoft/amplifier](https://github.com/microsoft/amplifier) -
-
-*   [mbailey/openai-proxy](https://github.com/mbailey/openai-proxy) - Route select OpenAI API endpoints to local services (e.g. Whisper, Ollama, Kororo).
-
-*   [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
-
-*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
-*   [i-am-bee/bee-stack](https://github.com/i-am-bee/bee-stack) - Run the entire bee application stack using docker-compose
-
-*   [cloudsftp/reSnap](https://github.com/cloudsftp/reSnap) - Take screnshots of your reMarkable tablet over SSH
-
-*   [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
-
-*   [rseng/awesome-rseng](https://github.com/rseng/awesome-rseng) - A curated list of GitHub organizations that primarily serve open source or academic software projects.
-
-*   [rseng/software](https://github.com/rseng/software) - research software encyclopedia database
-
-*   [Khan/style-guides](https://github.com/Khan/style-guides) - Docs for the Organization
-
-*   [redhat-documentation/vale-at-red-hat](https://github.com/redhat-documentation/vale-at-red-hat) - Vale config files, styles, and docs to help individuals and teams roll out Vale
-
-*   [tombubul/newtabimages](https://github.com/tombubul/newtabimages) - Low-maintenance, serverless approach to interacting with a giant screenshot archive
-
-*   [dphiffer/data-and-social-justice](https://github.com/dphiffer/data-and-social-justice) - Bennington College / Fall 2018
-
-*   [hendricius/the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
-
-*   [RandomArray/ContractKiller](https://github.com/RandomArray/ContractKiller) -
-
-*   [overview/overview-local](https://github.com/overview/overview-local) - Run Overview on your own system
-
-*   [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
-
-*   [jakkm3n/trollascii](https://github.com/jakkm3n/trollascii) - Central repository of world-famous ANSI and ASCII art
-
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-
-*   [benbalter/jekyll-style-guide](https://github.com/benbalter/jekyll-style-guide) - An opinionated guide to common Jekyll design patterns and anti-patterns.
-
-*   [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
-
-*   [dphiffer/downloading-is-never-stealing](https://github.com/dphiffer/downloading-is-never-stealing) - A convenient set of hyperlinks and shell scripts for reading and archiving Aaron Swartz's online writings
-
-*   [NYPL-publicdomain/data-and-utilities](https://github.com/NYPL-publicdomain/data-and-utilities) - Snapshot of Item and Collection data for public domain materials in NYPL Digital Collections, as part of NYPL's January 2016 public domain release.
-
-*   [coralproject/reef](https://github.com/coralproject/reef) - Concepts, practices and principles
-
-*   [yeargin/mediatemple-backup](https://github.com/yeargin/mediatemple-backup) - Collection of bash scripts for database backups.
-
-*   [INN/docs](https://github.com/INN/docs) - INN Labs – Product & Technology Team Docs
-
-*   [cryptoparty/handbook](https://github.com/cryptoparty/handbook) - The CryptoParty Handbook
-
-*   [celoyd/wheather](https://github.com/celoyd/wheather) - Image-compositing scripts for filtering weather out of satellite images
-
-*   [CC-Archived/mou-theme-solarized](https://github.com/CC-Archived/mou-theme-solarized) - Mou (http://mouapp.com/) theme for Markdown syntax highlighting using Ethan Schoonover's Solarized color scheme.
-
 ## Go
 
 *   [simonw/showboat](https://github.com/simonw/showboat) - Create executable documents that demonstrate an agent's work
@@ -3821,6 +3819,8 @@
 *   [dave1010/tools](https://github.com/dave1010/tools) - Collection of tools
 
 *   [aavetis/PRarena](https://github.com/aavetis/PRarena) - This repo tracks the opened and merged PRs by the top SWE coding agents by OpenAI, GitHub, and others. Updates regularly.
+
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 *   [continuedev/amplified.dev](https://github.com/continuedev/amplified.dev) - 🔊 We believe in a future where developers are amplified, not automated
 

@@ -3261,6 +3261,8 @@
 
 ## miscellaneous
 
+*   [Owl-Listener/designpowers](https://github.com/Owl-Listener/designpowers) - An agent design team you control: 10 agents that run an inclusive design process while you direct.
+
 *   [snarktank/clawchief](https://github.com/snarktank/clawchief) - Turn your OpenClaw into a Chief of Staff
 
 *   [rsarver/stella-decks](https://github.com/rsarver/stella-decks) - HTML slide deck system with design system, viewer, and PDF export. AI-native via Claude Code.
@@ -5494,8 +5496,6 @@
 *   [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
 
 *   [glenmurphy/dropmocks](https://github.com/glenmurphy/dropmocks) - Online image sharing
-
-*   [jpfinley/printmaster](https://github.com/jpfinley/printmaster) - Markdown and InDesign in unholy communion
 
 ## agent-skills
 
