@@ -1305,7 +1305,7 @@
 
 *   [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 
-*   [graemerycyk/openpmkit](https://github.com/graemerycyk/openpmkit) -
+*   [graemerycyk/claude-product-management-skills](https://github.com/graemerycyk/claude-product-management-skills) -
 
 *   [simonw/research](https://github.com/simonw/research) - Research projects
 
@@ -1465,7 +1465,7 @@
 
 *   [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 
-*   [ogx-ai/ogx](https://github.com/ogx-ai/ogx) - Composable building blocks to build LLM Apps
+*   [ogx-ai/ogx](https://github.com/ogx-ai/ogx) - Open GenAI Stack
 
 *   [datasette/datasette-enrichments](https://github.com/datasette/datasette-enrichments) - Tools for running enrichments against data stored in Datasette
 
@@ -1967,7 +1967,7 @@
 
 *   [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent
 
-*   [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
+*   [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 
 *   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 
