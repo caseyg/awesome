@@ -1284,6 +1284,7 @@
 *   [remix-stack](#remix-stack)
 *   [remix-stacks](#remix-stacks)
 *   [replication](#replication)
+*   [runtime](#runtime)
 *   [e2e-testing](#e2e-testing)
 *   [end-to-end-testing](#end-to-end-testing)
 *   [test](#test)
@@ -6260,6 +6261,8 @@
 
 *   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+
 *   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 
 *   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
@@ -6777,6 +6780,8 @@
 *   [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 
 *   [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build agents in any framework. Run as a service. Ship to real users.
+
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 
 *   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 
@@ -9882,7 +9887,7 @@
 
 *   [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 
 ## ffi
 
@@ -10952,8 +10957,6 @@
 
 *   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
-
 *   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
 
 *   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc\_ggEV
@@ -11077,8 +11080,6 @@
 *   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 
 *   [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
-
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 
 *   [michael/editable-website](https://github.com/michael/editable-website) - CMS-free editable websites with Svelte
 
@@ -11536,7 +11537,7 @@
 
 *   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 
 *   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
 
@@ -13808,8 +13809,6 @@
 
 *   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
-
 *   [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 *   [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box.
@@ -14340,7 +14339,7 @@
 
 *   [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 
 *   [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 
@@ -14947,6 +14946,8 @@
 ## platform
 
 *   [IBM/watsonx-ai-platform-demos](https://github.com/IBM/watsonx-ai-platform-demos) - AI Agents, LLM Fine-tuning, Developer Productivity, Governance, IBM watsonx
+
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 
 *   [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
 
@@ -15688,6 +15689,8 @@
 
 *   [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.
 
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+
 *   [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 
 *   [postlight/account](https://github.com/postlight/account) - 📚️ ➕ 🔢  Tell little stories with numbers
@@ -16296,7 +16299,7 @@
 
 *   [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 
 ## sync
 
@@ -16304,7 +16307,7 @@
 
 *   [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 
@@ -16698,8 +16701,6 @@
 
 *   [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
-
 *   [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy is a library that implements cutting-edge real-time and collaborative editing algorithms and utilities for JSON data models, with a focus on developing the JSON CRDT (Conflict-free Replicated Data Type) specification and implementation.
 
 ## comfy
@@ -17052,7 +17053,11 @@
 
 ## replication
 
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+
+## runtime
+
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 
 ## e2e-testing
 
