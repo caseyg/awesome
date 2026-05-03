@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Swift](#swift)
@@ -13,7 +14,7 @@
 *   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [Java](#java)
 *   [Go](#go)
 *   [MDX](#mdx)
@@ -21,7 +22,7 @@
 *   [Nushell](#nushell)
 *   [Dart](#dart)
 *   [PHP](#php)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Svelte](#svelte)
 *   [Ruby](#ruby)
@@ -39,7 +40,6 @@
 *   [Handlebars](#handlebars)
 *   [Zig](#zig)
 *   [R](#r)
-*   [C](#c-2)
 *   [XSLT](#xslt)
 *   [Perl](#perl)
 *   [Vala](#vala)
@@ -63,6 +63,20 @@
 *   [Vim script](#vim-script)
 *   [Objective-C++](#objective-c-1)
 *   [DIGITAL Command Language](#digital-command-language)
+
+## C
+
+*   [welfvh/daylight-mirror](https://github.com/welfvh/daylight-mirror) - Screen mirroring solution for using Daylight Computer as external Mac display
+
+*   [pietrop/digital-paper-edit-electron](https://github.com/pietrop/digital-paper-edit-electron) -  Work in progress - digital paper edit project - Electron, Cross Platform Desktop app - Mac, Windows, Linux
+
+*   [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
+
+*   [XProger/OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
+
+*   [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
+
+*   [unpaper/unpaper](https://github.com/unpaper/unpaper) - A post-processing tool for scanned sheets of paper.
 
 ## TypeScript
 
@@ -99,8 +113,6 @@
 *   [EveryInc/proof-sdk](https://github.com/EveryInc/proof-sdk) - Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge
 
 *   [zokugun/vscode-cron](https://github.com/zokugun/vscode-cron) -
-
-*   [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
 
 *   [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents) - An open-source background agents coding system
 
@@ -1418,7 +1430,7 @@
 
 *   [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 
-*   [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
+*   [topoteretes/cognee](https://github.com/topoteretes/cognee) - The memory for your AI Agents in 6 lines of code
 
 *   [zouyingcao/agentskills-mcp](https://github.com/zouyingcao/agentskills-mcp) - AgentSkills MCP: Bringing Anthropic's Agent Skills to Any MCP-compatible Agent
 
@@ -2195,6 +2207,8 @@
 *   [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 *   [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
+
+*   [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
 
 *   [rchandnaWUSTL/pm-digital-twin](https://github.com/rchandnaWUSTL/pm-digital-twin) - Template: PM Intelligence System for Claude Code
 
@@ -3216,8 +3230,6 @@
 
 *   [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 
-*   [browserstate/history.js](https://github.com/browserstate/history.js) - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.  For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.
-
 ## Kotlin
 
 *   [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
@@ -4187,18 +4199,6 @@
 *   [hxrts/spider](https://github.com/hxrts/spider) - Crawl connected Are.na channels and visualize the resulting network.
 
 *   [vanderlowe/myPersonality](https://github.com/vanderlowe/myPersonality) - Easy access to myPersonality data
-
-## C
-
-*   [pietrop/digital-paper-edit-electron](https://github.com/pietrop/digital-paper-edit-electron) -  Work in progress - digital paper edit project - Electron, Cross Platform Desktop app - Mac, Windows, Linux
-
-*   [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
-
-*   [XProger/OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
-
-*   [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
-
-*   [unpaper/unpaper](https://github.com/unpaper/unpaper) - A post-processing tool for scanned sheets of paper.
 
 ## XSLT
 
