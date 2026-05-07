@@ -35,7 +35,6 @@
 *   [Astro](#astro)
 *   [SCSS](#scss)
 *   [Vue](#vue)
-*   [Elixir](#elixir)
 *   [Makefile](#makefile)
 *   [Handlebars](#handlebars)
 *   [Zig](#zig)
@@ -433,6 +432,8 @@
 *   [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 
 *   [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
+
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 
 *   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
@@ -4173,10 +4174,6 @@
 *   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 *   [TimOetting/kirby-builder](https://github.com/TimOetting/kirby-builder) - A site builder extension for Kirby CMS
-
-## Elixir
-
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 
 ## Makefile
 
