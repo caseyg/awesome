@@ -259,7 +259,7 @@
 
 *   [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform
 
-*   [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+*   [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
 *   [pheuter/claude-agent-desktop](https://github.com/pheuter/claude-agent-desktop) - Cross-platform desktop app for agentic chat powered by Claude Agent SDK.
 
@@ -922,6 +922,8 @@
 ## JavaScript
 
 *   [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
+
+*   [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
 *   [andreaskelm/pm-brain](https://github.com/andreaskelm/pm-brain) - AI-powered product management thinking & operating system. Playbooks, guides, templates, and frameworks that bridge PM theory to daily execution.
 
@@ -1950,8 +1952,6 @@
 *   [GumbyEnder/hermes-kanban](https://github.com/GumbyEnder/hermes-kanban) - A dedicated Obsidian plugin + Hermes skill that turns Hermes into an autonomous project executor using Kanban boards inside your Obsidian vault.
 
 *   [openai/privacy-filter](https://github.com/openai/privacy-filter) - OpenAI Privacy Filter
-
-*   [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
 *   [ohnotnow/treasure-or-trash](https://github.com/ohnotnow/treasure-or-trash) - Point an LLM at your old projects to find out what they do, then keep, archive or bin them via a TUI
 
