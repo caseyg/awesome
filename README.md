@@ -151,7 +151,7 @@
 
 *   [HugoRCD/evlog](https://github.com/HugoRCD/evlog) - Digging through logs is not observability. It's hope. — wide events, structured errors, TypeScript-first, every runtime.
 
-*   [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
+*   [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 
 *   [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 
@@ -284,6 +284,8 @@
 *   [m-rgba/obsidian-ai-agent](https://github.com/m-rgba/obsidian-ai-agent) - An integrated AI agent (currently Claude Code) plugin for Obsidian.
 
 *   [vercel/workflow](https://github.com/vercel/workflow) - Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript
+
+*   [inline-chat/inline](https://github.com/inline-chat/inline) - Inline is a fast, lightweight, scalable, and powerful work chat app which enables unprecedented collaboration bandwidth.
 
 *   [heyito/ito](https://github.com/heyito/ito) - \[DEPRECATED] Ito, smart dictation in every application
 
@@ -988,6 +990,8 @@
 *   [GrayAreaorg/airtable-to-sqlite](https://github.com/GrayAreaorg/airtable-to-sqlite) -
 
 *   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
+
+*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 
 *   [klimeryk/recalendar.js](https://github.com/klimeryk/recalendar.js) - ReCalendar - create your personalized calendar PDF for ReMarkable tablets
 
@@ -2045,7 +2049,7 @@
 
 *   [NoeSamaille/wxo-oauth-authz-code](https://github.com/NoeSamaille/wxo-oauth-authz-code) - Working example of a custom Python tool for IBM watsonx Orchestrate that allows to query Calendar Events from Microsoft 365 using a member connection implementing an OAuth Authorization Code flow.
 
-*   [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Python & TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+*   [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph.
 
 *   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 
@@ -2634,8 +2638,6 @@
 *   [exyte/Chat](https://github.com/exyte/Chat) - A SwiftUI Chat UI framework with fully customizable message cells and a built-in media picker
 
 *   [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
-
-*   [inline-chat/inline](https://github.com/inline-chat/inline) - Inline is a fast, lightweight, scalable, and powerful work chat app which enables unprecedented collaboration bandwidth.
 
 *   [finnvoor/yap](https://github.com/finnvoor/yap) - 🗣️ A CLI for on-device speech transcription using Speech.framework on macOS 26
 
@@ -3358,8 +3360,6 @@
 *   [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 
 *   [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course) - Interactive course teaching Product Managers how to use Claude Code effectively
-
-*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 
 *   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
 

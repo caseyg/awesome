@@ -3159,10 +3159,10 @@
 *   [online-learning](#online-learning)
 *   [reinforcement-learning](#reinforcement-learning)
 *   [unicode](#unicode)
+*   [collaborative-ai](#collaborative-ai)
 *   [collaborative-framework](#collaborative-framework)
 *   [collaborative-research](#collaborative-research)
 *   [etherpad](#etherpad)
-*   [microsoft](#microsoft)
 *   [pdf-generation](#pdf-generation)
 *   [video-conference](#video-conference)
 *   [web-editor](#web-editor)
@@ -3273,7 +3273,7 @@
 
 *   [Ansub/wiki-os](https://github.com/Ansub/wiki-os) - UI Layer for Karpathy's LLM Wiki
 
-*   [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
+*   [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 
 *   [arty-name/livejournal-export](https://github.com/arty-name/livejournal-export) - Export your LiveJournal (posts + comments) to XML, JSON and optionally convert them to HTML and Markdown
 
@@ -5855,7 +5855,7 @@
 
 *   [otaviocc/obsidian-microblog](https://github.com/otaviocc/obsidian-microblog) - Micro.publish is an Obsidian plugin to publish notes directly to Micro.blog, written in TypeScript
 
-*   [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Python & TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+*   [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph.
 
 *   [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 
@@ -6467,7 +6467,7 @@
 
 *   [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.
 
-*   [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Python & TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+*   [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph.
 
 *   [jenna-winkler/ai-power-user-playbook](https://github.com/jenna-winkler/ai-power-user-playbook) - A community-driven playbook of strategies and prompt patterns for effectively working with AI agents.
 
@@ -9147,7 +9147,7 @@
 
 *   [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 
-*   [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Python & TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+*   [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph.
 
 *   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 
@@ -9845,8 +9845,6 @@
 
 *   [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 
-*   [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
-
 ## remarkable-tablet
 
 *   [erikbrinkman/rmapi-js](https://github.com/erikbrinkman/rmapi-js) - JavaScript implementation of the reMarkable api
@@ -10351,7 +10349,7 @@
 
 *   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
-*   [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Python & TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+*   [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph.
 
 *   [NirDiamant/RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 
@@ -13211,11 +13209,11 @@
 
 ## deepagents
 
-*   [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Python & TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+*   [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph.
 
 ## langgraph
 
-*   [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Python & TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+*   [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph.
 
 *   [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 
@@ -16354,8 +16352,6 @@
 *   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 
 *   [fiduswriter/fiduswriter](https://github.com/fiduswriter/fiduswriter) - Fidus Writer is an online collaborative editor for academics.
-
-*   [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 
 ## pdf-to-json
 
@@ -25801,8 +25797,6 @@
 
 *   [benbalter/word-to-markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word documents
 
-*   [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
-
 ## microsoft-word
 
 *   [benbalter/word-to-markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word documents
@@ -25812,8 +25806,6 @@
 *   [benbalter/word-to-markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word documents
 
 *   [fiduswriter/fiduswriter](https://github.com/fiduswriter/fiduswriter) - Fidus Writer is an online collaborative editor for academics.
-
-*   [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 
 ## decentralized-applications
 
@@ -26025,6 +26017,10 @@
 
 *   [Codepoints/Codepoints.net](https://github.com/Codepoints/Codepoints.net) - A visual guide to the wonders of Unicode
 
+## collaborative-ai
+
+*   [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
+
 ## collaborative-framework
 
 *   [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
@@ -26034,10 +26030,6 @@
 *   [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 
 ## etherpad
-
-*   [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
-
-## microsoft
 
 *   [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 
