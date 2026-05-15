@@ -37,7 +37,6 @@
 *   [Vue](#vue)
 *   [Makefile](#makefile)
 *   [Handlebars](#handlebars)
-*   [Zig](#zig)
 *   [R](#r)
 *   [XSLT](#xslt)
 *   [Perl](#perl)
@@ -220,8 +219,6 @@
 *   [langchain-ai/deep-agents-ui](https://github.com/langchain-ai/deep-agents-ui) - Custom UI for Deep Agents
 
 *   [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp) - Use Claude Agent SDK from any ACP client
-
-*   [team-forge-ai/openchat](https://github.com/team-forge-ai/openchat) - Private, local-first AI chat desktop app built with Tauri (Rust) + React + TypeScript.
 
 *   [cedricziel/aha-mcp](https://github.com/cedricziel/aha-mcp) - A Model Context Protocol (MCP) server that provides seamless integration with Aha.io's product management platform.
 
@@ -2529,6 +2526,8 @@
 
 *   [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
 
+*   [artunit/ossocr](https://github.com/artunit/ossocr) - gathering point for open source OCR scripts and diffs
+
 ## C
 
 *   [welfvh/daylight-mirror](https://github.com/welfvh/daylight-mirror) - Screen mirroring solution for using Daylight Computer as external Mac display
@@ -2604,6 +2603,8 @@
 *   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 *   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+
+*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 *   [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine:  Create a searchable library from your personal documents, interests, and more!
 
@@ -4186,10 +4187,6 @@
 ## Handlebars
 
 *   [carbon-design-system/carbon-for-ibm-dotcom-web-components-test](https://github.com/carbon-design-system/carbon-for-ibm-dotcom-web-components-test) - Environment for testing Carbon for IBM.com web components as a mock application
-
-## Zig
-
-*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## R
 
