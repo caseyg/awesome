@@ -2590,7 +2590,7 @@
 
 *   [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 *   [sowcow/blank\_slate\_pdf](https://github.com/sowcow/blank_slate_pdf) - Abstract and simplistic PDFs for RM from Rust code. There are random experimental PDFs in older releases and Ruby code in older commits.
 

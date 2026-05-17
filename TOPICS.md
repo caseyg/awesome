@@ -804,6 +804,7 @@
 *   [n8n](#n8n)
 *   [nano](#nano)
 *   [web-automation](#web-automation)
+*   [grok-cli](#grok-cli)
 *   [openrouter](#openrouter)
 *   [notetaking](#notetaking)
 *   [protocol](#protocol)
@@ -5753,7 +5754,7 @@
 
 *   [CommandCodeAI/BaseAI](https://github.com/CommandCodeAI/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 *   [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 
@@ -6655,7 +6656,7 @@
 
 *   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 *   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 
@@ -7423,7 +7424,7 @@
 
 *   [VaibhaveS/MeetingOWL](https://github.com/VaibhaveS/MeetingOWL) - MeetingOWL is a ML based system which can generate smart reports for online meetings based on the audio file.
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 *   [linto-ai/whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual Automatic Speech Recognition with word-level timestamps and confidence
 
@@ -7591,7 +7592,7 @@
 
 *   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 *   [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 
@@ -7937,7 +7938,7 @@
 
 *   [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 *   [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 
@@ -8464,6 +8465,8 @@
 *   [leochiu-a/universal-agents](https://github.com/leochiu-a/universal-agents) - The Lightest Shared Standard for AI Agents
 
 *   [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents
+
+*   [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 
 ## moltbot
 
@@ -9911,7 +9914,7 @@
 
 *   [VaibhaveS/MeetingOWL](https://github.com/VaibhaveS/MeetingOWL) - MeetingOWL is a ML based system which can generate smart reports for online meetings based on the audio file.
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 *   [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 
@@ -11299,7 +11302,7 @@
 
 *   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 *   [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 
@@ -12401,7 +12404,7 @@
 
 *   [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 ## ai-meeting-assistant
 
@@ -13939,7 +13942,7 @@
 
 *   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 ## webui
 
@@ -14148,6 +14151,10 @@
 ## web-automation
 
 *   [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+
+## grok-cli
+
+*   [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 
 ## openrouter
 
@@ -16621,31 +16628,31 @@
 
 ## agi
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 ## audio-recording
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 ## computer-vision
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 *   [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 
 ## ml
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 *   [jukedeck/nottingham-dataset](https://github.com/jukedeck/nottingham-dataset) - Cleaned version of the Nottingham dataset
 
 ## multimodal
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 ## screen-recording
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 ## query-params
 
