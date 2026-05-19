@@ -559,7 +559,6 @@
 *   [dictation](#dictation)
 *   [dictation-tool](#dictation-tool)
 *   [electron](#electron)
-*   [expo](#expo)
 *   [local-ai](#local-ai)
 *   [ai-meeting-assistant](#ai-meeting-assistant)
 *   [mac](#mac)
@@ -1138,6 +1137,7 @@
 *   [docs](#docs)
 *   [ssg](#ssg)
 *   [app-framework](#app-framework)
+*   [expo](#expo)
 *   [frontend](#frontend)
 *   [mobile](#mobile)
 *   [native](#native)
@@ -3276,6 +3276,8 @@
 
 ## miscellaneous
 
+*   [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
+
 *   [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 
 *   [microsoft/waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
@@ -3416,7 +3418,7 @@
 
 *   [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 
-*   [leefowlercu/agent-kit](https://github.com/leefowlercu/agent-kit) - My Claude Plugin Marketplace
+*   [leefowlercu/agent-kit](https://github.com/leefowlercu/agent-kit) - My Codex / Claude Code Plugin Marketplace
 
 *   [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 
@@ -3616,7 +3618,7 @@
 
 *   [nerveband/Apple-Music-Play-History-Converter](https://github.com/nerveband/Apple-Music-Play-History-Converter) - A modern desktop application that converts Apple Music play history CSV files into Last.fm and Universal Scrobbler compatible format.
 
-*   [ibm-granite/granite-io](https://github.com/ibm-granite/granite-io) - Python framework which enables you to transform how a user calls or infers an IBM Granite model and how the output from the model is returned to the user.
+*   [ibm-granite/granite-io](https://github.com/ibm-granite/granite-io) - ⚠️ Deprecated: This library's functionality has been rolled into Mellea (https://github.com/generative-computing/mellea)
 
 *   [singleportrait/a-pattern-language](https://github.com/singleportrait/a-pattern-language) - A directory and network for all patterns in A Pattern Language
 
@@ -12392,12 +12394,6 @@
 
 *   [muan/mojibar](https://github.com/muan/mojibar) - :tangerine: Emoji searcher but as a menubar app.
 
-## expo
-
-*   [amicalhq/amical](https://github.com/amicalhq/amical) - 🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.
-
-*   [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
-
 ## local-ai
 
 *   [amicalhq/amical](https://github.com/amicalhq/amical) - 🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.
@@ -16236,6 +16232,10 @@
 
 *   [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
+## expo
+
+*   [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+
 ## frontend
 
 *   [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -19927,8 +19927,6 @@
 *   [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 
 *   [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
-
-*   [bergie/hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
 
 ## webrtc
 
@@ -26417,8 +26415,6 @@
 ## jquery-ui
 
 *   [bergie/create](https://github.com/bergie/create) - Midgard Create, a generic web editing interface for any CMS
-
-*   [bergie/hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
 
 ## screenshot
 
