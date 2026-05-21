@@ -3676,7 +3676,7 @@
 
 *   [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 
-*   [11ty/eleventy-import](https://github.com/11ty/eleventy-import) - Utility to import content from multiple services (and a CLI, too)
+*   [11ty/import](https://github.com/11ty/import) - Utility to import content from multiple services (and a CLI, too)
 
 *   [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
 
