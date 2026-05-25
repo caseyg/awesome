@@ -726,7 +726,7 @@
 *   [chrome-extension](#chrome-extension)
 *   [extension-chrome](#extension-chrome)
 *   [firefox-addon](#firefox-addon)
-*   [llm-agent](#llm-agent)
+*   [cyanheads](#cyanheads)
 *   [browser-extension](#browser-extension)
 *   [bundler](#bundler)
 *   [edge-addon](#edge-addon)
@@ -6608,8 +6608,6 @@
 *   [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) - Model Context Protocol server for GraphQL
 
 *   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
-
-*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Obsidian vaults MCP server - read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin.
 
 *   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 
@@ -13727,7 +13725,7 @@
 
 *   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
-## llm-agent
+## cyanheads
 
 *   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Obsidian vaults MCP server - read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin.
 
