@@ -5642,7 +5642,7 @@
 
 *   [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Copy any UI element for your agent
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
@@ -5886,7 +5886,7 @@
 
 *   [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 *   [marcbachmann/node-html-pdf](https://github.com/marcbachmann/node-html-pdf) - This repo isn't maintained anymore as phantomjs got dreprecated a long time ago. Please migrate to headless chrome/puppeteer.
 
@@ -6142,6 +6142,8 @@
 
 *   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 
+*   [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+
 *   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 
 *   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
@@ -6185,6 +6187,8 @@
 *   [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 
 *   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
+
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## cli
 
@@ -6586,7 +6590,7 @@
 
 *   [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 *   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 
@@ -7744,7 +7748,7 @@
 
 *   [micjamking/synth-secrets](https://github.com/micjamking/synth-secrets) - Screen-scraped articles on subtractive synthesis (using Node.js)
 
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 *   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
@@ -7928,7 +7932,7 @@
 
 *   [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 *   [instavm/open-skills](https://github.com/instavm/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
 
@@ -8374,8 +8378,6 @@
 
 *   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 
-*   [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-
 *   [mikaelj/fuska](https://github.com/mikaelj/fuska) - AI project management for solo agentic development. Persistent memory, expert plan validation, automated code review, and structured workflows —   powered by a knowledge graph. Works with OpenCode and Claude Code.
 
 *   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
@@ -8391,6 +8393,8 @@
 *   [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 
 *   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
+
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## chatgpt
 
@@ -8576,7 +8580,7 @@
 
 *   [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server.
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 *   [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
@@ -8606,7 +8610,7 @@
 
 *   [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory control plane for AI Agents in 6 lines of code
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 *   [oramasearch/oramacore](https://github.com/oramasearch/oramacore) - OramaCore is the complete runtime you need for your projects, answer engines, copilots, and search. It includes a fully-fledged full-text search engine, vector database, LLM interface, and many more utilities.
 
@@ -9282,7 +9286,7 @@
 
 *   [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server.
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 *   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
@@ -9680,7 +9684,7 @@
 
 *   [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 *   [instavm/open-skills](https://github.com/instavm/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
 
@@ -10082,6 +10086,8 @@
 
 *   [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
 
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
+
 ## claudecode
 
 *   [brianlovin/agent-config](https://github.com/brianlovin/agent-config) - My coding agent config
@@ -10472,15 +10478,15 @@
 
 ## faiss
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 ## gpt-oss
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 ## langchain
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 *   [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
 
@@ -10502,7 +10508,7 @@
 
 ## llama-index
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 *   [NirDiamant/RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 
@@ -10510,11 +10516,11 @@
 
 ## localstorage
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 ## offline-first
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 *   [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.
 
@@ -10528,7 +10534,7 @@
 
 ## retrieval-augmented-generation
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 *   [NirDiamant/RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 
@@ -10538,7 +10544,7 @@
 
 ## vector-search
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 *   [oramasearch/oramacore](https://github.com/oramasearch/oramacore) - OramaCore is the complete runtime you need for your projects, answer engines, copilots, and search. It includes a fully-fledged full-text search engine, vector database, LLM interface, and many more utilities.
 
@@ -10552,7 +10558,7 @@
 
 ## vectors
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 *   [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
@@ -12724,7 +12730,7 @@
 
 *   [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 *   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
 
@@ -14220,7 +14226,7 @@
 
 *   [hng/tech-coops](https://github.com/hng/tech-coops) - A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
 
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
@@ -14262,7 +14268,7 @@
 
 *   [hng/tech-coops](https://github.com/hng/tech-coops) - A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
 
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
@@ -16260,7 +16266,7 @@
 
 *   [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 *   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 
@@ -16596,7 +16602,7 @@
 
 *   [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
 
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 *   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 
@@ -23200,7 +23206,7 @@
 
 *   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
 
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 *   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 
@@ -23252,7 +23258,7 @@
 
 *   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
 
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 *   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
 
@@ -23946,15 +23952,15 @@
 
 ## checklist
 
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## front-end-developer-tool
 
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## guidelines
 
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## boilerplate
 

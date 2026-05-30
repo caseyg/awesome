@@ -108,7 +108,7 @@
 
 *   [cbcoutinho/nextcloud-mcp-server](https://github.com/cbcoutinho/nextcloud-mcp-server) - Nextcloud MCP Server
 
-*   [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+*   [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - \[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 *   [sam-paech/antislop-sampler](https://github.com/sam-paech/antislop-sampler) -
 
@@ -877,8 +877,6 @@
 *   [NaNoGenMo/2017](https://github.com/NaNoGenMo/2017) - National Novel Generation Month, 2017 edition.
 
 *   [prosecconetwork/TraceElements](https://github.com/prosecconetwork/TraceElements) - Tracery grammars for building creative Twitterbots. Contains generative grammars for story-telling, metaphor generation, ironic put-downs, Trumpisms, short poems, etc.
-
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 
 *   [StephenMilborrow/muct](https://github.com/StephenMilborrow/muct) - Landmarked face database (3755 faces, 76 landmarks)
 
@@ -3365,6 +3363,8 @@
 *   [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course) - Interactive course teaching Product Managers how to use Claude Code effectively
 
 *   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
+
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 *   [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 
