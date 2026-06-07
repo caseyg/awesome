@@ -92,8 +92,6 @@
 
 *   [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 
-*   [graemerycyk/claude-product-management-skills](https://github.com/graemerycyk/claude-product-management-skills) -
-
 *   [simonw/research](https://github.com/simonw/research) - Research projects
 
 *   [amplitude/mcp-marketplace](https://github.com/amplitude/mcp-marketplace) - Amplitude's MCP plugins and their related agents, skills, and commands
@@ -644,6 +642,8 @@
 
 *   [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
 
+*   [artunit/ossocr](https://github.com/artunit/ossocr) - gathering point for open source OCR scripts and diffs
+
 ## miscellaneous
 
 *   [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
@@ -1118,7 +1118,7 @@
 
 *   [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
 
-*   [aboul3ata/lazyweb-skill](https://github.com/aboul3ata/lazyweb-skill) - Design with evidence, not vibes. Lazyweb skills for AI coding agents.
+*   [aboul3ata/lazyweb-skill](https://github.com/aboul3ata/lazyweb-skill) - Lazyweb agent skills: start with /lazyweb:lazyweb-welcome, free screenshot references, optional paid 20k+ A/B Test Agent.
 
 *   [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
 
@@ -1176,7 +1176,7 @@
 
 *   [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app
 
-*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
 
 *   [Superkikim/nexus-ai-chat-importer](https://github.com/Superkikim/nexus-ai-chat-importer) -
 
@@ -1310,7 +1310,7 @@
 
 *   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 
-*   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.
+*   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 
 *   [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 
@@ -1408,7 +1408,7 @@
 
 *   [firecrawl/llmstxt-generator](https://github.com/firecrawl/llmstxt-generator) - 🔥 Generate llms.txt and llms-full.txt files for any website!
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 
 *   [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 
@@ -2434,7 +2434,7 @@
 
 *   [danielBingham/peerreview](https://github.com/danielBingham/peerreview) - A diamond open access (free to access, free to publish), open source scientific and academic publishing platform.
 
-*   [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
+*   [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 
 *   [kingsloi/slack-backup-viewer](https://github.com/kingsloi/slack-backup-viewer) -
 
