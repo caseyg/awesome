@@ -113,6 +113,7 @@
 *   [vibe-coding](#vibe-coding)
 *   [vibe-design](#vibe-design)
 *   [vibecoding](#vibecoding)
+*   [paper](#paper)
 *   [documents](#documents)
 *   [paperless](#paperless)
 *   [astro](#astro)
@@ -347,7 +348,10 @@
 *   [molty](#molty)
 *   [own-your-data](#own-your-data)
 *   [personal](#personal)
+*   [bases](#bases)
 *   [defuddle](#defuddle)
+*   [jsoncanvas](#jsoncanvas)
+*   [md](#md)
 *   [tailscale](#tailscale)
 *   [tailscale-control-server](#tailscale-control-server)
 *   [tailscale-server](#tailscale-server)
@@ -941,7 +945,6 @@
 *   [research-tool](#research-tool)
 *   [english-language](#english-language)
 *   [grammar-checker](#grammar-checker)
-*   [md](#md)
 *   [developer](#developer)
 *   [governance](#governance)
 *   [platform](#platform)
@@ -2695,7 +2698,6 @@
 *   [regular-expression](#regular-expression)
 *   [blockchain](#blockchain)
 *   [democracy](#democracy)
-*   [paper](#paper)
 *   [voting](#voting)
 *   [typeface](#typeface)
 *   [ecommerce](#ecommerce)
@@ -3325,8 +3327,6 @@
 *   [amplitude/builder-skills](https://github.com/amplitude/builder-skills) - Open-source AI skills for product managers — battle-tested by PMs at Amplitude.
 
 *   [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-
-*   [kjanat/paperless-mcp](https://github.com/kjanat/paperless-mcp) - MCP for interacting with Paperless-ngx.
 
 *   [marcelbrueckner/paperless-ngx-cli](https://github.com/marcelbrueckner/paperless-ngx-cli) - Paperless-ngx Command-Line Interface
 
@@ -6700,6 +6700,8 @@
 
 *   [zaaack/vscode-markdown-editor](https://github.com/zaaack/vscode-markdown-editor) - A vscode extension to make your vscode become a  full-featured WYSIWYG markdown editor
 
+*   [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+
 *   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 
 *   [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
@@ -8218,6 +8220,16 @@
 
 *   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
+## paper
+
+*   [kjanat/paperless-mcp](https://github.com/kjanat/paperless-mcp) - MCP for interacting with Paperless-ngx.
+
+*   [DemocracyEarth/paper](https://github.com/DemocracyEarth/paper) - On self sovereign human identity.
+
+*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
+
+*   [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
+
 ## documents
 
 *   [barryw/PaperlessMCP](https://github.com/barryw/PaperlessMCP) - A Model Context Protocol (MCP) server for Paperless-ngx document management
@@ -9032,7 +9044,7 @@
 
 *   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
-*   [grokify/aha-mcp-server](https://github.com/grokify/aha-mcp-server) - MCP server for Aha! product management SaaS service.
+*   [grokify/aha-studio](https://github.com/grokify/aha-studio) - MCP server for Aha! product management SaaS service.
 
 *   [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 
@@ -10062,7 +10074,7 @@
 
 *   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 
-*   [grokify/aha-mcp-server](https://github.com/grokify/aha-mcp-server) - MCP server for Aha! product management SaaS service.
+*   [grokify/aha-studio](https://github.com/grokify/aha-studio) - MCP server for Aha! product management SaaS service.
 
 *   [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 
@@ -10600,11 +10612,27 @@
 
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
+## bases
+
+*   [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+
 ## defuddle
 
 *   [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 
 *   [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
+
+## jsoncanvas
+
+*   [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+
+## md
+
+*   [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+
+*   [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
+
+*   [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 
 ## tailscale
 
@@ -15215,12 +15243,6 @@
 ## grammar-checker
 
 *   [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-
-## md
-
-*   [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
-
-*   [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 
 ## developer
 
@@ -24113,14 +24135,6 @@
 ## democracy
 
 *   [DemocracyEarth/paper](https://github.com/DemocracyEarth/paper) - On self sovereign human identity.
-
-## paper
-
-*   [DemocracyEarth/paper](https://github.com/DemocracyEarth/paper) - On self sovereign human identity.
-
-*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
-
-*   [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 
 ## voting
 
