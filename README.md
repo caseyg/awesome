@@ -1292,7 +1292,7 @@
 
 *   [MadLlama25/fastmail-mcp](https://github.com/MadLlama25/fastmail-mcp) - A Model Context Protocol (MCP) server that provides access to the Fastmail API, enabling AI assistants to interact with email, contacts, and calendar data. Includes a DXT (desktop extension) for Claude Desktop.
 
-*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Obsidian vaults MCP server - read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin.
+*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - MCP server for Obsidian vaults — read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin. STDIO or Streamable HTTP.
 
 *   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 

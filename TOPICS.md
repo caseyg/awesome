@@ -87,6 +87,10 @@
 *   [help-wanted](#help-wanted)
 *   [javascript](#javascript)
 *   [looking-for-contributors](#looking-for-contributors)
+*   [agent-framework](#agent-framework)
+*   [agent-orchestration](#agent-orchestration)
+*   [agentic-ai](#agentic-ai)
+*   [design](#design)
 *   [agent-skills](#agent-skills)
 *   [claude](#claude)
 *   [meeting-notes](#meeting-notes)
@@ -148,7 +152,6 @@
 *   [knowledge-graph](#knowledge-graph)
 *   [memory-management](#memory-management)
 *   [vector-database](#vector-database)
-*   [agentic-ai](#agentic-ai)
 *   [claude-code-plugin](#claude-code-plugin)
 *   [coding-agent](#coding-agent)
 *   [opencode-plugin](#opencode-plugin)
@@ -517,7 +520,6 @@
 *   [containers](#containers)
 *   [sandbox](#sandbox)
 *   [emberjs](#emberjs)
-*   [agent-orchestration](#agent-orchestration)
 *   [agentic](#agentic)
 *   [ai-pair-programming](#ai-pair-programming)
 *   [canvas](#canvas)
@@ -715,7 +717,6 @@
 *   [semantic-search](#semantic-search)
 *   [tutorials](#tutorials)
 *   [acp](#acp)
-*   [agent-framework](#agent-framework)
 *   [mcp-client](#mcp-client)
 *   [agent-development](#agent-development)
 *   [educational](#educational)
@@ -1498,7 +1499,6 @@
 *   [rollup](#rollup)
 *   [aggregator](#aggregator)
 *   [events](#events)
-*   [design](#design)
 *   [prosemirror](#prosemirror)
 *   [tiptap](#tiptap)
 *   [automerge](#automerge)
@@ -3313,8 +3313,6 @@
 *   [blader/napkin](https://github.com/blader/napkin) - A Claude Code skill that gives the agent persistent memory of its mistakes via a per-repo markdown scratchpad.
 
 *   [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
-
-*   [Owl-Listener/designpowers](https://github.com/Owl-Listener/designpowers) - An agent design team you control: 10 agents that run an inclusive design process while you direct.
 
 *   [snarktank/clawchief](https://github.com/snarktank/clawchief) - Turn your OpenClaw into a Chief of Staff
 
@@ -5522,7 +5520,7 @@
 
 *   [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
 
-*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Obsidian vaults MCP server - read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin.
+*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - MCP server for Obsidian vaults — read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin. STDIO or Streamable HTTP.
 
 *   [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
 
@@ -5603,6 +5601,8 @@
 *   [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 
 *   [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
+
+*   [Owl-Listener/designpowers](https://github.com/Owl-Listener/designpowers) - An agent design team you control: 10 agents that run an inclusive design process while you direct.
 
 *   [silverstein/minutes](https://github.com/silverstein/minutes) - Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer.
 
@@ -5948,7 +5948,7 @@
 
 *   [jeffjjohnston/fastmail-mcp-server](https://github.com/jeffjjohnston/fastmail-mcp-server) - A basic MCP server that provides access to a Fastmail inbox
 
-*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Obsidian vaults MCP server - read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin.
+*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - MCP server for Obsidian vaults — read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin. STDIO or Streamable HTTP.
 
 *   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 
@@ -6022,7 +6022,7 @@
 
 *   [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 
-*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Obsidian vaults MCP server - read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin.
+*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - MCP server for Obsidian vaults — read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin. STDIO or Streamable HTTP.
 
 *   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 
@@ -6139,6 +6139,8 @@
 *   [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.
 
 *   [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+
+*   [Owl-Listener/designpowers](https://github.com/Owl-Listener/designpowers) - An agent design team you control: 10 agents that run an inclusive design process while you direct.
 
 *   [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
@@ -6568,7 +6570,7 @@
 
 *   [atomicstrata/llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler) - The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
 
-*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Obsidian vaults MCP server - read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin.
+*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - MCP server for Obsidian vaults — read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin. STDIO or Streamable HTTP.
 
 *   [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 
@@ -7870,6 +7872,72 @@
 
 *   [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 
+## agent-framework
+
+*   [Owl-Listener/designpowers](https://github.com/Owl-Listener/designpowers) - An agent design team you control: 10 agents that run an inclusive design process while you direct.
+
+*   [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support
+
+## agent-orchestration
+
+*   [Owl-Listener/designpowers](https://github.com/Owl-Listener/designpowers) - An agent design team you control: 10 agents that run an inclusive design process while you direct.
+
+*   [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
+
+## agentic-ai
+
+*   [Owl-Listener/designpowers](https://github.com/Owl-Listener/designpowers) - An agent design team you control: 10 agents that run an inclusive design process while you direct.
+
+*   [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator) - Local-first agent plan annotator
+
+*   [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
+
+*   [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+
+*   [cosai-oasis/project-codeguard](https://github.com/cosai-oasis/project-codeguard) - Project CodeGuard is an open-source, model-agnostic security framework that embeds secure-by-default practices into AI coding agent workflows. It provides comprehensive security rules that guide AI assistants to generate more secure code automatically.
+
+*   [microsoft/mcp-interviewer](https://github.com/microsoft/mcp-interviewer) - Catch MCP server issues before your agents do.
+
+*   [NoeSamaille/wxo-oauth-authz-code](https://github.com/NoeSamaille/wxo-oauth-authz-code) - Working example of a custom Python tool for IBM watsonx Orchestrate that allows to query Calendar Events from Microsoft 365 using a member connection implementing an OAuth Authorization Code flow.
+
+*   [awwaiid/ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
+
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+## design
+
+*   [Owl-Listener/designpowers](https://github.com/Owl-Listener/designpowers) - An agent design team you control: 10 agents that run an inclusive design process while you direct.
+
+*   [Prototypr/prototypr-frontend](https://github.com/Prototypr/prototypr-frontend) - Open source publishing platform, built with Next.js and Strapi CMS backend. Uses Tiptap / Prose-mirror editor. 💙
+
+*   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
+
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
+
+*   [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+
+*   [bradley/Blotter](https://github.com/bradley/Blotter) - A JavaScript API for drawing unconventional text effects on the web.
+
+*   [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
+
+*   [PageBot/PageBot](https://github.com/PageBot/PageBot) - Scripted page layout framework for Python.
+
+*   [rsms/inter](https://github.com/rsms/inter) - The Inter font family
+
+*   [nicoleslaw/strategicwriting](https://github.com/nicoleslaw/strategicwriting) - Writing for designers — course materials for SVA IXD thesis prep
+
+*   [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
+
+*   [tachyons-css/tachyons-verbose](https://github.com/tachyons-css/tachyons-verbose) - Functional CSS for humans. Verbose edition.
+
+*   [javierarce/visual-references](https://github.com/javierarce/visual-references) - A list of visual references that make me immensely happy.
+
+*   [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
+
+*   [dataliterate/data-populator](https://github.com/dataliterate/data-populator) - A plugin for Sketch and Adobe XD to populate your design mockups with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
+
 ## agent-skills
 
 *   [silverstein/minutes](https://github.com/silverstein/minutes) - Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer.
@@ -8617,26 +8685,6 @@
 *   [NirDiamant/RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 
 *   [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
-
-## agentic-ai
-
-*   [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator) - Local-first agent plan annotator
-
-*   [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
-
-*   [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-
-*   [cosai-oasis/project-codeguard](https://github.com/cosai-oasis/project-codeguard) - Project CodeGuard is an open-source, model-agnostic security framework that embeds secure-by-default practices into AI coding agent workflows. It provides comprehensive security rules that guide AI assistants to generate more secure code automatically.
-
-*   [microsoft/mcp-interviewer](https://github.com/microsoft/mcp-interviewer) - Catch MCP server issues before your agents do.
-
-*   [NoeSamaille/wxo-oauth-authz-code](https://github.com/NoeSamaille/wxo-oauth-authz-code) - Working example of a custom Python tool for IBM watsonx Orchestrate that allows to query Calendar Events from Microsoft 365 using a member connection implementing an OAuth Authorization Code flow.
-
-*   [awwaiid/ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
-
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
-
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
 ## claude-code-plugin
 
@@ -10222,7 +10270,7 @@
 
 *   [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 
-*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Obsidian vaults MCP server - read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin.
+*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - MCP server for Obsidian vaults — read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin. STDIO or Streamable HTTP.
 
 *   [Toolbase-AI/toolbase](https://github.com/Toolbase-AI/toolbase) - A desktop application that adds powerful tools to Claude and AI platforms
 
@@ -11268,7 +11316,7 @@
 
 *   [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 
-*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Obsidian vaults MCP server - read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin.
+*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - MCP server for Obsidian vaults — read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin. STDIO or Streamable HTTP.
 
 *   [Feel-ix-343/obsidian-canvas-moc](https://github.com/Feel-ix-343/obsidian-canvas-moc) - Converts MOC note files to an obsidian canvas
 
@@ -11380,7 +11428,7 @@
 
 *   [yousefebrahimi0/list-ai-extensions-chrome-addons-firefox](https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox) - Complete list of AI-powered Extensions for Google Chrome & Addons for Firefox
 
-*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Obsidian vaults MCP server - read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin.
+*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - MCP server for Obsidian vaults — read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin. STDIO or Streamable HTTP.
 
 *   [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 
@@ -12171,10 +12219,6 @@
 *   [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system
 
 *   [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
-
-## agent-orchestration
-
-*   [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
 
 ## agentic
 
@@ -13708,10 +13752,6 @@
 
 *   [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
-## agent-framework
-
-*   [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support
-
 ## mcp-client
 
 *   [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support
@@ -13888,7 +13928,7 @@
 
 ## cyanheads
 
-*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Obsidian vaults MCP server - read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin.
+*   [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - MCP server for Obsidian vaults — read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin. STDIO or Streamable HTTP.
 
 ## browser-extension
 
@@ -18283,36 +18323,6 @@
 ## events
 
 *   [aaronpk/Meetable](https://github.com/aaronpk/Meetable) - an event listing website
-
-## design
-
-*   [Prototypr/prototypr-frontend](https://github.com/Prototypr/prototypr-frontend) - Open source publishing platform, built with Next.js and Strapi CMS backend. Uses Tiptap / Prose-mirror editor. 💙
-
-*   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
-
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
-
-*   [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-
-*   [bradley/Blotter](https://github.com/bradley/Blotter) - A JavaScript API for drawing unconventional text effects on the web.
-
-*   [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
-
-*   [PageBot/PageBot](https://github.com/PageBot/PageBot) - Scripted page layout framework for Python.
-
-*   [rsms/inter](https://github.com/rsms/inter) - The Inter font family
-
-*   [nicoleslaw/strategicwriting](https://github.com/nicoleslaw/strategicwriting) - Writing for designers — course materials for SVA IXD thesis prep
-
-*   [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
-
-*   [tachyons-css/tachyons-verbose](https://github.com/tachyons-css/tachyons-verbose) - Functional CSS for humans. Verbose edition.
-
-*   [javierarce/visual-references](https://github.com/javierarce/visual-references) - A list of visual references that make me immensely happy.
-
-*   [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
-
-*   [dataliterate/data-populator](https://github.com/dataliterate/data-populator) - A plugin for Sketch and Adobe XD to populate your design mockups with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 
 ## prosemirror
 
