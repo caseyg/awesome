@@ -644,6 +644,8 @@
 
 *   [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
 
+*   [artunit/ossocr](https://github.com/artunit/ossocr) - gathering point for open source OCR scripts and diffs
+
 ## miscellaneous
 
 *   [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
@@ -1532,6 +1534,8 @@
 
 *   [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 
+*   [pockethost/pockethost](https://github.com/pockethost/pockethost) - Open source multitenant PocketBase server
+
 *   [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 
 *   [nikdanilov/whisper-obsidian-plugin](https://github.com/nikdanilov/whisper-obsidian-plugin) - Speech-to-text in Obsidian using Whisper
@@ -1883,8 +1887,6 @@
 *   [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.
 
 *   [simonw/showboat](https://github.com/simonw/showboat) - Create executable documents that demonstrate an agent's work
-
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 
 *   [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 
@@ -2399,8 +2401,6 @@
 *   [Prototypr/prototypr-frontend](https://github.com/Prototypr/prototypr-frontend) - Open source publishing platform, built with Next.js and Strapi CMS backend. Uses Tiptap / Prose-mirror editor. 💙
 
 *   [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-
-*   [pockethost/pockethost](https://github.com/pockethost/pockethost) - Open source multitenant PocketBase server
 
 *   [razshare/sveltekit-sse](https://github.com/razshare/sveltekit-sse) - Server Sent Events with SvelteKit
 

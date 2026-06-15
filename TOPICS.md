@@ -162,14 +162,6 @@
 *   [agent-ui](#agent-ui)
 *   [ai-workspace](#ai-workspace)
 *   [hackathon](#hackathon)
-*   [ai-coding-assistant](#ai-coding-assistant)
-*   [aider](#aider)
-*   [bubble-tea](#bubble-tea)
-*   [discord](#discord)
-*   [gemini-cli](#gemini-cli)
-*   [session-manager](#session-manager)
-*   [terminal](#terminal)
-*   [tmux](#tmux)
 *   [llms](#llms)
 *   [ravishing](#ravishing)
 *   [config](#config)
@@ -273,6 +265,7 @@
 *   [pdf](#pdf)
 *   [remarkable-tablet](#remarkable-tablet)
 *   [ratatui](#ratatui)
+*   [terminal](#terminal)
 *   [terminal-user-interface](#terminal-user-interface)
 *   [widgets](#widgets)
 *   [elm-architecture](#elm-architecture)
@@ -306,6 +299,7 @@
 *   [rag](#rag)
 *   [bridge](#bridge)
 *   [counter-strike](#counter-strike)
+*   [discord](#discord)
 *   [facebook-messenger](#facebook-messenger)
 *   [gitter](#gitter)
 *   [irc](#irc)
@@ -426,6 +420,7 @@
 *   [outliner](#outliner)
 *   [presentation](#presentation)
 *   [writing](#writing)
+*   [gemini-cli](#gemini-cli)
 *   [qwen-cli](#qwen-cli)
 *   [playwright](#playwright)
 *   [browser](#browser)
@@ -5502,6 +5497,8 @@
 
 *   [cemerick/jsdifflib](https://github.com/cemerick/jsdifflib) - A javascript library for diffing text and generating corresponding HTML views
 
+*   [artunit/ossocr](https://github.com/artunit/ossocr) - gathering point for open source OCR scripts and diffs
+
 ## obsidian
 
 *   [obsidianmd/eslint-plugin](https://github.com/obsidianmd/eslint-plugin) - Check your Obsidian plugin against the official developer guidelines.
@@ -5918,8 +5915,6 @@
 
 *   [barryw/PaperlessMCP](https://github.com/barryw/PaperlessMCP) - A Model Context Protocol (MCP) server for Paperless-ngx document management
 
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-
 *   [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 
 *   [instavm/open-skills](https://github.com/instavm/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
@@ -6148,8 +6143,6 @@
 
 *   [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-
 *   [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 
 *   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
@@ -6207,8 +6200,6 @@
 *   [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 
 *   [atomicstrata/llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler) - The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
-
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 
 *   [stablyai/agent-slack](https://github.com/stablyai/agent-slack) - Slack automation CLI for AI agents
 
@@ -6280,8 +6271,6 @@
 
 *   [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-
 *   [mikaelj/fuska](https://github.com/mikaelj/fuska) - AI project management for solo agentic development. Persistent memory, expert plan validation, automated code review, and structured workflows —   powered by a knowledge graph. Works with OpenCode and Claude Code.
 
 *   [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
@@ -6311,8 +6300,6 @@
 ## golang
 
 *   [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.
-
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 
 *   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 
@@ -6529,8 +6516,6 @@
 ## tui
 
 *   [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
-
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 
 *   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 
@@ -8108,8 +8093,6 @@
 
 *   [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-
 *   [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 
 *   [mikaelj/fuska](https://github.com/mikaelj/fuska) - AI project management for solo agentic development. Persistent memory, expert plan validation, automated code review, and structured workflows —   powered by a knowledge graph. Works with OpenCode and Claude Code.
@@ -8173,8 +8156,6 @@
 ## productivity
 
 *   [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 
 *   [amicalhq/amical](https://github.com/amicalhq/amical) - 🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.
 
@@ -8474,8 +8455,6 @@
 
 *   [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-
 *   [mikaelj/fuska](https://github.com/mikaelj/fuska) - AI project management for solo agentic development. Persistent memory, expert plan validation, automated code review, and structured workflows —   powered by a knowledge graph. Works with OpenCode and Claude Code.
 
 *   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
@@ -8553,8 +8532,6 @@
 ## codex
 
 *   [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 
 *   [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 
@@ -8753,62 +8730,6 @@
 ## hackathon
 
 *   [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
-
-## ai-coding-assistant
-
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-
-## aider
-
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-
-## bubble-tea
-
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-
-## discord
-
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-
-*   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
-
-*   [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
-
-*   [pR0Ps/slack-to-discord](https://github.com/pR0Ps/slack-to-discord) - Import a Slack export into a Discord server
-
-## gemini-cli
-
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-
-*   [instavm/open-skills](https://github.com/instavm/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
-
-*   [leochiu-a/universal-agents](https://github.com/leochiu-a/universal-agents) - The Lightest Shared Standard for AI Agents
-
-*   [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents
-
-*   [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
-
-*   [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
-
-## session-manager
-
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-
-## terminal
-
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-
-*   [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
-
-*   [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-
-*   [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
-
-*   [cabal-club/cabal-cli](https://github.com/cabal-club/cabal-cli) - Terminal client for Cabal, the p2p chat platform.
-
-## tmux
-
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 
 ## llms
 
@@ -10076,6 +9997,16 @@
 
 *   [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 
+## terminal
+
+*   [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+
+*   [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
+
+*   [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
+
+*   [cabal-club/cabal-cli](https://github.com/cabal-club/cabal-cli) - Terminal client for Cabal, the p2p chat platform.
+
 ## terminal-user-interface
 
 *   [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -10333,6 +10264,14 @@
 ## counter-strike
 
 *   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+
+## discord
+
+*   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+
+*   [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
+
+*   [pR0Ps/slack-to-discord](https://github.com/pR0Ps/slack-to-discord) - Import a Slack export into a Discord server
 
 ## facebook-messenger
 
@@ -11355,6 +11294,18 @@
 *   [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 
 *   [nicoleslaw/strategicwriting](https://github.com/nicoleslaw/strategicwriting) - Writing for designers — course materials for SVA IXD thesis prep
+
+## gemini-cli
+
+*   [instavm/open-skills](https://github.com/instavm/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
+
+*   [leochiu-a/universal-agents](https://github.com/leochiu-a/universal-agents) - The Lightest Shared Standard for AI Agents
+
+*   [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents
+
+*   [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
+
+*   [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
 
 ## qwen-cli
 
